@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-011-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-011-001.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>72.11 Umschlag</title>
+            <editor ref="#pmbAR">Alexandra Rausch</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Austrian Centre for Digital Humanities and Cultural
+                  Heritage, Österreichische Akademie der Wissenschaften </name>
+               <address>
+                  <street>Sonnenfelsgasse 19</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Ludwig Boltzmann Institut für Digital History</name>
+               <address>
+                  <street>Hofburg, Batthianystiege</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://geschichte.lbg.ac.at">https://geschichte.lbg.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Wienbibliothek im Rathaus</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 1</street>
+                  <postCode>1010</postCode>
+                  <country>Wien</country>
+                  <settlement>Österreich</settlement>
+               </address>
+               <ref target="https://www.wienbibliothek.at">https://www.wienbibliothek.at</ref>
+            </publisher>
+            <pubPlace>Wien, Österreich</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Namensnennung 4.0 International Lizenz </licence>
+            </availability>
+            <idno subtype="legalkraus" type="URL">https://id.acdh.oeaw.ac.at/legalkraus/D_000072-011-001.xml</idno>
+            <idno subtype="krausonline" type="URL"/>
+            <idno subtype="transkribus" type="ID">220713</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title ref="https://id.acdh.oeaw.ac.at/legalkraus/C_000072" type="collection">Korrespondenz mit Hans Loewe</title>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness facs="#D_000072-011-001-facs001" xml:id="D_000072-011-001-wit01"/>
+            </listWit>
+            <msDesc status="draft">
+               <physDesc>
+                  <ab type="materiality"/>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date subtype="produced" type="sortDate" when-iso="1926-08-07">7. August
+               1926</date>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="done">
+         <change resp="#LU" when-iso="2021-09-13" status="draft">created XML Document</change>
+         <change resp="#LU" when-iso="2021-09-13" status="draft">Replaced Text with Transcription of
+            Transkribus Document 220713. </change>
+         <change status="draft" type="header_facsimile" when-iso="2022-03-17" who="#AR"/>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="D_000072-011-001-facs001">
+      <surfaceGrp xml:id="D_000072-011-001-facs001-l001">
+         <surface xml:id="D_000072-011-001-facs001-l001-p001" type="recto">
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2553585/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+         <surface xml:id="D_000072-011-001-facs001-l001-p002" type="verso">
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2553586/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <pb xml:id="D_000072-011-001_p001" facs="#D_000072-011-001-facs001-l001-p001" n="1"/>
+         <p xml:id="uuid_4e77175d-763e-484b-8427-2999d81e0ef0"><lb xml:id="uuid_be2395e7-266e-4ba4-992d-2ff3875e4f46"/>Herrn<lb xml:id="uuid_4ada6663-9ba9-48d5-90a9-e0363d06f39d"/>Dr. <rs type="person" ref="#pmb38909">Oskar Samek</rs><lb xml:id="uuid_9a5387ed-e999-4991-96c9-99d5680b10d0"/>Rechtsanwalt<lb xml:id="uuid_d8c505d0-b575-4384-b78e-e414dcf804b0"/><hi rend="underlined">Wien I.</hi><lb xml:id="uuid_189ecdec-5c34-4d13-a268-c0fff9dbe7ab"/><rs ref="#pmb50493" type="place">Schottenring
+               14</rs>
+            <pb xml:id="D_000072-011-001_p004" facs="#D_000072-011-001-facs001-l001-p002" n="2"/>
+         </p>
+         <p xml:id="uuid_e8f8f9ca-42d2-480e-b8ba-58e4bad4ff0e"><lb xml:id="uuid_2da7ca09-623a-44b7-ae18-e07e2d2e398c"/>Abs.: <rs ref="#pmb51614" type="person">Hans Löwe</rs>
+            <lb xml:id="uuid_4ae3d02d-2020-4143-b581-cab72c1414fb"/><rs type="place" subtype="address" ref="#pmb630">II. Untere Augartenstr. 23/30</rs></p>
+      </body>
+   <back><listPlace><place xml:id="pmb50493">
+  <placeName>Schottenring</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.215136 16.365095</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50493/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50493</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50493.html</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb630">
+  <placeName>Untere Augartenstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.221093723095 16.373206729906</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52">II., Leopoldstadt</placeName>
+  <geo>48.21667 16.4</geo>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb630.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/630</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb630</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb630</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51614">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Loewe</surname>
+  </persName>
+  <birth>
+    <date when-iso="1897-02-23">23.02.1897</date>
+      <settlement key="pmb75">
+        <placeName type="pref">Hinterbrühl</placeName>
+        <location><geo>48.08611 16.24809</geo></location>
+      </settlement>
+  </birth>  
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb65574">Mesogeios</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson></back></text>
+</TEI>

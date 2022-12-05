@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-062-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-060-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000134-061-000.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>134.61 Kostenbestimmung des Strafbezirksgerichts I Wien</title>
+            <editor ref="#pmbAR">Alexandra Rausch</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische
+                  Akademie der Wissenschaften </name>
+               <address>
+                  <street>Sonnenfelsgasse 19</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Ludwig Boltzmann Institut für Digital History</name>
+               <address>
+                  <street>Hofburg, Batthianystiege</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://geschichte.lbg.ac.at">https://geschichte.lbg.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Wienbibliothek im Rathaus</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 1</street>
+                  <postCode>1010</postCode>
+                  <country>Wien</country>
+                  <settlement>Österreich</settlement>
+               </address>
+               <ref target="https://www.wienbibliothek.at">https://www.wienbibliothek.at</ref>
+            </publisher>
+            <pubPlace>Wien, Österreich</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Namensnennung 4.0 International Lizenz </licence>
+            </availability>
+            <idno subtype="legalkraus" type="URL">https://id.acdh.oeaw.ac.at/legalkraus/D_000134-061-000.xml</idno>
+            <idno subtype="krausonline" type="URL">
+               https://www.kraus.wienbibliothek.at/content/kostenbestimmung-des-strafbezirksgerichts-i-wien-15 </idno>
+            <idno subtype="transkribus" type="ID">437889</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title ref="https://id.acdh.oeaw.ac.at/legalkraus/C_000134" type="collection">Paul
+               Amadeus Pisk ca. Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc status="draft">
+               <ab type="stamp">
+                  <stamp source="#50491" xml:id="uuid_5c073396-4f96-4ef1-b8b3-4f2edd8fc631"/>
+               </ab>
+            </msDesc>
+            <listWit>
+               <witness facs="#D_000134-061-000-facs001" xml:id="D_000134-061-000-wit01"/>
+            </listWit>
+            <msDesc status="draft">
+               <physDesc>
+                  <ab type="materiality">
+                     <objectType source="D_000134-061-000-wit01" ref="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/M.T.DHN">Durchschlag mit handschriftlichen Annotationen</objectType>
+                  </ab>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date subtype="produced" type="sortDate" when-iso="1931-06-22">22. Juni 1931</date>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term source="D_000134-061-000-wit01">Kostenfestsetzung</term>
+            </keywords>
+            <classCode source="D_000134-061-000-wit01" scheme="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/D.J.KFS">D.J.KFS</classCode>
+         </textClass>
+         <handNotes>
+            <handNote xml:id="D_000134-061-000-hand01" source="#D_000134-061-000-wit01" scribeRef="#" medium="pencil" cert="high" resp="#JK"/>
+         </handNotes>
+      </profileDesc>
+      <revisionDesc status="done">
+         <change resp="#LU" when-iso="2021-09-13" status="draft">created XML Document</change>
+         <change resp="#LU" when-iso="2021-09-13" status="draft">Replaced Text with Transcription of
+            Transkribus Document 437889. </change>
+         <change status="draft" type="header_facsimile" when-iso="2022-03-04" who="#AR"/>
+         <change status="draft" type="typography" when-iso="2022-03-04" who="#AR"/>
+         <change status="draft" type="references" when-iso="2022-03-04" who="#AR"/>
+         <change status="draft" type="structure" when-iso="2022-03-04" who="#AR"/>
+         <change status="draft" type="intertexts" when-iso="2022-03-04" who="#AR"/>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="D_000134-061-000-facs001">
+      <surfaceGrp xml:id="D_000134-061-000-facs001-l001">
+         <surface xml:id="D_000134-061-000-facs001-l001-p001" type="recto">
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2558598/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+         <surface xml:id="D_000134-061-000-facs001-l001-p002" type="verso">
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2558599/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <pb xml:id="D_000134-061-000_p001" facs="#D_000134-061-000-facs001-l001-p001" n="1"/>
+         <p xml:id="uuid_4898c7f0-b780-446c-a296-871a7df2d5f5">
+            <lb xml:id="uuid_3bdadc02-20d1-4b7a-86b8-3a69cb93e1af"/>4 U 114/30</p>
+         <p xml:id="uuid_0dd6beff-0ffd-4a1b-a581-5c677f6295fd">
+            <lb xml:id="uuid_7099b74f-38f4-470a-9481-1513abb940c8"/><hi rend="underlined"><hi rend="spaced">Kostenbestimmun</hi>g:</hi>
+         </p>
+         <p xml:id="uuid_6e9663c7-8e83-432a-9708-90a7da34f195">
+            <lb xml:id="uuid_c70f4074-3716-470f-b5cf-c3abb76523ad"/>In der hg. Strafsache des
+               Privat<lb xml:id="uuid_a4d31ab6-ebde-4fed-aef2-dbd5b68a8dd0" break="no"/>anklägers Dr
+               .<rs ref="#pmb39325" type="person">Paul Amadeus <hi rend="spaced">Pis</hi>k</rs>, Musiker<lb xml:id="uuid_466633bc-0b68-45a0-968a-a49edbcf3dc4"/>und Musikschriftsteller <rs type="place" subtype="address" ref="#pmb57700">Wien IV. Schleifmühlgasse<lb xml:id="uuid_c3926451-dc7e-4c10-847c-4452d51338f5"/>Nr. 19</rs> vertreten durch
+            Dr. <rs type="person" ref="#pmb57697">Otto <hi rend="spaced">Pis</hi>k</rs>,<lb xml:id="uuid_dd89da27-c286-4317-ba24-c56f9171e415"/>Rechtsanwalt <rs type="place" subtype="address" ref="#pmb542">Wien I. Bösendorferstrasse 1/1</rs>
+            <lb xml:id="uuid_f2ea243b-6e20-4017-ba90-80b618fe4109"/>gegen <rs type="person" ref="#pmb11988">Karl <hi rend="spaced">Krau</hi>s</rs>, Schriftsteller, <rs type="place" subtype="address" ref="#pmb50496">Wien III,<lb xml:id="uuid_677c935c-f353-4d42-8f2e-ad6f213f6985"/>Hintere Zollamtsstrasse 3</rs>
+            <lb xml:id="uuid_cdaf24ea-2262-481d-91da-43159cb1de30"/>vertreten durch Dr. <rs type="person" ref="#pmb38909">Oskar <hi rend="spaced">Same</hi>k</rs>, Rechtsanwalt<lb xml:id="uuid_448873f8-754d-47de-a04f-be8097b0bcb7"/><rs ref="#pmb50493" type="place">Wien I. Schottenring
+               14</rs>
+            <lb xml:id="uuid_98afb9bf-e6ae-4e1f-bd7b-1b98bdcc3cd2"/>wegen Ehrenbeleidigung<lb xml:id="uuid_baf0dfcd-af4e-462f-85bc-07ea53bb6ef3"/>werden die vom <rs type="person" ref="#pmb57697">Vertreter</rs> des <rs type="person" ref="#pmb39325">Privatanklägers</rs>
+            <lb xml:id="uuid_f73cfd73-6dc1-48ef-8213-22efcb28b14f"/>angesprochenen und von dem <rs type="person" ref="#pmb11988">Beschuldigten</rs> zufolge<lb xml:id="uuid_2aff7272-0126-4d59-914f-c14d5491de7a"/><rs type="work" subtype="legal-doc" ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-040-000.xml">Urteil vom 4. Dezember 1930</rs> dem <rs type="person" ref="#pmb39325">Privatankläger</rs>
+            <lb xml:id="uuid_f8bf3a31-b278-4200-915a-71e0999cc3fe"/>Dr. <rs ref="#pmb39325" type="person">Paul Amadeus Pisk</rs>
+            zu Handen Dr. <rs ref="#pmb39322" type="person">Ludwig
+               Pisk</rs>
+            <lb xml:id="uuid_57672cb0-4b6e-4e3b-b614-b4678d209320"/>R.A. in <rs type="place" ref="#pmb50">Wien</rs> zu ersetzenden Kosten mit<lb xml:id="uuid_45a0e67b-6643-4e10-a646-57248a2b3202"/>S 674.70<lb xml:id="uuid_9d635de7-82ea-408c-94e7-eae94e66d742"/>in Worten: Schilling
+               sechshundertvierundsiebzig<lb xml:id="uuid_4d93460f-8680-4e57-97f5-d2944a6c0ea3"/>70
+            Groschen bestimmt.</p>
+         <p xml:id="uuid_282140b9-3d2e-4f2f-8fd2-336fee3ef460">
+            <lb xml:id="uuid_06e491a8-06b0-42ae-9117-a9088ac4cbf2"/><hi rend="underlined">Zur
+                    Beachtung</hi>:</p>
+         <p xml:id="uuid_a302150c-cd37-4679-8185-25eea62d2023">
+            <lb xml:id="uuid_bc48084d-5369-4dbb-8d0f-f8537b434cb7"/>Gegen diese Kostenbestimmung
+            steht die<lb xml:id="uuid_65d5659c-39b2-4266-af10-86634a3e32e8"/>Beschwerde offen,
+            welche binnen <hi rend="underlined"><hi rend="spaced">dre</hi>i</hi> Tagen<lb xml:id="uuid_efc88337-9042-4c0a-a439-f3c2b30888e7"/>beim gefertigten <rs type="institution" ref="#pmb50491">Gerichte</rs> einzubringen ist.</p>
+         <p xml:id="uuid_971bf672-53cc-4779-abc9-ff631514f05d">
+            <lb xml:id="uuid_acb61d23-ff3e-49a4-82c0-bbc913c79478"/><rs type="institution" ref="#pmb50491">Strafbezirksgericht I in Wien</rs>
+            <lb xml:id="uuid_fdb763f7-88a9-468e-bccb-e71648812da2"/><rs type="place" subtype="address" ref="#pmb50664">II. Schiffamtsgasse 1</rs>
+            <lb xml:id="uuid_aeb3319c-269d-49df-b1f2-d0f77546315f"/>Abt 4 am 22. Juni 1931<lb xml:id="uuid_44f91173-ff5b-4761-90dd-89bf6eb4a380"/>[<rs type="person">Unterschrift</rs>] <pb xml:id="D_000134-061-000_p002" facs="#D_000134-061-000-facs001-l001-p002" n="2"/></p>
+         <p xml:id="uuid_caac292b-c198-4edc-a094-0274a0347f4e">
+            <lb xml:id="uuid_0709fef5-f3a9-45d4-88d9-17fbc37c9ce2"/><note hand="#D_000134-061-000-hand01"><rs ref="#pmb51578" type="person">Herta Gropper</rs> ca
+                  <hi rend="underlined">10 Tg.</hi> Sta.</note></p>
+         <p xml:id="uuid_c34118fc-7eed-4497-86ed-c8237a4d0054">
+            <lb xml:id="uuid_55c0fa58-0dbc-4beb-a7db-6c0548f52340"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs>
+               <lb xml:id="uuid_cc08b1fd-17c3-46d1-a56b-93a2bb29c54d"/>Dr. <rs type="person" ref="#pmb39325">Pisk</rs></note></p>
+      </body>
+   <back><listPlace><place xml:id="pmb50">
+  <placeName>Wien</placeName>
+  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Bécs</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Land Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vídeň</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Wenia</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Beč</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vindobona (Wien)</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-name-merge">Vindobona</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Wien?</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1741</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+</place><place xml:id="pmb50664">
+  <placeName>Schiffamtsgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.218669 16.373101</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52">II., Leopoldstadt</placeName>
+  <geo>48.21667 16.4</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb542">
+  <placeName>Bösendorferstraße</placeName>
+  <placeName type="alternative-name">Giselastraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.201213 16.371141</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb542.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/542</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb542</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb542</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50493">
+  <placeName>Schottenring</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.215136 16.365095</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50493/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50493</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50493.html</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb57700">
+  <placeName>Schleifmühlgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.1965681 16.3663984</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb54">IV., Wieden</placeName>
+  <geo>48.19198 16.36714</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57700/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57700</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb57700.html</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb11988">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kraus</surname>
+  </persName>
+  <persName type="person_pseudonym">Berdach J.</persName>
+  <birth>
+    <date when-iso="1874-04-28">28.04.1874</date>
+      <settlement key="pmb41660">
+        <placeName type="pref">Jičín</placeName>
+        <location><geo>50.43723 15.35162</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1936-06-12">12.06.1936</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118566288</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11988.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11988</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11988</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47565</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282496</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29308">Die Fackel</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29308.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29308</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29308</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29308</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q354576</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb43724">Verlag Die Fackel (Wien)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb60573">Karl Kraus-Gesellschaft</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60573/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb60573</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb87755">Max Goldschmidt (Büro für Zeitungsausschnitte)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb51578">
+  <persName>
+      <forename>Herta</forename>
+      <surname>Gropper</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-06-14">14.06.1901</date>
+      <settlement key="pmb38031">
+        <placeName type="pref">Rousse</placeName>
+        <location><geo>43.84872 25.9534</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1962-07-02" notAfter-iso="1962-12-31">1962</date>
+      <settlement key="pmb38166">
+        <placeName type="pref">Kalifornien</placeName>
+        <location><geo>37.25022 -119.75126</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51578/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51578</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb57697">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Pisk</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57697/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57697</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39325">
+  <persName>
+      <forename>Paul Amadeus</forename>
+      <surname>Pisk</surname>
+  </persName>
+  <persName type="alternative-name">Pisk, Paul A.</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Paul_Amadeus_Pisk</persName>
+  <birth>
+    <date when-iso="1893-05-16">16.05.1893</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1990-01-12">12.01.1990</date>
+      <settlement key="pmb37116">
+        <placeName type="pref">Los Angeles</placeName>
+        <location><geo>34.05223 -118.24368</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119068389</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39325</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39325</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51173</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85274</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb39322">
+  <persName>
+      <forename>Ludwig</forename>
+      <surname>Pisk</surname>
+  </persName>
+  <birth>
+    <date when-iso="1860-05-04">04.05.1860</date>
+      <settlement key="pmb40412">
+        <placeName type="pref">Mikulov</placeName>
+        <location><geo>48.80556 16.6378</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1940-11-01">01.11.1940</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139211853</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39322</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39322</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q55845697</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb50491">
+  <orgName>Strafbezirksgericht I</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
+  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50664">Schiffamtsgasse</placeName>
+  <geo>48.218669 16.373101</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg></back></text>
+</TEI>

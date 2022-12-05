@@ -1,0 +1,569 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000030-002-000.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>30.2 Brief Samek an RA Josef Schornstein (Mährisch-Ostrau)</title>
+            <editor ref="#pmbIL">Isabel Langkabel</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische
+                  Akademie der Wissenschaften </name>
+               <address>
+                  <street>Sonnenfelsgasse 19</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Ludwig Boltzmann Institut für Digital History</name>
+               <address>
+                  <street>Hofburg, Batthianystiege</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://geschichte.lbg.ac.at">https://geschichte.lbg.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Wienbibliothek im Rathaus</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 1</street>
+                  <postCode>1010</postCode>
+                  <country>Wien</country>
+                  <settlement>Österreich</settlement>
+               </address>
+               <ref target="https://www.wienbibliothek.at">https://www.wienbibliothek.at</ref>
+            </publisher>
+            <pubPlace>Wien, Österreich</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Namensnennung 4.0 International Lizenz </licence>
+            </availability>
+            <idno subtype="legalkraus" type="URL">https://id.acdh.oeaw.ac.at/legalkraus/D_000030-002-000.xml</idno>
+            <idno subtype="krausonline" type="URL">http://www.kraus.wienbibliothek.at/node/1954</idno>
+            <idno subtype="transkribus" type="ID">186509</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title ref="https://id.acdh.oeaw.ac.at/legalkraus/C_000030" type="collection">Karl Kraus
+               ca. Otto Tramer</title>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness facs="#D_000030-002-000-facs001" xml:id="D_000030-002-000-wit01"/>
+            </listWit>
+            <msDesc>
+               <physDesc>
+                  <ab type="materiality">
+                     <objectType source="D_000030-002-000-wit01" ref="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/M.T.DSL">Durchschlag</objectType>
+                  </ab>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date subtype="produced" type="sortDate" when-iso="1925-06-17">17. Juni 1925</date>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#pmb38909"/>
+               <address>
+                  <street corresp="#50493"/>
+                  <settlement ref="#pmb51"/>
+               </address>
+               <date when-iso="1925-06-17">17. Juni 1925</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#pmb43654">Wohlgeb. | Herrn Dr. Josef Schornstein | Advokat</persName>
+               <address>
+                  <street corresp="#52168">Masarykplatz 32</street>
+                  <settlement ref="#pmb41075">Mährisch – Ostrau</settlement>
+               </address>
+               <date/>
+            </correspAction>
+            <noteGrp>
+               <note type="subject">Kraus – Tramer</note>
+               <note type="dictation"/>
+            </noteGrp>
+         </correspDesc>
+         <textClass>
+            <keywords>
+               <term source="D_000030-002-000-wit01">Brief</term>
+            </keywords>
+            <classCode source="D_000030-002-000-wit01" scheme="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/D.K.BRF">D.K.BRF</classCode>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="done">
+         <change type="intertexts" when-iso="2021-11-25" who="#IL"/>
+         <change type="header_facsimile" when-iso="2022-01-11" who="#IL"/>
+         <change type="structure" when-iso="2020-11-18" who="#IL"/>
+         <change type="references" when-iso="2020-11-22" who="#IL"/>
+         <change type="typography" when-iso="2022-01-11" who="#IL"/>
+         <change when-iso="2020-02-06T09:52:28.638Z" who="#IB">created by API</change>
+         <change when-iso="2020-02-10T10:58:22.845Z" who="#JM">Checked Images Wienbibliothek </change>
+         <change when-iso="2020-02-10T10:58:27.431Z" who="#JM">Checked Images Wienbibliothek </change>
+         <change when-iso="2020-02-10T10:58:29.294Z" who="#JM">Checked Images Wienbibliothek </change>
+         <change when-iso="2020-02-10T10:58:30.669Z" who="#JM">Checked Images Wienbibliothek </change>
+         <change when-iso="2020-10-01T12:09:09.817Z" who="#IB">Replaced Text with Transcription of
+            Transkribus Document 186509. </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="D_000030-002-000-facs001">
+      <surfaceGrp xml:id="D_000030-002-000-facs001-l001">
+         <surface type="recto" xml:id="D_000030-002-000-facs001-l001-p001">
+            
+            <graphic ana="status:checked" source="wienbibliothek" url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2548054/full/full/0/default.jpg"/>
+            
+         </surface>
+         <surface type="verso" xml:id="D_000030-002-000-facs001-l001-p002">
+            
+            <graphic ana="status:checked" source="wienbibliothek" url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2548056/full/full/0/default.jpg"/>
+            
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp xml:id="D_000030-002-000-facs001-l002">
+         <surface type="recto" xml:id="D_000030-002-000-facs001-l002-p003">
+            
+            <graphic ana="status:checked" source="wienbibliothek" url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2548057/full/full/0/default.jpg"/>
+            
+         </surface>
+         <surface type="verso" xml:id="D_000030-002-000-facs001-l002-p004">
+            
+            <graphic ana="status:checked" source="wienbibliothek" url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2548058/full/full/0/default.jpg"/>
+            
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <p xml:id="uuid_c19fa36c-f6e6-4445-9148-87fa3b37d163">
+            <pb xml:id="D_000030-002-000_p001" facs="#D_000030-002-000-facs001-l001-p001" n="1"/>
+         </p>
+         <p xml:id="uuid_a2fa9418-7dc3-4edb-a715-2a84a06b74d2">
+            <lb xml:id="uuid_420ae38b-86ee-4a59-8715-2fd47fc02b59"/>Lieber <rs ref="#pmb43654" type="person">Freund und Kollege</rs>! </p>
+         <p xml:id="uuid_8d8867e6-aff3-4855-9940-e216585d78be">
+            <lb xml:id="uuid_0377d80b-e02a-4536-a89d-eb4c749b6f35"/>Ein Herr <rs ref="#pmb43594" type="person">Otto Tramer</rs>,
+            Abiturient der deutschen <rs ref="#pmb52101" type="institution">Staats<lb break="no" xml:id="uuid_6a8234a1-cfdd-474e-8838-cf8a0490c38d"/>realschule
+               Mährisch-Ostrau</rs>, <rs ref="#pmb52170" type="place">Miličgasse 3</rs>, hatte die
+               wahrscheinlich<lb xml:id="uuid_ddbd24b4-ede6-4924-9d55-0ab576cdf226"/>seinem
+            jugendlichen Unverständnis zuzuschreibende Unverfrorenheit<lb xml:id="uuid_2639950c-9082-4211-b548-0e9c2e1c749e"/>an Herrn <rs ref="#pmb11988" type="person">Karl Kraus</rs> das <rs type="work" subtype="legal-doc" ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml">beiliegende
+               Schreiben</rs> zu richten, von dem<lb xml:id="uuid_319c1925-e7ba-440d-ae44-6d9824634eff"/>ich Dir auch eine Abschrift
+            anschliesse. Dir als eifrigen Leser<lb xml:id="uuid_77e7db83-a8b5-42c3-9e59-2d576ffab8df"/>der <rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs> brauche ich wohl nicht die Aufklärung zu geben, dass<lb xml:id="uuid_0f77db28-9183-4e0a-b65d-80c2440a2bee"/>er die auf Seite <rs ref="https://fackel.oeaw.ac.at/f/686,0u1" type="work" subtype="fackel">26 des
+               beiliegenden Heftes der „Fackel“ vom<lb xml:id="uuid_9c0c6700-1ee3-4ba9-9438-7663bc63bce3"/>Mai 1925 Nr. 686–690</rs>
+            enthaltene Glosse absolut nicht verstanden<lb xml:id="uuid_425abc8f-4e43-407f-b96c-edc89f6a38cd"/>hat. Während sich die <rs ref="https://fackel.oeaw.ac.at/f/686,026" type="work" subtype="fackel">Glosse</rs>
+            gegen das Phrasenhafte des in der<lb xml:id="uuid_c5061e96-336f-4dee-a95c-fa4ae6f3e2a1"/>„<rs ref="#pmb52120" type="work" subtype="pmb">Musik</rs>“ erschienen <rs ref="#pmb52123" type="work" subtype="pmb">Artikels</rs> wendet, insbes. gegen die bereits im<lb xml:id="uuid_1c5851d8-385e-479b-84d9-7fcd047c00e8"/>Kriege bis zum Ueberdrusse
+            abgedroschenen Worte vom „Ausbauen und<lb xml:id="uuid_e2e6ba07-9783-4738-abe6-51ce9ac283c3"/>Vertiefen“, scheint Herr <rs ref="#pmb43594" type="person">Tramer</rs> dies für
+            eine politische Glosse<lb xml:id="uuid_092301f0-b630-46fd-8b20-b85e48032426"/>gehalten
+            zu haben. Jedenfalls hat die Verwendung dieser Worte<lb xml:id="uuid_e97b4512-0416-407c-bd46-113999bc973b"/>mit dem sachlichen Gehalte dieser
+            Worte gar nichts zu tun und<lb xml:id="uuid_6ad0c350-f65f-4604-bdde-3c964484361c"/>auf
+            keinen Fall war Herr <rs ref="#pmb43594" type="person">Tramer</rs> berechtigt einen derart unfer<lb break="no" xml:id="uuid_3e066656-eb0a-4563-a268-b6c78df4e0f8"/>froreren und unberechtigten Brief
+            an <rs type="person" ref="#pmb11988">Herrn Kraus</rs> zu senden. Ich<lb xml:id="uuid_103952fc-72ca-4fd8-bfd7-08fc138390ac"/>ersuche Dich nun gegen Herrn <rs ref="#pmb43594" type="person">Otto Tramer</rs> wegen
+            des Inhaltes die<lb break="no" xml:id="uuid_28f04386-0316-49c4-8df4-e5ca90acb5ba"/>ses
+               <rs type="work" subtype="legal-doc" ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml">Briefes</rs>, insb.
+            wegen der Ausdrücke „<quote source="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml" xml:id="uuid_41c0c1e3-7d66-491e-99c2-efba94936b87">da wir sonst zwei von<lb xml:id="uuid_7fbdf4cb-abdd-4c1f-8d62-621e2e93dd0c"/>Ihrer Sorte hätten</quote>“
+            und „<quote source="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml" xml:id="uuid_7a82910c-4513-45b3-a5db-25121e5fabce">hätte eine hervorragende Vorlage
+                  für<lb xml:id="uuid_b57a3e29-2e61-405b-854d-f5ddd769fc11"/>den ‚Schmock‘ in seinen
+                  ‚<rs type="work" subtype="pmb" ref="#pmb31729">Journalisten</rs>‘ gehabt</quote>“ und
+            auch wegen der<lb xml:id="uuid_f94e57ef-ec59-40ba-8b98-629a4cce9d64"/>anderen
+            beleidigenden Aeusserungen die Ehrenkränkungsklage ein- <pb xml:id="D_000030-002-000_p002" facs="#D_000030-002-000-facs001-l001-p002" n="2"/>
+            <lb xml:id="uuid_426b2de8-3c76-4bff-8327-bb82cde05b91"/>zubringen. Da möglicherweise der
+               <rs ref="#pmb43594" type="person">Referent</rs> nicht
+            über Herrn <rs ref="#pmb11988" type="person">Karl<lb xml:id="uuid_f645474b-7379-48eb-aacf-b7fc99fb7f6a"/>Kraus</rs> orientiert sein
+            könnte und es bei einer Ehrenkränkung nicht<lb xml:id="uuid_dc8a8fa9-2bcf-41e9-9676-4b511c1dd7c7"/>nur auf den Inhalt der
+            Beleidigung, sondern auch auf den Beleidig<lb break="no" xml:id="uuid_cdca9aba-d0aa-47eb-a150-fba53263adec"/>ten selbst ankommt, lege ich
+            einen <rs type="work">Artikel</rs> der offiziellen <rs ref="#pmb63247" type="work" subtype="pmb">Prager<lb xml:id="uuid_e9bf1508-ed29-42d9-835d-4f581b03c597"/>Presse
+               vom 29. Mai 1925</rs> Seite 4 vor, der den <rs ref="#pmb43594" type="person">Referenten</rs>
+               vollstän<lb break="no" xml:id="uuid_8236004a-f230-4666-a867-da2b58de2e9b"/>dig
+            orientieren wird. </p>
+         <p xml:id="uuid_b7eae699-b8df-41e1-89b2-85e5a3841825">
+            <lb xml:id="uuid_2f47ab6e-a597-472a-b62f-4f050f98c9a8"/>Da Du wahrscheinlich Herrn <rs ref="#pmb43594" type="person">Otto Tramer</rs>
+            persönlich kennen<lb xml:id="uuid_96d594a3-ff97-44bf-8d17-899b91b8c034"/>wirst und doch
+            die Möglichkeit besteht, dass der <rs ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml" type="work" subtype="legal-doc">Brief</rs> nicht aus<lb xml:id="uuid_6b7d82fb-1bf5-4589-a5d5-07dd98183cd2"/>politischer Gehässigkeit, sondern
+            aus Unverstand geschrieben wur<lb break="no" xml:id="uuid_36645f1d-8c20-4d0e-8054-c86e42994a53"/>de, so überlasse ich es Deinem
+            Ermessen, Herrn <rs ref="#pmb43594" type="person">Otto
+               Tramer</rs> vorzu<lb break="no" xml:id="uuid_3f0bbc5a-314c-4df1-b3c5-8d0df7ce1f22"/>laden und die Sache auf sich beruhen zu lassen, wenn er ein ent<lb xml:id="uuid_d6a91863-03dd-4774-b949-0f26073ae4f2" break="no"/>sprechendes
+            Entschuldigungsschreiben an Herrn <rs ref="#pmb11988" type="person">Kraus</rs> richtet,
+               über<lb break="no" xml:id="uuid_be157131-e576-4fe5-b1ca-ea1bbd2e5908"/>dies die
+            gesamten Kosten und für einen wohltätigen Zweck einen<lb xml:id="uuid_20ac8679-b5e5-4d60-9cdb-388be9af254f"/>angemessenen Betrag bezahlt.
+            Sollte es sich aber bei Herrn <rs ref="#pmb43594" type="person">Otto<lb xml:id="uuid_4ae1bb12-c60c-4304-9526-914dfb693e3a"/>Tramer</rs>
+            um einen Hackenkreuzler handeln, so bitte auf keinen Aus<lb break="no" xml:id="uuid_d92469d6-1c08-4373-8d8d-1e2460b1629c"/>gleich einzugehen, sondern auf
+            die Bestrafung zu dringen.<lb xml:id="uuid_496aa7a3-4bbd-4374-ad4b-0d0479aa942e"/>Nach
+            Abschluss der Angelegenheit bitte ich um Retournierung<lb xml:id="uuid_08e05190-634c-4878-9806-6d0d3c323e58"/>des <rs ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000030-001-000.xml" type="work" subtype="legal-doc">Originalbriefes</rs>. </p>
+         <p xml:id="uuid_36b8bb47-1d34-4e32-a8b5-a8a5165218b3">
+            <lb xml:id="uuid_4d0051db-d220-4a94-8a77-a6de16929fb6"/>Obwohl dies nicht ganz den
+            Gesetzen der Höflichkeit ent<lb break="no" xml:id="uuid_38ccc871-547d-4e33-bddb-900e2b759482"/>spricht, erlaube ich mir diesem
+            beruflichen Schreiben ein paar<lb xml:id="uuid_887b0d88-1a92-4f91-832b-373dd69a3d6c"/>private Worte anzuschliessen und mich nach dem Befinden Deiner<lb xml:id="uuid_52b6b054-2fc5-4465-abaf-5ddc3078000e"/><rs ref="#pmb52173" type="person">Frau</rs>, <rs type="person">Schwiegermutter</rs> und <rs type="person">Schwägerin</rs> und auch nach Deinem Befinden<lb xml:id="uuid_cb07c90d-aed1-420b-b4e8-802c218fe881"/>zu erkundigen. Leider war es mir,
+            wie Du Dir ja denken kannst, zu<lb xml:id="uuid_01ec5b2e-f65e-4f5f-848b-66a9ca99c013"/>meinem grösstem Bedauern nicht mehr möglich, den Juni dazu zu be<lb break="no" xml:id="uuid_bdf4c5f3-e86c-4065-ae74-f98b320fedb4"/>nützen um den lange versprochenen
+            und von mir so sehr gewünschten<lb xml:id="uuid_97a06bc3-b794-41d0-b5ea-184011b3e7de"/>Besuch abzustatten. Ich hoffe aber im Herbst das Versäumte gutmachen<lb xml:id="uuid_8ac71ac5-610e-4983-be3b-0ec770126ee9"/>zu können. Ich werde anfangs Juli
+            auf Urlaub gehen, leider nur einen <pb xml:id="D_000030-002-000_p003" facs="#D_000030-002-000-facs001-l002-p003" n="3"/>
+            <lb xml:id="uuid_76673e01-d431-42fe-8bf7-15d4fe529501"/>kurzen Urlaub haben können und
+            hoffe dann die paar Tage<lb xml:id="uuid_7698b4e1-e837-4740-9da7-355e2fed28b7"/>in <rs ref="#pmb41075" type="place">Mährisch-Ostrau</rs> als eine Ergänzung des Urlaubs
+               betrachten<lb xml:id="uuid_c170a61f-b59b-45c5-8e32-65a416d37929"/>und damit alles
+            gutmachen zu können. </p>
+         <p xml:id="uuid_3769eae5-3b61-4127-8283-00c396415e25">
+            <lb xml:id="uuid_1ed433a3-efdb-4e5f-bdbb-28fc5bca961c"/>Mit besten Grüssen an Euch alle
+            bin ich Dein<lb xml:id="uuid_55530433-c34a-4aca-8f5d-8ed9528a66b6"/>ergebener <rs ref="#pmb38909" type="person">Freund und Kollege</rs>
+         </p>
+         <p xml:id="uuid_b9bc89e7-2148-4f5e-87a0-fdd7f01589bc">
+            <lb xml:id="uuid_89ad5489-6654-4e25-bae2-8a3f2b691053"/>rekomm. <lb xml:id="uuid_c6f06a66-53d5-49ee-a275-d300db5bb47a"/>4 Beilagen.</p>
+         <pb xml:id="D_000030-002-000_p004" facs="#D_000030-002-000-facs001-l002-p004" n="4"/>
+         <p xml:id="uuid_2ae0d0e8-da2f-4a37-8ea9-658c64edacd9">
+            <note resp="law-firm" type="paratext">
+               <lb xml:id="uuid_b10a055d-a1a7-4476-b95d-1b06edd9a7b9"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb43594" type="person">Tramer</rs>.<lb xml:id="uuid_cd7c10f9-56d7-4f3f-a5b2-dbb77326ec35"/>17.VI.25. </note>
+            </note>
+         </p>
+      </body>
+   <back><listBibl><bibl xml:id="pmb52123">
+  <title type="main">Musikalische Probleme des Films</title>
+  <title type="werk_link">https://archive.org/details/DieMusik17jg1hj1924-1925/page/n389/mode/2up</title>
+  <title type="werk_bibliografische-angabe">Musikalische Probleme des Films, in: Die Musik, 17 Jg., H. 5, 1925, S. 349</title>
+  <author key="person__52096" role="hat-geschaffen">Bagier, Guido</author>
+<date notBefore-iso="1925-01-01" when-iso="1925-07-02">1925</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52123/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52123</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb31729">
+  <title type="main">Die Journalisten</title>
+  <author key="person__11377" role="hat-geschaffen">Freytag, Gustav</author>
+<date notBefore-iso="1852-01-01" when-iso="1852-07-01">1852</date>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31729.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31729</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31729.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb31729</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Text</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb52120">
+  <title type="main">Die Musik</title>
+<date from-iso="1901-01-01" to-iso="1901-12-31">1901  – 1943</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52120/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52120</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb63247">
+  <title type="main">Prager Presse, 29.5.1925</title>
+  <title type="werk_bibliografische-angabe">Prager Presse, 29.5.1925</title>
+<date when-iso="1925-05-29">1925-05-29</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63247/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63247</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl><listOrg><org xml:id="pmb52101">
+  <orgName>Staatsrealschule (Mährisch-Ostrau)</orgName>
+  <desc type="entity_type">Schule</desc>
+  <desc type="entity_type_id">1330</desc>
+<location type="located_in_place">
+  <placeName key="pmb41075">Ostrava</placeName>
+  <geo>49.83465 18.28204</geo>
+  <note type="IDNO" subtype="geonames">https://www.geonames.org/3068799</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3068799/</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/11921098/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41075</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52167/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55242/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3068799/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41075</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41075</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41075.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52101/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52101</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb43594">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Tramer</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43594/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43594</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43594</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kraus</surname>
+  </persName>
+  <persName type="person_pseudonym">Berdach J.</persName>
+  <birth>
+    <date when-iso="1874-04-28">28.04.1874</date>
+      <settlement key="pmb41660">
+        <placeName type="pref">Jičín</placeName>
+        <location><geo>50.43723 15.35162</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1936-06-12">12.06.1936</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118566288</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11988.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11988</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11988</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47565</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282496</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29308">Die Fackel</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29308.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29308</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29308</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29308</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q354576</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb43724">Verlag Die Fackel (Wien)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb60573">Karl Kraus-Gesellschaft</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60573/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb60573</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb87755">Max Goldschmidt (Büro für Zeitungsausschnitte)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb52173">
+  <persName>
+      <forename>?</forename>
+      <surname>Schornstein</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52173/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52173</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43654">
+  <persName>
+      <forename>Josef</forename>
+      <surname>Schornstein</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43654/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43654</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43654</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb41075">
+  <placeName>Ostrava</placeName>
+  <placeName type="alternative-name">Ostrava</placeName>
+  <placeName type="legacy-name">Mährisch-Ostrau</placeName>
+  <placeName type="legacy-name-merge">Ostrava</placeName>
+  <placeName type="legacy-name-merge">Ostrava</placeName>
+  <placeName type="alternative-name">Ostrava</placeName>
+  <placeName type="alternative-name">Ostrava</placeName>
+  <placeName type="legacy-name-merge">Mährisch-Ostrau</placeName>
+  <placeName type="legacy-name-merge">Ostrava</placeName>
+  <desc type="entity_type">http://www.geonames.org/ontology#P.PPLA</desc>
+  <desc type="entity_type_id">1108</desc>
+<location type="coords">
+  <geo>49.83465 18.28204</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb43430">Tschechische Republik</placeName>
+  <geo>49.75 15.0</geo>
+</location>
+  <idno type="URL" subtype="geonames">https://www.geonames.org/3068799</idno>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/3068799/</idno>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/11921098/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41075</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52167/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55242/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/3068799/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41075</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41075</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41075.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb52170">
+  <placeName>Miličgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="located_in_place">
+  <placeName key="pmb41075">Ostrava</placeName>
+  <geo>49.83465 18.28204</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52170/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52170</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb51">
+  <placeName>I., Innere Stadt</placeName>
+  <placeName type="alternative-name">Inner city</placeName>
+  <placeName type="alternative-name">Wien,Innere Stadt</placeName>
+  <placeName type="alternative-name">1. Wiener Gemeindebezirk</placeName>
+  <placeName type="legacy-name-merge">Wien-Innere Stadt</placeName>
+  <placeName type="legacy-name-merge">Inner city</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.20769 16.37049</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace></back></text>
+</TEI>

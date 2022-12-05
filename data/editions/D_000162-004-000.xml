@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000162-005-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000162-003-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000162-004-000.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>162.4 Zeugenvernehmung Karl Kraus</title>
+            <editor ref="#pmbIL">Isabel Langkabel</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische
+                  Akademie der Wissenschaften </name>
+               <address>
+                  <street>Sonnenfelsgasse 19</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Ludwig Boltzmann Institut für Digital History</name>
+               <address>
+                  <street>Hofburg, Batthianystiege</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://geschichte.lbg.ac.at">https://geschichte.lbg.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Wienbibliothek im Rathaus</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 1</street>
+                  <postCode>1010</postCode>
+                  <country>Wien</country>
+                  <settlement>Österreich</settlement>
+               </address>
+               <ref target="https://www.wienbibliothek.at">https://www.wienbibliothek.at</ref>
+            </publisher>
+            <pubPlace>Wien, Österreich</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Namensnennung 4.0 International Lizenz </licence>
+            </availability>
+            <idno subtype="legalkraus" type="URL">https://id.acdh.oeaw.ac.at/legalkraus/D_000162-004-000.xml</idno>
+            <idno subtype="krausonline" type="URL">http://www.kraus.wienbibliothek.at/node/4152</idno>
+            <idno subtype="transkribus" type="ID">306277</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title ref="https://id.acdh.oeaw.ac.at/legalkraus/C_000162" type="collection">Karl Kraus
+               ca. Herta Gropper</title>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness facs="#D_000162-004-000-facs001" xml:id="D_000162-004-000-wit01"/>
+            </listWit>
+            <msDesc>
+               <physDesc>
+                  <ab type="materiality">
+                     <objectType source="D_000162-004-000-wit01" ref="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/M.T.HSU">Typoskript mit
+                        handschriftlichen Überarbeitungen</objectType>
+                  </ab>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date subtype="produced" type="sortDate" when-iso="1932-02-09">9. Februar 1932</date>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term source="D_000162-004-000-wit01">Vernehmung</term>
+            </keywords>
+            <classCode source="D_000162-004-000-wit01" scheme="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/D.J.VRN">D.J.VRN</classCode>
+         </textClass>
+         <handNotes>
+            <handNote xml:id="D_000162-004-000-hand01" source="#D_000162-004-000-wit01" scribeRef="#11988" medium="black-ink" cert="high" resp="#JK"/>
+            <handNote xml:id="D_000162-004-000-hand02" source="#D_000162-004-000-wit01" scribeRef="#11988" medium="pencil" cert="high" resp="#JK"/>
+            <handNote xml:id="D_000162-004-000-hand03" source="#D_000162-004-000-wit01" scribeRef="#38909" medium="black-ink" cert="high" resp="#JK"/>
+         </handNotes>
+      </profileDesc>
+      <revisionDesc status="done">
+         <change type="intertexts" when-iso="2021-09-28" who="#IL"/>
+         <change type="header_facsimile" when-iso="2021-09-28" who="#IL"/>
+         <change type="structure" when-iso="2021-07-27" who="#IL"/>
+         <change type="references" when-iso="2021-07-27" who="#IL"/>
+         <change type="typography" when-iso="2021-09-28" who="#IL"/>
+         <change when-iso="2020-10-08T15:36:30.904Z" who="#IB">created by API</change>
+         <change when-iso="2020-10-08T15:37:23.776Z" who="#IB">Replaced Text with Transcription of
+            Transkribus Document 306277. </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="D_000162-004-000-facs001">
+      <surfaceGrp xml:id="D_000162-004-000-facs001-l001">
+         <surface type="recto" xml:id="D_000162-004-000-facs001-l001-p001">
+            
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2542837/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+         <surface type="verso" xml:id="D_000162-004-000-facs001-l001-p002">
+            
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2542838/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <pb xml:id="D_000162-004-000_p001" facs="#D_000162-004-000-facs001-l001-p001" n="1"/>
+         <p xml:id="uuid_2f97fce6-5b5e-42e2-a806-9c80f462b9f4">
+            <lb xml:id="uuid_46577b4a-824a-43ed-af0b-0b0a47b716d1"/>Geschäftszahl 21 f Vr.<lb xml:id="uuid_34b31f06-ad6d-4685-95d0-cd4ad8e458c6"/>am 9.II.1932. </p>
+         <p xml:id="uuid_93c232dc-1331-4665-9c63-09388c4c826b">
+            <lb xml:id="uuid_ad9f2a3e-7394-4a14-818f-14b5d37f2035"/>Richter: OLGR. Dr. <rs ref="#pmb43650" type="person">Schrott</rs>
+            <lb xml:id="uuid_4bc347e6-4bcf-40e2-9dc8-98d6ada7bcd6"/>Schriftführer: <rs ref="#pmb50678" type="person">Künzel</rs>
+         </p>
+         <p xml:id="uuid_5728f147-d87a-4864-ba75-240e6d4874cd">
+            <lb xml:id="uuid_58db7593-ec37-48fe-9d2c-3926a3395a3d"/>STRAFSACHE:<lb xml:id="uuid_2c56e3ff-a113-453b-980b-c909fbcc1f62"/>gegen <rs ref="#pmb51578" type="person">Herta Gropper</rs> wegen
+               <rs ref="https://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1852&amp;page=617&amp;size=45" type="law">§§ 197</rs>, <rs ref="https://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1852&amp;page=618&amp;size=45" type="law">199 a STG</rs></p>
+         <p xml:id="uuid_9a00d2de-a582-4d0f-a493-abca1e59ac73"><lb xml:id="uuid_5325731a-5686-4bb2-a5f6-247815e8bbfa"/>Der <rs ref="#pmb11988" type="person">Zeuge</rs> wird ermahnt,
+            auf die an ihn zu richtenden Fragen nach sei<lb break="no" xml:id="uuid_1799f202-8232-4ca3-a856-dadb9f75160a"/>nem besten Wissen und Gewissen
+            die reine Wahrheit anzugeben, nichts zu ver<lb break="no" xml:id="uuid_7facd89c-7d85-43d4-ad0d-1232eeca9d64"/>schweigen und seine Aussage so
+            abzulegen, daß er sie erforderlichenfalls<lb xml:id="uuid_1c78e48f-cd32-4c66-a0d0-33831842a87d"/>eidlich bekräftigen könne. </p>
+         <p xml:id="uuid_043106f7-0605-4f5d-a6d8-b0e70e785dae">
+            <lb xml:id="uuid_ddc934f2-3eb6-45b7-8f39-71fa6ffec848"/>Er gibt über seine persönlichen
+            Verhältnisse an:<lb xml:id="uuid_b1d7a079-22e7-4f44-9de8-9886bb6a11c5"/>1. Vor- und
+            Zuname: <rs ref="#pmb11988" type="person">Karl <hi rend="spaced">Krau</hi>s</rs>
+            <lb xml:id="uuid_1eccba8e-085d-4407-9f28-184b2986dda3"/>2. Alter: 1874 geboren<lb xml:id="uuid_1ab6afda-a783-45ba-bacc-aa13358d7d36"/>3. Geburtsort: <rs ref="#pmb41660" type="place">Gitschin</rs>
+            <lb xml:id="uuid_8dde327e-1719-474a-9d09-fa556f508f54"/>4. Glaubensbekenntnis:
+               konfessionslos<lb xml:id="uuid_60b7a8a5-4584-410b-8618-51fe18d8cc98"/>5.
+            Familienstand: ledig<lb xml:id="uuid_91684df0-ac85-4c01-a6ee-79cdb6336614"/>6.
+            Beschäftigung: Schriftsteller<lb xml:id="uuid_30a9ba04-7efe-4195-b982-0c0c48d65652"/>7.
+            Wohnort: <rs ref="#pmb52568" subtype="address" type="place">4., Lothringerstrasse 6</rs>
+            <lb xml:id="uuid_c1a5d148-ac13-47a9-9688-d40033aaed69"/>Ladung an: <rs ref="#pmb50496" subtype="address" type="place">3. Hintere Zollamtstrasse Nr. 3</rs>
+            <lb xml:id="uuid_13093c53-4c5d-40d0-89e8-3a6f0ab8e7ba"/>8. Verhältnis zu dem <rs ref="#pmb51578" type="person">Beschuldigten</rs> oder
+            zu anderen bei der Untersuchung<lb xml:id="uuid_c02a6b4c-127c-47dc-ac41-20dc6dd430aa"/>beteiligten Personen: fremd. </p>
+         <p xml:id="uuid_61a1375b-fe9a-4783-bc35-052731a9d5db">
+            <lb xml:id="uuid_980b55f3-7582-4ad0-b2df-edf38ab4337c"/>Ich lege dem Protokolle mein
+            gegenständliches Manuskript bei,<lb xml:id="uuid_1f3111a0-4dfd-4664-a948-d212df6cebf3"/>wie auch alle die sich darauf beziehenden Korrekturbogen, halte meine<lb xml:id="uuid_5295b4ab-2373-44e6-b73c-3dfa8f2959dd"/>Anzeige B.Zl. 3 u. f. als
+            Zeugenaussage aufrecht, bemerke hiezu<lb xml:id="uuid_0d17def7-8f5d-4de5-bd77-510bd1cb44c9"/>noch folgendes:</p>
+         <p xml:id="uuid_e216d5ed-b7ee-41d7-80d8-130c41be36b4"><lb xml:id="uuid_f0173460-b09b-40cf-9f0a-2d0115e027c0"/>Die Aussage der Zeugin <rs ref="#pmb51578" type="person">Gropper</rs> ist in
+            folgenden Punkten unrichtig:</p>
+         <p xml:id="uuid_b09d0787-2ece-4395-9dd8-1f11cb065cb1"><lb xml:id="uuid_42f017fe-ae95-4ec5-99df-077011789cbf"/>Das Wort „Schlieferl“ kam in
+            meinem Vortrage vor<lb xml:id="uuid_952b54e2-a109-4904-ba73-03d1e5832bc7"/>nicht aber
+            der Ausdruck „<quote source="" xml:id="uuid_c7314ca5-67a7-41e7-a0c4-9787c2649ea4">kümmerlicher <rs ref="#pmb12743" type="person">Schönberg</rs>schüler</quote>“ auch
+               habe<lb xml:id="uuid_d36ead50-c3cf-49ae-b57d-4a9fe68b5bc7"/>ich nicht zu Beginn des
+            Vortrages herumgeblickt und dabei gesagt, <pb xml:id="D_000162-004-000_p002" facs="#D_000162-004-000-facs001-l001-p002" n="2"/>
+            <lb xml:id="uuid_4a9cf23d-2b66-4c54-83f5-ebcec0d284aa"/>„<quote source="" xml:id="uuid_c68a35b1-cefe-459d-af67-69694008544c">ob sich das Schlieferl wieder in
+               den Saal verirrt hat.</quote>“ Ich habe<lb xml:id="uuid_80a6fa3a-c046-456c-aa05-1ce4666e480c"/>wohl bei meinem Vortrage
+            Bewegungen gemacht und auch <del hand="#D_000162-004-000-hand03">bei</del>
+            <add hand="#D_000162-004-000-hand03">die</add> Stelle:<lb xml:id="uuid_fae11ff4-b554-4348-97c7-6ae79eca4229"/>Aber sollte der <rs type="person" ref="#pmb39325">Musikfachmann</rs>, der behauptet hat, dass ihm die<lb xml:id="uuid_1f457969-208e-4734-82d4-5cad33085f56"/>Bezeichnung „Schlieferl“ gelte …
+            mit einem Blick in den<lb xml:id="uuid_5bed60a8-d535-4c55-ad76-23ff64214b38"/>Saal
+            begleitet. <add hand="#D_000162-004-000-hand01">Ich habe nie im Saal herumblickend
+               gefragt, ob das Schlieferl da ist. Auch ist es unwahr, dass manches in der <rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs> nicht steht, was gesprochen
+               worden ist.</add> Wenn aber <rs ref="#pmb51578" type="person">Gropper</rs> behauptet, die Stelle hätte<lb xml:id="uuid_bcb145b6-1400-4252-9ba4-b2aea92ca267"/>gelautet: ich weiss nicht ob sich
+            das Schlieferl wieder in den Saal<lb xml:id="uuid_f03e370a-688b-45a2-b44a-882a98359485"/>verirrt hat und dass sie diese Stelle mitstenografiert hätte, <add hand="#D_000162-004-000-hand03">so ist das</add><lb xml:id="uuid_41adc3b4-dd7d-45ee-8e19-a0bb606a4f87"/>un<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">richtig</del>
+               <add hand="#D_000162-004-000-hand03">wahr</add>
+            </subst>. Ich bin bereit, einen Eid abzulegen, dass ich diese<lb xml:id="uuid_9d8e3da4-fc49-40f6-aad4-311d35fd66f8"/>Auesserung in dieser Form nicht
+            vorgebracht habe. D<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">ie</del>
+               <add hand="#D_000162-004-000-hand03">en</add>
+            </subst> Ausdr<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">ü</del>
+               <add hand="#D_000162-004-000-hand03">u</add>
+            </subst>ck<del hand="#D_000162-004-000-hand03">e</del><lb xml:id="uuid_014481cf-3e9f-480b-9d1c-2fb59de39928"/>„<quote source="https://fackel.oeaw.ac.at/f/811,079" xml:id="uuid_0128b3fa-b803-4d3b-85eb-e7b86f8751ae">kümmerliches Fachwissen</quote>“
+            habe ich gebraucht. Der Ausdruck „<rs ref="#pmb12743" type="person">Schön<lb break="no" xml:id="uuid_d8e11578-1fbd-469f-9722-c80b44590c40"/>berg</rs>schüler“ (siehe <rs ref="https://fackel.oeaw.ac.at/f/811,079" type="work" subtype="fackel">Seite 79</rs>
+            des <rs ref="https://fackel.oeaw.ac.at/f/811,0u1" type="work" subtype="fackel">Heftes
+               der Fackel</rs>) ist <del hand="#D_000162-004-000-hand03">zeitlich</del> getrennt<lb xml:id="uuid_d2f83cb9-dac7-4d61-a42b-35bdef35afff"/>vom ersten Ausdrucke gebracht
+            worden und verweise ich diesbezüglich<lb xml:id="uuid_e3685005-e27c-4a31-86ea-ee9688fe34cb"/>auf die Stelle auf <rs ref="https://fackel.oeaw.ac.at/f/811,079" type="work" subtype="fackel">Seite 79</rs>
+            des <rs ref="https://fackel.oeaw.ac.at/f/811,0u1" type="work" subtype="fackel">Heftes</rs>. Die Worte „<quote source="https://fackel.oeaw.ac.at/f/811,080" xml:id="uuid_aa419d98-9bb9-4e44-805f-73fc1273dc73">Petite und Korre<lb break="no" xml:id="uuid_80a87bef-bcaa-42d8-bd5b-6ca5343b5cb6"/>petite</quote>“ habe ich
+            gebraucht, ich verweise diesbezüglich auf die<lb xml:id="uuid_91f08f47-9356-4ca1-945d-886db4ddef12"/>rot angestrichene Stelle auf <rs ref="https://fackel.oeaw.ac.at/f/811,080" type="work" subtype="fackel">Seite 18</rs>
+            des <rs ref="https://fackel.oeaw.ac.at/f/811,0u1" type="work" subtype="fackel">Heftes
+               der Fackel</rs>, wo diese<lb xml:id="uuid_72fb9114-da33-4c4e-8fa9-7cef0c529c7c"/>Worte in einem anderen stilistischem Zusammenhange verwendet worden<lb xml:id="uuid_2ba8c2bf-3739-4588-af1e-4c5f1ac7846e"/>sind. Ich kenne die <rs ref="#pmb51578" type="person">Beschuldigte</rs> gar
+            nicht und bin ich nicht darüber<lb xml:id="uuid_40f28cdb-3566-4207-970c-0688a740a17b"/>informiert, <subst>
+               <del>dass</del>
+               <add>ob</add>
+            </subst> sie gut hört und ob sie gut stenografiert. Wenn sie<lb xml:id="uuid_8d4e56fc-1e54-4293-8646-b97c18954730"/>behauptet, das stenografiert zu
+            haben was sie gehört haben will,<lb xml:id="uuid_3edc87b6-f4d1-453b-b5ee-7281cf1a6b53"/>so hat sie die Unwahrheit gesagt. Ich habe damals nur dasjenige<lb xml:id="uuid_ee89f2de-544f-4f59-938c-bff2e237ad75"/>gesprochen was in dem <hi rend="underlined" hand="#D_000162-004-000-hand03">Manuskripte</hi>
+            <del hand="#D_000162-004-000-hand03">drinnen</del> steht und ich habe nicht<lb xml:id="uuid_d932fdb4-e111-44ef-bc38-b94bf4bbf8fd"/>frei gesprochen. <subst hand="#D_000162-004-000-hand01">
+               <del hand="#D_000162-004-000-hand01">Ich habe b</del>
+               <add hand="#D_000162-004-000-hand01">B</add>
+            </subst>eim Sprechen <add hand="#D_000162-004-000-hand02">halte</add> ich das Manuskript
+            vor mir. <lb xml:id="uuid_34bf6a8d-ffd1-456d-bf5e-95cc665cdec8"/><del hand="#D_000162-004-000-hand02">gehalten</del>. <subst hand="#D_000162-004-000-hand02">
+               <del hand="#D_000162-004-000-hand02">Ich habe</del>
+               <add hand="#D_000162-004-000-hand02">Mein Blick ist</add>
+            </subst> nicht immer <del hand="#D_000162-004-000-hand02">meinen Blick</del> starr auf
+            das Manus<lb break="no" xml:id="uuid_e8352f8d-9195-4f5f-ac44-668a36b700db"/>kript
+            gerichtet <del hand="#D_000162-004-000-hand02">gehabt</del>, sondern <subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">habe bei</del>
+               <add hand="#D_000162-004-000-hand03">pflege</add>
+            </subst> bei meine<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">m</del>
+               <add hand="#D_000162-004-000-hand03">n</add>
+            </subst> Vortr<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">a</del>
+               <add hand="#D_000162-004-000-hand03">ä</add>
+            </subst>g<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">e</del>
+               <add hand="#D_000162-004-000-hand03">en</add>
+            </subst> auch manches<lb break="no" xml:id="uuid_d6da66d9-c9a8-4ea8-b0db-fb68bed8df0e"/>mal auf<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">geschaut</del>
+               <add hand="#D_000162-004-000-hand03">zuschauen</add>
+            </subst>, da ich die <subst>
+               <del>wie aus dem Zusammenhange des Vortrages</del>
+               <add>aus dem Satzgefüge notwendigerweise</add>
+            </subst><lb xml:id="uuid_500f259f-5f4a-4c5c-9738-ad79fe388c3f"/><subst>
+               <del>notwendigen</del>
+               <add>sich ergebenden</add>
+            </subst> Worte, <del>auch ohne</del>
+            <subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">und die</del>
+               <add hand="#D_000162-004-000-hand03">die im</add>
+            </subst>
+            <subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03"><restore hand="#D_000162-004-000-hand01">Manuskripte</restore> enthaltenen Worte</del>
+               <add hand="#D_000162-004-000-hand03">sind</add>
+            </subst>,<lb xml:id="uuid_046d541a-266c-4beb-a5ea-17d63bd819e4"/>mit dem Blicke bereits
+            ergriffen ha<subst hand="#D_000162-004-000-hand03">
+               <del hand="#D_000162-004-000-hand03">tt</del>
+               <add hand="#D_000162-004-000-hand03">b</add>
+            </subst>e. Ich kann <del>da</del> beeiden, dass<lb xml:id="uuid_0cd6a290-f50e-4b2d-a203-10defb2d814d"/>es vollkommen ausgeschlossen ist,
+            dass ich <subst hand="#D_000162-004-000-hand02">
+               <del hand="#D_000162-004-000-hand02">hiebei</del>
+               <add hand="#D_000162-004-000-hand02">beim Vortrag vom 10. Januar 29</add>
+            </subst> auch nur ein<lb xml:id="uuid_850ad02c-533e-4b92-9237-4ed788f572f9"/>Wort
+            improvisiert habe. Ich weise darauf, dass ein anderer Zeuge,<lb xml:id="uuid_896e5629-7980-4af7-9bba-a1bca34d7b90"/>ich glaube <rs ref="#pmb57711" type="person">Löwy</rs>, sich auch ein Stenogramm angefertigt hat, das mit<lb xml:id="uuid_98f8063b-554d-48f1-8b31-bf119a4204ad"/>meinem <add>Vortrag</add>
+            <del hand="#D_000162-004-000-hand01">vollkommen übereingestimmt hat</del> bis auf <subst hand="#D_000162-004-000-hand01">
+               <del hand="#D_000162-004-000-hand01">eine</del>
+               <add hand="#D_000162-004-000-hand01">2</add>
+            </subst> Stelle<add hand="#D_000162-004-000-hand01">n</add>
+            <add hand="#D_000162-004-000-hand01">voll<lb break="no" xml:id="uuid_f1300939-c43d-4ffc-93bb-ec152c5dce27"/>kommen übereingestimmt
+               hat.</add> v.g.g. </p>
+      </body>
+   <back><listPerson><person xml:id="pmb50678">
+  <persName>
+      <forename>?</forename>
+      <surname>Künzel</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50678/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50678</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43650">
+  <persName>
+      <forename>Ludwig</forename>
+      <surname>Schrott</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43650/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43650</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43650</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39325">
+  <persName>
+      <forename>Paul Amadeus</forename>
+      <surname>Pisk</surname>
+  </persName>
+  <persName type="alternative-name">Pisk, Paul A.</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Paul_Amadeus_Pisk</persName>
+  <birth>
+    <date when-iso="1893-05-16">16.05.1893</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1990-01-12">12.01.1990</date>
+      <settlement key="pmb37116">
+        <placeName type="pref">Los Angeles</placeName>
+        <location><geo>34.05223 -118.24368</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119068389</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39325</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39325</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51173</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85274</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb51578">
+  <persName>
+      <forename>Herta</forename>
+      <surname>Gropper</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-06-14">14.06.1901</date>
+      <settlement key="pmb38031">
+        <placeName type="pref">Rousse</placeName>
+        <location><geo>43.84872 25.9534</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1962-07-02" notAfter-iso="1962-12-31">1962</date>
+      <settlement key="pmb38166">
+        <placeName type="pref">Kalifornien</placeName>
+        <location><geo>37.25022 -119.75126</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51578/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51578</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb12743">
+  <persName>
+      <forename>Arnold</forename>
+      <surname>Schönberg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1874-09-13">13.09.1874</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1951-07-14">14.07.1951</date>
+      <settlement key="pmb37116">
+        <placeName type="pref">Los Angeles</placeName>
+        <location><geo>34.05223 -118.24368</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19840</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118610023</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12743.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12743</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12743</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12743</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38451</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q154770</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kraus</surname>
+  </persName>
+  <persName type="person_pseudonym">Berdach J.</persName>
+  <birth>
+    <date when-iso="1874-04-28">28.04.1874</date>
+      <settlement key="pmb41660">
+        <placeName type="pref">Jičín</placeName>
+        <location><geo>50.43723 15.35162</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1936-06-12">12.06.1936</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118566288</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11988.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11988</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11988</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47565</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282496</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29308">Die Fackel</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29308.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29308</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29308</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29308</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q354576</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb43724">Verlag Die Fackel (Wien)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb60573">Karl Kraus-Gesellschaft</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60573/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb60573</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb87755">Max Goldschmidt (Büro für Zeitungsausschnitte)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb57711">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Löwy</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1472">Beamter/Beamte</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57711/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57711</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb41660">
+  <placeName>Jičín</placeName>
+  <placeName type="alternative-name">Gitschin</placeName>
+  <placeName type="alternative-name">Jičín</placeName>
+  <placeName type="legacy-name">Jičín</placeName>
+  <placeName type="legacy-name-merge">Jitschin</placeName>
+  <desc type="entity_type">http://www.geonames.org/ontology#P.PPL</desc>
+  <desc type="entity_type_id">1123</desc>
+<location type="coords">
+  <geo>50.43723 15.35162</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb43430">Tschechische Republik</placeName>
+  <geo>49.75 15.0</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/3074204/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41660</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41660</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb52568">
+  <placeName>Lothringerstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20111984767047 16.376558625190437</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52568/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52568</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listBibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl></back></text>
+</TEI>

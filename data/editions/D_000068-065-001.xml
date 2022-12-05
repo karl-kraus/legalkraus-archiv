@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-065-002.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-065-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000068-065-001.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>68.65 Abschrift der Zusendung „Ein Verleger für Else Lasker-Schüler wird gesucht“</title>
+            <editor ref="#pmbAR">Alexandra Rausch</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Austrian Centre for Digital Humanities and Cultural Heritage,
+                        Österreichische Akademie der Wissenschaften </name>
+               <address>
+                  <street>Sonnenfelsgasse 19</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Ludwig Boltzmann Institut für Digital History</name>
+               <address>
+                  <street>Hofburg, Batthianystiege</street>
+                  <postCode>1010</postCode>
+                  <settlement>Wien</settlement>
+                  <country>Österreich</country>
+               </address>
+               <ref target="https://geschichte.lbg.ac.at">https://geschichte.lbg.ac.at</ref>
+            </publisher>
+            <publisher>
+               <name>Wienbibliothek im Rathaus</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 1</street>
+                  <postCode>1010</postCode>
+                  <country>Wien</country>
+                  <settlement>Österreich</settlement>
+               </address>
+               <ref target="https://www.wienbibliothek.at">https://www.wienbibliothek.at</ref>
+            </publisher>
+            <pubPlace>Wien, Österreich</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                        Namensnennung 4.0 International Lizenz </licence>
+            </availability>
+            <idno subtype="legalkraus" type="URL">https://id.acdh.oeaw.ac.at/legalkraus/D_000068-065-001.xml</idno>
+            <idno subtype="krausonline" type="URL"/>
+            <idno subtype="transkribus" type="ID"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title ref="https://id.acdh.oeaw.ac.at/legalkraus/C_000068" type="collection">Karl
+                    Kraus ca. Alfred Kerr</title>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness facs="#D_000068-065-001-facs001" xml:id="D_000068-065-001-wit01"/>
+            </listWit>
+            <msDesc>
+               <physDesc>
+                  <ab type="materiality">
+                     <objectType source="D_000068-065-001-wit01" ref="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/M.T.DSL">Durchschlag</objectType>
+                  </ab>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter-iso="1927-11-02" subtype="produced" type="sortDate"/>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term source="D_000068-065-001-wit01">Zeitungsartikel</term>
+            </keywords>
+            <classCode source="D_000068-065-001-wit01" scheme="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/D.P.ZTA">D.P.ZTA</classCode>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="done">
+         <change resp="#LU" when-iso="2021-09-13" status="draft">created XML Document</change>
+         <change status="draft" type="header_facsimile" when-iso="2021-12-31" who="#AR"/>
+         <change status="draft" type="transcription" when-iso="2022-01-27" who="#AR"/>
+         <change status="draft" type="structure" when-iso="2022-01-27" who="#AR"/>
+         <change status="draft" type="references" when-iso="2022-01-27" who="#AR"/>
+         <change status="draft" type="typography" when-iso="2022-01-27" who="#AR"/>
+         <change status="draft" type="intertexts" when-iso="2022-01-27" who="#AR"/>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="D_000068-065-001-facs001">
+      <surfaceGrp xml:id="D_000068-065-001-facs001-l001">
+         <surface type="recto" xml:id="D_000068-065-001-facs001-l001-p001">
+            
+            <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2552815/full/full/0/default.jpg" source="wienbibliothek"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <facsimile ana="further-witnesses">
+      <surface>
+         
+         <graphic url="https://www.digital.wienbibliothek.at/wbrobv02/i3f/v21/2552813/full/full/0/default.jpg" source="wienbibliothek"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <pb xml:id="D_000068-065-001_p001" n="1" facs="#D_000068-065-001-facs001-l001-p001"/>
+         <p xml:id="uuid_9d977a23-2f1c-4f0d-ad1f-72744f26f4bf">
+            <lb xml:id="uuid_22b12fa1-0de1-4639-9d36-1d5e018096a4"/><hi rend="underlined">Ein
+                    Verleger für <rs type="person" ref="#pmb38973">Else Lasker-Schüler</rs> wird
+                    gesucht.</hi>
+         </p>
+         <p xml:id="uuid_9765c1f1-e5d8-4657-b7be-9733e88eb20f">
+            <lb xml:id="uuid_9d4bb301-7f19-4636-b653-ad64c09eb48a"/>Die Aufführung des Schauspiels
+               „<rs type="work" ref="#pmb63515" subtype="pmb">Die Wupper</rs>“ im <rs type="institution" ref="#pmb55522">Berliner Staats<lb break="no" xml:id="uuid_795504c8-ced6-46ce-9acf-7e7842b763e1"/>theater</rs> erinnert eben an
+            die Existenz der Dichterin <rs type="person" ref="#pmb38973">Else Lasker-<lb xml:id="uuid_60113145-f10d-47de-8640-84bcad18c8fb"/>Schüler</rs>. Wer über die
+            künstlerische Bedeutsamkeit ihres Werkes noch<lb xml:id="uuid_f2e5b51d-26b0-4c5a-bbd4-1cc6a0115fec"/>belehrt sein will, mag nachlesen,
+            was <rs type="person" ref="#pmb11988">Karl Kraus</rs> im Aprilheft der<lb xml:id="uuid_416a3658-0ef2-4a63-9a72-a9b3d5ed72af"/>„<rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>“ (<rs type="work" ref="https://fackel.oeaw.ac.at/f/757,0u1" subtype="fackel">No. 757/758</rs>) hierzu geschrieben hat. </p>
+         <p xml:id="uuid_56f8e363-3607-4c17-a971-f946309afab1">
+            <lb xml:id="uuid_01aa8319-a4db-42bc-bf4b-1c4cd805bb32"/>Es bleibt festzustellen,
+                dass die Werke der <rs type="person" ref="#pmb38973">Dichterin</rs>
+            <lb xml:id="uuid_505598da-2b0f-473b-8bab-d5410e7c19ab"/>recht eigentlich
+                brachliegen. Künstlerischer Wert und wirtschaft<lb break="no" xml:id="uuid_0c83a1a1-161e-4040-ac1c-374ee7901930"/>licher Erfolg stehen in
+                unvereinbarem Gegensatz. Die Gründe dieser<lb xml:id="uuid_899ae790-e55a-4565-99a5-4e23c0b9ef24"/>Erscheinung mögen hier
+                unerörtert bleiben. Der Wunsch eines Wechsels<lb xml:id="uuid_450d9ee5-c9a9-453d-9077-c50845dc1e7b"/>des Verlages besteht. Auch
+                die Möglichkeit anderweiter Unterbringung<lb xml:id="uuid_f68efc8f-beba-4e8a-8cda-91e7418b4e54"/>der Verlagsrechte ist
+                gegeben. Ein neues Manuskript der <rs type="person" ref="#pmb38973">Dichterin</rs>
+            <lb xml:id="uuid_8da890ef-7a4b-4c52-b534-f58fe7e7c1df"/>liegt druckreif vor. </p>
+         <p xml:id="uuid_33d41595-4891-4191-a55d-80e97db4f01f">
+            <lb xml:id="uuid_63b26d3a-84d0-45ae-a8c6-297ff126129d"/>Es mag hier auf eine
+                Auesserung <rs type="person" ref="#pmb11617">Gerhart Hauptmanns</rs> hin<lb xml:id="uuid_c65200e4-815b-4720-b582-451448178783" break="no"/>gewiesen werden:
+                    „<q type="spoken" who="#11617">Wäre ich Verleger, ich würde froh sein, Ihre
+                        Werke<lb xml:id="uuid_2aa9ba83-22c6-4582-856c-960c513ed682"/>erwerben zu
+                    können.</q>“ Sicherlich wird es der Nachwelt grotesk er<lb break="no" xml:id="uuid_ef8a34dc-6b00-42c6-8966-93ea80218af0"/>scheinen, dass trotz solcher
+                Auesserung ein Verleger für diese<lb xml:id="uuid_7a5e5143-ac16-4735-8d81-8020767f5e4f"/><rs type="person" ref="#pmb38973">Dichterin</rs> nach mancherlei vergeblichem Versuch im Wege dees
+                    öffent<lb break="no" xml:id="uuid_0635c729-8c1c-4ef9-8042-dc8491329438"/>lichen
+                Aufrufs gesucht wurde. </p>
+         <p xml:id="uuid_88594bbf-09ce-4f38-babc-92a0559c1bed">
+            <lb xml:id="uuid_f6d548c1-43fa-4cad-abaf-ec91ac3e8a63"/>Indessen, die Tatsache
+                besteht. Gesucht wird ein Verlag,<lb xml:id="uuid_3c5fae67-5001-432e-bbd2-696f05b20953"/>der gewillt und imstande
+                ist, die gesamten Werke <rs type="person" ref="#pmb38973">Else Lasker-Schü<lb break="no" xml:id="uuid_9a96bb6e-c8ba-473b-88b1-65f35c5b0ff3"/>ler’s</rs> –
+                Veröffentlichtes und Unveröffentlichtes – in wirksamer Weise<lb xml:id="uuid_ce9036c2-1c49-494d-aa61-a66bb7a34936"/>zu vertreiben, und der eine
+                Gewähr dafür gibt, dass die wirtschaft<lb break="no" xml:id="uuid_5aebe958-473f-4316-abab-a9a5bb91ec56"/>liche Existenz der <rs type="person" ref="#pmb38973">Dichterin</rs> in gewissem Umfange sichergestellt<lb xml:id="uuid_61439468-5d4a-4f83-b63a-31b3d4237990"/>wird. </p>
+         <p xml:id="uuid_6f3f7eeb-a33f-489c-9947-00dc8f10a229">
+            <lb xml:id="uuid_a05c2a50-4f18-4584-afbe-02e77532b2ed"/>Mitteilungen werden zwecks
+                Weiterleitung an die<lb xml:id="uuid_e340e4ae-6ba3-464d-81f3-5a90950476c4"/>Schriftleitung dieser <hi rend="underlined">Zeitschrift</hi> erbeten.<lb xml:id="uuid_1e336520-dae0-4853-9ae6-84e05ad4ddb6"/>Zeitung </p>
+         <p xml:id="uuid_f42c5dd8-5e14-4212-a9e7-afa10437fc46">
+            <lb xml:id="uuid_373bc2b7-36cd-4c8c-9df2-082eeddde34e"/><rs type="person" ref="#pmb62881">Karl Schönberg</rs>. </p>
+      </body>
+   <back><listBibl><bibl xml:id="pmb63515">
+  <title type="main">Die Wupper</title>
+  <author key="person__38973" role="hat-geschaffen">Lasker-Schüler, Else</author>
+<date notBefore-iso="1909-01-01" when-iso="1909-07-02">1909</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63515/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63515</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1217638</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPerson><person xml:id="pmb11988">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kraus</surname>
+  </persName>
+  <persName type="person_pseudonym">Berdach J.</persName>
+  <birth>
+    <date when-iso="1874-04-28">28.04.1874</date>
+      <settlement key="pmb41660">
+        <placeName type="pref">Jičín</placeName>
+        <location><geo>50.43723 15.35162</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1936-06-12">12.06.1936</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118566288</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11988.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11988</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11988</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47565</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282496</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29308">Die Fackel</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29308.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29308</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29308</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29308</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q354576</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb43724">Verlag Die Fackel (Wien)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb60573">Karl Kraus-Gesellschaft</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60573/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb60573</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb87755">Max Goldschmidt (Büro für Zeitungsausschnitte)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb62881">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Schönberg</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="94">Notar/Notarin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62881/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb62881</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41345</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11617">
+  <persName>
+      <forename>Gerhart</forename>
+      <surname>Hauptmann</surname>
+  </persName>
+  <birth>
+    <date when-iso="1862-11-15">15.11.1862</date>
+      <settlement key="pmb64427">
+        <placeName type="pref">Szczawno-Zdrój</placeName>
+        <location><geo>50.79512 16.22375</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1946-06-06">06.06.1946</date>
+      <settlement key="pmb735">
+        <placeName type="pref">Agnetendorf</placeName>
+        <location><geo>50.816944 15.609444</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15980</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118546937</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11617.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11617</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11617.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11617</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp44354</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=H#DWpers0097</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q43523</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38973">
+  <persName>
+      <forename>Else</forename>
+      <surname>Lasker-Schüler</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-02-11">11.02.1869</date>
+      <settlement key="pmb903">
+        <placeName type="pref">Elberfeld</placeName>
+        <location><geo>51.25083 7.14816</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-01-22">22.01.1945</date>
+      <settlement key="pmb5297">
+        <placeName type="pref">Jerusalem</placeName>
+        <location><geo>31.76904 35.21633</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="370">Dichter/Dichterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38973/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38973</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38973</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42561</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118569880</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58033</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb55522">
+  <orgName>Schauspielhaus Berlin</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55522/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55522</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg></back></text>
+</TEI>
