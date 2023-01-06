@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-018-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-016-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000168-017-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000168-017-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-016-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-018-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>168.17 Brief Samek an Kraus</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -149,7 +149,52 @@
             <lb xml:id="uuid_c59fc915-08b6-42b4-ba8c-82f123b37f87"/><note resp="law-firm" type="paratext">Betr. <rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb38962" type="person">Landsberg</rs>
                <lb xml:id="uuid_2360d609-503e-4eea-aeb6-23a0b79be4d9"/>exp. 11.5.1932.</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -246,68 +291,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb19200">
-  <persName>
-      <forename>Willy</forename>
-      <surname>Katz</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
-  <persName type="legacy-name-merge">Katz, Willy</persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb38962">
   <persName>
       <forename>Otto</forename>
@@ -335,6 +318,23 @@
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q213969</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb19200">
+  <persName>
+      <forename>Willy</forename>
+      <surname>Katz</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
+  <persName type="legacy-name-merge">Katz, Willy</persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb652">
   <placeName>Prag</placeName>

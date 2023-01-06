@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-021-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-019-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000146-020-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000146-020-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-019-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-021-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -155,7 +155,82 @@
             <lb xml:id="uuid_0047ccb0-e298-45f6-8c64-95f4a03a6aeb"/><note hand="#D_000146-020-000-hand01">1) Gemäßigter Dritter<lb xml:id="uuid_966774e8-5197-4dd5-97a6-c33f22e1bd11"/>2) K.F.<lb xml:id="uuid_a1e26383-0726-4118-a731-36150ce879e0"/>3) Wach 10 Tg.<lb xml:id="uuid_cb6018e3-aa60-4894-84fa-851049a68f0f"/>2/3 [<rs type="person">Unterschrift</rs>]</note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb37761">
+  <persName>
+      <forename>Ernst Josef</forename>
+      <surname>Aufricht</surname>
+  </persName>
+  <birth>
+    <date when-iso="1898-08-31">31.08.1898</date>
+      <settlement key="pmb37763">
+        <placeName type="pref">Beuthen</placeName>
+        <location><geo>50.34802 18.93282</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1971-07-24">24.07.1971</date>
+      <settlement key="pmb56147">
+        <placeName type="pref">Cannes</placeName>
+        <location><geo>43.55135 7.01275</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="715">Theaterdirektor/Theaterdirektorin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37761/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37761</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37761</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118651064</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1358871</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42872</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb57633">Neue Theaterbetriebes-G.m.b.H.</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57633/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57633</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb36360">
+  <persName>
+      <forename>Walter</forename>
+      <surname>Abelsdorff</surname>
+  </persName>
+  <birth>
+    <date when-iso="1898-02-07">7.2.1898</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1952-01-01">1952</date>
+      <settlement key="pmb224">
+        <placeName type="pref">London</placeName>
+        <location><geo>51.50853 -0.12574</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36360/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36360</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb36360</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -251,81 +326,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb37761">
-  <persName>
-      <forename>Ernst Josef</forename>
-      <surname>Aufricht</surname>
-  </persName>
-  <birth>
-    <date when-iso="1898-08-31">31.08.1898</date>
-      <settlement key="pmb37763">
-        <placeName type="pref">Beuthen</placeName>
-        <location><geo>50.34802 18.93282</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1971-07-24">24.07.1971</date>
-      <settlement key="pmb56147">
-        <placeName type="pref">Cannes</placeName>
-        <location><geo>43.55135 7.01275</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="715">Theaterdirektor/Theaterdirektorin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37761/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37761</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37761</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118651064</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1358871</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42872</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb57633">Neue Theaterbetriebes-G.m.b.H.</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57633/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57633</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb36360">
-  <persName>
-      <forename>Walter</forename>
-      <surname>Abelsdorff</surname>
-  </persName>
-  <birth>
-    <date when-iso="1898-02-07">7.2.1898</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1952-01-01">1952</date>
-      <settlement key="pmb224">
-        <placeName type="pref">London</placeName>
-        <location><geo>51.50853 -0.12574</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36360/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36360</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb36360</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb38969">
   <persName>

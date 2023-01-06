@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000170-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000169-003-001.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000170-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000170-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000169-003-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000170-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>170.1 Brief RA Botho Laserstein an Kraus</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -150,7 +150,151 @@
             <lb xml:id="uuid_766f7b9f-3017-4d4b-a0d6-8ce9380ebe83"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb29329" type="institution">Berl. Tageblatt</rs>
                <lb xml:id="uuid_c7200cf1-591c-43fb-b663-a0b1dd7aea10"/>I od. II?</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listOrg><org xml:id="pmb29329">
+  <orgName>Berliner Tageblatt</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29329.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29329</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29329</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29329</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q455014</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36940">
+  <orgName>Volksbühne Berlin</orgName>
+  <orgName type="alternative-name">Theater am Bülowplatz</orgName>
+  <orgName type="alternative-name">Theater am Rosa-Luxemburg-Platz</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="pmb36737">Mitte</placeName>
+  <geo>52.516669 13.366669</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb59769">Rosa-Luxemburg-Platz</placeName>
+  <geo>52.526389 13.411389</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59769/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59769</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q659158</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36940/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36940</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36940</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36940</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1890-01-01" when-iso="1890-07-02">1890</date>
+</note>
+</org></listOrg><listPlace><place xml:id="pmb168">
+  <placeName>Berlin</placeName>
+  <placeName type="alternative-name">Berlin</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <placeName type="alternative-name">Hauptstadt Berlin</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <placeName type="alternative-name">Barlīn</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <placeName type="alternative-name">Hauptstadt Berlin</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <placeName type="alternative-name">Reichshauptstadt Berlin</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <placeName type="alternative-name">Berolino</placeName>
+  <placeName type="legacy-name-merge">Berlin</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLC</desc>
+  <desc type="entity_type_id">1418</desc>
+<location type="coords">
+  <geo>52.52437 13.41053</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb151">Deutschland</placeName>
+  <geo>51.5 10.5</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4005728-8</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q64</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb53">
+  <placeName>III., Landstraße</placeName>
+  <placeName type="alternative-name">Landstraße</placeName>
+  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
+  <placeName type="legacy-name-merge">Wien-Landstraße</placeName>
+  <placeName type="legacy-name-merge">Gemeindebezirk Landstrasse</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.19811 16.39482</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb1050">Amerikanische Gesandtschaft</placeName>
+  <geo>48.19913 16.38117</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2773040/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2773040/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -287,149 +431,5 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb53">
-  <placeName>III., Landstraße</placeName>
-  <placeName type="alternative-name">Landstraße</placeName>
-  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
-  <placeName type="legacy-name-merge">Wien-Landstraße</placeName>
-  <placeName type="legacy-name-merge">Gemeindebezirk Landstrasse</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.19811 16.39482</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb41240">Österreich</placeName>
-  <geo>47.33333 13.33333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb1050">Amerikanische Gesandtschaft</placeName>
-  <geo>48.19913 16.38117</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2773040/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2773040/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb168">
-  <placeName>Berlin</placeName>
-  <placeName type="alternative-name">Berlin</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <placeName type="alternative-name">Hauptstadt Berlin</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <placeName type="alternative-name">Barlīn</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <placeName type="alternative-name">Hauptstadt Berlin</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <placeName type="alternative-name">Reichshauptstadt Berlin</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <placeName type="alternative-name">Berolino</placeName>
-  <placeName type="legacy-name-merge">Berlin</placeName>
-  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLC</desc>
-  <desc type="entity_type_id">1418</desc>
-<location type="coords">
-  <geo>52.52437 13.41053</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb151">Deutschland</placeName>
-  <geo>51.5 10.5</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4005728-8</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q64</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listOrg><org xml:id="pmb36940">
-  <orgName>Volksbühne Berlin</orgName>
-  <orgName type="alternative-name">Theater am Bülowplatz</orgName>
-  <orgName type="alternative-name">Theater am Rosa-Luxemburg-Platz</orgName>
-  <desc type="entity_type">Theater</desc>
-  <desc type="entity_type_id">1012</desc>
-<location type="located_in_place">
-  <placeName key="pmb36737">Mitte</placeName>
-  <geo>52.516669 13.366669</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb59769">Rosa-Luxemburg-Platz</placeName>
-  <geo>52.526389 13.411389</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59769/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59769</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q659158</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36940/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36940</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36940</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36940</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date notBefore-iso="1890-01-01" when-iso="1890-07-02">1890</date>
-</note>
-</org><org xml:id="pmb29329">
-  <orgName>Berliner Tageblatt</orgName>
-  <desc type="entity_type">Tageszeitungsredaktion</desc>
-  <desc type="entity_type_id">972</desc>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29329.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29329</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29329</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29329</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q455014</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</person></listPerson></back></text>
 </TEI>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000089-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-004-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000089-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-004-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>89.3 Antrag auf Einleitung von Vorerhebungen gegen Otto Nirenstein und weitere unbekannte Täter wegen § 45 Abs. 4 Urh.G. (Strafbezirksgericht Wien I)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -219,6 +219,43 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb1178">
+  <placeName>Mahlerstraße</placeName>
+  <placeName type="alternative-name">Maximilianstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20282 16.371172</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1178</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1178</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb1178</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
@@ -255,44 +292,121 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb1178">
-  <placeName>Mahlerstraße</placeName>
-  <placeName type="alternative-name">Maximilianstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.20282 16.371172</geo>
-</location>
+</place></listPlace><listOrg><org xml:id="pmb37558">
+  <orgName>Der Weltspiegel</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
 </location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1178</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1178</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb1178</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37558/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37558</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37558</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</org><org xml:id="pmb50491">
+  <orgName>Strafbezirksgericht I</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
+  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50664">Schiffamtsgasse</placeName>
+  <geo>48.218669 16.373101</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb21979">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Nirenstein</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
+  <birth>
+    <date when-iso="1894-04-01">01.04.1894</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1978-11-30">30.11.1978</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <occupation key="250">Galerist/Galeristin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52915">Neue Galerie</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb52908">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Schneider</surname>
+  </persName>
+  <persName type="legacy-name-merge">Schneider, Otto</persName>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43659/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43659</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52908/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52908</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37558">Der Weltspiegel</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37558/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37558</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37558</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -444,74 +558,7 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb52908">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Schneider</surname>
-  </persName>
-  <persName type="legacy-name-merge">Schneider, Otto</persName>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43659/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43659</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52908/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52908</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37558">Der Weltspiegel</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37558/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37558</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37558</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb21979">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Nirenstein</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
-  <birth>
-    <date when-iso="1894-04-01">01.04.1894</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1978-11-30">30.11.1978</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <occupation key="250">Galerist/Galeristin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52915">Neue Galerie</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb65910">
-  <title type="main">Der Weltspiegel</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65910/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb65910</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb52906">
+</person></listPerson><listBibl><bibl xml:id="pmb52906">
   <title type="main">Der Weltspiegel, 10.7.1927</title>
   <title type="werk_bibliografische-angabe">Der Weltspiegel, Nr. 28, 10.7.1927</title>
 <date>1927-07-10  – 1927-07-10</date>
@@ -521,60 +568,13 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listOrg><org xml:id="pmb37558">
-  <orgName>Der Weltspiegel</orgName>
-  <desc type="entity_type">Zeitungsredaktion</desc>
-  <desc type="entity_type_id">1039</desc>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37558/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37558</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37558</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb50491">
-  <orgName>Strafbezirksgericht I</orgName>
-  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
-  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50664">Schiffamtsgasse</placeName>
-  <geo>48.218669 16.373101</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</bibl><bibl xml:id="pmb65910">
+  <title type="main">Der Weltspiegel</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65910/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb65910</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl></back></text>
 </TEI>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000160-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000160-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000160-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000160-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000160-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000160-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>160.2 Brief Samek an Neue Freie Presse (verantw. Red. Julian Sternberg)</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -184,7 +184,151 @@
             <lb xml:id="uuid_07084db0-5bb0-4f4e-a04c-fc0d28c47850"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb29351" type="institution">Neue Freie Presse</rs>
                <lb xml:id="uuid_5ea21b8d-6205-4381-a278-a1a2eea00b1d"/>26.6.31.</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb39343">
+  <persName>
+      <forename>Johann Friedrich Wilhelm</forename>
+      <surname>Pustkuchen</surname>
+  </persName>
+  <persName type="alternative-name">Pustkuchen Glanzow, Friedrich</persName>
+  <birth>
+    <date when-iso="1793-02-04">04.02.1793</date>
+  </birth>  
+  <death>
+    <date when-iso="1834-01-02">02.01.1834</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <occupation key="259">Theologe/Theologin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118793713</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39343</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39343</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1693693</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51896</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11461">
+  <persName>
+      <forename>Johann Wolfgang von</forename>
+      <surname>Goethe</surname>
+  </persName>
+  <birth>
+    <date when-iso="1749-08-28">1749-08-28</date>
+      <settlement key="pmb146">
+        <placeName type="pref">Frankfurt am Main</placeName>
+        <location><geo>50.11552 8.68417</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1832-03-22">1832-03-22</date>
+      <settlement key="pmb197">
+        <placeName type="pref">Weimar</placeName>
+        <location><geo>50.97361 11.33806</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118540238</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11461.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11461</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11461.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11461</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46960</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=G#DWpers0080</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5879</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb3021">
+  <persName>
+      <forename>Julian</forename>
+      <surname>Sternberg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1868-11-08">08.11.1868</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-06-28">28.06. 1945</date>
+      <settlement key="pmb39944">
+        <placeName type="pref">Havana</placeName>
+        <location><geo>23.13302 -82.38304</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1036555747</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3021.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3021</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3021</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47222</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00284ea6</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q60822944</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -281,151 +425,62 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb11461">
-  <persName>
-      <forename>Johann Wolfgang von</forename>
-      <surname>Goethe</surname>
-  </persName>
-  <birth>
-    <date when-iso="1749-08-28">1749-08-28</date>
-      <settlement key="pmb146">
-        <placeName type="pref">Frankfurt am Main</placeName>
-        <location><geo>50.11552 8.68417</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1832-03-22">1832-03-22</date>
-      <settlement key="pmb197">
-        <placeName type="pref">Weimar</placeName>
-        <location><geo>50.97361 11.33806</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118540238</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11461.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11461</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11461.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11461</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46960</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=G#DWpers0080</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5879</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb3021">
-  <persName>
-      <forename>Julian</forename>
-      <surname>Sternberg</surname>
-  </persName>
-  <birth>
-    <date when-iso="1868-11-08">08.11.1868</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1945-06-28">28.06. 1945</date>
-      <settlement key="pmb39944">
-        <placeName type="pref">Havana</placeName>
-        <location><geo>23.13302 -82.38304</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1036555747</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3021.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3021</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3021</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47222</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00284ea6</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q60822944</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39343">
-  <persName>
-      <forename>Johann Friedrich Wilhelm</forename>
-      <surname>Pustkuchen</surname>
-  </persName>
-  <persName type="alternative-name">Pustkuchen Glanzow, Friedrich</persName>
-  <birth>
-    <date when-iso="1793-02-04">04.02.1793</date>
-  </birth>  
-  <death>
-    <date when-iso="1834-01-02">02.01.1834</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <occupation key="259">Theologe/Theologin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118793713</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39343</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39343</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1693693</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51896</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb53">
+</person></listPerson><listBibl><bibl xml:id="pmb59334">
+  <title type="main">Goethe und die Jugend</title>
+  <title type="werk_bibliografische-angabe">Goethe und die Jugend, in: Neue Freie Presse Nr. 23973 (11.6.1931), S. 9.</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310611&amp;seite=9</title>
+<date>1931-06-11  – 1931-06-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59334/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59334</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb59331">
+  <title type="main">Bekenntnis</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1917-01-01" when-iso="1917-07-02">1917</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59331/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59331</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Gedicht</note>
+</bibl><bibl xml:id="pmb32951">
+  <title type="main">Iphigenie auf Tauris</title>
+  <author key="person__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
+<date when-iso="1787-01-01">1787</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32951</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb32951</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32951.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32951</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl><bibl xml:id="pmb59325">
+  <title type="main">Worte in Versen II</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1917-01-01" when-iso="1917-07-02">1917</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59325/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59325</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Gedichtsammlung</note>
+</bibl><bibl xml:id="pmb59335">
+  <title type="main">Neue Freie Presse, 11.6.1931</title>
+  <title type="werk_bibliografische-angabe">Neue Freie Presse Nr. 23973 (11.6.1931)</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310611</title>
+<date>1931-06-11  – 1931-06-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59335/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59335</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl><listPlace><place xml:id="pmb53">
   <placeName>III., Landstraße</placeName>
   <placeName type="alternative-name">Landstraße</placeName>
   <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
@@ -498,62 +553,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb32951">
-  <title type="main">Iphigenie auf Tauris</title>
-  <author key="person__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
-<date when-iso="1787-01-01">1787</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32951</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb32951</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32951.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32951</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl><bibl xml:id="pmb59325">
-  <title type="main">Worte in Versen II</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1917-01-01" when-iso="1917-07-02">1917</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59325/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59325</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Gedichtsammlung</note>
-</bibl><bibl xml:id="pmb59335">
-  <title type="main">Neue Freie Presse, 11.6.1931</title>
-  <title type="werk_bibliografische-angabe">Neue Freie Presse Nr. 23973 (11.6.1931)</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310611</title>
-<date>1931-06-11  – 1931-06-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59335/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59335</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb59334">
-  <title type="main">Goethe und die Jugend</title>
-  <title type="werk_bibliografische-angabe">Goethe und die Jugend, in: Neue Freie Presse Nr. 23973 (11.6.1931), S. 9.</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310611&amp;seite=9</title>
-<date>1931-06-11  – 1931-06-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59334/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59334</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb59331">
-  <title type="main">Bekenntnis</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1917-01-01" when-iso="1917-07-02">1917</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59331/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb59331</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Gedicht</note>
-</bibl></listBibl><listOrg><org xml:id="pmb29351">
+</place></listPlace><listOrg><org xml:id="pmb29351">
   <orgName>Neue Freie Presse</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>

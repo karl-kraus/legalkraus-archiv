@@ -28,8 +28,7 @@
                </event>
             </listEvent>
          </sourceDesc>
-      </fileDesc>
-      <textClass>
+      </fileDesc><profileDesc><abstract><p>Angelegenheit, in der ein gewisser Edmund Stoll Kraus’ bekannte Heine-Polemik im Februar 1934 mit beleidigenden Randbemerkungen versehen hatte. Obwohl Stoll selbst das Dokument nicht aufgab, wurde es Kraus offenbar zugestellt. Kraus sah in den Randbemerkungen eine Ehrenbeleidigung und beantragte durch Samek Voruntersuchungen. Stoll wurde vom Linzer Bezirksgericht vernommen und gab zu Protokoll, dass er sich nicht schuldig bekenne, da er selbst ja nicht das Dokument an Kraus gesandt habe. Die Sache wurde offenbar nicht weiter verfolgt.</p></abstract><textClass>
          <keywords>
             <term>Strafrecht</term>
             <term>Privatanklagedelikt</term>
@@ -45,30 +44,31 @@
       </textClass>
       <particDesc>
          <listPerson>
-            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.ANK" ref="#pmb11988">
+            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.ANK" sameAs="#pmb11988">
                <persName>Karl Kraus</persName>
-               <ab type="keyword">Anklagender / Anklagende</ab>
+               <note type="keyword">Anklagender / Anklagende</note>
             </person>
-            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.ANG" ref="#pmb43605">
+            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.ANG" sameAs="#pmb43605">
                <persName>Edmund Stoll</persName>
-               <ab type="keyword">Angeklagter / Angeklagte</ab>
+               <note type="keyword">Angeklagter / Angeklagte</note>
             </person>
-            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.AGV" ref="#pmb51689">
+            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.AGV" sameAs="#pmb51689">
                <persName>Franz Pramer</persName>
-               <ab type="keyword">Vertreter (Angeklagter / Angeklagte)</ab>
+               <note type="keyword">Vertreter (Angeklagter / Angeklagte)</note>
             </person>
-            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.RIC" ref="#pmb61872">
+            <person role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.P.RIC" sameAs="#pmb61872">
                <persName>? Buchinger</persName>
-               <ab type="keyword">Richter</ab>
+               <note type="keyword">Richter</note>
             </person>
          </listPerson>
-      </particDesc>
       <listOrg>
-         <org role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.I.GER" ref="#pmb36781">
+         <org role="https://vocabs.acdh.oeaw.ac.at/legalkraus/v1.0/B.I.GER" sameAs="#pmb36781">
             <orgName>Bezirksgericht Linz</orgName>
-            <ab type="keyword">Gerichtliche Institution</ab>
+            <note type="keyword">Gerichtliche Institution</note>
          </org>
       </listOrg>
+      </particDesc>
+      </profileDesc>
       <revisionDesc status="draft">
          <change when-iso="2020-04-07T10:50:10.224Z" resp="#IB">created by API</change>
       </revisionDesc>
@@ -77,7 +77,50 @@
       <body>
          <p/>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listOrg><org xml:id="pmb36781">
+  <orgName>Bezirksgericht Linz</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb332">Linz</placeName>
+  <geo>48.3 14.28333</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q41329</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2772395/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074255-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb332.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/332</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38080</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb332</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb332</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb61872">
+  <persName>
+      <forename>?</forename>
+      <surname>Buchinger</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61872/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61872</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36781">Bezirksgericht Linz</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -168,20 +211,6 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
 </affiliation>
-<listEvent>
-    <event key="40436" when-iso="1893-01-14">
-        <desc n="1256">ist Arbeitskraft bei</desc>
-        <label>Aufführung von Die Räuber, 14.1.1893</label>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40436/</idno>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40436</idno>
-    </event>
-    <event key="42714" when-iso="1905-05-29">
-        <desc n="1256">ist Arbeitskraft bei</desc>
-        <label>Geschlossene Aufführung Die Büchse der Pandora, 29.5.1905</label>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42714/</idno>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42714</idno>
-    </event>
-</listEvent>
 <listBibl>
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -201,27 +230,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-<listEvent><event type="mentioned"><p>erwähnt in <title>200.1 Vernehmung des Beschuldigten [Protokoll der Einvernahme Edmund Stolls] (Bezirksgericht Linz, G.Z. 7 U 1329/35, LGR […] Buchinger)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-001-000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>200.2 Äußerung von Edmund Stoll (an das Bezirksgericht Linz)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-002-000.xml"/></linkGrp></event></listEvent><listEvent><event type="mentioned"><p>erwähnt in <title>Akte 200 Karl Kraus ca. Edmund Stoll</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/C_000200.xml"/></linkGrp></event></listEvent></person><person xml:id="pmb61872">
-  <persName>
-      <forename>?</forename>
-      <surname>Buchinger</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61872/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61872</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36781">Bezirksgericht Linz</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<listEvent><event type="mentioned"><p>erwähnt in <title>200.1 Vernehmung des Beschuldigten [Protokoll der Einvernahme Edmund Stolls] (Bezirksgericht Linz, G.Z. 7 U 1329/35, LGR […] Buchinger)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-001-000.xml"/></linkGrp></event></listEvent><listEvent><event type="mentioned"><p>erwähnt in <title>Akte 200 Karl Kraus ca. Edmund Stoll</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/C_000200.xml"/></linkGrp></event></listEvent></person><person xml:id="pmb51689">
+</person><person xml:id="pmb51689">
   <persName>
       <forename>Franz</forename>
       <surname>Pramer</surname>
@@ -234,28 +243,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-<listEvent><event type="mentioned"><p>erwähnt in <title>200.1 Vernehmung des Beschuldigten [Protokoll der Einvernahme Edmund Stolls] (Bezirksgericht Linz, G.Z. 7 U 1329/35, LGR […] Buchinger)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-001-000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>200.2 Äußerung von Edmund Stoll (an das Bezirksgericht Linz)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-002-000.xml"/></linkGrp></event></listEvent><listEvent><event type="mentioned"><p>erwähnt in <title>Akte 200 Karl Kraus ca. Edmund Stoll</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/C_000200.xml"/></linkGrp></event></listEvent></person></listPerson><listOrg><org xml:id="pmb36781">
-  <orgName>Bezirksgericht Linz</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb332">Linz</placeName>
-  <geo>48.3 14.28333</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q41329</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2772395/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074255-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb332.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/332</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38080</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb332</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb332</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<listEvent><event type="mentioned"><p>erwähnt in <title>200.1 Vernehmung des Beschuldigten [Protokoll der Einvernahme Edmund Stolls] (Bezirksgericht Linz, G.Z. 7 U 1329/35, LGR […] Buchinger)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-001-000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>200.2 Äußerung von Edmund Stoll (an das Bezirksgericht Linz)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/D_000200-002-000.xml"/></linkGrp></event></listEvent><listEvent><event type="mentioned"><p>erwähnt in <title>Akte 200 Karl Kraus ca. Edmund Stoll</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/legalkraus/C_000200.xml"/></linkGrp></event></listEvent></org></listOrg></back></text>
+</person></listPerson></back></text>
 </TEI>

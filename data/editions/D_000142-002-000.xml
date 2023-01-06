@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000142-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000142-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000142-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000142-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000142-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000142-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>142.2 Brief Th. Knaur Nachf. Verlag [Adalbert Droemer] an Richard Lányi</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -177,7 +177,48 @@
          <p xml:id="uuid_b5e5816b-8cee-42b9-a3d6-30cec2a9620c">
             <lb xml:id="uuid_a2f36f2b-b604-4a5b-a0e8-9b9f2e8b2f5c"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb37752" type="institution">Knaur</rs></note></p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listOrg><org xml:id="pmb37752">
+  <orgName>Theodor Knaur Nachf. Verlag</orgName>
+  <desc type="entity_type">Verlag</desc>
+  <desc type="entity_type_id">975</desc>
+<location type="located_in_place">
+  <placeName key="pmb45258">München</placeName>
+  <geo>48.13743 11.57549</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb58126">Prager Straße</placeName>
+  <geo>52.4944087 13.334072</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58126/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58126</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37752/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37752</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37752</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q122655</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -298,7 +339,30 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</place></listPlace><listPerson><person xml:id="pmb51570">
+  <persName>
+      <forename>Adalbert</forename>
+      <surname>Droemer</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Drömer</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Droener</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Kröner</persName>
+  <sex value="male"/>
+  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51570/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51570</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37752">Theodor Knaur Nachf. Verlag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37752/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37752</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37752</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q122655</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -439,71 +503,7 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb51570">
-  <persName>
-      <forename>Adalbert</forename>
-      <surname>Droemer</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Drömer</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Droener</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Kröner</persName>
-  <sex value="male"/>
-  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51570/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51570</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37752">Theodor Knaur Nachf. Verlag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37752/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37752</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37752</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q122655</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37752">
-  <orgName>Theodor Knaur Nachf. Verlag</orgName>
-  <desc type="entity_type">Verlag</desc>
-  <desc type="entity_type_id">975</desc>
-<location type="located_in_place">
-  <placeName key="pmb45258">München</placeName>
-  <geo>48.13743 11.57549</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb58126">Prager Straße</placeName>
-  <geo>52.4944087 13.334072</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58126/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58126</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37752/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37752</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37752</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q122655</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb32544">
+</person></listPerson><listBibl><bibl xml:id="pmb32544">
   <title type="main">Die letzten Tage der Menschheit</title>
   <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
   <author key="person__51630" role="hat-ubersetzt">Münzer, Jan</author>

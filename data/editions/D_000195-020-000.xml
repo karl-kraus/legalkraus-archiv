@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000195-021-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000195-019-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000195-020-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000195-020-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000195-019-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000195-021-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>195.20 Übersetzung der Anklageschrift von Karl Kraus gegen Aufruf (Egon Butschowitz und verantw. Red. Friedrich Bill)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -334,7 +334,7 @@
                 allgemeinen Meinung verächtlich erscheinen<lb xml:id="uuid_1fad5a31-8f28-43a8-8f1d-46dc23eee2f3"/>müssen. Der <rs ref="#pmb43586" type="person">Autor des <rs ref="#pmb56412" type="work" subtype="pmb">inkriminierten Artikels</rs></rs>
                 musste wissen<lb xml:id="uuid_bfef3cc5-871c-45a7-af4b-32e5071a1a42"/>und hat auch
                 gewusst, dass die von ihm in diesem Zusammenhänge<lb xml:id="uuid_a64379b0-7685-4b2f-b23e-d03f8e95f8da"/>aufgestellten Behauptungen
-                unrichtig sind, umsomehr als im<lb xml:id="uuid_5152217b-9955-4278-a6e7-c3fb40f99165"/><rs ref="https://fackel.oeaw.ac.at/f/890,0u1" type="work" subtype="fackel">Hefte Nr.
+                unrichtig sind, umsomehr als im<lb xml:id="uuid_5152217b-9955-4278-a6e7-c3fb40f99165"/><rs ref="#lk_fackel__193" corresp="https://fackel.oeaw.ac.at/f/890,0u1" type="work" subtype="fackel">Hefte Nr.
                     890 bis 905 der Zeitschrift „Die Fackel“</rs> die Gründe,<lb xml:id="uuid_3e72731a-d3be-4c05-b786-b948cf115c70"/>aus welchen <del hand="#D_000195-020-000-hand01">die Unterlassung</del> d<subst hand="#D_000195-020-000-hand01">
                     <del hand="#D_000195-020-000-hand01">er</del>
                     <add hand="#D_000195-020-000-hand01">ie</add>
@@ -346,7 +346,7 @@
                     <del hand="#D_000195-020-000-hand01">musste</del>
                     <add hand="#D_000195-020-000-hand01">unterlassen wurde</add>
                 </subst>, eingehend dargestellt sind. <add hand="#D_000195-020-000-hand01">Schon im
-                        <rs ref="https://fackel.oeaw.ac.at/f/889,0u1" type="work" subtype="fackel">Heft 889 Oktober 1933</rs> hat sich der <rs ref="#pmb11988" type="person">PA</rs>
+                        <rs ref="#lk_fackel__192" corresp="https://fackel.oeaw.ac.at/f/889,0u1" type="work" subtype="fackel">Heft 889 Oktober 1933</rs> hat sich der <rs ref="#pmb11988" type="person">PA</rs>
                     ausdrücklich zu dieser Unterlassung bekannt.</add>
             </p>
          <p xml:id="uuid_3bff4a04-0bf1-41d7-9fff-826b5707a6f3">
@@ -409,8 +409,8 @@
                 Sinn: Im November<lb xml:id="uuid_1039b2c9-dde4-4a10-b49a-bad773ada48e"/>1933 war in
                 der Zeitschrift „<rs ref="#pmb55906" type="work" subtype="pmb">AUFRUF</rs>“ ein <rs ref="#pmb55910" type="work" subtype="pmb">Artikel</rs> veröf<lb break="no" xml:id="uuid_f9e9fddc-0b3a-4720-b038-a3bcb69040f8"/>fentlicht, dem ohne
                 Einwilligung des <rs ref="#pmb11988" type="person">Privatanklägers</rs> ein<lb xml:id="uuid_60bf4d35-7910-4541-b974-41833aa4edf7"/>in der Zeitschrift „<rs ref="#pmb41244" type="work" subtype="pmb">Die Fackel</rs>“
-                erschienenes <rs ref="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedicht</rs> voran<lb break="no" xml:id="uuid_406c0bd6-10da-4193-97cf-bacd1951b4ca"/>gesetzt war. Wegen dieses
-                Eingriffes in die Autorrechte des<lb xml:id="uuid_35719872-a221-499a-a4c5-fe5471e2980d"/><rs ref="#pmb11988" type="person">Privatanklägers</rs> und wegen der fehlerhaften Zitierung des<lb xml:id="uuid_4c21070e-a774-4d02-8d30-c87f8491f661"/><rs ref="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedichtes</rs> hat dieser in berechtigter Wahrung seiner Interes<lb break="no" xml:id="uuid_8b88e55f-3f49-4484-9aa0-d437a6e09cbd"/>sen durch Vermittlung seines
+                erschienenes <rs ref="#lk_fackel__191" corresp="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedicht</rs> voran<lb break="no" xml:id="uuid_406c0bd6-10da-4193-97cf-bacd1951b4ca"/>gesetzt war. Wegen dieses
+                Eingriffes in die Autorrechte des<lb xml:id="uuid_35719872-a221-499a-a4c5-fe5471e2980d"/><rs ref="#pmb11988" type="person">Privatanklägers</rs> und wegen der fehlerhaften Zitierung des<lb xml:id="uuid_4c21070e-a774-4d02-8d30-c87f8491f661"/><rs ref="#lk_fackel__191" corresp="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedichtes</rs> hat dieser in berechtigter Wahrung seiner Interes<lb break="no" xml:id="uuid_8b88e55f-3f49-4484-9aa0-d437a6e09cbd"/>sen durch Vermittlung seines
                     <rs ref="#pmb43593" type="person">Anwaltes</rs> eine im „<rs ref="#pmb55906" type="work" subtype="pmb">AUFRUF</rs>“<lb xml:id="uuid_7be0d8d2-c07a-479e-8595-a65527a989c4"/>zu veröffentlichende und
                 später auch – allerdings <add hand="#D_000195-020-000-hand01">nicht in der</add>
                     vereinbar<subst hand="#D_000195-020-000-hand01">
@@ -669,7 +669,98 @@
             <lb xml:id="uuid_bdef9ef1-8001-480a-9476-5ccbafe80114"/><rs ref="#pmb652" type="place">Prag</rs>, am 29.XI.1934.<lb xml:id="uuid_01bcfa67-1b19-426b-a8f4-4f15ddb167ed"/><rs ref="#pmb11988" type="person">Karl
                     Kraus</rs>. </p>
       </body>
-   <back><listBibl><bibl xml:id="pmb56424">
+   <back><listBibl><bibl xml:id="lk_fackel__191" corresp="https://fackel.oeaw.ac.at/f/888,004" type="fackel"><title level="a">Man frage nicht</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1933-10-16">Oktober 1933</date><num type="volume">Jg. 35</num><num type="issue">Nr. 888</num><biblScope from="4" to="4">4</biblScope><ref target="https://fackel.oeaw.ac.at/f/888,004">187.1
+                  Entwurf einer Berichtigung an Der Aufruf (verantw. Red. Friedrich
+                  Bill)|D_000187-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.13 Brief RA Johann Turnovsky an Samek|D_000187-013-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.3 Brief Samek an RA Johann
+                  Turnovsky|D_000187-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.27 Brief RA Johann Turnovsky an
+                  Samek|D_000189-027-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.2 Brief Samek an RA Johann Turnovsky|D_000189-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.15 Brief RA Johann Turnovsky an
+                  Samek|D_000187-015-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.9 Brief RA Johann Turnovsky an Samek|D_000187-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.26 Brief Samek an RA Johann
+                  Turnovsky|D_000189-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.14 Brief Samek an RA Johann
+                  Turnovsky|D_000187-014-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.9 Brief RA Johann Turnovsky an
+                  Samek|D_000189-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.90 Entwurf zur Äußerung und zu den Beweisanträgen Maries
+                  Schnierers|D_000189-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.18 Brief RA Johann Turnovsky an
+                  Der Aufruf (verantw. Red. Friedrich Bill)|D_000187-018-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.4 Brief RA Johann Turnovsky an
+                  Samek|D_000187-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.12 Brief RA Johann Turnovsky an Samek|D_000189-012-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.19 Brief RA Johann Turnovsky an
+                  Samek|D_000187-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.29 Brief RA Johann Turnovsky an Samek|D_000189-029-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.2 Brief RA Johann Turnovsky an
+                  Samek|D_000187-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.22 Beschluss (Übersetzung) des Strafbezirksgerichts Prag Abtlg. VI (G.Z. T IV
+                  7/34/6, Jaroslav Pernt)|D_000189-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.21 Brief RA Johann Turnovsky an
+                  Samek|D_000189-021-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.21 Brief RA Johann Turnovsky an RA Friedrich
+                  Bill|D_000187-021-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.10 Brief RA Johann Turnovsky an Samek|D_000187-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.4 Brief RA Johann Turnovsky an
+                  Samek|D_000189-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">195.20 Übersetzung der Anklageschrift von Karl Kraus gegen Aufruf (Egon
+                  Butschowitz und verantw. Red. Friedrich Bill)|D_000195-020-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.23 Brief RA Johann Turnovsky an
+                  Samek|D_000189-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.25 Beschwerde (Übersetzung) gegen den Beschluss vom 10. Januar
+                  1934|D_000189-025-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.16 Brief Samek an RA Johann Turnovsky|D_000187-016-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.12 Brief RA Friedrich Bill an RA
+                  Johann Turnovsky|D_000187-012-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.28 Brief Samek an RA Johann
+                  Turnovsky|D_000189-028-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.5 Brief RA Johann Turnovsky an
+                  Samek|D_000189-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.3 Brief RA Johann Turnovsky an Samek|D_000189-003-000.xml</ref></bibl>
+            <bibl xml:id="pmb56410">
+  <title type="main">Der Aufruf, 1.9.1934</title>
+  <title type="werk_bibliografische-angabe">Der Aufruf, Nr. 22–23, 1.9.1934</title>
+<date>1934-09-01  – 1934-09-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56410/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56410</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="lk_fackel__193" corresp="https://fackel.oeaw.ac.at/f/890,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1934-07-31">Ende Juli 1934</date><num type="volume">Jg. 36</num><num type="issue">Nr. 890–905</num><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.120 Entwurf eines Antrags auf Einleitung des Strafverfahrens gegen Emil
+                  Strauss und Egon Schwelb wegen Vergehens gegen den Schutz der Ehre
+                  (Übersetzung)|D_000193-120-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.75 Brief RA Felix Gallia an
+                  Samek|D_000196-075-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.133 Brief RA Johann Turnovsky an Samek|D_000193-133-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.1 Brief Samek an RA Johann
+                  Turnovsky|D_000196-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.132 Zweiter Entwurf eines Antrags
+                  auf Einleitung des Strafverfahrens gegen Emil Strauss und Egon Schwelb wegen
+                  Vergehens gegen den Schutz der Ehre|D_000193-132-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">189.72 Brief RA Johann Turnovsky an
+                  Kraus|D_000189-072-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.183 Brief Samek an RA Johann Turnovsky|D_000193-183-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.84 Äußerung des Privatklägers zum
+                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.182 Brief RA Johann Turnovsky an
+                  Samek|D_000193-182-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.78 Übersetzung der Einvernahmsprotokolle in der Angelegenheit Kraus –
+                  Sozialdemokrat/Dr. Strauss|D_000193-078-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.20 Übersetzung der Anklageschrift
+                  von Karl Kraus gegen Aufruf (Egon Butschowitz und verantw. Red. Friedrich
+                  Bill)|D_000195-020-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.53 Entwurf der Äußerung gegen den im Presseprozess Karl Kraus ca. Dr. Emil
+                  Strauss von der Verteidigung gestellten Delegierungsantrag und zu dem bei der
+                  Hauptverhandlung vom 27. November 1935 verkündeten
+                  Gerichtsbeschluss|D_000193-053-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.19 Übersetzung [Schriftsatz in
+                  Sachen Kraus ca. Sozialdemokrat] (RA Egon Schwelb [an das Strafkreisgericht
+                  Prag])|D_000193-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.160 Äußerung als Erwiderung auf die Eingabe Egon Schwelbs (RA Johann
+                  Turnovsky an den Ausschuss der Advokatenkammer für
+                  Böhmen)|D_000193-160-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.60 Brief RA Felix Gallia an
+                  Samek|D_000196-060-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.15 Entwurf der Satisfaktionserklärung|D_000196-015-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.25 Übersetzung des Schriftsatzes
+                  der Beklagten im Prozesse Karl Kraus ca: Aufruf (Egon Butschowitz und Friedrich
+                  Bill)|D_000195-025-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.8 Strafanzeige gegen Sozialdemokrat (verantw. Red. Emil Strauss) wegen des
+                  Vergehens der Nachrede und Verleumdung (eingebracht von Karl Kraus beim
+                  Strafkreisgericht Prag)|D_000193-008-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.83 Brief Samek an RA Felix
+                  Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">192.13 Brief RA Johann Turnovsky an Samek|D_000192-013-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.61 Übersetzung der Durchführung
+                  des Wahrheitsbeweises resp. des entschuldbaren Irrtums von Josef Schramek und Hugo
+                  Sonnenschein|D_000196-061-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.34 Entwurf eines Schriftsatzes in
+                  Sachen Kraus ca. Sozialdemokrat (RA Johann Turnovsky an das Strafkreisgericht
+                  Prag)|D_000193-034-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.24 Brief RA Johann Turnovsky an Samek|D_000195-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.46 Brief Samek an RA Johann
+                  Turnovsky|D_000193-046-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.23 Brief Samek an RA Johann
+                  Turnovsky|D_000193-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.3 Brief RA Johann Turnovsky an
+                  Kraus|D_000193-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.38 Brief Samek an RA Johann Turnovsky|D_000195-038-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.80 Brief Samek an RA Johann
+                  Turnovsky|D_000193-080-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.55 Äußerung [Schriftsatz in
+                  Sachen Kraus ca. Strauss] (Kraus und Samek an das Obergericht in
+                  Prag)|D_000193-055-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">189.90 Entwurf zur Äußerung und zu den Beweisanträgen Maries
+                  Schnierers|D_000189-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.36 Brief Samek an RA Johann
+                  Turnovsky|D_000195-036-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.14 Brief RA Johann Turnovsky an
+                  Samek|D_000195-014-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.39 Brief RA Johann Turnovsky an Samek|D_000195-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.103 Brief Samek an RA Johann
+                  Turnovsky|D_000193-103-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.8 Brief Samek an RA Robert
+                  Herrmann|D_000196-008-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.92 Brief Samek an Sozialdemokrat
+                  (verantw. Red. Emil Strauss)|D_000193-092-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">196.90 Protokoll der
+                  Zeugeneinvernahme von Karl Kraus|D_000196-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.48 Brief RA Johann Turnovsky an
+                  Samek|D_000193-048-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.45 Übersetzung des am 1936 bei Gericht eingelangten Beweisantrages des
+                  Friedrich Bill in der Strafsache Tk 9179/34|D_000195-045-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.27 Brief Samek an RA Johann
+                  Turnovsky|D_000195-027-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.38 Brief Samek an RA Johann
+                  Turnovsky|D_000193-038-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.7 Strafanzeige resp. Klage von
+                  Karl Kraus gegen Aufruf (Lucien Verneau und verantw. Red. Friedrich Bill) gemäß §§
+                  1 bis 3 des Ges. vom 28. Juni 1933 (Kreisstrafgericht
+                  Prag)|D_000195-007-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">189.111 Brief RA Johann Turnovsky an Samek|D_000189-111-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.29 Brief Samek an RA Johann
+                  Turnovsky|D_000195-029-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.37 Entwurf eines Schriftsatzes in
+                  der Angelegenheit Kraus – Aufruf|D_000195-037-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.82 Brief Samek an RA Johann
+                  Turnovsky|D_000193-082-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.24 Brief RA Johann Turnovsky an
+                  Samek|D_000193-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">195.57 Brief RA Johann Turnovsky an Samek|D_000195-057-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/890,0u1">193.18 Brief RA Johann Turnovsky an
+                  Samek|D_000193-018-000.xml</ref></bibl>
+            <bibl xml:id="pmb56424">
   <title type="main">Zu diesem Karl Kraus</title>
   <title type="werk_bibliografische-angabe">Zu diesem Karl Kraus, in: Der Aufruf, Nr. 22–23, 1.9.1934, S. 583</title>
   <author key="person__37889" role="hat-geschaffen">Bill, Friedrich</author>
@@ -691,16 +782,17 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb55906">
-  <title type="main">Der Aufruf</title>
-  <author key="person__37889" role="hat-einen-beitrag-geschaffen-zu">Bill, Friedrich</author>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55906/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55906</idno>
+</bibl><bibl xml:id="pmb56412">
+  <title type="main">Die Fackel schwelt</title>
+  <title type="werk_bibliografische-angabe">Die Fackel schwelt, in: Der Aufruf, Nr. 22–23, 1.9.1934, S. 559–567</title>
+  <author key="person__43586" role="hat-geschaffen">Butschowitz, Egon</author>
+<date>1934-09-01  – 1934-09-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56412/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56412</idno>
 <note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+  <note type="work_kind">Zeitungsbericht</note>
 </bibl><bibl xml:id="pmb41244">
   <title type="main">Die Fackel</title>
   <title type="werk_link">https://fackel.oeaw.ac.at</title>
@@ -720,232 +812,59 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb56410">
-  <title type="main">Der Aufruf, 1.9.1934</title>
-  <title type="werk_bibliografische-angabe">Der Aufruf, Nr. 22–23, 1.9.1934</title>
-<date>1934-09-01  – 1934-09-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56410/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56410</idno>
+</bibl><bibl xml:id="pmb55906">
+  <title type="main">Der Aufruf</title>
+  <author key="person__37889" role="hat-einen-beitrag-geschaffen-zu">Bill, Friedrich</author>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55906/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55906</idno>
 <note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb56412">
-  <title type="main">Die Fackel schwelt</title>
-  <title type="werk_bibliografische-angabe">Die Fackel schwelt, in: Der Aufruf, Nr. 22–23, 1.9.1934, S. 559–567</title>
-  <author key="person__43586" role="hat-geschaffen">Butschowitz, Egon</author>
-<date>1934-09-01  – 1934-09-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56412/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56412</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl><listOrg><org xml:id="pmb36822">
-  <orgName>Kreis-Strafgericht Prag</orgName>
-  <orgName type="person_namensvariante_nachname-komma-vorname">Strafkreisgericht</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb652">Prag</placeName>
-  <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36822/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36822</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36822</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb43724">
-  <orgName>Verlag Die Fackel (Wien)</orgName>
-  <desc type="entity_type">Verlag</desc>
-  <desc type="entity_type_id">975</desc>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50496">Hintere Zollamtsstraße</placeName>
-  <geo>48.211869 16.387333</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2773040/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2773040/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="13">No WikiData-ID found</bibl>
-</listBibl>
-<note type="apis_dates">
-<date>-  – -</date>
-</note>
-</org><org xml:id="pmb37264">
-  <orgName>Der Aufruf</orgName>
-  <desc type="entity_type">Zeitschriftenredaktion</desc>
-  <desc type="entity_type_id">973</desc>
-<location type="located_in_place">
-  <placeName key="pmb652">Prag</placeName>
-  <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb56313">
-  <orgName>Pressesenat Prag</orgName>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56313/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56313</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb53005">
-  <orgName>Café Imperial</orgName>
-  <desc type="entity_type">Café</desc>
-  <desc type="entity_type_id">1630</desc>
-<location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2775259/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53005/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53005</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPerson><person xml:id="pmb38707">
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__192" corresp="https://fackel.oeaw.ac.at/f/889,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1934-07-01">Juli 1934</date><num type="volume">Jg. 36</num><num type="issue">Nr. 889</num><ref target="https://fackel.oeaw.ac.at/f/889,0u1">195.7
+                  Strafanzeige resp. Klage von Karl Kraus gegen Aufruf (Lucien Verneau und verantw.
+                  Red. Friedrich Bill) gemäß §§ 1 bis 3 des Ges. vom 28. Juni 1933
+                  (Kreisstrafgericht Prag)|D_000195-007-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/889,0u1">193.34 Entwurf eines Schriftsatzes in
+                  Sachen Kraus ca. Sozialdemokrat (RA Johann Turnovsky an das Strafkreisgericht
+                  Prag)|D_000193-034-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/889,0u1">195.20 Übersetzung der Anklageschrift von Karl Kraus gegen Aufruf (Egon
+                  Butschowitz und verantw. Red. Friedrich Bill)|D_000195-020-000.xml</ref></bibl>
+            </listBibl><listPerson><person xml:id="pmb51864">
   <persName>
-      <forename>Ernst Rüdiger</forename>
-      <surname>Starhemberg</surname>
+      <forename>Wilhelm</forename>
+      <surname>Liebknecht</surname>
   </persName>
   <birth>
-    <date when-iso="1899-05-10">10.05.1899</date>
-      <settlement key="pmb49172">
-        <placeName type="pref">Eferding</placeName>
-        <location><geo>48.30957 14.02207</geo></location>
-      </settlement>
+    <date when-iso="1826-03-29">1826-03-29</date>
   </birth>  
   <death>
-    <date when-iso="1956-03-15">15.03.1956</date>
-      <settlement key="pmb38711">
-        <placeName type="pref">Schruns</placeName>
-        <location><geo>47.06667 9.91667</geo></location>
-      </settlement>
+    <date when-iso="1900-08-07">1900-08-07</date>
   </death>
   <sex value="male"/>
   <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38707/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38707</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38707</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51864</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb43586">
+</person><person xml:id="pmb43593">
   <persName>
-      <forename>Egon</forename>
-      <surname>Butschowitz</surname>
+      <forename>Johann</forename>
+      <surname>Turnovsky</surname>
   </persName>
-  <persName type="person_pseudonym">Lucien Verneau</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Vernier</persName>
-  <birth>
-    <date when-iso="1898-12-20">20.12.1898</date>
-  </birth>  
   <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43586/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43586</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43586</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb56720">
-  <persName>
-      <forename>Emil</forename>
-      <surname>Fey</surname>
-  </persName>
-  <birth>
-    <date when-iso="1886-03-23">1886-03-23</date>
-  </birth>  
-  <death>
-    <date when-iso="1938-03-16">1938-03-16</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56720/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56720</idno>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43593/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43593</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43593</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41908</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb88268">Kanzlei Johann Turnovsky</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88268/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb88268</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -997,30 +916,65 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb59046">
+</person><person xml:id="pmb38707">
   <persName>
-      <forename>František Xaver</forename>
-      <surname>Šalda</surname>
+      <forename>Ernst Rüdiger</forename>
+      <surname>Starhemberg</surname>
   </persName>
   <birth>
-    <date when-iso="1867-12-22">1867-12-22</date>
+    <date when-iso="1899-05-10">10.05.1899</date>
+      <settlement key="pmb49172">
+        <placeName type="pref">Eferding</placeName>
+        <location><geo>48.30957 14.02207</geo></location>
+      </settlement>
   </birth>  
   <death>
-    <date when-iso="1937-04-04">1937-04-04</date>
+    <date when-iso="1956-03-15">15.03.1956</date>
+      <settlement key="pmb38711">
+        <placeName type="pref">Schruns</placeName>
+        <location><geo>47.06667 9.91667</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38707/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38707</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38707</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb37889">
+  <persName>
+      <forename>Friedrich</forename>
+      <surname>Bill</surname>
+  </persName>
+  <birth>
+    <date when-iso="1894-01-01">?.01.1894 &lt;1894-01-01&gt;</date>
+      <settlement key="pmb51049">
+        <placeName type="pref">Prostějov</placeName>
+        <location><geo>49.47188 17.11184</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1976-10-26">26.10.1976</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
   </death>
   <sex value="male"/>
   <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <occupation key="370">Dichter/Dichterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59046/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb59046</idno>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37889/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37889</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37889</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116180854</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
-    <orgName key="pmb37231">Melantrich Verlag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37231/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37231</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37231</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2516736</idno>
+    <orgName key="pmb37264">Der Aufruf</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -1122,77 +1076,67 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb37889">
+</person><person xml:id="pmb43586">
   <persName>
-      <forename>Friedrich</forename>
-      <surname>Bill</surname>
+      <forename>Egon</forename>
+      <surname>Butschowitz</surname>
+  </persName>
+  <persName type="person_pseudonym">Lucien Verneau</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Vernier</persName>
+  <birth>
+    <date when-iso="1898-12-20">20.12.1898</date>
+  </birth>  
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43586/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43586</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43586</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb59046">
+  <persName>
+      <forename>František Xaver</forename>
+      <surname>Šalda</surname>
   </persName>
   <birth>
-    <date when-iso="1894-01-01">?.01.1894 &lt;1894-01-01&gt;</date>
-      <settlement key="pmb51049">
-        <placeName type="pref">Prostějov</placeName>
-        <location><geo>49.47188 17.11184</geo></location>
-      </settlement>
+    <date when-iso="1867-12-22">1867-12-22</date>
   </birth>  
   <death>
-    <date when-iso="1976-10-26">26.10.1976</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
+    <date when-iso="1937-04-04">1937-04-04</date>
   </death>
   <sex value="male"/>
   <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37889/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37889</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37889</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116180854</idno>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <occupation key="370">Dichter/Dichterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59046/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb59046</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
-    <orgName key="pmb37264">Der Aufruf</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
+    <orgName key="pmb37231">Melantrich Verlag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37231/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37231</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37231</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2516736</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb51864">
+</person><person xml:id="pmb56720">
   <persName>
-      <forename>Wilhelm</forename>
-      <surname>Liebknecht</surname>
+      <forename>Emil</forename>
+      <surname>Fey</surname>
   </persName>
   <birth>
-    <date when-iso="1826-03-29">1826-03-29</date>
+    <date when-iso="1886-03-23">1886-03-23</date>
   </birth>  
   <death>
-    <date when-iso="1900-08-07">1900-08-07</date>
+    <date when-iso="1938-03-16">1938-03-16</date>
   </death>
   <sex value="male"/>
   <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51864</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb43593">
-  <persName>
-      <forename>Johann</forename>
-      <surname>Turnovsky</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43593/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43593</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43593</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41908</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb88268">Kanzlei Johann Turnovsky</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88268/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb88268</idno>
-</affiliation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56720/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56720</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -1236,18 +1180,6 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
-</listBibl>
-</place><place xml:id="pmb55951">
-  <placeName>Krakovská</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>50.08015 14.42878</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55951/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55951</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </place><place xml:id="pmb50">
   <placeName>Wien</placeName>
@@ -1300,5 +1232,162 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place><place xml:id="pmb55951">
+  <placeName>Krakovská</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>50.08015 14.42878</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55951/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55951</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listOrg><org xml:id="pmb53005">
+  <orgName>Café Imperial</orgName>
+  <desc type="entity_type">Café</desc>
+  <desc type="entity_type_id">1630</desc>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53005/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53005</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb43724">
+  <orgName>Verlag Die Fackel (Wien)</orgName>
+  <desc type="entity_type">Verlag</desc>
+  <desc type="entity_type_id">975</desc>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50496">Hintere Zollamtsstraße</placeName>
+  <geo>48.211869 16.387333</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
+</listBibl>
+<note type="apis_dates">
+<date>-  – -</date>
+</note>
+</org><org xml:id="pmb37264">
+  <orgName>Der Aufruf</orgName>
+  <desc type="entity_type">Zeitschriftenredaktion</desc>
+  <desc type="entity_type_id">973</desc>
+<location type="located_in_place">
+  <placeName key="pmb652">Prag</placeName>
+  <geo>50.08333 14.46667</geo>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb56313">
+  <orgName>Pressesenat Prag</orgName>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56313/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56313</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36822">
+  <orgName>Kreis-Strafgericht Prag</orgName>
+  <orgName type="person_namensvariante_nachname-komma-vorname">Strafkreisgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb652">Prag</placeName>
+  <geo>50.08333 14.46667</geo>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36822/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36822</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36822</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg></back></text>
 </TEI>

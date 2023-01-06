@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-006-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-004-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000089-005-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000089-005-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-004-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000089-006-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>89.5 Vernehmung des Beschuldigten [Protokoll der Einvernahme Nirensteins]</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -240,50 +240,61 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb21976">
+</place></listPlace><listPerson><person xml:id="pmb52914">
   <persName>
-      <forename>Clara</forename>
+      <forename>Franziska</forename>
       <surname>Nirenstein</surname>
   </persName>
-  <persName type="person_geburtsname_nachname">Engel</persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52914/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52914</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb21979">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Nirenstein</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
   <birth>
-    <date when-iso="1866-07-20">20.07.1866</date>
+    <date when-iso="1894-04-01">01.04.1894</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1937-03-27">27.03.1937</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
+    <date when-iso="1978-11-30">30.11.1978</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
       </settlement>
   </death>
-  <sex value="not-set"/>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18459</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21976</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21976</idno>
+  <sex value="male"/>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <occupation key="250">Galerist/Galeristin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52915">Neue Galerie</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb52910">
+</person><person xml:id="pmb52912">
   <persName>
-      <forename>?</forename>
-      <surname>Tratter</surname>
+      <forename>Jakob</forename>
+      <surname>Nirenstein</surname>
   </persName>
-  <sex value="not-set"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52910/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52910</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-</affiliation>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52912/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52912</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -342,73 +353,54 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb52912">
+</person><person xml:id="pmb21976">
   <persName>
-      <forename>Jakob</forename>
+      <forename>Clara</forename>
       <surname>Nirenstein</surname>
   </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52912/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52912</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52914">
-  <persName>
-      <forename>Franziska</forename>
-      <surname>Nirenstein</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52914/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52914</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb21979">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Nirenstein</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
+  <persName type="person_geburtsname_nachname">Engel</persName>
   <birth>
-    <date when-iso="1894-04-01">01.04.1894</date>
+    <date when-iso="1866-07-20">20.07.1866</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1978-11-30">30.11.1978</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
+    <date when-iso="1937-03-27">27.03.1937</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </death>
-  <sex value="male"/>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <occupation key="250">Galerist/Galeristin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
+  <sex value="not-set"/>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18459</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21976</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21976</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb52910">
+  <persName>
+      <forename>?</forename>
+      <surname>Tratter</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52910/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52910</idno>
 <affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52915">Neue Galerie</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb65910">
-  <title type="main">Der Weltspiegel</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65910/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb65910</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb60545">
+</person></listPerson><listBibl><bibl xml:id="pmb60545">
   <title type="main">Aus der Peter Altenberg-Ausstellung in Wien</title>
   <title type="werk_bibliografische-angabe">Aus der Peter Altenberg-Ausstellung in Wien, in: Der Weltspiegel, Nr. 28, 10.7.1927, S. 2</title>
 <date>1927-07-10  – 1927-07-10</date>
@@ -418,6 +410,14 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb65910">
+  <title type="main">Der Weltspiegel</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65910/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb65910</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
 </bibl></listBibl><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>

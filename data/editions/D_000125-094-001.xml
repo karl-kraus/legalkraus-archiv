@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-095-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-094-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000125-094-001.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000125-094-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-094-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-095-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>125.94 Kostenrechnung in Sachen Fackel Verlag ./. Städtische Bühnen A.G. Frankfurt a./M.</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -223,24 +223,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb19200">
-  <persName>
-      <forename>Willy</forename>
-      <surname>Katz</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
-  <persName type="legacy-name-merge">Katz, Willy</persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
-</listBibl>
-</person><person xml:id="pmb38316">
+</place></listPlace><listPerson><person xml:id="pmb38316">
   <persName>
       <forename>Hans-Georg</forename>
       <surname>Tovote</surname>
@@ -266,6 +249,23 @@
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb19200">
+  <persName>
+      <forename>Willy</forename>
+      <surname>Katz</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
+  <persName type="legacy-name-merge">Katz, Willy</persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>

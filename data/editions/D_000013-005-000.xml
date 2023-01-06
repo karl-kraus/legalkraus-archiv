@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>13.5 Beschwerde gegen den Beschluss vom 26.10.1925</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -151,7 +151,63 @@
                <lb xml:id="uuid_5517a0eb-e117-4ffb-bd91-2d1d3539abb7"/>30.X.25 </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listBibl><bibl xml:id="pmb50757">
+  <title type="main">Karl Kraus (×)</title>
+  <title type="werk_link-anno">http://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250320&amp;query=%22Karl+Kraus%22~1&amp;ref=anno-search&amp;seite=1</title>
+  <title type="werk_bibliografische-angabe">Karl Kraus (×), in: Die Stunde, Nr. 610, 20.3.1925, S. 1</title>
+<date>1925-03-20  – 1925-03-20</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50757/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50757</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl></listBibl><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -280,63 +336,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb50757">
-  <title type="main">Karl Kraus (×)</title>
-  <title type="werk_link-anno">http://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250320&amp;query=%22Karl+Kraus%22~1&amp;ref=anno-search&amp;seite=1</title>
-  <title type="werk_bibliografische-angabe">Karl Kraus (×), in: Die Stunde, Nr. 610, 20.3.1925, S. 1</title>
-<date>1925-03-20  – 1925-03-20</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50757/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50757</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl><listOrg><org xml:id="pmb50491">
+</person></listPerson><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
   <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>

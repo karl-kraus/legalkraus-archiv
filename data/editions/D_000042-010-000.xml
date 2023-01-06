@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000042-011-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000042-009-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000042-010-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000042-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000042-009-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000042-011-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>42.10 Brief Samek an Karl Peyer</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -146,7 +146,7 @@
             Herausgeber der „<rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs>“ geführt
                wurde<lb xml:id="uuid_bb687b0a-9176-4fc8-ad69-abba24cd853b"/>und dieser einen Artikel
                <rs ref="#pmb37843" type="person">Bekessy</rs> mit der
-            Ueberschrift „<rs ref="https://fackel.oeaw.ac.at/f/697,145" type="work" subtype="fackel">Hinaus<lb xml:id="uuid_af4285c5-53b1-4a7b-9a81-d495d1f16c78"/>aus Wien mit dem
+            Ueberschrift „<rs ref="#lk_fackel__127" corresp="https://fackel.oeaw.ac.at/f/697,145" type="work" subtype="fackel">Hinaus<lb xml:id="uuid_af4285c5-53b1-4a7b-9a81-d495d1f16c78"/>aus Wien mit dem
                Schuft</rs>“ veröffentlichte. Erst nach Beendigung<lb xml:id="uuid_754639db-481f-494b-bf24-d01cb540b821"/>dieses Kampfes durch die Flucht
                <rs ref="#pmb37843" type="person">Bekessy</rs> aus
             Oesterreich haben<lb xml:id="uuid_7db763c9-3e2f-40d9-b388-86acbe158865"/>die übrigen
@@ -161,7 +161,102 @@
             <lb xml:id="uuid_fc4adee3-91b0-4b0f-b7f2-4e6c182b378e"/><note type="paratext" resp="law-firm">Betr. <rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb29470" type="institution">Stunde</rs> – Diverse<lb xml:id="uuid_9ebfe0da-9990-4311-ad0c-f78fbc6f0c13"/>exp. am 23. Dez. 1927.</note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listBibl><bibl xml:id="pmb52212">
+  <title type="main">Pester Lloyd</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52212/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52212</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb36374">
+  <title type="main">Neue Freie Presse</title>
+  <title type="werk_link-anno">http://anno.onb.ac.at/cgi-content/anno?aid=nfp</title>
+  <author key="person__10875" role="hat-herausgegeben">Benedikt, Moriz</author>
+  <author key="person__10872" role="hat-herausgegeben">Benedikt, Ernst</author>
+  <author key="person__10809" role="hat-herausgegeben">Bacher, Eduard</author>
+<date from-iso="1864-01-01" to-iso="1864-12-31">1864  – 1939</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36374/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36374</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36374</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb36374</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="lk_fackel__127" corresp="https://fackel.oeaw.ac.at/f/697,145" type="fackel"><title level="a">Hinaus aus Wien mit dem Schuft!</title><title level="s">Die Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1925-10-01">Oktober
+                  1925</date><num type="volume">Jg. 27</num><num type="issue">Nr.
+                  697–705</num><biblScope from="145" to="176">145–176</biblScope><ref target="https://fackel.oeaw.ac.at/f/697,145">19.16 Berufungsausführung des
+                  Privatanklägers|D_000019-016-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/697,148">19.9 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I Wien, G.Z. U I 286/25, Richter: Christoph
+                  Höflmayr)|D_000019-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/697,145">42.10 Brief Samek an Karl
+                  Peyer|D_000042-010-000.xml</ref></bibl>
+            </listBibl><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -258,63 +353,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb52885">
-  <persName>
-      <forename>Peyer</forename>
-      <surname>Karl</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52885/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52885</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb37843">
   <persName>
       <forename>Imre</forename>
@@ -363,50 +401,19 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb52212">
-  <title type="main">Pester Lloyd</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52212/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52212</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb36374">
-  <title type="main">Neue Freie Presse</title>
-  <title type="werk_link-anno">http://anno.onb.ac.at/cgi-content/anno?aid=nfp</title>
-  <author key="person__10875" role="hat-herausgegeben">Benedikt, Moriz</author>
-  <author key="person__10872" role="hat-herausgegeben">Benedikt, Ernst</author>
-  <author key="person__10809" role="hat-herausgegeben">Bacher, Eduard</author>
-<date from-iso="1864-01-01" to-iso="1864-12-31">1864  – 1939</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36374/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36374</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36374</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb36374</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listPlace><place xml:id="pmb43471">
+</person><person xml:id="pmb52885">
+  <persName>
+      <forename>Peyer</forename>
+      <surname>Karl</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52885/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52885</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb43471">
   <placeName>Budapest</placeName>
   <placeName type="legacy-name-merge">Buda</placeName>
   <placeName type="legacy-name-merge">Budapest</placeName>
@@ -476,35 +483,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb29470">
-  <orgName>Die Stunde</orgName>
-  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
-  <desc type="entity_type">Tageszeitungsredaktion</desc>
-  <desc type="entity_type_id">972</desc>
-<location type="located_in_place">
-  <placeName key="pmb59">IX., Alsergrund</placeName>
-  <geo>48.22387 16.35641</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2782729/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb59.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb59</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50643">Canisiusgasse</placeName>
-  <geo>48.228159 16.353186</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb29351">
+</place></listPlace><listOrg><org xml:id="pmb29351">
   <orgName>Neue Freie Presse</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -551,5 +530,33 @@
 <note type="apis_dates">
 <date>1864-09-01  – 1939-02-01</date>
 </note>
+</org><org xml:id="pmb29470">
+  <orgName>Die Stunde</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="pmb59">IX., Alsergrund</placeName>
+  <geo>48.22387 16.35641</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2782729/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb59.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb59</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50643">Canisiusgasse</placeName>
+  <geo>48.228159 16.353186</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </org></listOrg></back></text>
 </TEI>

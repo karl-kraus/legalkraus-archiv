@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-020-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-018-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000067-019-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000067-019-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-018-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-020-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>67.19 Antrag auf Ergänzung der Voruntersuchung (Landesgericht für Strafsachen I Wien)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -162,7 +162,105 @@
             <lb xml:id="uuid_48a183c6-bd97-4df0-88f7-7c67c7da2f29"/><rs ref="#pmb11988" type="person">Karl Kraus</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb52773">
+  <persName>
+      <forename>Martha</forename>
+      <surname>Hannak</surname>
+  </persName>
+  <persName type="person_geburtsname_nachname">Lorenz</persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52773/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52773</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38684">
+  <persName>
+      <forename>Viktor</forename>
+      <surname>Stein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1876-07-09">09.07.1876</date>
+      <settlement key="pmb38525">
+        <placeName type="pref">Příbram</placeName>
+        <location><geo>49.68988 14.01043</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1940-04-28">28.04.1940</date>
+      <settlement key="pmb38548">
+        <placeName type="pref">Konzentrationslager Sachsenhausen</placeName>
+        <location><geo>52.765833 13.264167</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38684/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38684</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38684</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28085186</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38346">
+  <persName>
+      <forename>Jacques</forename>
+      <surname>Hannak</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Johann Jakob Hannak</persName>
+  <birth>
+    <date when-iso="1892-03-12">12.03.1892</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1973-11-14">14.11.1973</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38346/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38346</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38346</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/126366497</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1677997</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29644">Arbeiter-Zeitung</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37261/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37262/</idno>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29644.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37261</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37262</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29644</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29644</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29644</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37382">Der Kampf</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37382/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37382</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37382</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26741455</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37256">Arbeit und Wirtschaft</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37256/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37256</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37256</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -293,122 +391,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38684">
-  <persName>
-      <forename>Viktor</forename>
-      <surname>Stein</surname>
-  </persName>
-  <birth>
-    <date when-iso="1876-07-09">09.07.1876</date>
-      <settlement key="pmb38525">
-        <placeName type="pref">Příbram</placeName>
-        <location><geo>49.68988 14.01043</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1940-04-28">28.04.1940</date>
-      <settlement key="pmb38548">
-        <placeName type="pref">Konzentrationslager Sachsenhausen</placeName>
-        <location><geo>52.765833 13.264167</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38684/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38684</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38684</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28085186</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38346">
-  <persName>
-      <forename>Jacques</forename>
-      <surname>Hannak</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Johann Jakob Hannak</persName>
-  <birth>
-    <date when-iso="1892-03-12">12.03.1892</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1973-11-14">14.11.1973</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38346/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38346</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38346</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/126366497</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1677997</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29644">Arbeiter-Zeitung</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37261/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37262/</idno>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29644.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37261</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37262</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29644</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29644</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29644</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37382">Der Kampf</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37382/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37382</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37382</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26741455</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37256">Arbeit und Wirtschaft</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37256/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37256</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37256</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52773">
-  <persName>
-      <forename>Martha</forename>
-      <surname>Hannak</surname>
-  </persName>
-  <persName type="person_geburtsname_nachname">Lorenz</persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52773/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52773</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb257">
+</person></listPerson><listPlace><place xml:id="pmb257">
   <placeName>Arsenal</placeName>
   <desc type="entity_type">Gebäude (K.GBD)</desc>
   <desc type="entity_type_id">24</desc>
@@ -426,6 +409,23 @@
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </place><place xml:id="pmb52786">
@@ -448,7 +448,15 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb36842">
+</place></listPlace><listBibl><bibl xml:id="pmb52686">
+  <title type="main">Ein Witz Kasmaders?</title>
+<date>1927-01-01  – 1927-01-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52686/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52686</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+</bibl></listBibl><listOrg><org xml:id="pmb36842">
   <orgName>Landesgericht für Strafsachen</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
@@ -490,13 +498,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb52686">
-  <title type="main">Ein Witz Kasmaders?</title>
-<date>1927-01-01  – 1927-01-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52686/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52686</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-</bibl></listBibl></back></text>
+</org></listOrg></back></text>
 </TEI>

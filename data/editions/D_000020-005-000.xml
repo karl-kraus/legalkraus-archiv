@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000020-006-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000020-004-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000020-005-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000020-005-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000020-004-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000020-006-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>20.5 Ausdehnung der Privatanklage</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -143,7 +143,73 @@
             <lb xml:id="uuid_3960d582-ec7c-4c0b-93d0-e9cfb5825ed8"/><rs ref="#pmb11988" type="person">Karl Kraus</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPlace><place xml:id="pmb50484">
+  <placeName>Piaristengasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.2113 163471.0</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50484/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50484</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb8363">
+  <persName>
+      <forename>Anton</forename>
+      <surname>Kuh</surname>
+  </persName>
+  <birth>
+    <date when-iso="1890-07-12">12.07.1890</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1941-01-18">18.01.1941</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17179</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119302616</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8363</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8363</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38353</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x002dda41</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88062</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -263,73 +329,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb8363">
-  <persName>
-      <forename>Anton</forename>
-      <surname>Kuh</surname>
-  </persName>
-  <birth>
-    <date when-iso="1890-07-12">12.07.1890</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1941-01-18">18.01.1941</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17179</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119302616</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8363</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8363</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38353</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x002dda41</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88062</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb50484">
-  <placeName>Piaristengasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.2113 163471.0</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50484/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50484</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb50611">
+</person></listPerson><listBibl><bibl xml:id="pmb50611">
   <title type="main">Die Stunde</title>
   <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
   <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>

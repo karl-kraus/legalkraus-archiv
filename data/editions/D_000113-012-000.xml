@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>113.12 Beschluss des Amtsgerichts Berlin-Mitte (G.Z. 25C 135/28)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -153,7 +153,25 @@
             <lb xml:id="uuid_c31ed915-a0bb-4af4-87f3-22912b7ff65d"/><rs type="place" subtype="address" ref="#pmb51751">Berlin NO. 18<lb xml:id="uuid_032f6b19-79ae-4f78-b287-c0c08bc01df1"/>Landsberger Allee 55</rs>
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb747">
+   <back><listPlace><place xml:id="pmb53449">
+  <placeName>Neue Friedrichstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Littenstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Anna-Louisa-Karsch-Straße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>52.517337447636706 13.414221442583695</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53449/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53449</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb747">
   <placeName>Jerusalemer Straße</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
@@ -204,6 +222,23 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
@@ -240,42 +275,100 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+</place></listPlace><listPerson><person xml:id="pmb38969">
+  <persName>
+      <forename>Botho</forename>
+      <surname>Laserstein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-07-31">31.07.1901</date>
+      <settlement key="pmb49582">
+        <placeName type="pref">Chemnitz</placeName>
+        <location><geo>50.8357 12.92922</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-03-09">09.03.1955</date>
+      <settlement key="pmb863">
+        <placeName type="pref">Düsseldorf</placeName>
+        <location><geo>51.22172 6.77616</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb53453">
+  <persName>
+      <forename>?</forename>
+      <surname>Welk</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1472">Beamter/Beamte</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53453/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53453</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36735">Amtsgericht Berlin-Mitte</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb53449">
-  <placeName>Neue Friedrichstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Littenstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Anna-Louisa-Karsch-Straße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>52.517337447636706 13.414221442583695</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53449/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53449</idno>
+</person><person xml:id="pmb47141">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Cohn</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47141/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb47141</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56514</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</person><person xml:id="pmb53451">
+  <persName>
+      <forename>?</forename>
+      <surname>Fritz</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1472">Beamter/Beamte</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53451/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53451</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36735">Amtsgericht Berlin-Mitte</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -372,100 +465,32 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb53451">
-  <persName>
-      <forename>?</forename>
-      <surname>Fritz</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="1472">Beamter/Beamte</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53451/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53451</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36735">Amtsgericht Berlin-Mitte</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
-</affiliation>
+</person></listPerson><listOrg><org xml:id="pmb36735">
+  <orgName>Amtsgericht Berlin-Mitte</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb36737">Mitte</placeName>
+  <geo>52.516669 13.366669</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57381">Stralauer Allee</placeName>
+  <geo>52.50027240522402 13.45617698301801</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57381/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57381</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb47141">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Cohn</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47141/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb47141</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56514</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38969">
-  <persName>
-      <forename>Botho</forename>
-      <surname>Laserstein</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-07-31">31.07.1901</date>
-      <settlement key="pmb49582">
-        <placeName type="pref">Chemnitz</placeName>
-        <location><geo>50.8357 12.92922</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1955-03-09">09.03.1955</date>
-      <settlement key="pmb863">
-        <placeName type="pref">Düsseldorf</placeName>
-        <location><geo>51.22172 6.77616</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="160">Richter/Richterin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb53453">
-  <persName>
-      <forename>?</forename>
-      <surname>Welk</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="1472">Beamter/Beamte</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53453/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53453</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36735">Amtsgericht Berlin-Mitte</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37223">
+</org><org xml:id="pmb37223">
   <orgName>Rudolf Mosse Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -546,31 +571,6 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org><org xml:id="pmb36735">
-  <orgName>Amtsgericht Berlin-Mitte</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb36737">Mitte</placeName>
-  <geo>52.516669 13.366669</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb57381">Stralauer Allee</placeName>
-  <geo>52.50027240522402 13.45617698301801</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57381/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57381</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org></listOrg><listBibl><bibl xml:id="pmb41244">
   <title type="main">Die Fackel</title>
   <title type="werk_link">https://fackel.oeaw.ac.at</title>

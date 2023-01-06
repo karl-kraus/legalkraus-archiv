@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000073-003-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000073-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000073-003-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000073-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000073-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000073-003-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>73.3 Brief Samek an Liesl Spielmann</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -157,19 +157,7 @@
             <lb xml:id="uuid_4ea7862d-58f7-4bc0-bccf-39ed8f4ac417"/>rekomm. <rs ref="#pmb38909" type="person">Dr. Samek</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb43620">
-  <persName>
-      <forename>Liesl</forename>
-      <surname>Spielmann</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43620/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43620</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43620</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -259,6 +247,18 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37216</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37216</idno>
 </affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43620">
+  <persName>
+      <forename>Liesl</forename>
+      <surname>Spielmann</surname>
+  </persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43620/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43620</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43620</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

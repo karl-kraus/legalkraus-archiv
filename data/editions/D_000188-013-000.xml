@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-014-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-012-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-013-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-012-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-014-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -171,7 +171,36 @@
             Diensten zeichne ich</p>
          <p xml:id="uuid_f499b2c0-54d9-4531-aa8e-172c26743099"><lb xml:id="uuid_6755663b-92a4-4728-85f4-4edfac8981a9"/>hochachtungsvoll<lb xml:id="uuid_391c44f5-3f5d-44cb-8ad4-4e292fa96a98"/><rs ref="#pmb56415" type="person">Ed.Hölzel</rs> m.p. </p>
       </body>
-   <back><listPlace><place xml:id="pmb53">
+   <back><listBibl><bibl xml:id="pmb56404">
+  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
+<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+</bibl></listBibl><listPlace><place xml:id="pmb54">
+  <placeName>IV., Wieden</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.19198 16.36714</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2761393/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb54.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb53">
   <placeName>III., Landstraße</placeName>
   <placeName type="alternative-name">Landstraße</placeName>
   <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
@@ -210,58 +239,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb54">
-  <placeName>IV., Wieden</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.19198 16.36714</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2761393/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb54.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listPerson><person xml:id="pmb56415">
-  <persName>
-      <forename>Eduard</forename>
-      <surname>Hölzel</surname>
-  </persName>
-  <persName type="legacy-name-merge">Hölzel, Eduard</persName>
-  <sex value="male"/>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56414/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56415/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56415</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37151">Eduard Hölzel (Geographisches Institut)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37151/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37151</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37151</idno>
-</affiliation>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37745">Verlag Ed. Hölzel</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37745/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37745</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37745</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37151">
+</place></listPlace><listOrg><org xml:id="pmb37151">
   <orgName>Eduard Hölzel (Geographisches Institut)</orgName>
 <location type="located_in_place">
   <placeName key="pmb54">IV., Wieden</placeName>
@@ -318,13 +296,35 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb56404">
-  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
-<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-</bibl></listBibl></back></text>
+</org></listOrg><listPerson><person xml:id="pmb56415">
+  <persName>
+      <forename>Eduard</forename>
+      <surname>Hölzel</surname>
+  </persName>
+  <persName type="legacy-name-merge">Hölzel, Eduard</persName>
+  <sex value="male"/>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56414/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56415/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56415</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37151">Eduard Hölzel (Geographisches Institut)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37151/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37151</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37151</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37745">Verlag Ed. Hölzel</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37745/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37745</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37745</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson></back></text>
 </TEI>

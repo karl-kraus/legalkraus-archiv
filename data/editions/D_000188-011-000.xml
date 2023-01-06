@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-010-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-011-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-011-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-010-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-012-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -174,7 +174,27 @@
             <lb xml:id="uuid_c980bafc-9f0a-438d-b6e3-422400ea9b13"/>V.g.g.</p>
          <p xml:id="uuid_0c607602-3850-459d-bd91-27e81c358f20"><lb xml:id="uuid_6307d4bb-9866-48fa-8d19-76e8e7498010"/>drei Unterschriften </p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb54239">
+  <placeName>Strakonice</placeName>
+  <placeName type="alternative-name">Strakonitz</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Strakowitz</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPL</desc>
+  <desc type="entity_type_id">1412</desc>
+<location type="coords">
+  <geo>49.26141 13.90237</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb43430">Tschechische Republik</placeName>
+  <geo>49.75 15.0</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54239/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/3065067/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54239</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -245,26 +265,6 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb54239">
-  <placeName>Strakonice</placeName>
-  <placeName type="alternative-name">Strakonitz</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Strakowitz</placeName>
-  <desc type="entity_type">https://www.geonames.org/ontology#P.PPL</desc>
-  <desc type="entity_type_id">1412</desc>
-<location type="coords">
-  <geo>49.26141 13.90237</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb43430">Tschechische Republik</placeName>
-  <geo>49.75 15.0</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54239/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/3065067/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54239</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </place></listPlace><listPerson><person xml:id="pmb88219">
   <persName>
       <forename>Marie</forename>
@@ -273,6 +273,50 @@
   <sex value="female"/>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88219/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb88219</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb56409">
+  <persName>
+      <surname>Gurtner</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56409/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56409</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb88221">
+  <persName>
+      <forename>David</forename>
+      <surname>Weill</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88221/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb88221</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51591">
+  <persName>
+      <forename>Richard</forename>
+      <surname>Hoynigg</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Hynigg</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Hoynig</persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51591/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51591</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36905">Altesse AG</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -373,73 +417,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb88221">
-  <persName>
-      <forename>David</forename>
-      <surname>Weill</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88221/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb88221</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb88223">
-  <persName>
-      <forename>Julie</forename>
-      <surname>Weill</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88223/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb88223</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51591">
-  <persName>
-      <forename>Richard</forename>
-      <surname>Hoynigg</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Hynigg</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Hoynig</persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51591/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51591</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36905">Altesse AG</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51628">
-  <persName>
-      <forename>Robert</forename>
-      <surname>Meixner</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51628/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51628</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb56409">
-  <persName>
-      <surname>Gurtner</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56409/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56409</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb43552">
   <persName>
       <forename>Robert</forename>
@@ -464,7 +441,38 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb36905">
+</person><person xml:id="pmb88223">
+  <persName>
+      <forename>Julie</forename>
+      <surname>Weill</surname>
+  </persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88223/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb88223</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51628">
+  <persName>
+      <forename>Robert</forename>
+      <surname>Meixner</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51628/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51628</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="pmb56404">
+  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
+<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+</bibl></listBibl><listOrg><org xml:id="pmb36905">
   <orgName>Altesse AG</orgName>
   <desc type="entity_type">Aktiengesellschaft</desc>
   <desc type="entity_type_id">1642</desc>
@@ -540,13 +548,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb56404">
-  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
-<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-</bibl></listBibl></back></text>
+</org></listOrg></back></text>
 </TEI>

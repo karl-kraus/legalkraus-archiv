@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000032-007-003.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000033-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000033-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000032-007-003.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>33.1 Zeugenladung des Landesgerichts für Strafsachen Wien I an Karl Kraus (G.Z. Vr XXXI 6195/22)</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -126,18 +126,7 @@
                hinterlegen.<lb xml:id="uuid_dc8d4dfc-d1c1-478e-add4-093769056573"/>Nicht nachsenden.
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb51633">
-  <persName>
-      <forename>Stefan</forename>
-      <surname>Padajaunig</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51633/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51633</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb239">
+   <back><listPlace><place xml:id="pmb239">
   <placeName>Landesgerichtsstraße</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
@@ -159,7 +148,18 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb36842">
+</place></listPlace><listPerson><person xml:id="pmb51633">
+  <persName>
+      <forename>Stefan</forename>
+      <surname>Padajaunig</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51633/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51633</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb36842">
   <orgName>Landesgericht für Strafsachen</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>

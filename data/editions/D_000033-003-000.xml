@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000033-003-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000033-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000033-004-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>33.3 Ehrenbeleidigungsklage von Stefan Padajaunig und Rudolf Reuterer (Verteidiger) gegen Karl Kraus (Strafbezirksgericht I Wien, G.Z. U VI 1304/25)</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -154,7 +154,7 @@
             Zeitschrift „<rs ref="#pmb41244" type="work" subtype="pmb">Die Fackel</rs>“ gelesen,<lb xml:id="uuid_74e1c9a8-1839-4046-8a09-eb13e339a112"/>daß der <rs ref="#pmb11988" type="person">Herausgeber</rs> dieser
             Zeitung am<lb xml:id="uuid_41b77f52-8203-4c10-8325-4eb151182cf8"/><note type="marginal" rend="marginLeft"><hi rend="underlined">Obj. verjährt!</hi> Dr Arič</note>25. Juni
             d.J. <hi rend="underlined">eine Rede</hi> gehalten hat, deren<lb xml:id="uuid_1a66f41c-0f25-447c-8873-27c12c5bf5ec"/>Inhalt wiedergegeben ist und die
-               auf<lb xml:id="uuid_3fd2bdc9-9fef-4e56-8717-21a4f398223a"/><rs ref="https://fackel.oeaw.ac.at/f/691,113" type="work" subtype="fackel">Seite 113</rs>
+               auf<lb xml:id="uuid_3fd2bdc9-9fef-4e56-8717-21a4f398223a"/><rs ref="#lk_fackel__121" corresp="https://fackel.oeaw.ac.at/f/691,113" type="work" subtype="fackel">Seite 113</rs>
             folgende Stelle enthält: </p>
          <p xml:id="uuid_16e8cebd-02a0-42b1-8b47-e509d953d987">
             <lb xml:id="uuid_f17f5673-5a16-4aa4-bb1d-0c9d09a98f4c"/>„<quote xml:id="uuid_b4eea00e-8fc5-4593-876a-d638704bbf3b" source="https://fackel.oeaw.ac.at/f/691,113">Könnte man sich vorstellen, daß ein<lb xml:id="uuid_dbc4721d-69d7-40d7-9012-4b7345a43db6"/>menschliches Hirn aus
@@ -169,7 +169,7 @@
                einen Monar<lb break="no" xml:id="uuid_25f4b9ac-c485-4f4f-ab24-6cd2af0dc287"/>chisten
                und einen so beschaffenen befür<lb break="no" xml:id="uuid_f1788920-076f-4edf-bfaa-c405494d9a1e"/>worten würde.</quote>“ </p>
          <p xml:id="uuid_68bd1441-ace0-4b16-9915-5dfffee25361">
-            <lb xml:id="uuid_07f0edb4-c230-421c-a25f-59ac1dba2831"/>Beweis: <rs ref="https://fackel.oeaw.ac.at/f/691,0u1" type="work" subtype="fackel">Zeitschrift
+            <lb xml:id="uuid_07f0edb4-c230-421c-a25f-59ac1dba2831"/>Beweis: <rs ref="#lk_fackel__119" corresp="https://fackel.oeaw.ac.at/f/691,0u1" type="work" subtype="fackel">Zeitschrift
                „Die Fackel“ vom Juli<lb xml:id="uuid_fd50c68e-80d6-406e-9fbd-31157f9ebd32"/>1925</rs>, die ich zur Verhandlung vorlegen<lb xml:id="uuid_36fb2f5e-1b17-4da2-8e81-30c0929a9bb8"/>werde und meine Einvernahme
                als<lb xml:id="uuid_b452c77f-8d32-4b39-bda6-39b4d728f349"/>Zeuge. </p>
          <p xml:id="uuid_7b48dee8-8f43-4977-96c2-d36ee5edb2bb">
@@ -207,7 +207,44 @@
          <p xml:id="uuid_74b224e6-ff72-4998-a0b8-9c0a16117179">
             <lb xml:id="uuid_553a9775-cdd0-4416-afb8-817fabdbb5b3"/>Eing. 23. Okt. 1925<lb xml:id="uuid_a7e6becf-d195-435d-a635-9567425a6fa1"/>Abgefertigt 26./X.25 [<rs type="person">Unterschrift</rs>] </p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb50530">
+  <placeName>Landstraßer Hauptstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">III. Hauptstrasse</placeName>
+  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20574 16.38566</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50530/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50530</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92357/</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92357.html</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb50664">
+  <placeName>Schiffamtsgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.218669 16.373101</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52">II., Leopoldstadt</placeName>
+  <geo>48.21667 16.4</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -258,19 +295,33 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb50664">
-  <placeName>Schiffamtsgasse</placeName>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
 <location type="coords">
-  <geo>48.218669 16.373101</geo>
+  <geo>48.211869 16.387333</geo>
 </location>
 <location type="located_in_place">
-  <placeName key="pmb52">II., Leopoldstadt</placeName>
-  <geo>48.21667 16.4</geo>
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
 </location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb52521">
+  <placeName>Stolzenthalergasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52521/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52521</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -313,58 +364,65 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb50530">
-  <placeName>Landstraßer Hauptstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">III. Hauptstrasse</placeName>
-  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.20574 16.38566</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50530/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50530</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92357/</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92357.html</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb52521">
-  <placeName>Stolzenthalergasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52521/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52521</idno>
+</place></listPlace><listBibl><bibl xml:id="lk_fackel__119" corresp="https://fackel.oeaw.ac.at/f/691,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1925-07-01">Juli 1925</date><num type="volume">Jg. 27</num><num type="issue">Nr. 691–696</num><ref target="https://fackel.oeaw.ac.at/f/691,0u1">33.3 Ehrenbeleidigungsklage von Stefan Padajaunig und Rudolf Reuterer
+                  (Verteidiger) gegen Karl Kraus (Strafbezirksgericht I Wien, G.Z. U VI
+                  1304/25)|D_000033-003-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="lk_fackel__121" corresp="https://fackel.oeaw.ac.at/f/691,068" type="fackel"><title level="a">Entlarvt durch Bekessy</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1925-07-01">Juli 1925</date><num type="volume">Jg. 27</num><num type="issue">Nr. 691–696</num><biblScope from="68" to="128">68–128</biblScope><ref target="https://fackel.oeaw.ac.at/f/691,068">31.3 Brief
+                  Hans Liebstöckl an Kraus|D_000031-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,113">33.3 Ehrenbeleidigungsklage von
+                  Stefan Padajaunig und Rudolf Reuterer (Verteidiger) gegen Karl Kraus
+                  (Strafbezirksgericht I Wien, G.Z. U VI 1304/25)|D_000033-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.10 Strafantrag Karl Kraus gegen
+                  Hans Liebstöckl wegen Ehrenkränkung (Bezirkspolizeikommisariat
+                  Alsergrund)|D_000031-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.4 Berichtigungstext Hans
+                  Liebstöckls|D_000031-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.6 Brief RA Adalbert Trompeteur an
+                  Samek|D_000031-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,112">31.4 Berichtigungstext Hans Liebstöckls|D_000031-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,112">31.10 Strafantrag Karl Kraus gegen
+                  Hans Liebstöckl wegen Ehrenkränkung (Bezirkspolizeikommisariat
+                  Alsergrund)|D_000031-010-000.xml</ref></bibl>
+            </listBibl><listPerson><person xml:id="pmb51555">
+  <persName>
+      <forename>Kurt</forename>
+      <surname>Berger</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51555/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51555</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</person><person xml:id="pmb52523">
+  <persName>
+      <forename>Rudolf</forename>
+      <surname>Reuterer</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52523/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52523</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -461,18 +519,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb51555">
-  <persName>
-      <forename>Kurt</forename>
-      <surname>Berger</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51555/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51555</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb51633">
   <persName>
       <forename>Stefan</forename>
@@ -484,38 +530,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb52523">
-  <persName>
-      <forename>Rudolf</forename>
-      <surname>Reuterer</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52523/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52523</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listOrg><org xml:id="pmb50491">
+</person></listPerson><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
   <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>

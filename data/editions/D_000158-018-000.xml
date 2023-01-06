@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000158-018-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000158-017-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000158-019-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000158-018-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000158-017-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000158-019-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -985,192 +985,243 @@
             <p xml:id="uuid_667059e4-1c4e-44ae-9e04-e1fd496de2c6"><lb xml:id="uuid_86d9e36e-9636-4547-a146-b8b2327cb8c5"/>vorzüglichsten Hochachtung
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb27562">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Zweig</surname>
-  </persName>
-  <birth>
-    <date when-iso="1893-11-08">08.11.1893</date>
-      <settlement key="pmb44176">
-        <placeName type="pref">Olomouc</placeName>
-        <location><geo>49.59552 17.25175</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1984-02-28">28.02.1984</date>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="131">Dirigent/Dirigentin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21613</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27562</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb27562</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-</affiliation>
+    <back><listOrg><org xml:id="pmb37011">
+  <orgName>Theater am Schiffbauerdamm</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="pmb36737">Mitte</placeName>
+  <geo>52.516669 13.366669</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52608">Schiffbauerdamm</placeName>
+  <geo>52.520248489244736 13.383000098363002</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52608/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52608</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb2412">
-  <persName>
-      <forename>William</forename>
-      <surname>Shakespeare</surname>
-  </persName>
-  <birth>
-    <date when-iso="1564-04-23">23.4.1564?&lt;1564-04-23&gt;</date>
-      <settlement key="pmb49870">
-        <placeName type="pref">Stratford-upon-Avon</placeName>
-        <location><geo>52.19166 -1.70734</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1616-05-03">03.05.1616</date>
-      <settlement key="pmb49870">
-        <placeName type="pref">Stratford-upon-Avon</placeName>
-        <location><geo>52.19166 -1.70734</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118613723</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2412.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2412</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2412.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2412</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55589</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=S#DWpers0220</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q692</idno>
+</org><org xml:id="pmb36982">
+  <orgName>Tschechoslowakische Gesandtschaft Berlin</orgName>
+  <desc type="entity_type">Botschaft</desc>
+  <desc type="entity_type_id">1726</desc>
+<location type="located_in_place">
+  <placeName key="pmb36914">Tiergarten</placeName>
+  <geo>52.516666 13.366666</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4087345-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36914</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36914</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q328672</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36982/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36982</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36982</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2457582</idno>
 <listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb39230">
+</org><org xml:id="pmb56991">
+  <orgName>Café Friediger</orgName>
+  <desc type="entity_type">Café</desc>
+  <desc type="entity_type_id">1630</desc>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56991/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56991</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb37135">
+  <orgName>Generalintendanz der Preußischen Staatstheater</orgName>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb56971">Oberwallstraße</placeName>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56971/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56971</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37135/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37135</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37135</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb37183">
+  <orgName>Oper am Platz der Republik Berlin (Krolloper)</orgName>
+  <desc type="entity_type">Oper</desc>
+  <desc type="entity_type_id">1479</desc>
+<location type="located_in_place">
+  <placeName key="pmb36914">Tiergarten</placeName>
+  <geo>52.516666 13.366666</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4087345-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36914</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36914</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q328672</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb56705">Platz der Republik</placeName>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56705/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56705</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb37125">
+  <orgName>Funk-Stunde Berlin</orgName>
+  <desc type="entity_type">Rundfunkgesellschaft</desc>
+  <desc type="entity_type_id">1018</desc>
+<location type="located_in_place">
+  <placeName key="pmb362">Potsdamerstraße</placeName>
+  <geo>52.5064 13.36869</geo>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb362.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/362</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb362</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb362</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37125/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37125</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37125</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1474313</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb56993">
+  <orgName>Restaurant Kempinski</orgName>
+  <desc type="entity_type">Restaurant</desc>
+  <desc type="entity_type_id">1631</desc>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56993/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56993</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36971">
+  <orgName>Universal Edition</orgName>
+  <desc type="entity_type">Musikalienverlag</desc>
+  <desc type="entity_type_id">1013</desc>
+<location type="located_in_place">
+  <placeName key="pmb864">Leipzig</placeName>
+  <geo>51.33962 12.37129</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb56742">Karlsplatz</placeName>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56742/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56742</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb39440">
   <persName>
-      <forename>Eckart</forename>
-      <surname>Naso</surname>
+      <forename>Hans</forename>
+      <surname>Curjel</surname>
   </persName>
-  <persName type="alternative-name">Naso, Eckhart von</persName>
+  <persName type="alternative-name">Curjel, Hans Richard</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Curiel</persName>
   <birth>
-    <date when-iso="1888-06-02">02.06.1888</date>
+    <date when-iso="1896-05-01">01.05.1896</date>
   </birth>  
   <death>
-    <date when-iso="1976-11-13">13.11.1976</date>
-      <settlement key="pmb146">
-        <placeName type="pref">Frankfurt am Main</placeName>
-        <location><geo>50.11552 8.68417</geo></location>
-      </settlement>
+    <date when-iso="1974-01-03">03.01.1974</date>
   </death>
   <sex value="male"/>
   <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
   <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <occupation key="131">Dirigent/Dirigentin</occupation>
+  <occupation key="184">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bühnenbildner/Bühnenbildnerin</occupation>
   <occupation key="391">Autor/Autorin &gt;&gt; Drehbuchautor/Drehbuchautorin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118738011</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39230</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39230</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1281414</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb56974">
-  <persName>
-      <forename>Heinz</forename>
-      <surname>Hinrich</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56974/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56974</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39211">
-  <persName>
-      <forename>Ludwig</forename>
-      <surname>Münz</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-01-06">06.01.1889</date>
-  </birth>  
-  <death>
-    <date when-iso="1957-03-07">07.03.1957</date>
-  </death>
-  <sex value="male"/>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130121258</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39211</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39211</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41474</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19766262</idno>
+  <occupation key="1304">Regisseur/Regisseurin &gt;&gt; Theaterregisseur/Theaterregisseurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116766107</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39440</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39440</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp40169</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q17249803</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb56976">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Klemperer</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <occupation key="131">Dirigent/Dirigentin</occupation>
-  <occupation key="282">Kapellmeister/Kapellmeisterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56976/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56976</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb19200">
-  <persName>
-      <forename>Willy</forename>
-      <surname>Katz</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
-  <persName type="legacy-name-merge">Katz, Willy</persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
 </person><person xml:id="pmb9131">
   <persName>
@@ -1204,6 +1255,239 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38133">
+  <persName>
+      <forename>Heinrich</forename>
+      <surname>Fischer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1896-08-22">22.08.1896</date>
+      <settlement key="pmb842">
+        <placeName type="pref">Karlsbad</placeName>
+        <location><geo>50.23271 12.87117</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1974-03-16">16.03.1974</date>
+      <settlement key="pmb45258">
+        <placeName type="pref">München</placeName>
+        <location><geo>48.13743 11.57549</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb57445">Urania Prag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb27562">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Zweig</surname>
+  </persName>
+  <birth>
+    <date when-iso="1893-11-08">08.11.1893</date>
+      <settlement key="pmb44176">
+        <placeName type="pref">Olomouc</placeName>
+        <location><geo>49.59552 17.25175</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1984-02-28">28.02.1984</date>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="131">Dirigent/Dirigentin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21613</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27562</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb27562</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb56974">
+  <persName>
+      <forename>Heinz</forename>
+      <surname>Hinrich</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56974/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56974</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb10472">
+  <persName>
+      <forename>Kurt</forename>
+      <surname>Weill</surname>
+  </persName>
+  <persName type="legacy-name-merge">Weill, Kurt</persName>
+  <birth>
+    <date when-iso="1900-03-02">02.03.1900</date>
+      <settlement key="pmb870">
+        <placeName type="pref">Dessau</placeName>
+        <location><geo>51.83864 12.24555</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1950-04-03">03.04.1950</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21159</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118630202</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10472</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb10472</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55311</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q55004</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb19200">
+  <persName>
+      <forename>Willy</forename>
+      <surname>Katz</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
+  <persName type="legacy-name-merge">Katz, Willy</persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+</person><person xml:id="pmb38318">
+  <persName>
+      <forename>Heinz</forename>
+      <surname>Tietjen</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Titiens</persName>
+  <birth>
+    <date when-iso="1881-06-24">24.06.1881</date>
+      <settlement key="pmb951">
+        <placeName type="pref">Tanger</placeName>
+        <location><geo>35.59 -5.9</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1967-11-30">30.11.1967</date>
+      <settlement key="pmb228">
+        <placeName type="pref">Baden-Baden</placeName>
+        <location><geo>48.7606 8.23975</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="131">Dirigent/Dirigentin</occupation>
+  <occupation key="280">Theaterintendant/Theaterintendantin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38318/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38318</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38318</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp54115</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117379069</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q65622</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37135">Generalintendanz der Preußischen Staatstheater</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37135/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37135</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37135</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb16412">
+  <persName>
+      <forename>Robert</forename>
+      <surname>Forster-Larrinaga</surname>
+  </persName>
+  <birth>
+    <date notBefore-iso="1880-01-01" when-iso="1880-07-01" notAfter-iso="1880-12-31">1880</date>
+  </birth>  
+  <death>
+    <date when-iso="1932-07-02">02.07.1932</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15082</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16412</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16412</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb38969">
   <persName>
@@ -1288,71 +1572,6 @@
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
 <listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39440">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Curjel</surname>
-  </persName>
-  <persName type="alternative-name">Curjel, Hans Richard</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Curiel</persName>
-  <birth>
-    <date when-iso="1896-05-01">01.05.1896</date>
-  </birth>  
-  <death>
-    <date when-iso="1974-01-03">03.01.1974</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <occupation key="131">Dirigent/Dirigentin</occupation>
-  <occupation key="184">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bühnenbildner/Bühnenbildnerin</occupation>
-  <occupation key="391">Autor/Autorin &gt;&gt; Drehbuchautor/Drehbuchautorin</occupation>
-  <occupation key="1304">Regisseur/Regisseurin &gt;&gt; Theaterregisseur/Theaterregisseurin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116766107</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39440</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39440</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp40169</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q17249803</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb16412">
-  <persName>
-      <forename>Robert</forename>
-      <surname>Forster-Larrinaga</surname>
-  </persName>
-  <birth>
-    <date notBefore-iso="1880-01-01" when-iso="1880-07-01" notAfter-iso="1880-12-31">1880</date>
-  </birth>  
-  <death>
-    <date when-iso="1932-07-02">02.07.1932</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15082</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16412</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16412</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">
@@ -1452,42 +1671,44 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38318">
+</person><person xml:id="pmb38002">
   <persName>
-      <forename>Heinz</forename>
-      <surname>Tietjen</surname>
+      <forename>Cornelis</forename>
+      <surname>Bronsgeest</surname>
   </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Titiens</persName>
   <birth>
-    <date when-iso="1881-06-24">24.06.1881</date>
-      <settlement key="pmb951">
-        <placeName type="pref">Tanger</placeName>
-        <location><geo>35.59 -5.9</geo></location>
+    <date when-iso="1878-07-24">24.07.1878</date>
+      <settlement key="pmb947">
+        <placeName type="pref">Leiden</placeName>
+        <location><geo>52.15274 4.4836</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1967-11-30">30.11.1967</date>
-      <settlement key="pmb228">
-        <placeName type="pref">Baden-Baden</placeName>
-        <location><geo>48.7606 8.23975</geo></location>
+    <date when-iso="1957-09-22">22.09.1957</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="131">Dirigent/Dirigentin</occupation>
-  <occupation key="280">Theaterintendant/Theaterintendantin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38318/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38318</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38318</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp54115</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117379069</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q65622</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38002/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38002</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38002</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp40113</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116713852</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1133504</idno>
 <affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37135">Generalintendanz der Preußischen Staatstheater</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37135/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37135</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37135</idno>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb56818">Funk-Oper</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56818/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56818</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb57043">Funkhaus</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57043/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57043</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q316021</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -1546,347 +1767,126 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb10472">
+</person><person xml:id="pmb2412">
   <persName>
-      <forename>Kurt</forename>
-      <surname>Weill</surname>
+      <forename>William</forename>
+      <surname>Shakespeare</surname>
   </persName>
-  <persName type="legacy-name-merge">Weill, Kurt</persName>
   <birth>
-    <date when-iso="1900-03-02">02.03.1900</date>
-      <settlement key="pmb870">
-        <placeName type="pref">Dessau</placeName>
-        <location><geo>51.83864 12.24555</geo></location>
+    <date when-iso="1564-04-23">23.4.1564?&lt;1564-04-23&gt;</date>
+      <settlement key="pmb49870">
+        <placeName type="pref">Stratford-upon-Avon</placeName>
+        <location><geo>52.19166 -1.70734</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1950-04-03">03.04.1950</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
+    <date when-iso="1616-05-03">03.05.1616</date>
+      <settlement key="pmb49870">
+        <placeName type="pref">Stratford-upon-Avon</placeName>
+        <location><geo>52.19166 -1.70734</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21159</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118630202</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10472</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb10472</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55311</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q55004</idno>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118613723</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2412.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2412</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2412.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2412</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55589</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=S#DWpers0220</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q692</idno>
 <listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb39211">
+  <persName>
+      <forename>Ludwig</forename>
+      <surname>Münz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-01-06">06.01.1889</date>
+  </birth>  
+  <death>
+    <date when-iso="1957-03-07">07.03.1957</date>
+  </death>
+  <sex value="male"/>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130121258</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39211</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39211</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41474</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19766262</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38133">
+</person><person xml:id="pmb39230">
   <persName>
-      <forename>Heinrich</forename>
-      <surname>Fischer</surname>
+      <forename>Eckart</forename>
+      <surname>Naso</surname>
   </persName>
+  <persName type="alternative-name">Naso, Eckhart von</persName>
   <birth>
-    <date when-iso="1896-08-22">22.08.1896</date>
-      <settlement key="pmb842">
-        <placeName type="pref">Karlsbad</placeName>
-        <location><geo>50.23271 12.87117</geo></location>
-      </settlement>
+    <date when-iso="1888-06-02">02.06.1888</date>
   </birth>  
   <death>
-    <date when-iso="1974-03-16">16.03.1974</date>
-      <settlement key="pmb45258">
-        <placeName type="pref">München</placeName>
-        <location><geo>48.13743 11.57549</geo></location>
+    <date when-iso="1976-11-13">13.11.1976</date>
+      <settlement key="pmb146">
+        <placeName type="pref">Frankfurt am Main</placeName>
+        <location><geo>50.11552 8.68417</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
   <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
   <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
+  <occupation key="391">Autor/Autorin &gt;&gt; Drehbuchautor/Drehbuchautorin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118738011</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39230</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39230</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1281414</idno>
 <affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb57445">Urania Prag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
 </affiliation>
 <listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38002">
+</person><person xml:id="pmb56976">
   <persName>
-      <forename>Cornelis</forename>
-      <surname>Bronsgeest</surname>
+      <forename>Otto</forename>
+      <surname>Klemperer</surname>
   </persName>
-  <birth>
-    <date when-iso="1878-07-24">24.07.1878</date>
-      <settlement key="pmb947">
-        <placeName type="pref">Leiden</placeName>
-        <location><geo>52.15274 4.4836</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1957-09-22">22.09.1957</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
   <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38002/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38002</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38002</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp40113</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116713852</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1133504</idno>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <occupation key="131">Dirigent/Dirigentin</occupation>
+  <occupation key="282">Kapellmeister/Kapellmeisterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56976/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56976</idno>
 <affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb56818">Funk-Oper</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56818/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56818</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb57043">Funkhaus</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57043/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57043</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q316021</idno>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37183">Oper am Platz der Republik Berlin (Krolloper)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb36982">
-  <orgName>Tschechoslowakische Gesandtschaft Berlin</orgName>
-  <desc type="entity_type">Botschaft</desc>
-  <desc type="entity_type_id">1726</desc>
-<location type="located_in_place">
-  <placeName key="pmb36914">Tiergarten</placeName>
-  <geo>52.516666 13.366666</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4087345-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36914</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36914</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q328672</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36982/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36982</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36982</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2457582</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37125">
-  <orgName>Funk-Stunde Berlin</orgName>
-  <desc type="entity_type">Rundfunkgesellschaft</desc>
-  <desc type="entity_type_id">1018</desc>
-<location type="located_in_place">
-  <placeName key="pmb362">Potsdamerstraße</placeName>
-  <geo>52.5064 13.36869</geo>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb362.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/362</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb362</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb362</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37125/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37125</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37125</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1474313</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb56991">
-  <orgName>Café Friediger</orgName>
-  <desc type="entity_type">Café</desc>
-  <desc type="entity_type_id">1630</desc>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56991/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56991</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37011">
-  <orgName>Theater am Schiffbauerdamm</orgName>
-  <desc type="entity_type">Theater</desc>
-  <desc type="entity_type_id">1012</desc>
-<location type="located_in_place">
-  <placeName key="pmb36737">Mitte</placeName>
-  <geo>52.516669 13.366669</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb52608">Schiffbauerdamm</placeName>
-  <geo>52.520248489244736 13.383000098363002</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52608/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52608</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37183">
-  <orgName>Oper am Platz der Republik Berlin (Krolloper)</orgName>
-  <desc type="entity_type">Oper</desc>
-  <desc type="entity_type_id">1479</desc>
-<location type="located_in_place">
-  <placeName key="pmb36914">Tiergarten</placeName>
-  <geo>52.516666 13.366666</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4087345-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36914</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36914</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q328672</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb56705">Platz der Republik</placeName>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56705/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56705</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37183/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37183</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37183</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512614</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37135">
-  <orgName>Generalintendanz der Preußischen Staatstheater</orgName>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb56971">Oberwallstraße</placeName>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56971/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56971</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37135/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37135</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37135</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb56993">
-  <orgName>Restaurant Kempinski</orgName>
-  <desc type="entity_type">Restaurant</desc>
-  <desc type="entity_type_id">1631</desc>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56993/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb56993</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb36971">
-  <orgName>Universal Edition</orgName>
-  <desc type="entity_type">Musikalienverlag</desc>
-  <desc type="entity_type_id">1013</desc>
-<location type="located_in_place">
-  <placeName key="pmb864">Leipzig</placeName>
-  <geo>51.33962 12.37129</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2775259/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb56742">Karlsplatz</placeName>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56742/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56742</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPlace><place xml:id="pmb224">
+</person></listPerson><listPlace><place xml:id="pmb224">
   <placeName>London</placeName>
   <placeName type="alternative-name">Landan</placeName>
   <placeName type="legacy-name-merge">London</placeName>
@@ -2003,41 +2003,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb677">
-  <placeName>Breslau</placeName>
-  <placeName type="alternative-name">Wrotizla</placeName>
-  <placeName type="legacy-name-merge">Breslau</placeName>
-  <placeName type="alternative-name">Breßlau</placeName>
-  <placeName type="legacy-name-merge">Breslau</placeName>
-  <placeName type="legacy-name-merge">Breslau/Wrocłav</placeName>
-  <placeName type="alternative-name">Breslau</placeName>
-  <placeName type="legacy-name-merge">Wrocław</placeName>
-  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
-  <desc type="entity_type_id">14</desc>
-<location type="coords">
-  <geo>51.10773 17.03533</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb313">Polen</placeName>
-  <geo>52.0 20.0</geo>
-</location>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1799</idno>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/7531292/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/29284/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb677.html</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008216-7</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/677</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29284</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41273</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb677</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64155/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb677</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="7">Default import collection</bibl>
-</listBibl>
 </place><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
@@ -2074,14 +2039,51 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb56987">
-  <title type="main">Die Großherzogin von Gerolstein</title>
+</place><place xml:id="pmb677">
+  <placeName>Breslau</placeName>
+  <placeName type="alternative-name">Wrotizla</placeName>
+  <placeName type="legacy-name-merge">Breslau</placeName>
+  <placeName type="alternative-name">Breßlau</placeName>
+  <placeName type="legacy-name-merge">Breslau</placeName>
+  <placeName type="legacy-name-merge">Breslau/Wrocłav</placeName>
+  <placeName type="alternative-name">Breslau</placeName>
+  <placeName type="legacy-name-merge">Wrocław</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>51.10773 17.03533</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb313">Polen</placeName>
+  <geo>52.0 20.0</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1799</idno>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/7531292/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/29284/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb677.html</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008216-7</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/677</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29284</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41273</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb677</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64155/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb677</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+</place></listPlace><listBibl><bibl xml:id="pmb53658">
+  <title type="main">Die Briganten</title>
+  <title type="person_namensvariante_nachname-komma-vorname">Les Brigands</title>
+  <title type="person_namensvariante_nachname-komma-vorname">Die Banditen</title>
   <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1867-01-01" when-iso="1867-07-02">1867</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56987/</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56987.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56987</idno>
+  <author key="person__4197" role="hat-geschaffen">Halévy, Ludovic</author>
+  <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+<date notBefore-iso="1869-01-01" when-iso="1869-07-02">1869</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53658/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53658</idno>
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
@@ -2097,6 +2099,18 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl><bibl xml:id="pmb56987">
+  <title type="main">Die Großherzogin von Gerolstein</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1867-01-01" when-iso="1867-07-02">1867</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56987/</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56987.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56987</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
 </bibl><bibl xml:id="pmb55390">
   <title type="main">Madame l’archiduc</title>
   <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
@@ -2104,20 +2118,6 @@
 <date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl><bibl xml:id="pmb53658">
-  <title type="main">Die Briganten</title>
-  <title type="person_namensvariante_nachname-komma-vorname">Les Brigands</title>
-  <title type="person_namensvariante_nachname-komma-vorname">Die Banditen</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__4197" role="hat-geschaffen">Halévy, Ludovic</author>
-  <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
-<date notBefore-iso="1869-01-01" when-iso="1869-07-02">1869</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53658/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53658</idno>
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>

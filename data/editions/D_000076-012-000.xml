@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-011-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000076-012-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000076-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-011-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-013-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>76.12 Brief Verlag Die Fackel an Richard Flatter</title>
-                <editor ref="#pmbIL">Isabel Langkabel</editor>
+                <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -491,7 +491,7 @@
                 </subst>. Was die Abwehr betrifft,<lb xml:id="uuid_b5bb0c53-d614-48c8-ba0b-e1f8e74096fd"/>können Sie ja keineswegs
                 behaupten, daß Sie bisher durch persönliche<lb xml:id="uuid_bcd9605a-5845-4de2-a253-d347a51ca54f"/>Begegnungen verwöhnt worden
                 sind, so daß Sie auf einmal Grund hätten,<lb xml:id="uuid_de6ebba2-f015-4f4b-85c1-48408cac2a46"/>enttäuscht zu sein. Im
-                Gegenteil ist Ihnen doch – wenn man von einer<lb xml:id="uuid_0c82ccbb-2d0f-4a7a-bc6c-7622e1daf975"/>kleinen <rs ref="https://fackel.oeaw.ac.at/f/845,016" type="work" subtype="fackel">Coupletstrophe</rs> absehen will – jede Ablehnung ausschließlich<lb xml:id="uuid_454300f6-eed1-4f4d-aa98-0f171e5e8ae6"/>durch den <rs ref="#pmb43724" type="institution">Verlag der Fackel</rs> widerfahren, hinter dem sich der
+                Gegenteil ist Ihnen doch – wenn man von einer<lb xml:id="uuid_0c82ccbb-2d0f-4a7a-bc6c-7622e1daf975"/>kleinen <rs ref="#lk_fackel__181" corresp="https://fackel.oeaw.ac.at/f/845,016" type="work" subtype="fackel">Coupletstrophe</rs> absehen will – jede Ablehnung ausschließlich<lb xml:id="uuid_454300f6-eed1-4f4d-aa98-0f171e5e8ae6"/>durch den <rs ref="#pmb43724" type="institution">Verlag der Fackel</rs> widerfahren, hinter dem sich der
                     große<lb xml:id="uuid_cad25a13-8a6a-4268-a2d1-f83e79523597"/><rs ref="#pmb11988" type="person">Gegner</rs>
                 verschanzt hat, sooft Sie sich ihm mit Talentproben oder<lb xml:id="uuid_ae80f442-5a9d-405c-babc-7ba41a6f42d4"/>Besserungsbeweisen genähert
                 haben. Wir zweifeln nicht, da Sie ihn<lb xml:id="uuid_d9511367-9dbb-4a14-944c-c0c36e17a5c9"/>diesmal erkennen werden,
@@ -502,38 +502,146 @@
                 <lb xml:id="uuid_da1f1784-bbd1-4ac5-8f7b-343c627e7178"/>Mit vorzüglicher Hochachtung
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb8233">
+    <back><listBibl><bibl xml:id="pmb53329">
+  <title type="main">Karl Kraus als Nachdichter Shakespeares</title>
+  <author key="person__53330" role="hat-geschaffen">Flatter, Richard</author>
+<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53329/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53329</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Studie</note>
+</bibl><bibl xml:id="pmb53289">
+  <title type="main">Shakespeare’s Sonnets</title>
+  <title type="werk_link">https://internetshakespeare.uvic.ca/Library/facsimile/book/UC_Q1_Son/1/</title>
+  <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
+<date notBefore-iso="1609-01-01" when-iso="1609-07-02">1609</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53289/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53289</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Gedichtsammlung</note>
+</bibl><bibl xml:id="lk_fackel__181" corresp="https://fackel.oeaw.ac.at/f/845,007" type="fackel"><title level="a">Notizen</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1930-12-01">Dezember 1930</date><num type="volume">Jg. 32</num><num type="issue">Nr. 845–846</num><biblScope from="7" to="20">7–20</biblScope><ref target="https://fackel.oeaw.ac.at/f/845,016">76.6
+                  Brief Richard Flatter an Kraus|D_000076-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/845,016">76.12 Brief Verlag Die Fackel an
+                  Richard Flatter|D_000076-012-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPerson><person xml:id="pmb16309">
   <persName>
-      <forename>Franz</forename>
-      <surname>Klein</surname>
+      <forename>Richard</forename>
+      <surname>Flatter</surname>
   </persName>
   <birth>
-    <date when-iso="1854-04-24">24.04.1854</date>
+    <date when-iso="1899-04-14">14.04.1899</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1926-04-06">06.04.1926</date>
+    <date when-iso="1969-12-05">05.12.1969</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16885</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118562878</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8233</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8233</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43519</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282916</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88963</idno>
+  <sex value="not-set"/>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <occupation key="608">Anglist/Anglistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15024</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16309</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16309</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+</listBibl>
+</person><person xml:id="pmb2412">
+  <persName>
+      <forename>William</forename>
+      <surname>Shakespeare</surname>
+  </persName>
+  <birth>
+    <date when-iso="1564-04-23">23.4.1564?&lt;1564-04-23&gt;</date>
+      <settlement key="pmb49870">
+        <placeName type="pref">Stratford-upon-Avon</placeName>
+        <location><geo>52.19166 -1.70734</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1616-05-03">03.05.1616</date>
+      <settlement key="pmb49870">
+        <placeName type="pref">Stratford-upon-Avon</placeName>
+        <location><geo>52.19166 -1.70734</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118613723</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2412.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2412</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2412.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2412</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55589</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=S#DWpers0220</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q692</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb12668">
+  <persName>
+      <forename>Friedrich von</forename>
+      <surname>Schlegel</surname>
+  </persName>
+  <birth>
+    <date when-iso="1772-03-10">10.03.1772</date>
+      <settlement key="pmb890">
+        <placeName type="pref">Hannover</placeName>
+        <location><geo>52.37052 9.73322</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1829-01-12">12.01.1829</date>
+      <settlement key="pmb866">
+        <placeName type="pref">Dresden</placeName>
+        <location><geo>51.0833 13.7666</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19717</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118607987</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12668.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12668</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12668</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43877</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q157271</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">
@@ -633,105 +741,67 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb2412">
+</person><person xml:id="pmb8233">
   <persName>
-      <forename>William</forename>
-      <surname>Shakespeare</surname>
+      <forename>Franz</forename>
+      <surname>Klein</surname>
   </persName>
   <birth>
-    <date when-iso="1564-04-23">23.4.1564?&lt;1564-04-23&gt;</date>
-      <settlement key="pmb49870">
-        <placeName type="pref">Stratford-upon-Avon</placeName>
-        <location><geo>52.19166 -1.70734</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1616-05-03">03.05.1616</date>
-      <settlement key="pmb49870">
-        <placeName type="pref">Stratford-upon-Avon</placeName>
-        <location><geo>52.19166 -1.70734</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118613723</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2412.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2412</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2412.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2412</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55589</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=S#DWpers0220</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q692</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb12668">
-  <persName>
-      <forename>Friedrich von</forename>
-      <surname>Schlegel</surname>
-  </persName>
-  <birth>
-    <date when-iso="1772-03-10">10.03.1772</date>
-      <settlement key="pmb890">
-        <placeName type="pref">Hannover</placeName>
-        <location><geo>52.37052 9.73322</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1829-01-12">12.01.1829</date>
-      <settlement key="pmb866">
-        <placeName type="pref">Dresden</placeName>
-        <location><geo>51.0833 13.7666</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19717</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118607987</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12668.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12668</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12668</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43877</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q157271</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb16309">
-  <persName>
-      <forename>Richard</forename>
-      <surname>Flatter</surname>
-  </persName>
-  <birth>
-    <date when-iso="1899-04-14">14.04.1899</date>
+    <date when-iso="1854-04-24">24.04.1854</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1969-12-05">05.12.1969</date>
+    <date when-iso="1926-04-06">06.04.1926</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </death>
-  <sex value="not-set"/>
-  <occupation key="116">Übersetzer/Übersetzerin</occupation>
-  <occupation key="608">Anglist/Anglistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15024</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16309</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16309</idno>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16885</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118562878</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8233</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8233</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43519</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282916</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88963</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb53">
+</person></listPerson><listPlace><place xml:id="pmb56">
+  <placeName>VI., Mariahilf</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.19522 16.35032</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57719">Joanelligasse</placeName>
+  <geo>48.1980055 16.356592</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2771932/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb56.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb56</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb53">
   <placeName>III., Landstraße</placeName>
   <placeName type="alternative-name">Landstraße</placeName>
   <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
@@ -770,73 +840,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb56">
-  <placeName>VI., Mariahilf</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.19522 16.35032</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb57719">Joanelligasse</placeName>
-  <geo>48.1980055 16.356592</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2771932/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb56.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb56</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb53289">
-  <title type="main">Shakespeare’s Sonnets</title>
-  <title type="werk_link">https://internetshakespeare.uvic.ca/Library/facsimile/book/UC_Q1_Son/1/</title>
-  <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
-<date notBefore-iso="1609-01-01" when-iso="1609-07-02">1609</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53289/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53289</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Gedichtsammlung</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53329">
-  <title type="main">Karl Kraus als Nachdichter Shakespeares</title>
-  <author key="person__53330" role="hat-geschaffen">Flatter, Richard</author>
-<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53329/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53329</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Studie</note>
-</bibl></listBibl><listOrg><org xml:id="pmb43724">
+</place></listPlace><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>

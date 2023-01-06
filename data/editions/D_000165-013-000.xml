@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000165-014-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000165-012-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000165-013-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000165-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000165-012-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000165-014-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>165.13 Schriftsatz [Beschwerde und Antrag auf Berufung] in Sachen Kraus gegen Ludwig (RA Willy Katz an das Amtsgericht Berlin-Mitte, G.Z. 148 B. 600.31)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -210,7 +210,43 @@
             <lb xml:id="uuid_55451484-ecec-4fc4-93f2-0f47c9f69439"/>gez. <rs ref="#pmb19200" type="person">Dr. Katz</rs>
             <lb xml:id="uuid_1788abae-11d8-478a-98e1-1b7197a1362e"/>Rechtsanwalt</p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb12126">
+  <persName>
+      <forename>Emil</forename>
+      <surname>Ludwig</surname>
+  </persName>
+  <birth>
+    <date when-iso="1881-01-25">25.01.1881</date>
+      <settlement key="pmb677">
+        <placeName type="pref">Breslau</placeName>
+        <location><geo>51.10773 17.03533</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1948-09-17">17.09.1948</date>
+      <settlement key="pmb49872">
+        <placeName type="pref">Ascona</placeName>
+        <location><geo>46.15451 8.77327</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17726</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118780778</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12126</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12126</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb12126.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12126</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42631</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=L#DWpers0157</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58836</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -307,6 +343,23 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
+</person><person xml:id="pmb19200">
+  <persName>
+      <forename>Willy</forename>
+      <surname>Katz</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
+  <persName type="legacy-name-merge">Katz, Willy</persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </person><person xml:id="pmb2147">
   <persName>
       <forename>Peter</forename>
@@ -362,60 +415,51 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb12126">
-  <persName>
-      <forename>Emil</forename>
-      <surname>Ludwig</surname>
-  </persName>
-  <birth>
-    <date when-iso="1881-01-25">25.01.1881</date>
-      <settlement key="pmb677">
-        <placeName type="pref">Breslau</placeName>
-        <location><geo>51.10773 17.03533</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1948-09-17">17.09.1948</date>
-      <settlement key="pmb49872">
-        <placeName type="pref">Ascona</placeName>
-        <location><geo>46.15451 8.77327</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17726</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118780778</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12126</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12126</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb12126.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12126</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42631</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=L#DWpers0157</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58836</idno>
+</person></listPerson><listOrg><org xml:id="pmb36735">
+  <orgName>Amtsgericht Berlin-Mitte</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb36737">Mitte</placeName>
+  <geo>52.516669 13.366669</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57381">Stralauer Allee</placeName>
+  <geo>52.50027240522402 13.45617698301801</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57381/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57381</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb19200">
-  <persName>
-      <forename>Willy</forename>
-      <surname>Katz</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Willi Katz</persName>
-  <persName type="legacy-name-merge">Katz, Willy</persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16761</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19200</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51596/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19200</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb168">
+</org></listOrg><listBibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPlace><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
   <placeName type="legacy-name-merge">Berlin</placeName>
@@ -451,49 +495,5 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listOrg><org xml:id="pmb36735">
-  <orgName>Amtsgericht Berlin-Mitte</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb36737">Mitte</placeName>
-  <geo>52.516669 13.366669</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4248938-6</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q163966</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb57381">Stralauer Allee</placeName>
-  <geo>52.50027240522402 13.45617698301801</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57381/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57381</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36735/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36735</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36735</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2652174</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</place></listPlace></back></text>
 </TEI>

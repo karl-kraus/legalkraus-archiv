@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-053-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-051-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000136-052-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000136-052-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-051-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-053-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -151,7 +151,111 @@
                <lb xml:id="uuid_a4dc708c-226e-46a5-aaaf-162f9e478e12"/><rs ref="#pmb36940" type="institution">Volksbühne</rs></note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listBibl><bibl xml:id="pmb56987">
+  <title type="main">Die Großherzogin von Gerolstein</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1867-01-01" when-iso="1867-07-02">1867</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56987/</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56987.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56987</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl><bibl xml:id="pmb53397">
+  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl></listBibl><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb63866">
+  <persName>
+      <forename>Eddie</forename>
+      <surname>Peppler</surname>
+  </persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63866/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63866</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39306">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Peppler</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-06-05">05.06.1889</date>
+      <settlement key="pmb872">
+        <placeName type="pref">Stuttgart</placeName>
+        <location><geo>48.78232 9.17702</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1930-12-20">20.12.1930</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061427161</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39306</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39306</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45453</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q11954221</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -247,88 +351,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb63866">
-  <persName>
-      <forename>Eddie</forename>
-      <surname>Peppler</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63866/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63866</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39306">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Peppler</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-06-05">05.06.1889</date>
-      <settlement key="pmb872">
-        <placeName type="pref">Stuttgart</placeName>
-        <location><geo>48.78232 9.17702</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1930-12-20">20.12.1930</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061427161</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39306</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39306</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45453</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q11954221</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36940">
   <orgName>Volksbühne Berlin</orgName>
@@ -428,29 +450,7 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listBibl><bibl xml:id="pmb53397">
-  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl><bibl xml:id="pmb56987">
-  <title type="main">Die Großherzogin von Gerolstein</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1867-01-01" when-iso="1867-07-02">1867</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56987/</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb56987.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56987</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl></listBibl><listPlace><place xml:id="pmb168">
+</org></listOrg><listPlace><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
   <placeName type="legacy-name-merge">Berlin</placeName>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000175-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000175-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000175-002-001.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000175-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000175-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000175-002-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>175.2 Privatanklage von Karl Kraus gegen Wiener Mittags-Zeitung (verantw. Red. Karl Mautner) wegen Ehrenbeleidigung begangen durch die Presse und Antrag auf Vornahme einer Hausdurchsuchung</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -196,7 +196,7 @@
             seinem unzulänglichen Deutsch<lb xml:id="uuid_ef364b4e-f0f7-4aca-b662-ee81c0c83328"/>geübten Kritik aufgebracht. Er wurde wegen Beleidigung vom<lb xml:id="uuid_3c690081-ffef-42e0-8a8c-669801613607"/><rs type="institution" ref="#pmb29605">Bezirksgericht Josefstadt</rs>
             verurteilt. Im Jahre 1899 wurde der<lb xml:id="uuid_4a6e3fcc-6f97-47be-b6c5-c42b9285b201"/><rs type="person" ref="#pmb11988">Privatankläger</rs> von mehreren
             Literaten gemeinsam und zwar we<lb xml:id="uuid_37e15247-882a-401c-9240-57eec9fc8688" break="no"/>gen eines die Korruption des Wiener Theater- und Literatur<lb xml:id="uuid_25f717b7-4a23-44aa-9c52-b007addfbc3a" break="no"/>lebens betreffenden
-               <rs type="work" ref="https://fackel.oeaw.ac.at/f/004,016" subtype="fackel">Aufsatzes
+               <rs type="work" ref="#lk_fackel__2" corresp="https://fackel.oeaw.ac.at/f/004,016" subtype="fackel">Aufsatzes
                in der ‚Fackel‘</rs> überfallen und<lb xml:id="uuid_96a38204-ea0b-475c-89da-85bc73104c20"/>verletzt; sämtliche Angreifer
             wurden von der <rs type="institution" ref="#pmb36869">Staatsanwalt</rs>- <pb xml:id="D_000175-002-000_p004" facs="#D_000175-002-000-facs001-l002-p004" n="4"/>
             <lb xml:id="uuid_9a68473b-e1c5-4612-b48e-03e19a28408f"/>schaft angeklagt und teils zu
@@ -285,81 +285,83 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb2771">
+</person><person xml:id="pmb9131">
   <persName>
-      <forename>Egon</forename>
-      <surname>Friedell</surname>
+      <forename>Jacques</forename>
+      <surname>Offenbach</surname>
   </persName>
-  <persName type="person_geburtsname_nachname">Friedmann</persName>
-  <persName type="legacy-name-merge">Friedell, Egon</persName>
   <birth>
-    <date when-iso="1878-01-21">21.01.1878</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
+    <date when-iso="1819-06-20">20.06.1819</date>
+      <settlement key="pmb145">
+        <placeName type="pref">Köln</placeName>
+        <location><geo>50.93835 6.95427</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1938-03-16">16.03.1938</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
+    <date when-iso="1880-10-05">05.10.1880</date>
+      <settlement key="pmb182">
+        <placeName type="pref">Paris</placeName>
+        <location><geo>48.85341 2.3488</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="195">Philosoph/Philosophin &gt;&gt; Kulturphilosoph/Kulturphilosophin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118535560</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2771.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2771</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15210</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2771</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2771</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42358</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00281663</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q112255</idno>
-<affiliation>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18529</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118589598</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb9131</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46664</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=O#DWpers0180</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q41555</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb3531">
+  <persName>
+      <forename>Marya</forename>
+      <surname>Delvard</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Maria Joséphine</persName>
+  <persName type="person_geburtsname_nachname">Biller</persName>
+  <birth>
+    <date when-iso="1874-09-11">11.09.1874</date>
+      <settlement key="pmb60015">
+        <placeName type="pref">Réchicourt-le-Château</placeName>
+        <location><geo>48.66536 6.83884</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1965-09-28">28.09.1965</date>
+      <settlement key="pmb60017">
+        <placeName type="pref">Pullach im Isartal</placeName>
+        <location><geo>48.06122 11.52148</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="215">Kabarettist/Kabarettistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116068337</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3531.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3531</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3531</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49827</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1906419</idno>
+<affiliation when-iso="1906-01-05">
     <term key="1182">arbeitet für</term>
     <orgName key="pmb55506">Nachtlicht</orgName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55506/</idno>
 </affiliation>
-<affiliation notBefore-iso="1921-01-01" when-iso="1921-07-02" notAfter-iso="1921-12-31">
+<affiliation>
     <term key="1182">arbeitet für</term>
-    <orgName key="pmb29320">Neues Wiener Journal</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29320.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29320</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29320</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29320</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1980429</idno>
+    <orgName key="pmb51868">Cabaret Fledermaus</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51868/</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51868</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1024740</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb39105">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Mautner</surname>
-  </persName>
-  <persName type="alternative-name">Mautner, K.</persName>
-  <birth>
-    <date when-iso="1907-07-15">15.07.1907</date>
-  </birth>  
-  <death>
-    <date when-iso="1990-01-10">10.01.1990</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1080317473</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39105</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39105</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </person><person xml:id="pmb2167">
   <persName>
@@ -450,83 +452,28 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb9131">
+</person><person xml:id="pmb39105">
   <persName>
-      <forename>Jacques</forename>
-      <surname>Offenbach</surname>
+      <forename>Karl</forename>
+      <surname>Mautner</surname>
   </persName>
+  <persName type="alternative-name">Mautner, K.</persName>
   <birth>
-    <date when-iso="1819-06-20">20.06.1819</date>
-      <settlement key="pmb145">
-        <placeName type="pref">Köln</placeName>
-        <location><geo>50.93835 6.95427</geo></location>
-      </settlement>
+    <date when-iso="1907-07-15">15.07.1907</date>
   </birth>  
   <death>
-    <date when-iso="1880-10-05">05.10.1880</date>
-      <settlement key="pmb182">
-        <placeName type="pref">Paris</placeName>
-        <location><geo>48.85341 2.3488</geo></location>
-      </settlement>
+    <date when-iso="1990-01-10">10.01.1990</date>
   </death>
   <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18529</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118589598</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb9131</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46664</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=O#DWpers0180</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q41555</idno>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1080317473</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39105</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39105</idno>
 <listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb3531">
-  <persName>
-      <forename>Marya</forename>
-      <surname>Delvard</surname>
-  </persName>
-  <persName type="person_geburtsname-vorname">Maria Joséphine</persName>
-  <persName type="person_geburtsname_nachname">Biller</persName>
-  <birth>
-    <date when-iso="1874-09-11">11.09.1874</date>
-      <settlement key="pmb60015">
-        <placeName type="pref">Réchicourt-le-Château</placeName>
-        <location><geo>48.66536 6.83884</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1965-09-28">28.09.1965</date>
-      <settlement key="pmb60017">
-        <placeName type="pref">Pullach im Isartal</placeName>
-        <location><geo>48.06122 11.52148</geo></location>
-      </settlement>
-  </death>
-  <sex value="female"/>
-  <occupation key="215">Kabarettist/Kabarettistin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116068337</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3531.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3531</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3531</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49827</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1906419</idno>
-<affiliation when-iso="1906-01-05">
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb55506">Nachtlicht</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55506/</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb51868">Cabaret Fledermaus</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51868/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51868</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1024740</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </person><person xml:id="pmb38909">
   <persName>
@@ -670,7 +617,93 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb55416">
+</person><person xml:id="pmb2771">
+  <persName>
+      <forename>Egon</forename>
+      <surname>Friedell</surname>
+  </persName>
+  <persName type="person_geburtsname_nachname">Friedmann</persName>
+  <persName type="legacy-name-merge">Friedell, Egon</persName>
+  <birth>
+    <date when-iso="1878-01-21">21.01.1878</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1938-03-16">16.03.1938</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="195">Philosoph/Philosophin &gt;&gt; Kulturphilosoph/Kulturphilosophin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118535560</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2771.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2771</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15210</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2771</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2771</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42358</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00281663</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q112255</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb55506">Nachtlicht</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55506/</idno>
+</affiliation>
+<affiliation notBefore-iso="1921-01-01" when-iso="1921-07-02" notAfter-iso="1921-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29320">Neues Wiener Journal</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29320.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29320</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29320</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29320</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1980429</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb29605">
+  <orgName>Bezirksgericht Wien Josefstadt</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50846">Laudongasse</placeName>
+  <geo>48.213339 16.350692</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50846/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50846</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50846.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29605</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29605</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29605</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb55416">
   <orgName>C.H. Beck</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -694,36 +727,6 @@
 <note type="apis_dates">
 <date when-iso="1763-09-09">1763-09-09</date>
 </note>
-</org><org xml:id="pmb37560">
-  <orgName>Wiener Mittags-Zeitung</orgName>
-  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Mittags-Zeitung</orgName>
-  <orgName type="person_namensvariante_nachname-komma-vorname">Wiener Mittagszeitung</orgName>
-  <desc type="entity_type">Zeitungsredaktion</desc>
-  <desc type="entity_type_id">1039</desc>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37560/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37560</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37560</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org><org xml:id="pmb55418">
   <orgName>Wiener allgemeine Zeitungs- und Verlags-Aktien-Gesellschaft</orgName>
   <desc type="entity_type">Verlagskonzern</desc>
@@ -766,37 +769,34 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="pmb29605">
-  <orgName>Bezirksgericht Wien Josefstadt</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
+</org><org xml:id="pmb37560">
+  <orgName>Wiener Mittags-Zeitung</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Mittags-Zeitung</orgName>
+  <orgName type="person_namensvariante_nachname-komma-vorname">Wiener Mittagszeitung</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
 </location>
-<location type="located_in_place">
-  <placeName key="pmb50846">Laudongasse</placeName>
-  <geo>48.213339 16.350692</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50846/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50846</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50846.html</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29605</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29605</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29605</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37560/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37560</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37560</idno>
 <listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </org><org xml:id="pmb50491">
@@ -832,58 +832,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb32606">
-  <title type="main">Die demolirte Literatur</title>
-  <title type="werk_bibliografische-angabe">Wiener Rundschau, Jg. 1, H. 1–2, 15. 11.–1. 12. 1896</title>
-  <title type="person_namensvariante_nachname-komma-vorname">Die demolierte Literatur</title>
-  <title type="person_namensvariante_nachname-komma-vorname">Die demolirte Litteratur</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date>15.11.1896  – 1.12.1896</date>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32606.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32606</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32606.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32606</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Studie</note>
-</bibl><bibl xml:id="pmb32544">
-  <title type="main">Die letzten Tage der Menschheit</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-  <author key="person__51630" role="hat-ubersetzt">Münzer, Jan</author>
-<date from-iso="1919-01-01" to-iso="1919-12-31">1919  – 1926</date>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32544.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32544</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32544.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32544</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl><bibl xml:id="pmb32624">
-  <title type="main">Die Kulturgeschichte der Neuzeit</title>
-  <author key="person__2771" role="hat-geschaffen">Friedell, Egon</author>
-<date notBefore-iso="1927-01-01" when-iso="1927-07-02">1927</date>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32624.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32624</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32624.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32624</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Geschichtswerk</note>
-</bibl><bibl xml:id="pmb55414">
-  <title type="main">Wiener Mittags-Zeitung, 9.2.1932</title>
-  <title type="werk_bibliografische-angabe">Wiener Mittags-Zeitung, Nr. 32, 9.2.1932</title>
-<date>1932-02-09  – 1932-02-09</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55414/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55414</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listPlace><place xml:id="pmb45258">
+</org></listOrg><listPlace><place xml:id="pmb45258">
   <placeName>München</placeName>
   <placeName type="alternative-name">München</placeName>
   <placeName type="legacy-name-merge">München?</placeName>
@@ -922,6 +871,23 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb345">
   <placeName>Lerchenfelderstraße</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
@@ -941,22 +907,67 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listBibl><bibl xml:id="pmb32606">
+  <title type="main">Die demolirte Literatur</title>
+  <title type="werk_bibliografische-angabe">Wiener Rundschau, Jg. 1, H. 1–2, 15. 11.–1. 12. 1896</title>
+  <title type="person_namensvariante_nachname-komma-vorname">Die demolierte Literatur</title>
+  <title type="person_namensvariante_nachname-komma-vorname">Die demolirte Litteratur</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date>15.11.1896  – 1.12.1896</date>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32606.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32606</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32606.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32606</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Studie</note>
+</bibl><bibl xml:id="pmb55414">
+  <title type="main">Wiener Mittags-Zeitung, 9.2.1932</title>
+  <title type="werk_bibliografische-angabe">Wiener Mittags-Zeitung, Nr. 32, 9.2.1932</title>
+<date>1932-02-09  – 1932-02-09</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55414/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55414</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb32544">
+  <title type="main">Die letzten Tage der Menschheit</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+  <author key="person__51630" role="hat-ubersetzt">Münzer, Jan</author>
+<date from-iso="1919-01-01" to-iso="1919-12-31">1919  – 1926</date>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32544.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32544</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32544.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32544</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl><bibl xml:id="lk_fackel__2" corresp="https://fackel.oeaw.ac.at/f/004,016" type="fackel"><title level="a">(Schwachsinn auf offener Scene.)</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1899-05-01">Anfang Mai [1899]</date><num type="volume">Jg. 1</num><num type="issue">Nr. 4</num><biblScope from="16" to="20">16–20</biblScope><ref target="https://fackel.oeaw.ac.at/f/004,016">174.2
+                  Privatanklage von Karl Kraus gegen Neues Wiener Journal (verantw. Red. Hans
+                  Tabarelli) wegen Ehrenbeleidigung begangen durch die
+                  Presse|D_000174-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/004,016">185.7 Erhebung der Privatanklage von Karl Kraus gegen Österreichisches Abendblatt
+                  (verantw. Red. Alfred Kinast) wegen Ehrenbeleidigung begangen durch die
+                  Presse|D_000185-007-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/004,016">175.2 Privatanklage von Karl Kraus gegen Wiener Mittags-Zeitung (verantw. Red.
+                  Karl Mautner) wegen Ehrenbeleidigung begangen durch die Presse und Antrag auf
+                  Vornahme einer Hausdurchsuchung|D_000175-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/004,016">168.13 Schriftsatz in Sachen Kraus
+                  ./. Landsberg (RA Willy Katz an das Amtsgericht Berlin-Mitte, G.Z. Q.
+                  47/32)|D_000168-013-000.xml</ref></bibl>
+            <bibl xml:id="pmb32624">
+  <title type="main">Die Kulturgeschichte der Neuzeit</title>
+  <author key="person__2771" role="hat-geschaffen">Friedell, Egon</author>
+<date notBefore-iso="1927-01-01" when-iso="1927-07-02">1927</date>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32624.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32624</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32624.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32624</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Geschichtswerk</note>
+</bibl></listBibl></back></text>
 </TEI>

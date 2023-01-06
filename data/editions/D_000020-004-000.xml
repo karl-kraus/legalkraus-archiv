@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>20.4 Beschluss des Strafbezirksgerichts I Wien (G.Z. U I 237/26, Karl Adam Fryda, Rat des Landesgerichts für Strafsachen)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -129,7 +129,30 @@
                     Sep. 1926 </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb50431">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Kaufmann</surname>
+  </persName>
+  <birth>
+    <date when-iso="1896-08-16">1896-08-16</date>
+  </birth>  
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50431/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50431</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -225,29 +248,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb50431">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Kaufmann</surname>
-  </persName>
-  <birth>
-    <date when-iso="1896-08-16">1896-08-16</date>
-  </birth>  
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50431/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50431</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-114-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-112-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000193-113-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000193-113-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-112-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-114-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>193.113 Übersetzung – Aus den Entscheidungen des Kreis-Strafgerichtes in Prag vom 27. April und 18. September 1935</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -317,7 +317,37 @@
                 <lb xml:id="uuid_74ae370e-0930-4c93-bff2-6fe52c2bcd37"/>Urteil des <rs ref="#pmb36848" type="institution">Obergerichtes in Prag</rs>, als Berufungs<lb break="no" xml:id="uuid_7103e258-4a09-4418-93f4-bbb8f970d08e"/>gerichtes in
                 Presseangelegenheiten vom 18. September 1935 G.Z.<lb xml:id="uuid_d4d0589e-de8e-4396-b36d-28baf49e92a2"/>Tko <del>IV</del>m 4/35. </p>
       </body>
-   <back><listOrg><org xml:id="pmb36822">
+   <back><listOrg><org xml:id="pmb36848">
+  <orgName>Oberlandesgericht Prag</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb652">Prag</placeName>
+  <geo>50.08333 14.46667</geo>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36848/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36848</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36848</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36822">
   <orgName>Kreis-Strafgericht Prag</orgName>
   <orgName type="person_namensvariante_nachname-komma-vorname">Strafkreisgericht</orgName>
   <desc type="entity_type">Gericht</desc>
@@ -348,36 +378,6 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="pmb36848">
-  <orgName>Oberlandesgericht Prag</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb652">Prag</placeName>
-  <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36848/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36848</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36848</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org></listOrg><listBibl><bibl xml:id="pmb57692">
   <title type="main">Materielles Strafrecht</title>
   <author key="person__57691" role="hat-geschaffen">Kallab, Jaroslav</author>
@@ -397,26 +397,7 @@
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-</bibl></listBibl><listPerson><person xml:id="pmb57694">
-  <persName>
-      <forename>August</forename>
-      <surname>Miřička</surname>
-  </persName>
-  <birth>
-    <date when-iso="1963-12-02">1963-12-02</date>
-  </birth>  
-  <death>
-    <date when-iso="1946-02-01">1946-02-01</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-  <occupation key="1639">Jurist/Juristin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57694/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57694</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb57691">
+</bibl></listBibl><listPerson><person xml:id="pmb57691">
   <persName>
       <forename>Jaroslav</forename>
       <surname>Kallab</surname>
@@ -433,6 +414,25 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57691/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57691</idno>
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023845</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb57694">
+  <persName>
+      <forename>August</forename>
+      <surname>Miřička</surname>
+  </persName>
+  <birth>
+    <date when-iso="1963-12-02">1963-12-02</date>
+  </birth>  
+  <death>
+    <date when-iso="1946-02-01">1946-02-01</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <occupation key="1639">Jurist/Juristin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57694/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57694</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

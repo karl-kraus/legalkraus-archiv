@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000002-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000002-003-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000002-005-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000002-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000002-003-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000002-005-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>2.4 Urteil des Strafbezirksgerichts I Wien (G.Z. U I 3/23/4, Richter: Christoph Höflmayr, Verteidiger: Heinrich Foglar-Deinhardstein)</title>
-                <editor ref="#pmbIL">Isabel Langkabel</editor>
+                <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -187,7 +187,7 @@
                 betreffenden Artikels „<rs type="work" ref="#pmb62204" subtype="pmb">Ein Kreis<lb xml:id="uuid_37f2ea52-8b61-4d68-b550-221cd945773b" break="no"/>lauf</rs>“
                 abzudrucken:</p>
             <p xml:id="uuid_cc3fab1d-70af-4f0e-a7c3-2c568518e1c0"><lb xml:id="uuid_a53e2cdc-0f41-4e7e-87c5-2258c3b80955"/>Es ist unwahr, dass es in
-                der im <rs type="work" ref="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Novemberheft der „Fackel“</rs>
+                der im <rs type="work" ref="#lk_fackel__95" corresp="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Novemberheft der „Fackel“</rs>
                 <lb xml:id="uuid_32f03947-7e6e-462c-b94e-c9cd64cbcfa5"/>veröffentlichten Rede
                 heisst, <hi rend="underlined"><rs type="person" ref="#pmb11988">Karl Kraus</rs></hi> sei
                     „<quote xml:id="uuid_05b7e184-0cda-40ff-bc37-75692d8f61f4" source="#62204">einst</quote>“ durch den<lb xml:id="uuid_3e15db19-7181-488d-b9cd-b01fa7c95d72"/>leidigen Zufall der Geburt in die jüdische Glaubensgenossenschaft<lb xml:id="uuid_15b61a9d-a92a-4e7d-9f85-a3375cbfac53"/>geraten. Wahr ist, dass es
@@ -251,13 +251,13 @@
                     überbracht zu haben</quote>“ entsprechend nach<lb xml:id="uuid_f39d1186-2d8e-480a-b881-1408c02c62c4"/>der Ansicht des <rs type="institution" ref="#pmb50491">Gerichtes</rs> vollständig dem Gesetze. Sie
                     sind<lb xml:id="uuid_10193ba6-9899-4888-9ce4-455faab93e61"/>reine
                 Tatsachenberichtigungen, es handelt sich nämlich darum, ob<lb xml:id="uuid_e0f27713-9094-42fd-bf03-c1a43813d82e"/>die in der Reichspost
-                angeführten Teile einer in der <rs type="work" ref="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Nr. 601 –<lb xml:id="uuid_89dadd26-2a03-4ac8-a5d9-8e29e98c1753"/>607 (November 1922) der
+                angeführten Teile einer in der <rs type="work" ref="#lk_fackel__95" corresp="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Nr. 601 –<lb xml:id="uuid_89dadd26-2a03-4ac8-a5d9-8e29e98c1753"/>607 (November 1922) der
                     „Fackel“</rs> abgedruckten Rede, tatsäch<lb xml:id="uuid_1f1cf61c-048d-4432-9578-4dd462bc7b70" break="no"/>lich in der
-                genannten <rs type="work" ref="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Nummer der Fackel</rs> gestanden sind.</p>
+                genannten <rs type="work" ref="#lk_fackel__95" corresp="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Nummer der Fackel</rs> gestanden sind.</p>
             <p xml:id="uuid_ff94a843-926b-4c96-a213-9af788ac54f6"><lb xml:id="uuid_7b102fc9-81c7-4a6d-91d3-a81a4ba12cac"/>In der Berichtigung ist
                 stets gesagt, welche Stellen richtig und<lb xml:id="uuid_8c43b96c-0794-4c76-806e-64968ae6aeed"/>welche unrichtig sind, ob
                 die <hi rend="underlined">Zitierung bestimmter</hi> Worte, die<lb xml:id="uuid_76cae3bd-f6c9-414c-a17c-c0edffa3c79b"/>in der fraglichen in der
-                    „<rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>“ abgedruckten <rs type="work" ref="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Rede</rs>
+                    „<rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>“ abgedruckten <rs type="work" ref="#lk_fackel__95" corresp="https://fackel.oeaw.ac.at/f/601,001" subtype="fackel">Rede</rs>
                     enthaltenen<lb xml:id="uuid_875386a6-ea69-498e-a74a-e648f606c27d"/>sind, im
                 inkriminierten <rs type="work" ref="#pmb62204" subtype="pmb">Artikel der
                     „Reichspost</rs>“ <hi rend="underlined">vorgenommen wurde</hi>
@@ -286,145 +286,7 @@
                 <lb xml:id="uuid_4ceb4c76-ce2e-4b98-bf89-0d8a55de022c"/><note type="paratext" resp="law-firm">Eingelangt am 17. JAN 1923</note>
             </p>
         </body>
-    <back><listOrg><org xml:id="pmb29637">
-  <orgName>Reichspost</orgName>
-  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
-  <desc type="entity_type">Tageszeitungsredaktion</desc>
-  <desc type="entity_type_id">972</desc>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50653">Strozzigasse</placeName>
-  <geo>48.20702 16.349371</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50653/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50653</note>
-</location>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29637.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29637</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29637</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2139624</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb50491">
-  <orgName>Strafbezirksgericht I</orgName>
-  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
-  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50664">Schiffamtsgasse</placeName>
-  <geo>48.218669 16.373101</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPlace><place xml:id="pmb50653">
-  <placeName>Strozzigasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.20702 16.349371</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50653/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50653</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50">
-  <placeName>Wien</placeName>
-  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Bécs</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Land Wien</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Vídeň</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Wenia</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Beč</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Vindobona (Wien)</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="legacy-name-merge">Vindobona</placeName>
-  <placeName type="alternative-name">Vienna</placeName>
-  <placeName type="legacy-name-merge">Wien?</placeName>
-  <placeName type="alternative-name">Vienna</placeName>
-  <placeName type="legacy-name-merge">Vienna</placeName>
-  <placeName type="legacy-name-merge">Vienna</placeName>
-  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
-  <desc type="entity_type_id">14</desc>
-<location type="coords">
-  <geo>48.2066 16.37341</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb41240">Österreich</placeName>
-  <geo>47.33333 13.33333</geo>
-</location>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1741</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="7">Default import collection</bibl>
-</listBibl>
-</place></listPlace><listPerson><person xml:id="pmb50662">
+    <back><listPerson><person xml:id="pmb50662">
   <persName>
       <forename>Heinrich</forename>
       <surname>Foglar-Deinhardstein</surname>
@@ -445,28 +307,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
   <note type="references">https://www.geschichtewiki.wien.gv.at/Heinrich_Foglar-Deinhardstein</note>
-</person><person xml:id="pmb40703">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Schiffleitner</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40703/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40703</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb40703</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29637">Reichspost</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29637.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29637</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29637</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2139624</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
@@ -609,7 +449,204 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb41244">
+</person><person xml:id="pmb40703">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Schiffleitner</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40703/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40703</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb40703</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29637">Reichspost</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29637.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29637</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29637</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2139624</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb50653">
+  <placeName>Strozzigasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20702 16.349371</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50653/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50653</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
+  <placeName>Wien</placeName>
+  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Bécs</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Land Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vídeň</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Wenia</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Beč</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vindobona (Wien)</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-name-merge">Vindobona</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Wien?</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1741</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+</place></listPlace><listOrg><org xml:id="pmb29637">
+  <orgName>Reichspost</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50653">Strozzigasse</placeName>
+  <geo>48.20702 16.349371</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50653/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50653</note>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29637.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29637</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29637</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2139624</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb50491">
+  <orgName>Strafbezirksgericht I</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
+  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50664">Schiffamtsgasse</placeName>
+  <geo>48.218669 16.373101</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listBibl><bibl xml:id="pmb62205">
+  <title type="main">Reichspost, 29.11.1922</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19221129</title>
+  <title type="werk_bibliografische-angabe">Reichspost Nr. 319, 19.11.1922 (Morgenblatt)</title>
+<date>1922-11-29  – 1922-11-29</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62205/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62205</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__95" corresp="https://fackel.oeaw.ac.at/f/601,001" type="fackel"><title level="a">Vom großen Welttheaterschwindel</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1922-11-01">November 1922</date><num type="volume">Jg. 24</num><num type="issue">Nr. 601–607</num><biblScope from="1" to="7">1–7</biblScope><ref target="https://fackel.oeaw.ac.at/f/601,001">2.3
+                  Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner)
+                  wegen Verweigerung einer Berichtigung|D_000002-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,005">2.3 Privatanklage von Karl Kraus
+                  gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer
+                  Berichtigung|D_000002-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,004">2.3 Privatanklage von Karl Kraus
+                  gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer
+                  Berichtigung|D_000002-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,001">2.10 Urteil des Landesgerichts in
+                  Strafsachen I. Wien (G.Z. Bl XV 121/23, Vorsitz: Rudolf
+                  Wessely)|D_000002-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,003">2.3 Privatanklage von Karl Kraus
+                  gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer
+                  Berichtigung|D_000002-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,001">2.2 Brief Samek an Reichspost
+                  (verantw. Red. Karl Schiffleitner)|D_000002-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/601,001">2.4 Urteil des Strafbezirksgerichts I
+                  Wien (G.Z. U I 3/23/4, Richter: Christoph Höflmayr, Verteidiger: Heinrich
+                  Foglar-Deinhardstein)|D_000002-004-000.xml</ref></bibl>
+            <bibl xml:id="pmb62204">
+  <title type="main">Ein Kreislauf</title>
+  <title type="werk_bibliografische-angabe">EIn Kreislauf, in:  Reichspost Nr. 319, 19.11.1922 (Morgenblatt), S. 3.</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19221129&amp;seite=3</title>
+<date>1922-11-29  – 1922-11-29</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62204/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62204</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb41244">
   <title type="main">Die Fackel</title>
   <title type="werk_link">https://fackel.oeaw.ac.at</title>
   <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
@@ -628,27 +665,5 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb62204">
-  <title type="main">Ein Kreislauf</title>
-  <title type="werk_bibliografische-angabe">EIn Kreislauf, in:  Reichspost Nr. 319, 19.11.1922 (Morgenblatt), S. 3.</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19221129&amp;seite=3</title>
-<date>1922-11-29  – 1922-11-29</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62204/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62204</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb62205">
-  <title type="main">Reichspost, 29.11.1922</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19221129</title>
-  <title type="werk_bibliografische-angabe">Reichspost Nr. 319, 19.11.1922 (Morgenblatt)</title>
-<date>1922-11-29  – 1922-11-29</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62205/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62205</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
 </bibl></listBibl></back></text>
 </TEI>

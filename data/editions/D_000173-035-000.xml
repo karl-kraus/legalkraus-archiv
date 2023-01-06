@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-036-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-034-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-035-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-035-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-034-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-036-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>173.35 Brief Deutsches Theater Prag an Kraus</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -138,7 +138,94 @@
          <p xml:id="uuid_8fe03019-017e-4180-a5bd-f4190b00db77">
             <lb xml:id="uuid_0104c4a2-9d07-4402-a425-c67193962554"/>Dr. <rs ref="#pmb62197" type="person">Hanne Fischer</rs>.<lb xml:id="uuid_0b2df326-2e3b-44de-aab1-1854f557e115"/>Dramaturgin. </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb55400">
+  <persName>
+      <forename>Robert</forename>
+      <surname>Volkner</surname>
+  </persName>
+  <persName type="legacy-name-merge">Volkner, Robert</persName>
+  <birth>
+    <date when-iso="1871-01-01">1871-01-01</date>
+  </birth>  
+  <death>
+    <date when-iso="1950-01-01">1950-01-01</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="280">Theaterintendant/Theaterintendantin</occupation>
+  <occupation key="715">Theaterdirektor/Theaterdirektorin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55398/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55400/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117486906</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55400</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp54978</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2159090</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37080">Neues Deutsches Theater</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37080/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37080</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37080</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q521155</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb62197">
+  <persName>
+      <forename>Hanne</forename>
+      <surname>Fischer</surname>
+  </persName>
+  <sex value="female"/>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62197/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb62197</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37080">Neues Deutsches Theater</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37080/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37080</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37080</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q521155</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb26818">
+  <persName>
+      <forename>Alois</forename>
+      <surname>Weinert</surname>
+  </persName>
+  <persName type="person_rufname">Louis</persName>
+  <persName type="person_pseudonym">Louis Weinert-Wilton</persName>
+  <birth>
+    <date when-iso="1875-05-11">11.05.1875</date>
+      <settlement key="pmb61599">
+        <placeName type="pref">Bezdružice</placeName>
+        <location><geo>49.90724 12.9711</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-09-05">1945-09-05</date>
+      <settlement key="pmb652">
+        <placeName type="pref">Prag</placeName>
+        <location><geo>50.08333 14.46667</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21169</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26818</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb26818</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -235,94 +322,15 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb62197">
-  <persName>
-      <forename>Hanne</forename>
-      <surname>Fischer</surname>
-  </persName>
-  <sex value="female"/>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62197/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb62197</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37080">Neues Deutsches Theater</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37080/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37080</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37080</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q521155</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb26818">
-  <persName>
-      <forename>Alois</forename>
-      <surname>Weinert</surname>
-  </persName>
-  <persName type="person_rufname">Louis</persName>
-  <persName type="person_pseudonym">Louis Weinert-Wilton</persName>
-  <birth>
-    <date when-iso="1875-05-11">11.05.1875</date>
-      <settlement key="pmb61599">
-        <placeName type="pref">Bezdružice</placeName>
-        <location><geo>49.90724 12.9711</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1945-09-05">1945-09-05</date>
-      <settlement key="pmb652">
-        <placeName type="pref">Prag</placeName>
-        <location><geo>50.08333 14.46667</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21169</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26818</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb26818</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
-</listBibl>
-</person><person xml:id="pmb55400">
-  <persName>
-      <forename>Robert</forename>
-      <surname>Volkner</surname>
-  </persName>
-  <persName type="legacy-name-merge">Volkner, Robert</persName>
-  <birth>
-    <date when-iso="1871-01-01">1871-01-01</date>
-  </birth>  
-  <death>
-    <date when-iso="1950-01-01">1950-01-01</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="280">Theaterintendant/Theaterintendantin</occupation>
-  <occupation key="715">Theaterdirektor/Theaterdirektorin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55398/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55400/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117486906</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55400</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp54978</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2159090</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37080">Neues Deutsches Theater</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37080/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37080</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37080</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q521155</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb652">
+</person></listPerson><listBibl><bibl xml:id="pmb62253">
+  <title type="main">Theaterzeitung des Neuen Deutschen Theaters (Prag)</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62253/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62253</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPlace><place xml:id="pmb652">
   <placeName>Prag</placeName>
   <placeName type="alternative-name">Hauptstadt Prag</placeName>
   <placeName type="legacy-name-merge">Prag</placeName>
@@ -397,15 +405,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb62253">
-  <title type="main">Theaterzeitung des Neuen Deutschen Theaters (Prag)</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62253/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb62253</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listOrg><org xml:id="pmb43724">
+</place></listPlace><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>

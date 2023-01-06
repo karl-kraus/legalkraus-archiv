@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000012-016-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000012-014-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000012-015-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000012-015-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000012-014-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000012-016-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>12.15 Brief Samek an Otto Kretsch</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -219,25 +219,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb50502">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Kretsch</surname>
-  </persName>
-  <birth>
-    <date when-iso="1884-01-11">1884-01-11</date>
-  </birth>  
-  <death>
-    <date when-iso="1932-06-07">1932-06-07</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50502/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50502</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
+</place></listPlace><listPerson><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -279,6 +261,24 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb50502">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Kretsch</surname>
+  </persName>
+  <birth>
+    <date when-iso="1884-01-11">1884-01-11</date>
+  </birth>  
+  <death>
+    <date when-iso="1932-06-07">1932-06-07</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50502/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50502</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

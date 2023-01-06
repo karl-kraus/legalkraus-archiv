@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000023-039-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000023-038-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000023-040-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000023-039-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000023-038-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000023-040-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>23.39 Antrag auf Ablehnung des verhandelnden Richters (Strafbezirksgerichts I Wien)</title>
-                <editor ref="#pmbJK">Johannes Knüchel</editor>
+                <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -205,10 +205,10 @@
                 ersuche, einen anderen Richter mit der Durch<lb xml:id="uuid_8097b62e-fa17-42ae-9a51-a5654e87cd9e" break="no"/>führung dieser
                 Verhandlung zu betrauen. Ich begründe diese Ab<lb xml:id="uuid_2c0f209e-d0e7-4e21-be43-4b5729962813" break="no"/>lehnung und
                 dieses Ersuchen durch den Hinweis auf die Argu<lb xml:id="uuid_d0950a7f-a800-4cc4-be82-ce05b995758b" break="no"/>mente, die ich in
-                der beigelegten Schrift „<rs type="work" ref="https://fackel.oeaw.ac.at/f/732,001" subtype="fackel">
+                der beigelegten Schrift „<rs type="work" ref="#lk_fackel__135" corresp="https://fackel.oeaw.ac.at/f/732,001" subtype="fackel">
                     <rs type="institution" ref="#pmb29470">Die
-                        Stunde</rs> des To<lb xml:id="uuid_8b27136e-f3bc-4fc7-9f3f-fb6377b71dcd" break="no"/>des</rs>“ (<rs type="work" ref="https://fackel.oeaw.ac.at/f/732,0u1" subtype="fackel">„Die Fackel“ Nr.
-                    732–34</rs>, August 1926, <rs type="work" ref="https://fackel.oeaw.ac.at/f/732,050" subtype="fackel">S. 50 und 51</rs>)
+                        Stunde</rs> des To<lb xml:id="uuid_8b27136e-f3bc-4fc7-9f3f-fb6377b71dcd" break="no"/>des</rs>“ (<rs type="work" ref="#lk_fackel__134" corresp="https://fackel.oeaw.ac.at/f/732,0u1" subtype="fackel">„Die Fackel“ Nr.
+                    732–34</rs>, August 1926, <rs type="work" ref="#lk_fackel__135" corresp="https://fackel.oeaw.ac.at/f/732,050" subtype="fackel">S. 50 und 51</rs>)
                     aus<lb xml:id="uuid_0f05ffd9-2f1e-44fb-afe3-e6434efd1382" break="no"/>geführt
                 habe. Ich habe dort die enormen Schwierigkeiten dar<lb xml:id="uuid_5ccb8bee-a936-4ecc-8ba5-2452a7641cf6" break="no"/>gestellt, die der
                 unerlässliche juristische Kleinkampf inner<lb xml:id="uuid_df67095e-0640-453b-b4b0-528e10e6aee1" break="no"/>halb jener
@@ -358,7 +358,7 @@
                 erklärt hat, ist nicht nur mein,<lb xml:id="uuid_6d7a80e8-85c0-4774-8502-598b32098621"/>einer Prozesspartei,
                 Eindruck, sondern der Eindruck aller, die<lb xml:id="uuid_472bb934-51fe-4e4f-9afa-d5fe4d373efb"/>den Verhandlungen und nicht
                 bloss meinen Verhandlungen beige<lb xml:id="uuid_9141f2c4-a6a9-4f01-82dc-0e8f08858ec8" break="no"/>wohnt haben. Dies
-                habe ich in der beigelegten <rs type="work" ref="https://fackel.oeaw.ac.at/f/732,001" subtype="fackel">Schrift</rs> auf
+                habe ich in der beigelegten <rs type="work" ref="#lk_fackel__135" corresp="https://fackel.oeaw.ac.at/f/732,001" subtype="fackel">Schrift</rs> auf
                     eine<lb xml:id="uuid_162befd7-58ba-4734-84e0-1829d9b7685d"/>Art zum Ausdruck
                 gebracht, die an Deutlichkeit nichts zu wün<lb xml:id="uuid_cfb57279-54c1-464e-947f-f1731cc270f4" break="no"/>schen übrig
                 lässt. Der Schlusssatz des Passus, der sich auf die<lb xml:id="uuid_f14ebdaf-5b23-4c30-9266-76633c55635f"/>Rechtsprechung des <rs type="person" ref="#pmb50480">Hofrats Höflmayr</rs> bezieht, spricht die Hoff<lb xml:id="uuid_59735b2d-cc38-43ff-8407-be7c32afe2ee" break="no"/>nung aus, „<quote xml:id="uuid_9c053a50-b0aa-4db9-9878-f4d014730778" source="https://fackel.oeaw.ac.at/f/732,051">dass er nach dieser Klarlegung, für
@@ -500,38 +500,34 @@
                 <lb xml:id="uuid_9c01fa48-33a0-4593-af0c-04ace237007f"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="person" ref="#pmb50431">Kaufmann</rs></note>
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb38106">
+    <back><listPerson><person xml:id="pmb39166">
   <persName>
-      <forename>Ernst</forename>
-      <surname>Ely</surname>
+      <forename>Miksa</forename>
+      <surname>Rosenberg</surname>
   </persName>
+  <persName type="werk_link">https://www.geni.com/people/Miksa-Rosenberg/6000000078133341261</persName>
   <birth>
-    <date when-iso="1877-01-01">1877</date>
+    <date>zwischen 1838 und 1898</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
+      </settlement>
   </birth>  
   <death>
-    <date when-iso="1944-01-24">9.1947</date>
-      <settlement key="pmb484">
-        <placeName type="pref">Zürich</placeName>
-        <location><geo>47.37174 8.54226</geo></location>
+    <date when-iso="1930-12-09">09.12.1930</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <occupation key="1283">Anzeigenakquireur/Anzeigenakquireuse</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/12608646X</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38106</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38106</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-</affiliation>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39166/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39166</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39166</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp59322</idno>
 <listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </person><person xml:id="pmb50431">
   <persName>
@@ -552,6 +548,54 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
     <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb37843">
+  <persName>
+      <forename>Imre</forename>
+      <surname>Békessy</surname>
+  </persName>
+  <persName type="person_rufname">Emmerich</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Bekesi</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Bekesy</persName>
+  <birth>
+    <date when-iso="1887-11-13">13.11.1887</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1951-03-17">17.03.1951</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="119">Herausgeber/Herausgeberin</occupation>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37843/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37843</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46460</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1660488</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37216">Kronos Verlag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37216/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37216</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37216</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -601,50 +645,22 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb37843">
+</person><person xml:id="pmb52199">
   <persName>
-      <forename>Imre</forename>
-      <surname>Békessy</surname>
+      <forename>?</forename>
+      <surname>Heidt</surname>
   </persName>
-  <persName type="person_rufname">Emmerich</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Bekesi</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Bekesy</persName>
-  <birth>
-    <date when-iso="1887-11-13">13.11.1887</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1951-03-17">17.03.1951</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
-  </death>
   <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="119">Herausgeber/Herausgeberin</occupation>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37843/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37843</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp46460</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1660488</idno>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52199/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52199</idno>
 <affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37216">Kronos Verlag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37216/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37216</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37216</idno>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -746,26 +762,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb52199">
-  <persName>
-      <forename>?</forename>
-      <surname>Heidt</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52199/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52199</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb50480">
   <persName>
       <forename>Christoph</forename>
@@ -788,36 +784,169 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb39166">
+</person><person xml:id="pmb38106">
   <persName>
-      <forename>Miksa</forename>
-      <surname>Rosenberg</surname>
+      <forename>Ernst</forename>
+      <surname>Ely</surname>
   </persName>
-  <persName type="werk_link">https://www.geni.com/people/Miksa-Rosenberg/6000000078133341261</persName>
   <birth>
-    <date>zwischen 1838 und 1898</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
+    <date when-iso="1877-01-01">1877</date>
   </birth>  
   <death>
-    <date when-iso="1930-12-09">09.12.1930</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
+    <date when-iso="1944-01-24">9.1947</date>
+      <settlement key="pmb484">
+        <placeName type="pref">Zürich</placeName>
+        <location><geo>47.37174 8.54226</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39166/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39166</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39166</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp59322</idno>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <occupation key="1283">Anzeigenakquireur/Anzeigenakquireuse</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/12608646X</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38106</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38106</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="pmb50611">
+  <title type="main">Die Stunde</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
+  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
+<date>1923-02-02  – 1938-03-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
+</bibl><bibl xml:id="pmb52201">
+  <title type="main">Die Stunde, 28.4.1925</title>
+  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 641, 28.4.1925</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250428&amp;zoom=33</title>
+<date>1925-04-28  – 1925-04-28</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52201/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52201</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__134" corresp="https://fackel.oeaw.ac.at/f/732,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-08-01">August 1926</date><num type="volume">Jg. 28</num><num type="issue">Nr. 732–734</num><ref target="https://fackel.oeaw.ac.at/f/732,0u1">23.39 Antrag auf Ablehnung des verhandelnden Richters (Strafbezirksgerichts I
+                  Wien)|D_000023-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/732,0u1">196.84 Äußerung des Privatklägers zum Schriftsatz der Angeklagten vom 18. Februar
+                  1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/732,0u1">196.83 Brief Samek an RA Felix Gallia|D_000196-083-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__135" corresp="https://fackel.oeaw.ac.at/f/732,001" type="fackel"><title level="a">Die Stunde des Todes</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-08-01">August 1926</date><num type="volume">Jg. 28</num><num type="issue">Nr. 732–734</num><biblScope from="1" to="56">1–56</biblScope><ref target="https://fackel.oeaw.ac.at/f/732,050">23.39
+                  Antrag auf Ablehnung des verhandelnden Richters (Strafbezirksgerichts I
+                  Wien)|D_000023-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/732,001">23.39 Antrag auf Ablehnung des verhandelnden Richters (Strafbezirksgerichts I
+                  Wien)|D_000023-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/732,001">23.41 Beschluss der Ratskammer des Landesgerichts für Strafsachen Wien I (Präs.
+                  6705)|D_000023-041-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/732,045">196.84 Äußerung des Privatklägers zum Schriftsatz der Angeklagten vom 18. Februar
+                  1936|D_000196-084-000.xml</ref></bibl>
+            <bibl xml:id="pmb52204">
+  <title type="main">War Karl Kraus ein schönes Kind? [28.4.1925]</title>
+  <title type="werk_bibliografische-angabe">War Karl Kraus ein schönes Kind?, in: Die Stunde, Nr. 641, 28.4.1925, S. 6</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250428&amp;seite=6&amp;zoom=33</title>
+<date>1925-04-28  – 1925-04-28</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52204/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52204</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl></listBibl><listOrg><org xml:id="pmb29470">
+  <orgName>Die Stunde</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="pmb59">IX., Alsergrund</placeName>
+  <geo>48.22387 16.35641</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2782729/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb59.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb59</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50643">Canisiusgasse</placeName>
+  <geo>48.228159 16.353186</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb37525">
+  <orgName>Die Rote Fahne (Wien)</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37525/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37525</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37525</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q17539421</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb36842">
+</org><org xml:id="pmb36869">
+  <orgName>Staatsanwaltschaft</orgName>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36869/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36869</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36869</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36842">
   <orgName>Landesgericht für Strafsachen</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
@@ -856,62 +985,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb36869">
-  <orgName>Staatsanwaltschaft</orgName>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36869/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36869</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36869</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37525">
-  <orgName>Die Rote Fahne (Wien)</orgName>
-  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
-  <desc type="entity_type">Tageszeitungsredaktion</desc>
-  <desc type="entity_type_id">972</desc>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37525/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37525</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37525</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q17539421</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -995,34 +1068,6 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="pmb29470">
-  <orgName>Die Stunde</orgName>
-  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
-  <desc type="entity_type">Tageszeitungsredaktion</desc>
-  <desc type="entity_type_id">972</desc>
-<location type="located_in_place">
-  <placeName key="pmb59">IX., Alsergrund</placeName>
-  <geo>48.22387 16.35641</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2782729/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb59.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb59</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50643">Canisiusgasse</placeName>
-  <geo>48.228159 16.353186</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org></listOrg><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
@@ -1074,39 +1119,5 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb50611">
-  <title type="main">Die Stunde</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
-  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
-<date>1923-02-02  – 1938-03-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
-</bibl><bibl xml:id="pmb52204">
-  <title type="main">War Karl Kraus ein schönes Kind? [28.4.1925]</title>
-  <title type="werk_bibliografische-angabe">War Karl Kraus ein schönes Kind?, in: Die Stunde, Nr. 641, 28.4.1925, S. 6</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250428&amp;seite=6&amp;zoom=33</title>
-<date>1925-04-28  – 1925-04-28</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52204/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52204</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb52201">
-  <title type="main">Die Stunde, 28.4.1925</title>
-  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 641, 28.4.1925</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250428&amp;zoom=33</title>
-<date>1925-04-28  – 1925-04-28</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52201/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52201</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl></back></text>
+</place></listPlace></back></text>
 </TEI>

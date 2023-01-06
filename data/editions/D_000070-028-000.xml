@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-028-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-027-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-029-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-028-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-027-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-029-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -382,132 +382,111 @@
                     ergeben<lb xml:id="uuid_6a81d7a7-e5f1-439a-9a9c-1af0bcb822d2"/><rs type="person" ref="#pmb38969">Dr. Laserstein</rs>
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb53459">
-  <persName>
-      <forename>Josef</forename>
-      <surname>Müller</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53459/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53459</idno>
+    <back><listOrg><org xml:id="pmb52830">
+  <orgName>Reichsgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb864">Leipzig</placeName>
+  <geo>51.33962 12.37129</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52830/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52830</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb11640">
+<note type="apis_dates">
+<date from-iso="1879-01-01" to-iso="1879-12-31">1879  – 1945</date>
+</note>
+</org></listOrg><listPerson><person xml:id="pmb38133">
   <persName>
       <forename>Heinrich</forename>
-      <surname>Heine</surname>
+      <surname>Fischer</surname>
   </persName>
-  <persName type="person_geburtsname-vorname">Harry</persName>
   <birth>
-    <date when-iso="1797-12-13">13.12.1797</date>
-      <settlement key="pmb863">
-        <placeName type="pref">Düsseldorf</placeName>
-        <location><geo>51.22172 6.77616</geo></location>
+    <date when-iso="1896-08-22">22.08.1896</date>
+      <settlement key="pmb842">
+        <placeName type="pref">Karlsbad</placeName>
+        <location><geo>50.23271 12.87117</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1856-02-17">17.02.1856</date>
-      <settlement key="pmb182">
-        <placeName type="pref">Paris</placeName>
-        <location><geo>48.85341 2.3488</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16047</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118548018</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11640.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11640</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11640.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11640</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45715</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=H#DWpers0100</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44403</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb11975">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Kortner</surname>
-  </persName>
-  <persName type="person_geburtsname_nachname">Kohn</persName>
-  <birth>
-    <date when-iso="1892-05-12">12.05.1892</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1970-07-22">22.07.1970</date>
+    <date when-iso="1974-03-16">16.03.1974</date>
       <settlement key="pmb45258">
         <placeName type="pref">München</placeName>
         <location><geo>48.13743 11.57549</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
   <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17063</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118565591</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11975.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11975</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11975</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43932</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q78919</idno>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb57445">Urania Prag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb20707">
+</person><person xml:id="pmb47142">
   <persName>
-      <forename>Richard</forename>
-      <surname>Lányi</surname>
+      <forename>Georg</forename>
+      <surname>Jahoda</surname>
   </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Levy</persName>
-  <persName type="person_geburtsname_nachname">Löwy</persName>
   <birth>
-    <date when-iso="1884-12-09">09.12.1884</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
+    <date notBefore-iso="1863-01-01" when-iso="1863-07-02" notAfter-iso="1863-12-31">1863</date>
   </birth>  
   <death>
-    <date when-iso="1942-05-28">28.05.1942</date>
-      <settlement key="pmb2290">
-        <placeName type="pref">Konzentrationslager Auschwitz</placeName>
-        <location><geo>50.026389 19.203889</geo></location>
-      </settlement>
+    <date when-iso="1926-07-02" notAfter-iso="1926-12-31">1926</date>
   </death>
   <sex value="male"/>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <occupation key="375">Händler/Händlerin &gt;&gt; Buchhändler/Buchhändlerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17325</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb20707</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp52185</idno>
+  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47142/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb47142</idno>
 <affiliation>
     <term key="1409">besitzt</term>
-    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
-</affiliation>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb62299">Verlag Richard Lányi</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62299/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb62299</idno>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
 </affiliation>
 <listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb14780">
@@ -542,110 +521,46 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
-</person><person xml:id="pmb55175">
+</person><person xml:id="pmb11910">
   <persName>
-      <forename>Philipp</forename>
-      <surname>Allfeld</surname>
+      <forename>Alfred</forename>
+      <surname>Kerr</surname>
   </persName>
+  <persName type="person_geburtsname_nachname">Kempner</persName>
+  <persName type="person_pseudonym">Gottlieb</persName>
+  <persName type="person_pseudonym">Peter</persName>
   <birth>
-    <date when-iso="1852-11-02">1852-11-02</date>
-  </birth>  
-  <death>
-    <date when-iso="1940-06-29">1940-06-29</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <occupation key="1639">Jurist/Juristin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55175/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55175</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q27887828</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38969">
-  <persName>
-      <forename>Botho</forename>
-      <surname>Laserstein</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-07-31">31.07.1901</date>
-      <settlement key="pmb49582">
-        <placeName type="pref">Chemnitz</placeName>
-        <location><geo>50.8357 12.92922</geo></location>
+    <date when-iso="1867-12-25">25.12.1867</date>
+      <settlement key="pmb677">
+        <placeName type="pref">Breslau</placeName>
+        <location><geo>51.10773 17.03533</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1955-03-09">09.03.1955</date>
-      <settlement key="pmb863">
-        <placeName type="pref">Düsseldorf</placeName>
-        <location><geo>51.22172 6.77616</geo></location>
+    <date when-iso="1948-10-12">12.10.1948</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="160">Richter/Richterin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
-</affiliation>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11856157X</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11910.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11910.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11910</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38072</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=K#DWpers0125</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q70396</idno>
 <listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb37843">
   <persName>
@@ -691,6 +606,149 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37216/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37216</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37216</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38969">
+  <persName>
+      <forename>Botho</forename>
+      <surname>Laserstein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-07-31">31.07.1901</date>
+      <settlement key="pmb49582">
+        <placeName type="pref">Chemnitz</placeName>
+        <location><geo>50.8357 12.92922</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-03-09">09.03.1955</date>
+      <settlement key="pmb863">
+        <placeName type="pref">Düsseldorf</placeName>
+        <location><geo>51.22172 6.77616</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb63250">
+  <persName>
+      <forename>Felix</forename>
+      <surname>Ziege</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63250/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63250</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11975">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Kortner</surname>
+  </persName>
+  <persName type="person_geburtsname_nachname">Kohn</persName>
+  <birth>
+    <date when-iso="1892-05-12">12.05.1892</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1970-07-22">22.07.1970</date>
+      <settlement key="pmb45258">
+        <placeName type="pref">München</placeName>
+        <location><geo>48.13743 11.57549</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17063</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118565591</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11975.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11975</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11975</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43932</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q78919</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb53459">
+  <persName>
+      <forename>Josef</forename>
+      <surname>Müller</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53459/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53459</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -792,47 +850,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb11910">
-  <persName>
-      <forename>Alfred</forename>
-      <surname>Kerr</surname>
-  </persName>
-  <persName type="person_geburtsname_nachname">Kempner</persName>
-  <persName type="person_pseudonym">Gottlieb</persName>
-  <persName type="person_pseudonym">Peter</persName>
-  <birth>
-    <date when-iso="1867-12-25">25.12.1867</date>
-      <settlement key="pmb677">
-        <placeName type="pref">Breslau</placeName>
-        <location><geo>51.10773 17.03533</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1948-10-12">12.10.1948</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11856157X</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11910.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11910.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11910</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38072</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=K#DWpers0125</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q70396</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
 </person><person xml:id="pmb64145">
   <persName>
       <forename>?</forename>
@@ -844,165 +861,109 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb63250">
-  <persName>
-      <forename>Felix</forename>
-      <surname>Ziege</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63250/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63250</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb47142">
-  <persName>
-      <forename>Georg</forename>
-      <surname>Jahoda</surname>
-  </persName>
-  <birth>
-    <date notBefore-iso="1863-01-01" when-iso="1863-07-02" notAfter-iso="1863-12-31">1863</date>
-  </birth>  
-  <death>
-    <date when-iso="1926-07-02" notAfter-iso="1926-12-31">1926</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47142/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb47142</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38133">
+</person><person xml:id="pmb11640">
   <persName>
       <forename>Heinrich</forename>
-      <surname>Fischer</surname>
+      <surname>Heine</surname>
   </persName>
+  <persName type="person_geburtsname-vorname">Harry</persName>
   <birth>
-    <date when-iso="1896-08-22">22.08.1896</date>
-      <settlement key="pmb842">
-        <placeName type="pref">Karlsbad</placeName>
-        <location><geo>50.23271 12.87117</geo></location>
+    <date when-iso="1797-12-13">13.12.1797</date>
+      <settlement key="pmb863">
+        <placeName type="pref">Düsseldorf</placeName>
+        <location><geo>51.22172 6.77616</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1974-03-16">16.03.1974</date>
-      <settlement key="pmb45258">
-        <placeName type="pref">München</placeName>
-        <location><geo>48.13743 11.57549</geo></location>
+    <date when-iso="1856-02-17">17.02.1856</date>
+      <settlement key="pmb182">
+        <placeName type="pref">Paris</placeName>
+        <location><geo>48.85341 2.3488</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
   <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb57445">Urania Prag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
-</affiliation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16047</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118548018</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11640.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11640</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11640.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11640</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45715</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=H#DWpers0100</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44403</idno>
 <listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb63251">
-  <title type="main">Ludwig Börne oder: die Überwindung des Judentums</title>
-  <author key="person__38969" role="hat-geschaffen">Laserstein, Botho</author>
-<date from-iso="1931-01-01" to-iso="1931-12-31">1931  – 1931</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63251/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63251</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Textsammlung</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb55176">
-  <title type="main">Gesetz über das Urheberrecht an Werken der bildenden Künste und der Photographie vom 9. Januar 1907</title>
-  <author key="person__55175" role="hat-geschaffen">Allfeld, Philipp</author>
-<date notBefore-iso="1907-01-01" when-iso="1907-07-02">1907</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55176/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55176</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Gesetzeskommentar</note>
-</bibl></listBibl><listOrg><org xml:id="pmb52830">
-  <orgName>Reichsgericht</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb864">Leipzig</placeName>
-  <geo>51.33962 12.37129</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52830/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52830</idno>
+</person><person xml:id="pmb20707">
+  <persName>
+      <forename>Richard</forename>
+      <surname>Lányi</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Levy</persName>
+  <persName type="person_geburtsname_nachname">Löwy</persName>
+  <birth>
+    <date when-iso="1884-12-09">09.12.1884</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1942-05-28">28.05.1942</date>
+      <settlement key="pmb2290">
+        <placeName type="pref">Konzentrationslager Auschwitz</placeName>
+        <location><geo>50.026389 19.203889</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <occupation key="375">Händler/Händlerin &gt;&gt; Buchhändler/Buchhändlerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17325</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb20707</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp52185</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
+</affiliation>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb62299">Verlag Richard Lányi</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62299/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb62299</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb55175">
+  <persName>
+      <forename>Philipp</forename>
+      <surname>Allfeld</surname>
+  </persName>
+  <birth>
+    <date when-iso="1852-11-02">1852-11-02</date>
+  </birth>  
+  <death>
+    <date when-iso="1940-06-29">1940-06-29</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <occupation key="1639">Jurist/Juristin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55175/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55175</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q27887828</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-<note type="apis_dates">
-<date from-iso="1879-01-01" to-iso="1879-12-31">1879  – 1945</date>
-</note>
-</org></listOrg><listPlace><place xml:id="pmb51">
+</person></listPerson><listPlace><place xml:id="pmb51">
   <placeName>I., Innere Stadt</placeName>
   <placeName type="alternative-name">Inner city</placeName>
   <placeName type="alternative-name">Wien,Innere Stadt</placeName>
@@ -1123,5 +1084,44 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listBibl><bibl xml:id="pmb55176">
+  <title type="main">Gesetz über das Urheberrecht an Werken der bildenden Künste und der Photographie vom 9. Januar 1907</title>
+  <author key="person__55175" role="hat-geschaffen">Allfeld, Philipp</author>
+<date notBefore-iso="1907-01-01" when-iso="1907-07-02">1907</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55176/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55176</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Gesetzeskommentar</note>
+</bibl><bibl xml:id="pmb63251">
+  <title type="main">Ludwig Börne oder: die Überwindung des Judentums</title>
+  <author key="person__38969" role="hat-geschaffen">Laserstein, Botho</author>
+<date from-iso="1931-01-01" to-iso="1931-12-31">1931  – 1931</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63251/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63251</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Textsammlung</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl></back></text>
 </TEI>

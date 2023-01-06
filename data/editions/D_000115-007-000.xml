@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000115-007-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000115-006-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000115-007-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000115-007-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000115-006-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000115-007-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>115.7 Brief Samek an Siegfried Geyer</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -166,14 +166,141 @@
          <p xml:id="uuid_ddfe7a4a-610c-42a2-9235-f0b88e885ce3">
             <lb xml:id="uuid_bb481820-4bc0-44eb-97f7-db1b67f24f29"/>„Die in der <rs ref="#pmb53455" type="work" subtype="pmb">Nr. 213 vom 6. Dezember 1928</rs> im Artikel ‚<rs ref="#pmb53457" type="work" subtype="pmb">Die sich<lb xml:id="uuid_bcf25f1b-4d44-4664-8a76-47c6dfcb2673"/>selbst spielen</rs>‘
             enthaltene Wendung, ‚Defektschauspieler‘<lb xml:id="uuid_07230c38-f98d-4cbb-a5ca-80c4ddba02b6"/>im Gegensatz zum
-            ‚Effektschauspieler‘ entstammt einer<lb xml:id="uuid_17a0e194-c694-4862-b742-7184c1094f22"/><rs ref="https://fackel.oeaw.ac.at/f/175,017" type="work" subtype="fackel">theaterkritischen Betrachtung</rs>, die seinerzeit in der ‚<rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs>‘<lb xml:id="uuid_71e13409-1526-4bc1-8afc-e90c01f555be"/>von <rs ref="#pmb11988" type="person">Karl Kraus</rs>
+            ‚Effektschauspieler‘ entstammt einer<lb xml:id="uuid_17a0e194-c694-4862-b742-7184c1094f22"/><rs ref="#lk_fackel__4" corresp="https://fackel.oeaw.ac.at/f/175,017" type="work" subtype="fackel">theaterkritischen Betrachtung</rs>, die seinerzeit in der ‚<rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs>‘<lb xml:id="uuid_71e13409-1526-4bc1-8afc-e90c01f555be"/>von <rs ref="#pmb11988" type="person">Karl Kraus</rs>
             erschienen ist. Der Ursprung war als hin<lb break="no" xml:id="uuid_7350c474-d6e7-4cf0-85e6-3561c11819e9"/>reichend bekannt vorausgesetzt
             worden; für diejenigen Leser,<lb xml:id="uuid_07ce120b-5957-43ef-83c8-175281f1a28e"/>für
             die diese Annahme nicht zutrifft, tragen wir die<lb xml:id="uuid_73c0ed6e-b663-475b-ac71-f2f5f58dae20"/>Quellenangabe nach“. </p>
          <p xml:id="uuid_25ef086f-bcf0-4978-9566-6493539453f9">
             <lb xml:id="uuid_9383f72f-daa7-4fee-96e7-0fa1785b9dc6"/>Mit vorzüglicher<lb xml:id="uuid_b22a4c83-9cb0-41f0-9a94-8c47f6ed7a69"/>Hochachtung </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listOrg><org xml:id="pmb37298">
+  <orgName>Die Bühne</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
+  <desc type="entity_type">Zeitschriftenredaktion</desc>
+  <desc type="entity_type_id">973</desc>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37298/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37298</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37298</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1211841</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb7399">
+  <persName>
+      <forename>Siegfried</forename>
+      <surname>Geyer</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Florian</persName>
+  <persName type="person_geburtsname_nachname">Geyerhahn</persName>
+  <birth>
+    <date when-iso="1883-01-23">23.01.1883</date>
+      <settlement key="pmb50037">
+        <placeName type="pref">Marchegg</placeName>
+        <location><geo>48.26217 16.91045</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date>Anfang 1945</date>
+      <settlement key="pmb35512">
+        <placeName type="pref">Ungarn</placeName>
+        <location><geo>47.0 20.0</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15415</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1032807512</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7399</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb7399</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp44406</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15455563</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37214">Neue Wiener Bühne</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37214/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37214</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb37214</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60476/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37214</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37179">Kammerspiele Wien</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37179/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37179</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37179</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1525977</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -270,134 +397,51 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb7399">
-  <persName>
-      <forename>Siegfried</forename>
-      <surname>Geyer</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Florian</persName>
-  <persName type="person_geburtsname_nachname">Geyerhahn</persName>
-  <birth>
-    <date when-iso="1883-01-23">23.01.1883</date>
-      <settlement key="pmb50037">
-        <placeName type="pref">Marchegg</placeName>
-        <location><geo>48.26217 16.91045</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date>Anfang 1945</date>
-      <settlement key="pmb35512">
-        <placeName type="pref">Ungarn</placeName>
-        <location><geo>47.0 20.0</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15415</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1032807512</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7399</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb7399</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp44406</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15455563</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37214">Neue Wiener Bühne</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37214/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37214</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb37214</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60476/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37214</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37179">Kammerspiele Wien</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37179/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37179</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37179</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1525977</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37298">
-  <orgName>Die Bühne</orgName>
-  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
-  <desc type="entity_type">Zeitschriftenredaktion</desc>
-  <desc type="entity_type_id">973</desc>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1741</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37298/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37298</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37298</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1211841</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPlace><place xml:id="pmb59">
+</person></listPerson><listBibl><bibl xml:id="pmb53457">
+  <title type="main">Die sich selbst spielen</title>
+  <title type="werk_bibliografische-angabe">Die sich selbst spielen, in: Die Bühne, Nr. 213, Dezember 1928, 8f.</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=bue&amp;datum=1928&amp;page=2948&amp;size=45</title>
+<date from-iso="1928-12-01" to-iso="1928-12-31">1928-12  – 1928-12</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53457/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53457</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="lk_fackel__4" corresp="https://fackel.oeaw.ac.at/f/175,017" type="fackel"><title level="a">Wien und Berlin</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1905-02-17">17. Februar 1905</date><num type="volume">Jg. 6</num><num type="issue">Nr. 175</num><biblScope from="17" to="22">17–22</biblScope><ref target="https://fackel.oeaw.ac.at/f/175,017">115.7
+                  Brief Samek an Siegfried Geyer|D_000115-007-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb53455">
+  <title type="main">Die Bühne, Nr. 213</title>
+  <title type="werk_bibliografische-angabe">Die Bühne, Nr. 213, Dezember 1928</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=bue&amp;datum=1928&amp;pos=2939&amp;size=45</title>
+<date notBefore-iso="1928-12-01" when-iso="1928-12-16">1928-12</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53455/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53455</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift &gt;&gt; Wochenschrift</note>
+</bibl></listBibl><listPlace><place xml:id="pmb59">
   <placeName>IX., Alsergrund</placeName>
   <desc type="entity_type">Bezirk (A.BZK)</desc>
   <desc type="entity_type_id">25</desc>
@@ -452,46 +496,5 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb53457">
-  <title type="main">Die sich selbst spielen</title>
-  <title type="werk_bibliografische-angabe">Die sich selbst spielen, in: Die Bühne, Nr. 213, Dezember 1928, 8f.</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=bue&amp;datum=1928&amp;page=2948&amp;size=45</title>
-<date from-iso="1928-12-01" to-iso="1928-12-31">1928-12  – 1928-12</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53457/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53457</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53455">
-  <title type="main">Die Bühne, Nr. 213</title>
-  <title type="werk_bibliografische-angabe">Die Bühne, Nr. 213, Dezember 1928</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=bue&amp;datum=1928&amp;pos=2939&amp;size=45</title>
-<date notBefore-iso="1928-12-01" when-iso="1928-12-16">1928-12</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53455/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53455</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift &gt;&gt; Wochenschrift</note>
-</bibl></listBibl></back></text>
+</place></listPlace></back></text>
 </TEI>

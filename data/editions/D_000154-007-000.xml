@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-008-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-006-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000154-007-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000154-007-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-006-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-008-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -142,7 +142,23 @@
          <p xml:id="uuid_8530fb5c-80e3-4f72-a490-a1934324f987">
             <lb xml:id="uuid_8b4b5d67-9683-42d3-8337-b217c6b8b19e"/>Dr. <rs ref="#pmb39331" type="person">Oskar <hi rend="spaced">Polla</hi>k</rs>.</p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb52181">
+  <placeName>Operngasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20085528655454 16.366992599676482</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52181/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52181</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -193,23 +209,72 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb52181">
-  <placeName>Operngasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.20085528655454 16.366992599676482</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52181/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52181</idno>
+</place></listPlace><listPerson><person xml:id="pmb51912">
+  <persName>
+      <forename>?</forename>
+      <surname>Kahlert</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51912/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51912</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb39293">
+</person><person xml:id="pmb39331">
+  <persName>
+      <forename>Oscar</forename>
+      <surname>Pollak</surname>
+  </persName>
+  <persName type="alternative-name">Paul, Oscar</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oscar_Pollak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Pollak, Oskar</persName>
+  <birth>
+    <date when-iso="1893-10-07">07.10.1893</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1963-08-28">28.08.1963</date>
+      <settlement key="pmb39334">
+        <placeName type="pref">Hinterstoder</placeName>
+        <location><geo>47.69965 14.15391</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/122391160</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39331</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39331</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50898</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=P#DWpers0188</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2032893</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb39293">
   <persName>
       <forename>Oswald</forename>
       <surname>Richter</surname>
@@ -331,71 +396,6 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb51912">
-  <persName>
-      <forename>?</forename>
-      <surname>Kahlert</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51912/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51912</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39331">
-  <persName>
-      <forename>Oscar</forename>
-      <surname>Pollak</surname>
-  </persName>
-  <persName type="alternative-name">Paul, Oscar</persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oscar_Pollak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Pollak, Oskar</persName>
-  <birth>
-    <date when-iso="1893-10-07">07.10.1893</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1963-08-28">28.08.1963</date>
-      <settlement key="pmb39334">
-        <placeName type="pref">Hinterstoder</placeName>
-        <location><geo>47.69965 14.15391</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/122391160</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39331</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39331</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50898</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=P#DWpers0188</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2032893</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb29644">

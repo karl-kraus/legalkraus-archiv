@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>167.14 Beschluss des Oberlandesgerichts Wien (G.Z. 16 2R 185/32, Alfred Löw)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -130,7 +130,27 @@
             <lb xml:id="uuid_4c63b223-1398-4861-803d-04928d033be4"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="person" ref="#pmb23807">Rübelt</rs><lb xml:id="uuid_2b49a24d-017c-437b-8a0a-36e009251cf9"/>23. FEB. 1932</note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb55180">
+  <persName>
+      <forename>?</forename>
+      <surname>Chmilevsky</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="757">Justizbeamter/Justizbeamte</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55180/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55180</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36850">Oberlandesgericht Wien</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36850/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36850</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36850</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15837274</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -226,26 +246,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb55180">
-  <persName>
-      <forename>?</forename>
-      <surname>Chmilevsky</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="757">Justizbeamter/Justizbeamte</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55180/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55180</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36850">Oberlandesgericht Wien</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36850/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36850</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36850</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15837274</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb23807">
   <persName>

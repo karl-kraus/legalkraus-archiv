@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-061-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-059-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000134-060-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000134-060-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-059-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-061-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -124,7 +124,71 @@
             Vorsitzende: <lb xml:id="uuid_a8360701-258e-45c2-a35f-9b8195d5974c"/>Dr. <rs type="person" ref="#pmb50624">Neuwirth</rs> m.p.</p>
          <p xml:id="uuid_0adcec21-a23e-4450-a2bf-24389764f1c3"><lb xml:id="uuid_6c9e22ae-1faf-468d-8d28-f10f8991bda7"/>Der Schriftführer<lb xml:id="uuid_b1f3b137-77d9-415c-8a88-4c45350b5e04"/><rs type="person" ref="#pmb51921">Hanak</rs> e.h.</p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38100">
+  <persName>
+      <forename>Hanns</forename>
+      <surname>Eisler</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Johannes</persName>
+  <persName type="x_zum-loschen-markiert">Eisler, Hans</persName>
+  <birth>
+    <date when-iso="1898-07-06">06.07.1898</date>
+      <settlement key="pmb864">
+        <placeName type="pref">Leipzig</placeName>
+        <location><geo>51.33962 12.37129</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1962-09-06">06.09.1962</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118529692</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38100</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38100</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45502</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q78704</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb51921">
+  <persName>
+      <forename>?</forename>
+      <surname>Hanak</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51921/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51921</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb57697">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Pisk</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57697/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57697</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -221,51 +285,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38100">
-  <persName>
-      <forename>Hanns</forename>
-      <surname>Eisler</surname>
-  </persName>
-  <persName type="person_geburtsname-vorname">Johannes</persName>
-  <persName type="x_zum-loschen-markiert">Eisler, Hans</persName>
-  <birth>
-    <date when-iso="1898-07-06">06.07.1898</date>
-      <settlement key="pmb864">
-        <placeName type="pref">Leipzig</placeName>
-        <location><geo>51.33962 12.37129</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1962-09-06">06.09.1962</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118529692</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38100</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38100</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45502</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q78704</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb57697">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Pisk</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57697/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57697</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb50624">
   <persName>
       <forename>Adolf</forename>
@@ -276,25 +295,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50624/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb50624</idno>
   <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp37835</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51921">
-  <persName>
-      <forename>?</forename>
-      <surname>Hanak</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51921/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51921</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
@@ -338,7 +338,15 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb63654">
+</person></listPerson><listBibl><bibl xml:id="pmb54745">
+  <title type="main">Berliner Börsen-Zeitung</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54745/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb54745</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb63654">
   <title type="main">Berliner Börsen-Zeitung, 15.11.1929 (inkl. Unterhaltungs-Beilage)</title>
   <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP2436020X-19291115-0-0-0-0.xml&amp;tx_dlf%5Bpage%5D=1&amp;tx_dlf%5Bpagegrid%5D=1&amp;cHash=8320ad23f1be90d547d9f040d2278650</title>
   <title type="werk_bibliografische-angabe">Berliner Börsen-Zeitung, 15.11.1929, 75. Jhg., Nr. 535, Morgenausgabe</title>
@@ -349,15 +357,30 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb54745">
-  <title type="main">Berliner Börsen-Zeitung</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54745/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb54745</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listOrg><org xml:id="pmb50491">
+</bibl></listBibl><listOrg><org xml:id="pmb37270">
+  <orgName>Berliner Börsen Zeitung</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37270/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37270</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37270</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19561606</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
   <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
@@ -387,29 +410,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37270">
-  <orgName>Berliner Börsen Zeitung</orgName>
-  <desc type="entity_type">Zeitungsredaktion</desc>
-  <desc type="entity_type_id">1039</desc>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4005728-8</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q64</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37270/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37270</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37270</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19561606</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-020-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-018-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-019-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-019-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-018-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-020-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>173.19 Brief Universal-Edition an Deutsches Theater Prag</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -491,26 +491,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb56392">
-  <title type="main">Der Sozialdemokrat</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56392/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56392</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb55390">
-  <title type="main">Madame l’archiduc</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl></listBibl><listOrg><org xml:id="pmb37080">
+</place></listPlace><listOrg><org xml:id="pmb37080">
   <orgName>Neues Deutsches Theater</orgName>
   <orgName type="person_namensvariante_nachname-komma-vorname">Stavovské divadlo</orgName>
   <orgName type="ort_fruherer_name">Gräflich Nostitzsches Nationaltheater</orgName>
@@ -596,5 +577,24 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg></back></text>
+</org></listOrg><listBibl><bibl xml:id="pmb56392">
+  <title type="main">Der Sozialdemokrat</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56392/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56392</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb55390">
+  <title type="main">Madame l’archiduc</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl></listBibl></back></text>
 </TEI>

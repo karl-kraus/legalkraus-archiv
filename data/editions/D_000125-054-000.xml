@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-055-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-053-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000125-054-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000125-054-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-053-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000125-055-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>125.54 Justitiar der Stadt Frankfurt am Main (Heun) an Samek</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -149,36 +149,7 @@
                     Hochachtung<lb xml:id="uuid_34a7db75-cc35-4508-8156-a501d3a97d03"/><rs ref="#pmb56998" type="person">Dr. Heun</rs>
             <lb xml:id="uuid_7cf3f57f-53aa-429a-bee0-db9825f60bd7"/>Magistratsrat </p>
       </body>
-   <back><listOrg><org xml:id="pmb37240">
-  <orgName>Leipziger Komödienhaus</orgName>
-  <desc type="entity_type">Theater</desc>
-  <desc type="entity_type_id">1012</desc>
-<location type="located_in_place">
-  <placeName key="pmb864">Leipzig</placeName>
-  <geo>51.33962 12.37129</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb57007">Tauchaer Straße</placeName>
-  <geo>51.38231578604282 12.444482096468468</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57007/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57007</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37240/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37240</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37240</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPerson><person xml:id="pmb56998">
+   <back><listPerson><person xml:id="pmb56998">
   <persName>
       <forename>?</forename>
       <surname>Heun</surname>
@@ -279,7 +250,36 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb146">
+</person></listPerson><listOrg><org xml:id="pmb37240">
+  <orgName>Leipziger Komödienhaus</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="pmb864">Leipzig</placeName>
+  <geo>51.33962 12.37129</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4035206-7</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57007">Tauchaer Straße</placeName>
+  <geo>51.38231578604282 12.444482096468468</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57007/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57007</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37240/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37240</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37240</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPlace><place xml:id="pmb146">
   <placeName>Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt/M.?</placeName>

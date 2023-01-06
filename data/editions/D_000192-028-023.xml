@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000192-028-024.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000192-028-022.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000192-028-023.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000192-028-023.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000192-028-022.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000192-028-024.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>192.28 Brief Jan Münzer an Karl Jaray</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -122,35 +122,7 @@
             <ab>Keine Transkription vorhanden.</ab>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb41669">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Jaray</surname>
-  </persName>
-  <birth>
-    <date when-iso="1878-03-14">14.3.1878</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1947-11-29">29.11.1947</date>
-      <settlement key="pmb54042">
-        <placeName type="pref">Buenos Aires</placeName>
-        <location><geo>-34.61315 -58.37723</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="185">Architekt/Architektin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41669/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41669</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb41669</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51630">
+   <back><listPerson><person xml:id="pmb51630">
   <persName>
       <forename>Jan</forename>
       <surname>Münzer</surname>
@@ -177,6 +149,34 @@
     <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12057653</idno>
 </affiliation>
 <listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb41669">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Jaray</surname>
+  </persName>
+  <birth>
+    <date when-iso="1878-03-14">14.3.1878</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1947-11-29">29.11.1947</date>
+      <settlement key="pmb54042">
+        <placeName type="pref">Buenos Aires</placeName>
+        <location><geo>-34.61315 -58.37723</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="185">Architekt/Architektin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41669/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41669</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb41669</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb652">

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000189-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000189-010-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000189-011-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000189-011-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000189-010-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000189-012-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>189.11 Klageentwurf gegen den Autor und gegen die Redakteurin Marie Schnierer (Gegen-Angriff)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -223,17 +223,66 @@
                 behalte mir die Stellung der<lb xml:id="uuid_a0859b17-29b8-4d1f-80a6-950b2197a6b6"/>Strafanträge nach abgeschlossener Voruntersuchung und Er<lb break="no" xml:id="uuid_c7ad0ed4-d3a6-4551-90d5-fbf363cc0981"/>ledigung des gesetzlich
                 vorgesehenen Vergleichsverfahrens vor. </p>
       </body>
-   <back><listBibl><bibl xml:id="pmb55935">
-  <title type="main">Der Gegen-Angriff, 26.11.1933</title>
-  <title type="werk_bibliografische-angabe">Der Gegen-Angriff, Nr. 19, 26.11.1933</title>
-<date>1933-11-26  – 1933-11-26</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55935/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55935</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift &gt;&gt; Wochenschrift</note>
-</bibl></listBibl><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb37837">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Basil</surname>
+  </persName>
+  <persName type="person_pseudonym">Arnold</persName>
+  <persName type="person_pseudonym">Camill Schmall</persName>
+  <persName type="person_pseudonym">Markus Hörmann</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Otto_Basil</persName>
+  <birth>
+    <date when-iso="1901-12-24">24.12.1901</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1983-02-19">19.02.1983</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37837/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37837</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37837</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56506</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116076747</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2038182</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb43657">
+  <persName>
+      <forename>Marie</forename>
+      <surname>Schnierer</surname>
+  </persName>
+  <sex value="female"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43657/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43657</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43657</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41501</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37338">Der Gegen-Angriff</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37338/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37338</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37338</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -330,65 +379,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb43657">
-  <persName>
-      <forename>Marie</forename>
-      <surname>Schnierer</surname>
-  </persName>
-  <sex value="female"/>
-  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43657/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43657</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43657</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41501</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37338">Der Gegen-Angriff</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37338/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37338</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37338</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb37837">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Basil</surname>
-  </persName>
-  <persName type="person_pseudonym">Arnold</persName>
-  <persName type="person_pseudonym">Camill Schmall</persName>
-  <persName type="person_pseudonym">Markus Hörmann</persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Otto_Basil</persName>
-  <birth>
-    <date when-iso="1901-12-24">24.12.1901</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1983-02-19">19.02.1983</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37837/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37837</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37837</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56506</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116076747</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2038182</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
 </person></listPerson><listOrg><org xml:id="pmb37338">
   <orgName>Der Gegen-Angriff</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
@@ -425,5 +415,15 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg></back></text>
+</org></listOrg><listBibl><bibl xml:id="pmb55935">
+  <title type="main">Der Gegen-Angriff, 26.11.1933</title>
+  <title type="werk_bibliografische-angabe">Der Gegen-Angriff, Nr. 19, 26.11.1933</title>
+<date>1933-11-26  – 1933-11-26</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55935/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55935</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift &gt;&gt; Wochenschrift</note>
+</bibl></listBibl></back></text>
 </TEI>

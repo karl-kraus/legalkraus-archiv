@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000154-006-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-005-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-007-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000154-006-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-005-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000154-007-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -283,7 +283,45 @@
                 <lb xml:id="uuid_af085b65-a4ce-414a-a111-0a43f05cd972"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="institution" ref="#pmb29644">Arb. Ztg.</rs> IX.<lb xml:id="uuid_38e1eff5-bb4e-496f-97ac-2c195404bf51"/>26. FEB. 1931</note>
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb39293">
+    <back><listPerson><person xml:id="pmb39331">
+  <persName>
+      <forename>Oscar</forename>
+      <surname>Pollak</surname>
+  </persName>
+  <persName type="alternative-name">Paul, Oscar</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oscar_Pollak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Pollak, Oskar</persName>
+  <birth>
+    <date when-iso="1893-10-07">07.10.1893</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1963-08-28">28.08.1963</date>
+      <settlement key="pmb39334">
+        <placeName type="pref">Hinterstoder</placeName>
+        <location><geo>47.69965 14.15391</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/122391160</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39331</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39331</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50898</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=P#DWpers0188</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2032893</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb39293">
   <persName>
       <forename>Oswald</forename>
       <surname>Richter</surname>
@@ -479,44 +517,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb39331">
-  <persName>
-      <forename>Oscar</forename>
-      <surname>Pollak</surname>
-  </persName>
-  <persName type="alternative-name">Paul, Oscar</persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oscar_Pollak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Pollak, Oskar</persName>
-  <birth>
-    <date when-iso="1893-10-07">07.10.1893</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1963-08-28">28.08.1963</date>
-      <settlement key="pmb39334">
-        <placeName type="pref">Hinterstoder</placeName>
-        <location><geo>47.69965 14.15391</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/122391160</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39331</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39331</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50898</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=P#DWpers0188</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2032893</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
 </person></listPerson><listOrg><org xml:id="pmb53508">
   <orgName>Verlag der Arbeiter-Zeitung Dr. Adler-Emmerling</orgName>
   <desc type="entity_type">Verlag</desc>
@@ -569,6 +569,17 @@
 <note type="apis_dates">
 <date notBefore-iso="1890-01-01" when-iso="1890-07-02">1890</date>
 </note>
+</org><org xml:id="pmb38090">
+  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
+  <desc type="entity_type">Politische Vereinigung</desc>
+  <desc type="entity_type_id">1022</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </org><org xml:id="pmb29644">
   <orgName>Arbeiter-Zeitung</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
@@ -646,17 +657,6 @@
 <note type="apis_dates">
 <date>1889-07-12  – 1991-10-31</date>
 </note>
-</org><org xml:id="pmb38090">
-  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
-  <desc type="entity_type">Politische Vereinigung</desc>
-  <desc type="entity_type_id">1022</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
@@ -690,39 +690,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb56954">
-  <title type="main">Eine Klage gegen die Berliner Volksbühne</title>
-  <title type="werk_bibliografische-angabe">Eine Klage gegen die Berliner Volksbühne, in: Arbeiter-Zeitung, Nr. 16, 16.1.1931, S. 5</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19310116&amp;seite=5&amp;zoom=33</title>
-<date>1931-01-16  – 1931-01-16</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56954/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56954</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb53397">
-  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl><bibl xml:id="pmb56837">
-  <title type="main">Arbeiter-Zeitung, 16.1.1931</title>
-  <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Nr. 16, 16.1.1931</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19310116&amp;zoom=33</title>
-<date>1931-01-16  – 1931-01-16</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56837/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56837</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41202">
+</org></listOrg><listBibl><bibl xml:id="pmb41202">
   <title type="main">Arbeiter-Zeitung</title>
   <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
   <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
@@ -734,6 +702,38 @@
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
 <note type="collections">
   <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb53397">
+  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl><bibl xml:id="pmb56954">
+  <title type="main">Eine Klage gegen die Berliner Volksbühne</title>
+  <title type="werk_bibliografische-angabe">Eine Klage gegen die Berliner Volksbühne, in: Arbeiter-Zeitung, Nr. 16, 16.1.1931, S. 5</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19310116&amp;seite=5&amp;zoom=33</title>
+<date>1931-01-16  – 1931-01-16</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56954/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56954</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb56837">
+  <title type="main">Arbeiter-Zeitung, 16.1.1931</title>
+  <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Nr. 16, 16.1.1931</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19310116&amp;zoom=33</title>
+<date>1931-01-16  – 1931-01-16</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56837/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56837</idno>
+<note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>

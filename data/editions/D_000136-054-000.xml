@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-055-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-053-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000136-054-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000136-054-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-053-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000136-055-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -164,7 +164,129 @@
          <p xml:id="uuid_e129ac2c-8679-4162-8bcc-b0612f0daffe"><lb xml:id="uuid_ebe9349e-9e9c-4818-adf8-c870eb77b113"/>Rekommandiert.</p>
          <p xml:id="uuid_e86ac1d4-4b02-4d62-8f24-ffcdd0948b0e"><lb xml:id="uuid_c419ce4a-c4b4-43b9-9f5f-4d5a520a7cd9"/><note type="paratext" resp="law-firm">Betr. <rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="institution" ref="#pmb36940">Volksbühne</rs><lb xml:id="uuid_368471cd-3825-452b-b7d6-dd61185bb62c"/>exp. 6.2.1932.</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38969">
+  <persName>
+      <forename>Botho</forename>
+      <surname>Laserstein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-07-31">31.07.1901</date>
+      <settlement key="pmb49582">
+        <placeName type="pref">Chemnitz</placeName>
+        <location><geo>50.8357 12.92922</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-03-09">09.03.1955</date>
+      <settlement key="pmb863">
+        <placeName type="pref">Düsseldorf</placeName>
+        <location><geo>51.22172 6.77616</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb63866">
+  <persName>
+      <forename>Eddie</forename>
+      <surname>Peppler</surname>
+  </persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63866/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63866</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39306">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Peppler</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-06-05">05.06.1889</date>
+      <settlement key="pmb872">
+        <placeName type="pref">Stuttgart</placeName>
+        <location><geo>48.78232 9.17702</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1930-12-20">20.12.1930</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061427161</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39306</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39306</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45453</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q11954221</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -260,128 +382,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb63866">
-  <persName>
-      <forename>Eddie</forename>
-      <surname>Peppler</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63866/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb63866</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39306">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Peppler</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-06-05">05.06.1889</date>
-      <settlement key="pmb872">
-        <placeName type="pref">Stuttgart</placeName>
-        <location><geo>48.78232 9.17702</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1930-12-20">20.12.1930</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061427161</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39306</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39306</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45453</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q11954221</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38969">
-  <persName>
-      <forename>Botho</forename>
-      <surname>Laserstein</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-07-31">31.07.1901</date>
-      <settlement key="pmb49582">
-        <placeName type="pref">Chemnitz</placeName>
-        <location><geo>50.8357 12.92922</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1955-03-09">09.03.1955</date>
-      <settlement key="pmb863">
-        <placeName type="pref">Düsseldorf</placeName>
-        <location><geo>51.22172 6.77616</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="160">Richter/Richterin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36940">
   <orgName>Volksbühne Berlin</orgName>

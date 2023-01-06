@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000199-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000198-004-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000199-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000199-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000198-004-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000199-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>199.1 Vollmacht der Buchdruckerei Jahoda &amp; Siegel für Fritz Siegel</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -108,27 +108,7 @@
          <p xml:id="uuid_309f7b3e-dc49-4fec-be16-7ec9bf4aebfc">
             <lb xml:id="uuid_df9e86a5-4a9f-419d-8c46-badceda11bc8"/>Hochachtungsvoll<lb xml:id="uuid_a474dfc7-de25-457a-9107-7cfabc47c59c"/><rs ref="#pmb37159" type="institution">Jahoda &amp; Siegel</rs>. </p>
       </body>
-   <back><listPerson><person xml:id="pmb43633">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Siegel</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43633/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43633</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43633</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -169,6 +149,26 @@
     <orgName key="pmb55576">Kuhner &amp; Co</orgName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43633">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Siegel</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43633/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43633</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43633</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>

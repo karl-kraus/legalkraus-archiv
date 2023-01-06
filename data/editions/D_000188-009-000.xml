@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-008-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-009-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-009-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-008-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-010-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -157,7 +157,27 @@
          <p xml:id="uuid_8e923e28-0068-4afb-bff8-4c8bebec7c06">
             <lb xml:id="uuid_587cf0cd-4798-4d81-90c8-099302931f14"/><rs type="place" ref="#pmb50">Wien</rs>, am 19. Jänner 1934.</p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb49286">
+  <placeName>Zedlitzgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20724 16.37837</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49286/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb49286</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49286</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb49286.html</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -229,27 +249,56 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
-</place><place xml:id="pmb49286">
-  <placeName>Zedlitzgasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.20724 16.37837</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49286/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb49286</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49286</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb49286.html</idno>
+</place></listPlace><listPerson><person xml:id="pmb56377">
+  <persName>
+      <forename>Leo</forename>
+      <surname>Lichtblau</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56377/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56377</idno>
 <listBibl>
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</person><person xml:id="pmb38075">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Eibuschitz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1877-08-11">11.08.1877</date>
+      <settlement key="pmb36539">
+        <placeName type="pref">Opava</placeName>
+        <location><geo>49.93866 17.90257</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1939-10-18">18.10.1939</date>
+      <settlement key="pmb5117">
+        <placeName type="pref">Konzentrationslager Buchenwald</placeName>
+        <location><geo>51.022143 11.249046</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="1265">Geschäftsmann/Geschäftsfrau</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38075/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38075</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38075</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36905">Altesse AG</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -345,55 +394,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb56377">
-  <persName>
-      <forename>Leo</forename>
-      <surname>Lichtblau</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56377/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56377</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38075">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Eibuschitz</surname>
-  </persName>
-  <birth>
-    <date when-iso="1877-08-11">11.08.1877</date>
-      <settlement key="pmb36539">
-        <placeName type="pref">Opava</placeName>
-        <location><geo>49.93866 17.90257</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1939-10-18">18.10.1939</date>
-      <settlement key="pmb5117">
-        <placeName type="pref">Konzentrationslager Buchenwald</placeName>
-        <location><geo>51.022143 11.249046</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="1265">Geschäftsmann/Geschäftsfrau</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38075/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38075</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38075</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36905">Altesse AG</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36905">
   <orgName>Altesse AG</orgName>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000126-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000126-008-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000126-009-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000126-009-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000126-008-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000126-010-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -222,18 +222,7 @@
          <p xml:id="uuid_64a671d5-c985-4184-9a04-5e7198323758">
             <lb xml:id="uuid_1020955b-53c3-4e92-b946-29751655caae"/><note type="paratext" resp="law-firm"><rs type="institution" ref="#pmb37568">Tag</rs>.<lb xml:id="uuid_82e07ee9-7952-4f9c-808f-07450c9c9a16"/>exp. 14./6.29</note></p>
       </body>
-   <back><listBibl><bibl xml:id="pmb57287">
-  <title type="main">Theaterskandal in Dresden</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=tag&amp;datum=19290507&amp;seite=7&amp;zoom=33</title>
-  <title type="werk_bibliografische-angabe">Theaterskandal in Dresden, in: Der Tag Nr. 2282, 7.5.1929, S. 7.</title>
-<date>1929-05-07  – 1929-05-07</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57287/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57287</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl><listPerson><person xml:id="pmb6599">
+   <back><listPerson><person xml:id="pmb6599">
   <persName>
       <forename>Camillo</forename>
       <surname>Castiglioni</surname>
@@ -546,7 +535,40 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listPlace><place xml:id="pmb50">
+</org></listOrg><listPlace><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50643">
+  <placeName>Canisiusgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.228159 16.353186</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb59">IX., Alsergrund</placeName>
+  <geo>48.22387 16.35641</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -597,38 +619,16 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50643">
-  <placeName>Canisiusgasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.228159 16.353186</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb59">IX., Alsergrund</placeName>
-  <geo>48.22387 16.35641</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50643/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50643</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listBibl><bibl xml:id="pmb57287">
+  <title type="main">Theaterskandal in Dresden</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=tag&amp;datum=19290507&amp;seite=7&amp;zoom=33</title>
+  <title type="werk_bibliografische-angabe">Theaterskandal in Dresden, in: Der Tag Nr. 2282, 7.5.1929, S. 7.</title>
+<date>1929-05-07  – 1929-05-07</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57287/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57287</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl></listBibl></back></text>
 </TEI>

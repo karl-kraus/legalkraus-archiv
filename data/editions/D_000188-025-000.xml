@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-026-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-024-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-025-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-025-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-024-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-026-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -227,7 +227,43 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</place></listPlace><listPerson><person xml:id="pmb38075">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Eibuschitz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1877-08-11">11.08.1877</date>
+      <settlement key="pmb36539">
+        <placeName type="pref">Opava</placeName>
+        <location><geo>49.93866 17.90257</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1939-10-18">18.10.1939</date>
+      <settlement key="pmb5117">
+        <placeName type="pref">Konzentrationslager Buchenwald</placeName>
+        <location><geo>51.022143 11.249046</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="1265">Geschäftsmann/Geschäftsfrau</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38075/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38075</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38075</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36905">Altesse AG</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -323,42 +359,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38075">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Eibuschitz</surname>
-  </persName>
-  <birth>
-    <date when-iso="1877-08-11">11.08.1877</date>
-      <settlement key="pmb36539">
-        <placeName type="pref">Opava</placeName>
-        <location><geo>49.93866 17.90257</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1939-10-18">18.10.1939</date>
-      <settlement key="pmb5117">
-        <placeName type="pref">Konzentrationslager Buchenwald</placeName>
-        <location><geo>51.022143 11.249046</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="1265">Geschäftsmann/Geschäftsfrau</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38075/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38075</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38075</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36905">Altesse AG</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb37747">
   <orgName>Olleschauer Zigarettenpapier- und Hülsenfabrik</orgName>

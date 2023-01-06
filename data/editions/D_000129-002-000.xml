@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000129-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000129-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000129-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000129-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000129-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000129-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>129.2 Berichtigungstext</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -131,7 +131,49 @@
                     September<lb xml:id="uuid_78c30651-6e4b-4509-81d3-7a91ef19cf8d"/>1928 herauskam.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listBibl><bibl xml:id="pmb53711">
+  <title type="main">Karl Kraus auf dem Theater</title>
+  <title type="werk_bibliografische-angabe">Karl Kraus auf dem Theater, in: Münchner Zeitung, 10.5.1929</title>
+<date>1929-05-10  – 1929-05-10</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53711/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53711</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb53718">
+  <title type="main">Die Dreigroschenoper</title>
+  <author key="person__11008" role="hat-geschaffen">Brecht, Bertolt</author>
+  <author key="person__10472" role="hat-geschaffen">Weill, Kurt</author>
+<date when-iso="1928-08-31">1928-08-31</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53718/</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53718.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53718</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q212495</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama</note>
+</bibl><bibl xml:id="pmb53397">
+  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl><bibl xml:id="pmb53715">
+  <title type="main">Münchner Zeitung, 10.5.1929</title>
+<date>1929-05-10  – 1929-05-10</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53715/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53715</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl><listPerson><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -228,47 +270,5 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53711">
-  <title type="main">Karl Kraus auf dem Theater</title>
-  <title type="werk_bibliografische-angabe">Karl Kraus auf dem Theater, in: Münchner Zeitung, 10.5.1929</title>
-<date>1929-05-10  – 1929-05-10</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53711/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53711</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb53397">
-  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl><bibl xml:id="pmb53715">
-  <title type="main">Münchner Zeitung, 10.5.1929</title>
-<date>1929-05-10  – 1929-05-10</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53715/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53715</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb53718">
-  <title type="main">Die Dreigroschenoper</title>
-  <author key="person__11008" role="hat-geschaffen">Brecht, Bertolt</author>
-  <author key="person__10472" role="hat-geschaffen">Weill, Kurt</author>
-<date when-iso="1928-08-31">1928-08-31</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53718/</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53718.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53718</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q212495</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama</note>
-</bibl></listBibl></back></text>
+</person></listPerson></back></text>
 </TEI>

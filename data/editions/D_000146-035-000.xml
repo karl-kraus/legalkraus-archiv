@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-036-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-034-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000146-035-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000146-035-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-034-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000146-036-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -153,7 +153,17 @@
          <p xml:id="uuid_e30bffc6-9b88-47a1-880e-4fe059d737ae">
             <lb xml:id="uuid_2ac85dcd-57c0-40a5-98f8-6ada4f0fd7e3"/>Hochachtungsvoll<lb xml:id="uuid_335bcde0-514e-4674-862b-39a269c48989"/><rs ref="#pmb57529" type="person">Schulze</rs><lb xml:id="uuid_96baf829-f59e-47f2-a76e-b68a58509ec8"/>Obergerichtsvollzieher</p>
       </body>
-   <back><listPerson><person xml:id="pmb37761">
+   <back><listPerson><person xml:id="pmb57529">
+  <persName>
+      <surname>Schulze</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57529/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57529</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb37761">
   <persName>
       <forename>Ernst Josef</forename>
       <surname>Aufricht</surname>
@@ -239,16 +249,6 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb57529">
-  <persName>
-      <surname>Schulze</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57529/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57529</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36940">
   <orgName>Volksbühne Berlin</orgName>

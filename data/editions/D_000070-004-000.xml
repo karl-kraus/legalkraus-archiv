@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-005-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-003-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-004-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-003-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-005-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -112,7 +112,7 @@
             <lb xml:id="uuid_e80b656c-ded2-4da5-a045-e26d09823c37"/>Hierdurch versichere ich an
                 Eidesstatt folgendes:<lb xml:id="uuid_f9b5649a-b2dd-40db-9f13-34713d27ede6"/>Ich
                 habe vor einigen Tagen bei einer Zeitungshändlerin <rs ref="#pmb216" subtype="address" type="place">Unter<lb xml:id="uuid_a57a318a-89e8-4e0e-b07e-3fcaf13be3a1"/>den
-                    Linden</rs> verschiedene Exemplare der „<rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs>“ <rs ref="https://fackel.oeaw.ac.at/f/787,0u1" type="work" subtype="fackel">Nummer 787–794</rs>
+                    Linden</rs> verschiedene Exemplare der „<rs ref="#pmb41244" type="work" subtype="pmb">Fackel</rs>“ <rs ref="#lk_fackel__159" corresp="https://fackel.oeaw.ac.at/f/787,0u1" type="work" subtype="fackel">Nummer 787–794</rs>
             <lb xml:id="uuid_f2a66d9f-9583-4644-9268-09b0ec5792bb"/>gesehen, ebenso verschiedene
                 Exemplare bei dem Zeitungsstand<lb xml:id="uuid_cfd4f756-ef60-4968-9bd8-fa90b1bffbbe"/>in der Passage. </p>
          <p xml:id="uuid_eee204ba-eac3-4d35-9979-60c99a81ca56">
@@ -123,7 +123,67 @@
                 September 1928<lb xml:id="uuid_68721a61-e8ae-40aa-8bc9-f4e4fde3b78c"/>gez. Dr. <rs ref="#pmb11910" type="person">Alfred Kerr</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb11910">
+   <back><listBibl><bibl xml:id="lk_fackel__159" corresp="https://fackel.oeaw.ac.at/f/787,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-09-01">Anfang September 1928</date><num type="volume">Jg.
+                  30</num><num type="issue">Nr. 787–794</num><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.9 Brief Samek an RA Botho
+                  Laserstein|D_000070-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.3 Klage von Verlag Die Fackel
+                  gegen Verlag Rudolf Mosse (Amtsgericht
+                  Berlin-Mitte)|D_000113-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.10 Brief RA Botho Laserstein an
+                  Samek|D_000113-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.15 Rechtsgutachten über das Urteil in Sachen Kerr ./.
+                  Kraus|D_000070-015-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">193.48 Brief RA Johann Turnovsky an Samek|D_000193-048-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.2 Brief Fritz Cohn (RA der
+                  Annoncen Expedition Rudolf Mosse) an Verlag Die
+                  Fackel|D_000113-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.81 Urteil des Landgerichts I Berlin (G.Z. 10. P. 299./29., Vorsitz: […]
+                  Paulus)|D_000112-081-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.10 Schriftsatz in Sachen Kerr ./.
+                  Kraus (RA Botho Laserstein an das Landgericht I Berlin, G.Z. Q
+                  164/28)|D_000070-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.3 Schriftsatz in Sachen Kerr gegen
+                  Kraus (RA Wenzel Goldbaum an das Landesgericht I Berlin, G.Z. Q
+                  164/28)|D_000070-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.5 Klage von Alfred Kerr gegen Karl
+                  Kraus (Landgericht I Berlin, G.Z. Q 164/28)|D_000070-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.41 Schriftsatz in Sachen Kraus
+                  ./. Wolff (RA Botho Laserstein an das Landgericht I Berlin, G.Z. 10. P.
+                  299/29)|D_000112-041-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.17 Brief Samek an RA Botho
+                  Laserstein|D_000070-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.32 Schriftsatz in Sachen Kerr ./.
+                  Kraus (RA Botho Laserstein an das Landgericht I Berlin, G.Z. Q
+                  164/28)|D_000070-032-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.7 Brief Verlag Die Fackel an RA
+                  Botho Laserstein|D_000112-007-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.7 Schriftsatz [Antrag] in Sachen
+                  Die Fackel ./. Mosse (RA Fritz Cohn an das Amtsgerichts Berlin-Mitte, G.Z. 25C
+                  135/28)|D_000113-007-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.1 Brief RA Botho Laserstein an
+                  Verlag Die Fackel|D_000070-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">193.19 Übersetzung [Schriftsatz in
+                  Sachen Kraus ca. Sozialdemokrat] (RA Egon Schwelb [an das Strafkreisgericht
+                  Prag])|D_000193-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.4 Eidesstattliche Versicherung von Alfred Kerr|D_000070-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.8 Schriftsatz [Erwiderung] in
+                  Sachen Die Fackel ./. Mosse (RA Botho Laserstein an das Amtsgerichts Berlin-Mitte,
+                  G.Z. 25C 135/28)|D_000113-008-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.4 Brief RA Botho Laserstein an
+                  Kraus|D_000112-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.9 Schriftsatz in Sachen Kraus ./. Wolff (RA Botho Laserstein an das
+                  Amtsgericht Berlin-Mitte, G.Z. 149 B 709/28)|D_000112-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">193.55 Äußerung [Schriftsatz in
+                  Sachen Kraus ca. Strauss] (Kraus und Samek an das Obergericht in
+                  Prag)|D_000193-055-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">112.5 Ablehnung des Antrags auf Eröffnung des Hauptverfahrens in der
+                  Privatklagsache Kraus ./. Wolff (RA Otto Landsberg an Amtsgericht Berlin Mitte,
+                  G.Z. 149 B 709/28)|D_000112-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.11 Urteil des Landgerichts I
+                  Berlin (G.Z. Q 164/28; Richter: Landgerichtsdirektor […] Weigert,
+                  Anklagevertreter: Wenzel Goldbaum, Verteidiger: Botho
+                  Laserstein)|D_000070-011-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">113.1 Brief RA Botho Laserstein an
+                  Kraus|D_000113-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.19 Brief RA Botho Laserstein an Verlag Die
+                  Fackel|D_000070-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/787,0u1">70.5 Kopie eines 2. Ex. der Originalabschrift mit hs. Ergänzungen von H.I.N.
+                  140.800/3-6|D_000070-005-001.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPerson><person xml:id="pmb11910">
   <persName>
       <forename>Alfred</forename>
       <surname>Kerr</surname>
@@ -164,7 +224,28 @@
     <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb168">
+</person></listPerson><listPlace><place xml:id="pmb216">
+  <placeName>Unter den Linden</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>52.51699 13.38832</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb168">Berlin</placeName>
+  <geo>52.52437 13.41053</geo>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb216.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/216</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb216</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb216</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q160899</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
   <placeName type="legacy-name-merge">Berlin</placeName>
@@ -200,45 +281,5 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb216">
-  <placeName>Unter den Linden</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>52.51699 13.38832</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb168">Berlin</placeName>
-  <geo>52.52437 13.41053</geo>
-</location>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb216.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/216</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb216</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb216</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q160899</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl></back></text>
+</place></listPlace></back></text>
 </TEI>

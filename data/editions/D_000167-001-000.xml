@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000167-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000166-016-002.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000167-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000167-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000166-016-002.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000167-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>167.1 Brief Lothar Rübelt an Verlag Die Fackel</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -129,7 +129,7 @@
       <body>
          <pb xml:id="D_000167-001-000_p001" facs="#D_000167-001-000-facs001-l001-p001" n="1"/>
          <p xml:id="uuid_735423cd-f599-4e4e-9c8c-baf929acbfd4">
-            <lb xml:id="uuid_929638a3-e830-401d-a092-91dc95836a4b"/>In Ihrer <rs ref="https://fackel.oeaw.ac.at/f/857,0u1" type="work" subtype="fackel">Nummer
+            <lb xml:id="uuid_929638a3-e830-401d-a092-91dc95836a4b"/>In Ihrer <rs ref="#lk_fackel__182" corresp="https://fackel.oeaw.ac.at/f/857,0u1" type="work" subtype="fackel">Nummer
                857–863, August 1931</rs> bringen Sie auf Seite 106 das<lb xml:id="uuid_736df0d2-00a4-4a88-b5b5-6df25e25cea1"/>Bild <rs ref="#pmb39118" type="person">Herrn Rothschilds</rs> mit der Unterschrift: „<quote source="https://fackel.oeaw.ac.at/f/857,106" xml:id="uuid_139d141e-a9a7-4093-8aef-18a51eac0400"><rs ref="#pmb39118" type="person">Rothschilds</rs> Dagger –<lb xml:id="uuid_0a074272-9bff-49f9-afd2-afa56e5bcafa"/>nur Zweiter!“ Photo <rs type="person" ref="#pmb23807">Rübelt</rs>.</quote>
          </p>
          <p xml:id="uuid_b7480d5c-eedc-4185-980d-f12f4b7f9784">
@@ -144,7 +144,78 @@
             <lb xml:id="uuid_e43db26b-804a-404e-91a8-f940cc0fdfb6"/><note hand="#D_000167-001-000-hand01">75<lb xml:id="uuid_db8a0e38-79b4-40c2-be6a-cce6ffabd476"/>37.50<lb xml:id="uuid_acd75b1f-986f-43a8-867c-8de4020f7b6d"/>112.50</note>
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb53">
+   <back><listPerson><person xml:id="pmb39118">
+  <persName>
+      <forename>Louis Nathaniel</forename>
+      <surname>Rothschild</surname>
+  </persName>
+  <birth>
+    <date when-iso="1882-03-05">05.03.1882</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-01-15">15.01.1955</date>
+      <settlement key="pmb39124">
+        <placeName type="pref">Montego Bay</placeName>
+        <location><geo>18.47116 -77.91883</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="1444">Bankier/Bankierin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39118/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39118</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39118</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38814</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139295364</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q87392</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb23807">
+  <persName>
+      <forename>Lothar</forename>
+      <surname>Rübelt</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-04-08">08.04.1901</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1990-08-04">04.08.1990</date>
+      <settlement key="pmb875">
+        <placeName type="pref">Klagenfurt</placeName>
+        <location><geo>46.63333 14.3</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="145">Bildender Künstler/Bildende Künstlerin &gt;&gt; Fotograf/Fotografin</occupation>
+  <occupation key="454">Kameramann/Kamerafrau</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19458</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23807</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb23807</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="lk_fackel__182" corresp="https://fackel.oeaw.ac.at/f/857,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1931-08-01">August 1931</date><num type="volume">Jg. 33</num><num type="issue">Nr. 857–863</num><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.9 Urteil des Landesgerichts für Z.R.S. Wien (G.Z. 16 Cg 552/31, Richter:
+                  Franz Biak)|D_000167-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.3 Klage von Lothar Rübelt gegen
+                  Karl Kraus wegen Verletzung des Urheberrechts, Streitwert: S
+                  2000|D_000167-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.11 Berufungsschrift der beklagten Partei (an das Landesgericht für Z.R.S.
+                  Wien)|D_000167-011-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.6 Klagebeantwortung (eingereicht von Samek beim Landesgericht für Z.R.S.
+                  Wien, G.Z. 16 Cg 552/31)|D_000167-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.17 Revisionsschrift der klagenden
+                  Partei (eingereicht von Otto Gustav Wächter beim Landesgerichts für Z.R.S. Wien,
+                  G.Z. 16 Cg 552/31)|D_000167-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.15 Urteil des Oberlandesgerichts
+                  Wien (G.Z. 16 Cg 552/31, Vorsitz: Alfred Löw Richter: Josef Feuchtinger, Theodor
+                  Nordegg)|D_000167-015-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/857,0u1">167.1 Brief Lothar Rübelt an Verlag
+                  Die Fackel|D_000167-001-000.xml</ref></bibl>
+            </listBibl><listPlace><place xml:id="pmb53">
   <placeName>III., Landstraße</placeName>
   <placeName type="alternative-name">Landstraße</placeName>
   <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
@@ -272,64 +343,5 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listPerson><person xml:id="pmb39118">
-  <persName>
-      <forename>Louis Nathaniel</forename>
-      <surname>Rothschild</surname>
-  </persName>
-  <birth>
-    <date when-iso="1882-03-05">05.03.1882</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1955-01-15">15.01.1955</date>
-      <settlement key="pmb39124">
-        <placeName type="pref">Montego Bay</placeName>
-        <location><geo>18.47116 -77.91883</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="1444">Bankier/Bankierin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39118/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39118</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39118</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38814</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139295364</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q87392</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb23807">
-  <persName>
-      <forename>Lothar</forename>
-      <surname>Rübelt</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-04-08">08.04.1901</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1990-08-04">04.08.1990</date>
-      <settlement key="pmb875">
-        <placeName type="pref">Klagenfurt</placeName>
-        <location><geo>46.63333 14.3</geo></location>
-      </settlement>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="145">Bildender Künstler/Bildende Künstlerin &gt;&gt; Fotograf/Fotografin</occupation>
-  <occupation key="454">Kameramann/Kamerafrau</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19458</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23807</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb23807</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson></back></text>
+</org></listOrg></back></text>
 </TEI>

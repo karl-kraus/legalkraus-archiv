@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-033-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-031-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-032-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000173-032-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-031-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000173-033-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>173.32 Angelegenheit Karl Kraus – Dr. Samek: Gedankenprotokoll von Hans Heinsheimer</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -147,7 +147,150 @@
             <lb xml:id="uuid_a42fa7e9-dad6-48aa-b400-2ee212a5044c"/><rs type="person" ref="#pmb38370">Heinsheimer</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb6113">
+  <persName>
+      <forename>Maria</forename>
+      <surname>Bard</surname>
+  </persName>
+  <persName type="alternative-name">Marietta</persName>
+  <birth>
+    <date when-iso="1900-07-07">07.07.1900</date>
+      <settlement key="pmb47935">
+        <placeName type="pref">Schwerin</placeName>
+        <location><geo>53.62937 11.41316</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1944-04-06">06.04.1944</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13413</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/132959372</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6113</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb6113</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49647</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q23953</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38370">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Heinsheimer</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Heinzheimer</persName>
+  <birth>
+    <date when-iso="1900-09-25">25.09.1900</date>
+      <settlement key="pmb871">
+        <placeName type="pref">Karlsruhe</placeName>
+        <location><geo>49.00937 8.40444</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1993-10-12">12.10.1993</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38370/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38370</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38370</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/120852551</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88888</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36971">Universal Edition</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb18193">
+  <persName>
+      <forename>Emil</forename>
+      <surname>Hertzka</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-08-03">03.08.1869</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1932-05-09">09.05.1932</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
+  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16136</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18193</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb18193</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -244,150 +387,18 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb6113">
-  <persName>
-      <forename>Maria</forename>
-      <surname>Bard</surname>
-  </persName>
-  <persName type="alternative-name">Marietta</persName>
-  <birth>
-    <date when-iso="1900-07-07">07.07.1900</date>
-      <settlement key="pmb47935">
-        <placeName type="pref">Schwerin</placeName>
-        <location><geo>53.62937 11.41316</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1944-04-06">06.04.1944</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
-  <sex value="female"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13413</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/132959372</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6113</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb6113</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49647</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q23953</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb18193">
-  <persName>
-      <forename>Emil</forename>
-      <surname>Hertzka</surname>
-  </persName>
-  <birth>
-    <date when-iso="1869-08-03">03.08.1869</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1932-05-09">09.05.1932</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
-  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16136</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18193</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb18193</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38370">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Heinsheimer</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Heinzheimer</persName>
-  <birth>
-    <date when-iso="1900-09-25">25.09.1900</date>
-      <settlement key="pmb871">
-        <placeName type="pref">Karlsruhe</placeName>
-        <location><geo>49.00937 8.40444</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1993-10-12">12.10.1993</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38370/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38370</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38370</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/120852551</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88888</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36971">Universal Edition</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb43724">
+</person></listPerson><listBibl><bibl xml:id="pmb55390">
+  <title type="main">Madame l’archiduc</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl></listBibl><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -442,16 +453,5 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listBibl><bibl xml:id="pmb55390">
-  <title type="main">Madame l’archiduc</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl></listBibl></back></text>
+</org></listOrg></back></text>
 </TEI>

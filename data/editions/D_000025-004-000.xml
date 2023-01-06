@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>25.4 Beschluss des Strafbezirksgerichts I Wien (G.Z. U XII 71/26)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -124,7 +124,50 @@
             <lb xml:id="uuid_f65c9e96-a43e-4aad-a78c-4dbb16c801cc"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="institution" ref="#pmb29470">Stunde</rs> (<rs type="person" ref="#pmb38745">Dr. Siegelberg</rs>)<lb xml:id="uuid_596291f4-a8c4-42ac-9ec3-c0a690be2bce"/>20. Okt. 1926 (<rs type="law" ref="https://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1920&amp;page=1738&amp;size=45">§ 45 U.G.</rs>) </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38745">
+  <persName>
+      <forename>Mark</forename>
+      <surname>Siegelberg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1895-06-11">11.06.1895</date>
+      <settlement key="pmb45594">
+        <placeName type="pref">Kiew</placeName>
+        <location><geo>50.45466 30.5238</geo></location>
+      </settlement>
+      <settlement key="pmb51250">
+        <placeName type="pref">Luzk</placeName>
+        <location><geo>50.75932 25.34244</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1986-12-04">04.12.1986</date>
+      <settlement key="pmb50019">
+        <placeName type="pref">Katzelsdorf</placeName>
+        <location><geo>47.78055 16.26985</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38745/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38745</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38745</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11736066X</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15834039</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -220,49 +263,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38745">
-  <persName>
-      <forename>Mark</forename>
-      <surname>Siegelberg</surname>
-  </persName>
-  <birth>
-    <date when-iso="1895-06-11">11.06.1895</date>
-      <settlement key="pmb45594">
-        <placeName type="pref">Kiew</placeName>
-        <location><geo>50.45466 30.5238</geo></location>
-      </settlement>
-      <settlement key="pmb51250">
-        <placeName type="pref">Luzk</placeName>
-        <location><geo>50.75932 25.34244</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1986-12-04">04.12.1986</date>
-      <settlement key="pmb50019">
-        <placeName type="pref">Katzelsdorf</placeName>
-        <location><geo>47.78055 16.26985</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38745/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38745</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38745</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11736066X</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15834039</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb29470">
   <orgName>Die Stunde</orgName>

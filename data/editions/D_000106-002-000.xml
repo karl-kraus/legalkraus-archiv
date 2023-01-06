@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000106-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000106-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000106-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000106-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000106-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000106-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>106.2 Brief Pestrého Týdne (verantw. Red. Bohumil Markalous) an Samek</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -167,7 +167,129 @@
             <lb xml:id="uuid_1c2d851f-7566-4a53-96c0-d1b8838eeae7"/><note type="paratext" resp="law-firm"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb37509" type="institution">„Pestrý Týden“</rs>
                <lb xml:id="uuid_b2f96da2-4102-4f92-adcc-0dcbd60472d7"/>23. JULI 1928</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb3612">
+  <persName>
+      <forename>Adolf</forename>
+      <surname>Loos</surname>
+  </persName>
+  <birth>
+    <date when-iso="1870-12-10">10.12.1870</date>
+      <settlement key="pmb833">
+        <placeName type="pref">Brünn</placeName>
+        <location><geo>49.19522 16.60796</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1933-08-23">23.08.1933</date>
+      <settlement key="pmb555">
+        <placeName type="pref">Kalksburg</placeName>
+        <location><geo>48.142780596146 16.245159724901</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="185">Architekt/Architektin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11857423X</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17676</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3612.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3612</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp37830</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282afa</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44323</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39047">
+  <persName>
+      <forename>Bohumil</forename>
+      <surname>Markalous</surname>
+  </persName>
+  <persName type="person_pseudonym">John Jaromír</persName>
+  <persName type="legacy-name-merge">Markalous, Bohumil</persName>
+  <birth>
+    <date when-iso="1882-04-16">16.04.1882</date>
+      <settlement key="pmb39049">
+        <placeName type="pref">Klatovy</placeName>
+        <location><geo>49.39552 13.29505</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1952-04-24">24.04.1952</date>
+      <settlement key="pmb39054">
+        <placeName type="pref">Jaroměř</placeName>
+        <location><geo>48.69627 14.53312</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="251">Kritiker/Kritikerin &gt;&gt; Kunstkritiker/Kunstkritikerin</occupation>
+  <occupation key="767">Professor/Professorin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39047/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39047</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55217/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39047</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116782234</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q890933</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37509">Pestrého Týdne</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37509/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37509</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37509</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -264,41 +386,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb3612">
-  <persName>
-      <forename>Adolf</forename>
-      <surname>Loos</surname>
-  </persName>
-  <birth>
-    <date when-iso="1870-12-10">10.12.1870</date>
-      <settlement key="pmb833">
-        <placeName type="pref">Brünn</placeName>
-        <location><geo>49.19522 16.60796</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1933-08-23">23.08.1933</date>
-      <settlement key="pmb555">
-        <placeName type="pref">Kalksburg</placeName>
-        <location><geo>48.142780596146 16.245159724901</geo></location>
-      </settlement>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="185">Architekt/Architektin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11857423X</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17676</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3612.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb3612</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp37830</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282afa</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44323</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
 </person><person xml:id="pmb38045">
   <persName>
       <forename>Mary</forename>
@@ -327,93 +414,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38045</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38045</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116151374</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39047">
-  <persName>
-      <forename>Bohumil</forename>
-      <surname>Markalous</surname>
-  </persName>
-  <persName type="person_pseudonym">John Jaromír</persName>
-  <persName type="legacy-name-merge">Markalous, Bohumil</persName>
-  <birth>
-    <date when-iso="1882-04-16">16.04.1882</date>
-      <settlement key="pmb39049">
-        <placeName type="pref">Klatovy</placeName>
-        <location><geo>49.39552 13.29505</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1952-04-24">24.04.1952</date>
-      <settlement key="pmb39054">
-        <placeName type="pref">Jaroměř</placeName>
-        <location><geo>48.69627 14.53312</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="251">Kritiker/Kritikerin &gt;&gt; Kunstkritiker/Kunstkritikerin</occupation>
-  <occupation key="767">Professor/Professorin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39047/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39047</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55217/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39047</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116782234</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q890933</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37509">Pestrého Týdne</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37509/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37509</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37509</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -475,6 +475,25 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
+</place><place xml:id="pmb52628">
+  <placeName>Potštejn</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Potstejn</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Potštýn nad Orlicí</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Pottenstein</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>50.08472833815391 16.308383247727644</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb38444">Tschechoslowakei</placeName>
+  <geo>50.08292 14.46672</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52628/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52628</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb51">
   <placeName>I., Innere Stadt</placeName>
   <placeName type="alternative-name">Inner city</placeName>
@@ -507,25 +526,6 @@
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb52628">
-  <placeName>Potštejn</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Potstejn</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Potštýn nad Orlicí</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Pottenstein</placeName>
-  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
-  <desc type="entity_type_id">14</desc>
-<location type="coords">
-  <geo>50.08472833815391 16.308383247727644</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb38444">Tschechoslowakei</placeName>
-  <geo>50.08292 14.46672</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52628/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52628</idno>
-<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </place></listPlace></back></text>

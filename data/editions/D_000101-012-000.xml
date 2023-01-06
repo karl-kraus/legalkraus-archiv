@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-011-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000101-012-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000101-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-011-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-013-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>101.12 Vollmacht von Karl Kaiser für Oskar Samek</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -104,7 +104,20 @@
             <lb xml:id="uuid_47ba738f-780e-4873-81e4-41cc17fdd05f"/><rs ref="#pmb53132" subtype="address" type="place">XIII. Bz Ameisg 50 II/12a</rs>
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb53132">
+   <back><listPerson><person xml:id="pmb51593">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kaiser</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51593/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51593</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47556</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb53132">
   <placeName>Ameisgasse</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
@@ -120,18 +133,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb51593">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Kaiser</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51593/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51593</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47556</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson></back></text>
+</place></listPlace></back></text>
 </TEI>

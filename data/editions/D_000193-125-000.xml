@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-126-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-124-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000193-125-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000193-125-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-124-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000193-126-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>193.125 Brief Verlag Die Fackel an Der Kampf (Schriftleitung Otto Bauer)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -178,40 +178,36 @@
             <lb xml:id="uuid_55478302-bc5d-40a9-85ae-88e4b8f8be14"/>Mit vorzüglicher Hochachtung
             </p>
       </body>
-   <back><listPlace><place xml:id="pmb53">
-  <placeName>III., Landstraße</placeName>
-  <placeName type="alternative-name">Landstraße</placeName>
-  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
-  <placeName type="legacy-name-merge">Wien-Landstraße</placeName>
-  <placeName type="legacy-name-merge">Gemeindebezirk Landstrasse</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
+   <back><listPlace><place xml:id="pmb151">
+  <placeName>Deutschland</placeName>
+  <placeName type="alternative-name">Bundesrepublik Deutschland</placeName>
+  <placeName type="legacy-name-merge">Deutschland</placeName>
+  <placeName type="alternative-name">Bundesrepublik Deutschland</placeName>
+  <placeName type="legacy-name-merge">Deutschland</placeName>
+  <placeName type="alternative-name">West Germany</placeName>
+  <placeName type="alternative-name">Federal Republic of Germany</placeName>
+  <placeName type="alternative-name">West Germany</placeName>
+  <placeName type="legacy-name-merge">Bundesrepublik Deutschland</placeName>
+  <placeName type="legacy-name-merge">Germany</placeName>
+  <desc type="entity_type">Land (A.LND)</desc>
+  <desc type="entity_type_id">38</desc>
 <location type="coords">
-  <geo>48.19811 16.39482</geo>
+  <geo>51.5 10.5</geo>
 </location>
 <location type="located_in_place">
-  <placeName key="pmb41240">Österreich</placeName>
-  <geo>47.33333 13.33333</geo>
+  <placeName key="pmb468">Europa</placeName>
+  <geo>48.69096 9.14062</geo>
 </location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb1050">Amerikanische Gesandtschaft</placeName>
-  <geo>48.19913 16.38117</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2773040/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2773040/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb151.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43456/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2921044/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/151</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39639</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43456</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb151</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb151</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb151.html</idno>
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
@@ -258,41 +254,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb151">
-  <placeName>Deutschland</placeName>
-  <placeName type="alternative-name">Bundesrepublik Deutschland</placeName>
-  <placeName type="legacy-name-merge">Deutschland</placeName>
-  <placeName type="alternative-name">Bundesrepublik Deutschland</placeName>
-  <placeName type="legacy-name-merge">Deutschland</placeName>
-  <placeName type="alternative-name">West Germany</placeName>
-  <placeName type="alternative-name">Federal Republic of Germany</placeName>
-  <placeName type="alternative-name">West Germany</placeName>
-  <placeName type="legacy-name-merge">Bundesrepublik Deutschland</placeName>
-  <placeName type="legacy-name-merge">Germany</placeName>
-  <desc type="entity_type">Land (A.LND)</desc>
-  <desc type="entity_type_id">38</desc>
-<location type="coords">
-  <geo>51.5 10.5</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb468">Europa</placeName>
-  <geo>48.69096 9.14062</geo>
-</location>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb151.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43456/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2921044/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/151</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39639</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43456</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb151</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb151</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb151.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </place><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
@@ -329,25 +290,71 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb51575">
+</place><place xml:id="pmb53">
+  <placeName>III., Landstraße</placeName>
+  <placeName type="alternative-name">Landstraße</placeName>
+  <placeName type="legacy-name-merge">Landstraßer Hauptstraße</placeName>
+  <placeName type="legacy-name-merge">Wien-Landstraße</placeName>
+  <placeName type="legacy-name-merge">Gemeindebezirk Landstrasse</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.19811 16.39482</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb1050">Amerikanische Gesandtschaft</placeName>
+  <geo>48.19913 16.38117</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2773040/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb53.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36779</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50527/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50528/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2773040/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb53.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb24444">
   <persName>
-      <forename>Felix</forename>
-      <surname>Gallia</surname>
+      <forename>Johannes</forename>
+      <surname>Schober</surname>
   </persName>
   <birth>
-    <date notBefore-iso="1901-01-01" when-iso="1901-07-02" notAfter-iso="1901-12-31">1901</date>
+    <date when-iso="1874-11-14">14.11.1874</date>
+      <settlement key="pmb45193">
+        <placeName type="pref">Perg</placeName>
+        <location><geo>48.25 14.63333</geo></location>
+      </settlement>
   </birth>  
   <death>
-    <date when-iso="1942-07-02" notAfter-iso="1942-12-31">1942</date>
-      <settlement key="pmb59245">
-        <placeName type="pref">Ghetto Rejowiec</placeName>
-        <location><geo>51.0945453 23.2832851</geo></location>
+    <date when-iso="1932-08-19">19.08.1932</date>
+      <settlement key="pmb662">
+        <placeName type="pref">Baden bei Wien</placeName>
+        <location><geo>48.00543 16.23264</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51575/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51575</idno>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
+  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -531,35 +538,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb24444">
-  <persName>
-      <forename>Johannes</forename>
-      <surname>Schober</surname>
-  </persName>
-  <birth>
-    <date when-iso="1874-11-14">14.11.1874</date>
-      <settlement key="pmb45193">
-        <placeName type="pref">Perg</placeName>
-        <location><geo>48.25 14.63333</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1932-08-19">19.08.1932</date>
-      <settlement key="pmb662">
-        <placeName type="pref">Baden bei Wien</placeName>
-        <location><geo>48.00543 16.23264</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
-  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb57774">
   <persName>
       <forename>Schiller</forename>
@@ -580,7 +558,94 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb43724">
+</person><person xml:id="pmb51575">
+  <persName>
+      <forename>Felix</forename>
+      <surname>Gallia</surname>
+  </persName>
+  <birth>
+    <date notBefore-iso="1901-01-01" when-iso="1901-07-02" notAfter-iso="1901-12-31">1901</date>
+  </birth>  
+  <death>
+    <date when-iso="1942-07-02" notAfter-iso="1942-12-31">1942</date>
+      <settlement key="pmb59245">
+        <placeName type="pref">Ghetto Rejowiec</placeName>
+        <location><geo>51.0945453 23.2832851</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51575/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51575</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="pmb32544">
+  <title type="main">Die letzten Tage der Menschheit</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+  <author key="person__51630" role="hat-ubersetzt">Münzer, Jan</author>
+<date from-iso="1919-01-01" to-iso="1919-12-31">1919  – 1926</date>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32544.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32544</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32544.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32544</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl><bibl xml:id="pmb57772">
+  <title type="main">Aus dem geistigen Leben</title>
+  <title type="werk_bibliografische-angabe">Aus dem geistigen Leben, in: Der Kampf, April 1936, S. 172–174</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=dks&amp;datum=1936&amp;page=178&amp;size=45</title>
+  <author key="person__57774" role="hat-geschaffen">Marmorek, Schiller</author>
+<date from-iso="1936-04-01" to-iso="1936-04-30">1936-04  – 1936-04</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57772/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57772</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb57776">
+  <title type="main">Die österreichische Revolution</title>
+  <author key="person__10851" role="hat-geschaffen">Bauer, Otto</author>
+<date notBefore-iso="1923-01-01" when-iso="1923-07-02">1923</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57776/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57776</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Buchausgabe</note>
+</bibl><bibl xml:id="pmb57770">
+  <title type="main">Der Kampf, April 1936</title>
+  <title type="werk_bibliografische-angabe">Der Kampf, April 1936</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=dks&amp;datum=1936&amp;pos=139&amp;size=45</title>
+<date from-iso="1936-04-01" to-iso="1936-04-30">1936-04  – 1936-04</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57770/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57770</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -635,70 +700,5 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listBibl><bibl xml:id="pmb57776">
-  <title type="main">Die österreichische Revolution</title>
-  <author key="person__10851" role="hat-geschaffen">Bauer, Otto</author>
-<date notBefore-iso="1923-01-01" when-iso="1923-07-02">1923</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57776/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57776</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Buchausgabe</note>
-</bibl><bibl xml:id="pmb57772">
-  <title type="main">Aus dem geistigen Leben</title>
-  <title type="werk_bibliografische-angabe">Aus dem geistigen Leben, in: Der Kampf, April 1936, S. 172–174</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=dks&amp;datum=1936&amp;page=178&amp;size=45</title>
-  <author key="person__57774" role="hat-geschaffen">Marmorek, Schiller</author>
-<date from-iso="1936-04-01" to-iso="1936-04-30">1936-04  – 1936-04</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57772/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57772</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb57770">
-  <title type="main">Der Kampf, April 1936</title>
-  <title type="werk_bibliografische-angabe">Der Kampf, April 1936</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=dks&amp;datum=1936&amp;pos=139&amp;size=45</title>
-<date from-iso="1936-04-01" to-iso="1936-04-30">1936-04  – 1936-04</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57770/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb57770</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb32544">
-  <title type="main">Die letzten Tage der Menschheit</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-  <author key="person__51630" role="hat-ubersetzt">Münzer, Jan</author>
-<date from-iso="1919-01-01" to-iso="1919-12-31">1919  – 1926</date>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32544.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32544</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32544.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb32544</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl></listBibl></back></text>
+</org></listOrg></back></text>
 </TEI>

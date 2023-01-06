@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000130-021-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000130-019-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000130-020-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000130-020-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000130-019-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000130-021-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>130.20 Brief Otto Schabbel an RA E. Lion</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -196,7 +196,53 @@
             <lb xml:id="uuid_c1576a6a-64ca-4ab2-b2e1-ee7ab6087557"/>Hochachtungsvoll<lb xml:id="uuid_94ef6715-da67-4556-91df-780f9de60960"/>gez. <rs ref="#pmb43675" type="person">Otto Schabbel</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38360">
+  <persName>
+      <forename>Hermann</forename>
+      <surname>Hartmeyer</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Hermann Alfred Viktor</persName>
+  <birth>
+    <date when-iso="1875-08-26">26.08.1875</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1965-06-23">23.06.1965</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="600">Zeitungsverleger/Zeitungsverlegerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38360/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38360</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38360</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1047031434</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q47004914</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37346">Hamburger Nachrichten</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -322,52 +368,6 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38360">
-  <persName>
-      <forename>Hermann</forename>
-      <surname>Hartmeyer</surname>
-  </persName>
-  <persName type="person_geburtsname-vorname">Hermann Alfred Viktor</persName>
-  <birth>
-    <date when-iso="1875-08-26">26.08.1875</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1965-06-23">23.06.1965</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="600">Zeitungsverleger/Zeitungsverlegerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38360/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38360</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38360</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1047031434</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q47004914</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37346">Hamburger Nachrichten</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36828">Landgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb55848">
   <persName>
       <forename>Egon Erich</forename>
@@ -434,46 +434,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37346">
-  <orgName>Hamburger Nachrichten</orgName>
-  <desc type="entity_type">Zeitungsredaktion</desc>
-  <desc type="entity_type_id">1039</desc>
-<location type="located_in_place">
-  <placeName key="pmb506">Hamburg</placeName>
-  <geo>53.57532 10.01534</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb506.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/506</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4023118-5</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2911298/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb55809">Speersort</placeName>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55809/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55809</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb63923">
-  <orgName>Verlag der Hamburger Nachrichten</orgName>
-  <desc type="entity_type">Verlag</desc>
-  <desc type="entity_type_id">975</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63923/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb63923</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPlace><place xml:id="pmb506">
+</person></listPerson><listPlace><place xml:id="pmb506">
   <placeName>Hamburg</placeName>
   <placeName type="legacy-name-merge">Hamburg</placeName>
   <placeName type="alternative-name">Hamburg</placeName>
@@ -514,5 +475,44 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl></back></text>
+</bibl></listBibl><listOrg><org xml:id="pmb63923">
+  <orgName>Verlag der Hamburger Nachrichten</orgName>
+  <desc type="entity_type">Verlag</desc>
+  <desc type="entity_type_id">975</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63923/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb63923</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb37346">
+  <orgName>Hamburger Nachrichten</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
+<location type="located_in_place">
+  <placeName key="pmb506">Hamburg</placeName>
+  <geo>53.57532 10.01534</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb506.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/506</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4023118-5</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2911298/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb55809">Speersort</placeName>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55809/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55809</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg></back></text>
 </TEI>

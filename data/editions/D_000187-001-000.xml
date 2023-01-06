@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000187-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000186-018-001.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000187-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000187-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000186-018-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000187-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>187.1 Entwurf einer Berichtigung an Der Aufruf (verantw. Red. Friedrich Bill)</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -112,7 +112,7 @@
                 Berichtigung im Sinne des <rs ref="" type="law">§ 19 P.G.</rs>
          </p>
          <p xml:id="uuid_36d7f2b8-8197-4f34-a96a-412d1913f450">
-            <lb xml:id="uuid_5cad0b6a-1061-4ce9-a354-59759ebde5fc"/>Sie drucken in ihrer <rs ref="#pmb55904" type="work" subtype="pmb">Nummer vom 1. Novem<lb break="no" xml:id="uuid_8ec7bb28-42cc-404f-bed7-4c6cf5f4aade"/>ber 1933</rs> ein <rs ref="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedicht</rs>
+            <lb xml:id="uuid_5cad0b6a-1061-4ce9-a354-59759ebde5fc"/>Sie drucken in ihrer <rs ref="#pmb55904" type="work" subtype="pmb">Nummer vom 1. Novem<lb break="no" xml:id="uuid_8ec7bb28-42cc-404f-bed7-4c6cf5f4aade"/>ber 1933</rs> ein <rs ref="#lk_fackel__191" corresp="https://fackel.oeaw.ac.at/f/888,004" type="work" subtype="fackel">Gedicht</rs>
             von <rs ref="#pmb11988" type="person">Karl Kraus</rs> ab.
             Es ist unrichtig,<lb xml:id="uuid_620cabe0-5308-4aa8-ba7d-7897ff18a0e5"/>dass die Zeile
             3 des Gedichtes lautet: „<quote source="#55904" xml:id="uuid_b7aac0eb-d91a-4e6f-af1b-5c08b865a4c9">und sage nicht<lb xml:id="uuid_0633c313-0cd1-4b1e-80d7-6bc5c1c0d30b"/>warum.</quote>“; richtig ist,
@@ -127,7 +127,91 @@
                Schlaf.</quote>“; richtig ist, dass diese<lb xml:id="uuid_27257ca4-3709-49ae-94bb-b6eb8c3369b6"/>Zeile lautet: „<quote source="https://fackel.oeaw.ac.at/f/888,004" xml:id="uuid_a2c0d6cc-9161-4138-b08d-4336df7a685a">man spricht nur aus dem
                Schlaf.</quote>“ </p>
       </body>
-   <back><listPerson><person xml:id="pmb37889">
+   <back><listBibl><bibl xml:id="lk_fackel__191" corresp="https://fackel.oeaw.ac.at/f/888,004" type="fackel"><title level="a">Man frage nicht</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1933-10-16">Oktober 1933</date><num type="volume">Jg. 35</num><num type="issue">Nr. 888</num><biblScope from="4" to="4">4</biblScope><ref target="https://fackel.oeaw.ac.at/f/888,004">187.1
+                  Entwurf einer Berichtigung an Der Aufruf (verantw. Red. Friedrich
+                  Bill)|D_000187-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.13 Brief RA Johann Turnovsky an Samek|D_000187-013-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.3 Brief Samek an RA Johann
+                  Turnovsky|D_000187-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.27 Brief RA Johann Turnovsky an
+                  Samek|D_000189-027-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.2 Brief Samek an RA Johann Turnovsky|D_000189-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.15 Brief RA Johann Turnovsky an
+                  Samek|D_000187-015-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.9 Brief RA Johann Turnovsky an Samek|D_000187-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.26 Brief Samek an RA Johann
+                  Turnovsky|D_000189-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.14 Brief Samek an RA Johann
+                  Turnovsky|D_000187-014-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.9 Brief RA Johann Turnovsky an
+                  Samek|D_000189-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.90 Entwurf zur Äußerung und zu den Beweisanträgen Maries
+                  Schnierers|D_000189-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.18 Brief RA Johann Turnovsky an
+                  Der Aufruf (verantw. Red. Friedrich Bill)|D_000187-018-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.4 Brief RA Johann Turnovsky an
+                  Samek|D_000187-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.12 Brief RA Johann Turnovsky an Samek|D_000189-012-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.19 Brief RA Johann Turnovsky an
+                  Samek|D_000187-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.29 Brief RA Johann Turnovsky an Samek|D_000189-029-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.2 Brief RA Johann Turnovsky an
+                  Samek|D_000187-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.22 Beschluss (Übersetzung) des Strafbezirksgerichts Prag Abtlg. VI (G.Z. T IV
+                  7/34/6, Jaroslav Pernt)|D_000189-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.21 Brief RA Johann Turnovsky an
+                  Samek|D_000189-021-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.21 Brief RA Johann Turnovsky an RA Friedrich
+                  Bill|D_000187-021-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.10 Brief RA Johann Turnovsky an Samek|D_000187-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.4 Brief RA Johann Turnovsky an
+                  Samek|D_000189-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">195.20 Übersetzung der Anklageschrift von Karl Kraus gegen Aufruf (Egon
+                  Butschowitz und verantw. Red. Friedrich Bill)|D_000195-020-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.23 Brief RA Johann Turnovsky an
+                  Samek|D_000189-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.25 Beschwerde (Übersetzung) gegen den Beschluss vom 10. Januar
+                  1934|D_000189-025-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.16 Brief Samek an RA Johann Turnovsky|D_000187-016-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">187.12 Brief RA Friedrich Bill an RA
+                  Johann Turnovsky|D_000187-012-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.28 Brief Samek an RA Johann
+                  Turnovsky|D_000189-028-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.5 Brief RA Johann Turnovsky an
+                  Samek|D_000189-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/888,004">189.3 Brief RA Johann Turnovsky an Samek|D_000189-003-000.xml</ref></bibl>
+            <bibl xml:id="pmb55904">
+  <title type="main">Der Aufruf, 1.11.1933</title>
+  <title type="werk_bibliografische-angabe">Der Aufruf, 1.11.1933</title>
+<date>1933-11-01  – 1933-11-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55904/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55904</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listOrg><org xml:id="pmb37264">
+  <orgName>Der Aufruf</orgName>
+  <desc type="entity_type">Zeitschriftenredaktion</desc>
+  <desc type="entity_type_id">973</desc>
+<location type="located_in_place">
+  <placeName key="pmb652">Prag</placeName>
+  <geo>50.08333 14.46667</geo>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb37889">
   <persName>
       <forename>Friedrich</forename>
       <surname>Bill</surname>
@@ -260,36 +344,7 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb55904">
-  <title type="main">Der Aufruf, 1.11.1933</title>
-  <title type="werk_bibliografische-angabe">Der Aufruf, 1.11.1933</title>
-<date>1933-11-01  – 1933-11-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55904/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55904</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listPlace><place xml:id="pmb652">
+</person></listPerson><listPlace><place xml:id="pmb652">
   <placeName>Prag</placeName>
   <placeName type="alternative-name">Hauptstadt Prag</placeName>
   <placeName type="legacy-name-merge">Prag</placeName>
@@ -330,35 +385,5 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb37264">
-  <orgName>Der Aufruf</orgName>
-  <desc type="entity_type">Zeitschriftenredaktion</desc>
-  <desc type="entity_type_id">973</desc>
-<location type="located_in_place">
-  <placeName key="pmb652">Prag</placeName>
-  <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4076310-9</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/3067695/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1085</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37264</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37264</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</place></listPlace></back></text>
 </TEI>

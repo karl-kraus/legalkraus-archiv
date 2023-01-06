@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-018-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-017-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000068-018-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000068-018-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-017-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000068-018-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>68.18 Brief Heinrich Fischer an Samek</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -196,7 +196,7 @@
             mich philologisch zu Authentizität </p>
          <pb xml:id="D_000068-018-000_p002" facs="#D_000068-018-000-facs001-l002-p002" n="2"/>
          <p xml:id="uuid_c5103ccc-0736-4e4f-9ced-95070dc9816b">
-            <lb xml:id="uuid_b203ea15-7043-4733-9fc1-e981bb4f9738"/>des von ihm bestrittenen <rs type="work" ref="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedichtes</rs>
+            <lb xml:id="uuid_b203ea15-7043-4733-9fc1-e981bb4f9738"/>des von ihm bestrittenen <rs type="work" ref="#lk_fackel__131" corresp="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedichtes</rs>
             zu äußern. Aber<lb xml:id="uuid_75bbec3d-3de2-4788-8688-5dd26a5e3157"/>vorher muß ich
             doch in genauer Kenntnis des<lb xml:id="uuid_33e7d902-ee4d-42ae-977b-cc61c8105b78"/>Tatbestandes mit einem Wort dem Staunen<lb xml:id="uuid_d5dba04a-21f9-4ed4-bd62-a85e797e2f71"/>über die ungeheuerliche Frechheit
                Ausdruck<lb xml:id="uuid_761ebd59-94f7-4f98-a7c4-29f18ee52efb"/>geben, die im
@@ -209,8 +209,8 @@
                Herrn<lb xml:id="uuid_777879a3-40e0-493c-9b5d-314544ad2fa0"/><rs ref="#pmb11910" type="person">Kerr</rs> unbestritten,
             daß er <add>in den Jahren 14 bis 17</add> zahllose Kriegsge<lb break="no" xml:id="uuid_a3f9a1ca-36ee-42f1-a7a3-475cc884174f"/>dichte unter dem Pseudonym
             „Gottlieb“ im <pb xml:id="D_000068-018-000_p003" facs="#D_000068-018-000-facs001-l003-p003" n="3"/>
-            <lb xml:id="uuid_43e1f073-a332-46c6-a7ce-58778eeab44f"/><rs ref="#pmb53189" type="work" subtype="pmb">Roten Tag</rs> veröffentlicht hat (wie ja zum<lb xml:id="uuid_d3c6ebee-bb7a-4cf7-ad97-66b7abc316f2"/>Beispiel auch jenes „<rs ref="https://fackel.oeaw.ac.at/f/735,081" type="work" subtype="fackel">Rumänenlied</rs>“). Nun,<lb xml:id="uuid_fd8fee30-d322-4b3a-829e-532db6b373c8"/>das
-               <rs type="work" ref="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedicht</rs> von den Masurischen Seen,<lb xml:id="uuid_17357182-94ff-4aa0-97ca-dffe4a28d1a1"/>dessen Autorschaft er bestreitet,
+            <lb xml:id="uuid_43e1f073-a332-46c6-a7ce-58778eeab44f"/><rs ref="#pmb53189" type="work" subtype="pmb">Roten Tag</rs> veröffentlicht hat (wie ja zum<lb xml:id="uuid_d3c6ebee-bb7a-4cf7-ad97-66b7abc316f2"/>Beispiel auch jenes „<rs ref="#lk_fackel__138" corresp="https://fackel.oeaw.ac.at/f/735,081" type="work" subtype="fackel">Rumänenlied</rs>“). Nun,<lb xml:id="uuid_fd8fee30-d322-4b3a-829e-532db6b373c8"/>das
+               <rs type="work" ref="#lk_fackel__131" corresp="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedicht</rs> von den Masurischen Seen,<lb xml:id="uuid_17357182-94ff-4aa0-97ca-dffe4a28d1a1"/>dessen Autorschaft er bestreitet,
             ist <hi rend="underlined">am<lb xml:id="uuid_cd6dc94c-5905-4d41-b5dd-0e1cf3352728"/>9.
                September 1914 unter dem Pseudonym</hi>
             <lb xml:id="uuid_ee497b2f-b242-4bf8-9ed3-5b924669880f"/>„<hi rend="underlined">Gottlieb</hi>“ im <rs ref="#pmb53189" type="work" subtype="pmb"><hi rend="underlined">Roten Tag</hi></rs> erschienen. Es<lb xml:id="uuid_d5d1878e-395d-485a-a51f-67d359285c7b"/>ist gewiß möglich – da ja Herr
@@ -223,13 +223,13 @@
                <rs type="work">Zeitung</rs>
             <lb xml:id="uuid_50d43b41-88ee-4b75-9482-9304ca050452"/>erschienen sind. Wenn er noch
             wenige Tage <pb xml:id="D_000068-018-000_p004" facs="#D_000068-018-000-facs001-l004-p004" n="4"/>
-            <lb xml:id="uuid_e0bbec60-f679-4eb2-ad41-7391d98e2cac"/>vorher in einem Gedicht „<rs ref="https://fackel.oeaw.ac.at/f/735,086" type="work" subtype="fackel">Stallupönen</rs>“ (das die<lb xml:id="uuid_e966271f-120a-4f77-8273-1f8086babb32"/><rs ref="#pmb11910" type="person">Kerrsche</rs>
+            <lb xml:id="uuid_e0bbec60-f679-4eb2-ad41-7391d98e2cac"/>vorher in einem Gedicht „<rs ref="#lk_fackel__138" corresp="https://fackel.oeaw.ac.at/f/735,086" type="work" subtype="fackel">Stallupönen</rs>“ (das die<lb xml:id="uuid_e966271f-120a-4f77-8273-1f8086babb32"/><rs ref="#pmb11910" type="person">Kerrsche</rs>
             Provenienz in keinem Worte verleugnet und ebenfalls mit „Gottlieb“ unterzeichnet ist)<lb xml:id="uuid_9ba84775-0468-4e33-9b12-f1871564f0bb"/>die russische Kriegsgefangenen
             verhöhnt („<quote source="https://fackel.oeaw.ac.at/f/735,087" xml:id="uuid_56b6a036-ed4e-4c5b-8894-ff1d23714f07">Doch<lb xml:id="uuid_a53138a3-ab20-47f9-a25d-9f86ac84a31f"/>bewahrt das Licht, ihr Leute,
                weil sie jeden<lb xml:id="uuid_33228d49-ca86-43c9-8981-573808c74558"/>Wachsstock
                fressen</quote>“) so konnte man der<lb xml:id="uuid_6fb26db0-0eea-4d4b-a8e9-7cef9ef48f72"/>Fühllosigkeit eines hemmungslosen
                Herzens<lb xml:id="uuid_0ec29af4-4008-43fa-9144-298a1949778b"/>schon jene grausame
-            Pointe des strittigen<lb xml:id="uuid_a71bb9c5-daa0-4db5-8b16-6bf634e88d88"/><rs type="work" ref="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedichts</rs>
+            Pointe des strittigen<lb xml:id="uuid_a71bb9c5-daa0-4db5-8b16-6bf634e88d88"/><rs type="work" ref="#lk_fackel__131" corresp="https://fackel.oeaw.ac.at/f/717,055" subtype="fackel">Gedichts</rs>
             zutrauen, und daß es sprachlich<lb xml:id="uuid_54ad215c-9431-4fd1-9fe1-599f61321035"/>nicht so tänzerisch war, konnte gegen<lb xml:id="uuid_1af383ad-135d-4220-9e03-afb34c4c917a"/>die Augenscheinlichkeit des
                bekannten<lb xml:id="uuid_f79443f5-8b2f-45d7-82f7-f8c4f268c0fd"/>Pseudonyms
             „Gottlieb“ nicht beweisen:<lb xml:id="uuid_94bc47d5-7f76-4319-97e0-4c288d4bcc1b"/>hatte
@@ -265,7 +265,150 @@
             Blutmeer der Schlachtfelder durch fast<lb xml:id="uuid_f944b547-13b4-4694-88f3-2ea77af8e9fd"/>vier Jahre vergnügt den Geist der
                Münchener<lb xml:id="uuid_ed77471f-80c8-495a-8fe3-0050f2b4e58e"/>„<rs type="institution" ref="#pmb29408">Jugend</rs>“ schweben ließ. – </p>
       </body>
-   <back><listPerson><person xml:id="pmb38019">
+   <back><listPerson><person xml:id="pmb38133">
+  <persName>
+      <forename>Heinrich</forename>
+      <surname>Fischer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1896-08-22">22.08.1896</date>
+      <settlement key="pmb842">
+        <placeName type="pref">Karlsbad</placeName>
+        <location><geo>50.23271 12.87117</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1974-03-16">16.03.1974</date>
+      <settlement key="pmb45258">
+        <placeName type="pref">München</placeName>
+        <location><geo>48.13743 11.57549</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb57445">Urania Prag</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11910">
+  <persName>
+      <forename>Alfred</forename>
+      <surname>Kerr</surname>
+  </persName>
+  <persName type="person_geburtsname_nachname">Kempner</persName>
+  <persName type="person_pseudonym">Gottlieb</persName>
+  <persName type="person_pseudonym">Peter</persName>
+  <birth>
+    <date when-iso="1867-12-25">25.12.1867</date>
+      <settlement key="pmb677">
+        <placeName type="pref">Breslau</placeName>
+        <location><geo>51.10773 17.03533</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1948-10-12">12.10.1948</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11856157X</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11910.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11910.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11910</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38072</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=K#DWpers0125</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q70396</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38019">
   <persName>
       <forename>Walter Julius</forename>
       <surname>Bloem</surname>
@@ -335,92 +478,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb11910">
-  <persName>
-      <forename>Alfred</forename>
-      <surname>Kerr</surname>
-  </persName>
-  <persName type="person_geburtsname_nachname">Kempner</persName>
-  <persName type="person_pseudonym">Gottlieb</persName>
-  <persName type="person_pseudonym">Peter</persName>
-  <birth>
-    <date when-iso="1867-12-25">25.12.1867</date>
-      <settlement key="pmb677">
-        <placeName type="pref">Breslau</placeName>
-        <location><geo>51.10773 17.03533</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1948-10-12">12.10.1948</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11856157X</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11910.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11910.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11910</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38072</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=K#DWpers0125</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q70396</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
 </person><person xml:id="pmb61839">
   <persName>
       <forename>Richard</forename>
@@ -448,93 +505,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38133">
-  <persName>
-      <forename>Heinrich</forename>
-      <surname>Fischer</surname>
-  </persName>
-  <birth>
-    <date when-iso="1896-08-22">22.08.1896</date>
-      <settlement key="pmb842">
-        <placeName type="pref">Karlsbad</placeName>
-        <location><geo>50.23271 12.87117</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1974-03-16">16.03.1974</date>
-      <settlement key="pmb45258">
-        <placeName type="pref">München</placeName>
-        <location><geo>48.13743 11.57549</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38133/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38133</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45705</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116556250</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1597227</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb47085">Münchner Schauspielhaus</orgName>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37068/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb57445">Urania Prag</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57445</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37011">Theater am Schiffbauerdamm</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37011/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37011</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37011</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q632381</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53191">
-  <title type="main">Die neue Rundschau 25, Heft 9 (1914)</title>
-  <title type="werk_bibliografische-angabe">Die neue Rundschau, Heft 9 (1914)</title>
-<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53191/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53191</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53189">
-  <title type="main">Der Rote Tag</title>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53189/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53189</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53193">
-  <title type="main">Aus dem Kriegsbuch eines Hirnwesens</title>
-  <title type="werk_bibliografische-angabe">Alfred Kerr: Aus dem Kriegsbuch eines Hinrnwesen, in: Die neue Rundschau 25, Heft 9 (1914)</title>
-  <author key="person__11910" role="hat-geschaffen">Kerr, Alfred</author>
-<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53193/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53193</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Text</note>
-</bibl><bibl xml:id="pmb36156">
+</person></listPerson><listBibl><bibl xml:id="pmb36156">
   <title type="main">Die neue Rundschau</title>
 <date notBefore-iso="1904-01-01" when-iso="1904-07-01">1904</date>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36156/</idno>
@@ -543,6 +514,16 @@
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb36156</idno>
 <note type="collections">
   <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb53191">
+  <title type="main">Die neue Rundschau 25, Heft 9 (1914)</title>
+  <title type="werk_bibliografische-angabe">Die neue Rundschau, Heft 9 (1914)</title>
+<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53191/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53191</idno>
+<note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
@@ -559,7 +540,148 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41531">
+</bibl><bibl xml:id="pmb53193">
+  <title type="main">Aus dem Kriegsbuch eines Hirnwesens</title>
+  <title type="werk_bibliografische-angabe">Alfred Kerr: Aus dem Kriegsbuch eines Hinrnwesen, in: Die neue Rundschau 25, Heft 9 (1914)</title>
+  <author key="person__11910" role="hat-geschaffen">Kerr, Alfred</author>
+<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53193/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53193</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Text</note>
+</bibl><bibl xml:id="pmb53189">
+  <title type="main">Der Rote Tag</title>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53189/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53189</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="lk_fackel__131" corresp="https://fackel.oeaw.ac.at/f/717,047" type="fackel"><title level="a">Kerr in Paris</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-04-01">April 1926</date><num type="volume">Jg. 27</num><num type="issue">Nr. 717–723</num><biblScope from="47" to="61">47–61</biblScope><ref target="https://fackel.oeaw.ac.at/f/717,047">68.26
+                  Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat Viktor
+                  Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,055">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,055">70.11 Urteil des Landgerichts I Berlin (G.Z. Q 164/28; Richter:
+                  Landgerichtsdirektor […] Weigert, Anklagevertreter: Wenzel Goldbaum, Verteidiger:
+                  Botho Laserstein)|D_000070-011-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,055">68.18 Brief Heinrich Fischer an
+                  Samek|D_000068-018-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,060">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,049">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,051">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,047">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,056">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,059">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,055">68.44 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-044-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,047">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/717,055">68.74 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-074-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__138" corresp="https://fackel.oeaw.ac.at/f/735,070" type="fackel"><title level="a">Ein Friedmensch</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-10-01">Oktober 1926</date><num type="volume">Jg. 28</num><num type="issue">Nr. 735–742</num><biblScope from="70" to="95">70–95</biblScope><ref target="https://fackel.oeaw.ac.at/f/735,088">68.26
+                  Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat Viktor
+                  Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.18 Brief Heinrich Fischer an
+                  Samek|D_000068-018-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,087">68.44 Schriftsatz in Sachen Kraus ./. Kerr (Alfred Kerr an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-044-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,095">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,086">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,078">68.26 Schriftsatz [Erwiderung in der
+                  Privatklagsache Kraus –/– Kerr] (Justizrat Viktor Fraenkl an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,072">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.39 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,090">68.18 Abschrift von vier Gedichten
+                  von „Gottlieb“|D_000068-018-001.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">70.11 Urteil des Landgerichts I
+                  Berlin (G.Z. Q 164/28; Richter: Landgerichtsdirektor […] Weigert,
+                  Anklagevertreter: Wenzel Goldbaum, Verteidiger: Botho
+                  Laserstein)|D_000070-011-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,084">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,086">68.17 Brief Samek an Justizrat Viktor Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,076">68.74 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-074-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.26 Schriftsatz [Erwiderung in der
+                  Privatklagsache Kraus –/– Kerr] (Justizrat Viktor Fraenkl an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,076">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,082">68.26 Schriftsatz [Erwiderung in der
+                  Privatklagsache Kraus –/– Kerr] (Justizrat Viktor Fraenkl an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,083">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,073">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,083">68.26 Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat
+                  Viktor Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.26 Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat
+                  Viktor Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,073">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,080">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,087">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,091">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.27 Schriftsatz und Widerklage in
+                  Sachen Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-027-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,078">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,075">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,085">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.22 Abschrift von 17 Gedichten von „Gottlieb“|D_000068-022-001.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,084">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.1 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,085">68.10 Schriftsatz in der
+                  Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA Alfred Karger an das
+                  Amtsgericht Charlottenburg, G.Z. 44 B. 222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.74 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-074-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.17 Brief Samek an Justizrat Viktor Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,086">68.18 Brief Heinrich Fischer an
+                  Samek|D_000068-018-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,085">68.26 Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat
+                  Viktor Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.26 Schriftsatz [Erwiderung in der
+                  Privatklagsache Kraus –/– Kerr] (Justizrat Viktor Fraenkl an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,078">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,083">68.10 Schriftsatz in der Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA
+                  Alfred Karger an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,085">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,086">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,079">68.10 Schriftsatz in der Privatklagsache Kraus –/– Kerr (RA Wolfgang Heine und RA
+                  Alfred Karger an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.44 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-044-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,091">68.26 Schriftsatz [Erwiderung in der Privatklagsache Kraus –/– Kerr] (Justizrat
+                  Viktor Fraenkl an das Amtsgericht Charlottenburg, G.Z. 44 B.
+                  222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,082">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,088">68.17 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.62 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Kraus an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,087">68.62 Schriftsatz in Sachen Kraus ./. Kerr (Kraus an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-062-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,091">68.39 Brief Samek an Justizrat Viktor
+                  Fraenkl|D_000068-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,086">68.26 Schriftsatz [Erwiderung in der
+                  Privatklagsache Kraus –/– Kerr] (Justizrat Viktor Fraenkl an das Amtsgericht
+                  Charlottenburg, G.Z. 44 B. 222/27)|D_000068-026-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,077">68.44 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-044-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,081">68.74 Schriftsatz in Sachen Kraus ./. Kerr (Alfred Kerr an das Amtsgericht
+                  Charlottenburg, G.Z. B.2 27)|D_000068-074-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,070">68.44 Schriftsatz in Sachen Kraus ./.
+                  Kerr (Alfred Kerr an das Amtsgericht Charlottenburg, G.Z. B.2
+                  27)|D_000068-044-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/735,078">68.17 Brief Samek an Justizrat Viktor Fraenkl|D_000068-017-000.xml</ref></bibl>
+            <bibl xml:id="pmb41531">
   <title type="main">Berliner Tageblatt</title>
 <date>1872  – 1939</date>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41531/</idno>
@@ -571,39 +693,7 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listOrg><org xml:id="pmb29408">
-  <orgName>Jugend</orgName>
-  <orgName type="legacy-name-merge">Jugend</orgName>
-  <desc type="entity_type">Zeitschriftenredaktion</desc>
-  <desc type="entity_type_id">973</desc>
-<location type="located_in_place">
-  <placeName key="pmb45258">München</placeName>
-  <geo>48.13743 11.57549</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
-</location>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29408.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43371/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29408</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43371</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29408</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q703339</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date from-iso="1896-01-01" to-iso="1896-12-31">1896  – 1940</date>
-</note>
-</org></listOrg><listPlace><place xml:id="pmb45258">
+</bibl></listBibl><listPlace><place xml:id="pmb45258">
   <placeName>München</placeName>
   <placeName type="alternative-name">München</placeName>
   <placeName type="legacy-name-merge">München?</placeName>
@@ -707,5 +797,37 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listOrg><org xml:id="pmb29408">
+  <orgName>Jugend</orgName>
+  <orgName type="legacy-name-merge">Jugend</orgName>
+  <desc type="entity_type">Zeitschriftenredaktion</desc>
+  <desc type="entity_type_id">973</desc>
+<location type="located_in_place">
+  <placeName key="pmb45258">München</placeName>
+  <geo>48.13743 11.57549</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29408.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43371/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29408</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43371</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29408</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q703339</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1896-01-01" to-iso="1896-12-31">1896  – 1940</date>
+</note>
+</org></listOrg></back></text>
 </TEI>

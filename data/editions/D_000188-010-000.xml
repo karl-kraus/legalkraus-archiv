@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-011-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-009-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-010-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000188-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-009-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000188-011-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -121,7 +121,64 @@
             <lb xml:id="uuid_d6e90e83-184b-44f7-ad18-5b065e11315e"/><rs type="place" ref="#pmb50">Wien</rs>, am 22. Jänner 1934.</p>
          <p xml:id="uuid_e815cec1-bf30-4672-a531-2dcdd2730beb"><lb xml:id="uuid_579e16eb-4176-4129-9fbb-dcc71d5b06ca"/>unl. <rs type="person">Unterschrift</rs>. </p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
+   <back><listPerson><person xml:id="pmb56402">
+  <persName>
+      <forename>Alfred</forename>
+      <surname>Maril</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56402/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56402</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb56403">
+  <persName>
+      <forename>Friedrich</forename>
+      <surname>Goldmann</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56403/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56403</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36905">Altesse AG</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39030">
+  <persName>
+      <forename>Severin</forename>
+      <surname>Mantel</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sever Mantel</persName>
+  <birth>
+    <date when-iso="1903-12-16">16.12.1903</date>
+      <settlement key="pmb39032">
+        <placeName type="pref">Pidvolochysk</placeName>
+        <location><geo>49.53472 26.14585</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date>April 1976</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39030/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39030</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39030</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -192,62 +249,5 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb56402">
-  <persName>
-      <forename>Alfred</forename>
-      <surname>Maril</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56402/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56402</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb56403">
-  <persName>
-      <forename>Friedrich</forename>
-      <surname>Goldmann</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56403/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56403</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36905">Altesse AG</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36905</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q783508</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39030">
-  <persName>
-      <forename>Severin</forename>
-      <surname>Mantel</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sever Mantel</persName>
-  <birth>
-    <date when-iso="1903-12-16">16.12.1903</date>
-      <settlement key="pmb39032">
-        <placeName type="pref">Pidvolochysk</placeName>
-        <location><geo>49.53472 26.14585</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date>April 1976</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39030/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39030</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39030</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson></back></text>
+</place></listPlace></back></text>
 </TEI>

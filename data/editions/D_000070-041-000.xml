@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-042-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-040-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-041-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000070-041-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-040-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000070-042-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -135,47 +135,7 @@
          <p xml:id="uuid_7ba35263-7d5f-4631-acfb-517e5678dc63">
             <lb xml:id="uuid_8f959a64-6eb2-47e8-a54a-227ce95efe79"/>Hochachtungsvoll<lb xml:id="uuid_bf795e7a-34a6-4de7-bcda-4218e9ad7f53"/><rs ref="#pmb37185" type="institution">Kampfausschuss gegen<lb xml:id="uuid_ce29419c-49fc-469f-b625-183793c63fd9"/>Zensur</rs>. </p>
       </body>
-   <back><listPerson><person xml:id="pmb38969">
-  <persName>
-      <forename>Botho</forename>
-      <surname>Laserstein</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-07-31">31.07.1901</date>
-      <settlement key="pmb49582">
-        <placeName type="pref">Chemnitz</placeName>
-        <location><geo>50.8357 12.92922</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1955-03-09">09.03.1955</date>
-      <settlement key="pmb863">
-        <placeName type="pref">Düsseldorf</placeName>
-        <location><geo>51.22172 6.77616</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="160">Richter/Richterin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37185">
+   <back><listOrg><org xml:id="pmb37185">
   <orgName>Kampfausschuß gegen die Zensur</orgName>
 <location type="located_in_place">
   <placeName key="pmb12562">Schöneberg</placeName>
@@ -241,5 +201,45 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listPerson><person xml:id="pmb38969">
+  <persName>
+      <forename>Botho</forename>
+      <surname>Laserstein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-07-31">31.07.1901</date>
+      <settlement key="pmb49582">
+        <placeName type="pref">Chemnitz</placeName>
+        <location><geo>50.8357 12.92922</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-03-09">09.03.1955</date>
+      <settlement key="pmb863">
+        <placeName type="pref">Düsseldorf</placeName>
+        <location><geo>51.22172 6.77616</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38969/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38969</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38969</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39427</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035197</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q894727</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37352">Die jüdische Gemeinde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37352/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37352</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37352</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson></back></text>
 </TEI>

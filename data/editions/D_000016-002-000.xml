@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000016-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000016-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000016-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000016-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000016-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000016-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>16.2 Ausdehnung der Privatanklage und Antrag auf Anberaumung einer Hauptverhandlung</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -154,7 +154,40 @@
             <lb xml:id="uuid_cac2f10c-a334-4257-ad98-a74707302c73"/><rs ref="#pmb11988" type="person">Karl Kraus</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb50431">
+   <back><listBibl><bibl xml:id="pmb51392">
+  <title type="main">War Karl Kraus ein schönes Kind? [29.4.1925]</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250429&amp;seite=1&amp;zoom=33</title>
+  <title type="werk_bibliografische-angabe">War Karl Kraus ein schönes Kind?, in: Die Stunde, Nr. 642, 29.4.1925, S. 1</title>
+<date>1925-04-29  – 1925-04-29</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51392/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51392</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb51399">
+  <title type="main">Die Stunde, 25.7.1925</title>
+  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 712, 25.7.1925</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250725&amp;zoom=33</title>
+<date>1925-07-25  – 1925-07-25</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51399/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51399</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb51396">
+  <title type="main">Die Stunde, 16.6.1925</title>
+  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 679, 16.6.1925</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250616&amp;zoom=33</title>
+<date>1925-06-16  – 1925-06-16</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51396/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51396</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl><listPerson><person xml:id="pmb50431">
   <persName>
       <forename>Fritz</forename>
       <surname>Kaufmann</surname>
@@ -338,6 +371,23 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
@@ -389,57 +439,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb51392">
-  <title type="main">War Karl Kraus ein schönes Kind? [29.4.1925]</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250429&amp;seite=1&amp;zoom=33</title>
-  <title type="werk_bibliografische-angabe">War Karl Kraus ein schönes Kind?, in: Die Stunde, Nr. 642, 29.4.1925, S. 1</title>
-<date>1925-04-29  – 1925-04-29</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51392/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51392</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb51396">
-  <title type="main">Die Stunde, 16.6.1925</title>
-  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 679, 16.6.1925</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250616&amp;zoom=33</title>
-<date>1925-06-16  – 1925-06-16</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51396/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51396</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb51399">
-  <title type="main">Die Stunde, 25.7.1925</title>
-  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 712, 25.7.1925</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19250725&amp;zoom=33</title>
-<date>1925-07-25  – 1925-07-25</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51399/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51399</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listOrg><org xml:id="pmb37216">
+</place></listPlace><listOrg><org xml:id="pmb37216">
   <orgName>Kronos Verlag</orgName>
   <orgName type="person_namensvariante_nachname-komma-vorname">Kronos Verlags A.G.</orgName>
   <desc type="entity_type">Verlagskonzern</desc>

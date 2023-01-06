@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000101-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000101-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000101-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>101.2 [Aussageprotokoll] von Max Babad</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -153,7 +153,67 @@
             <lb xml:id="uuid_3d45e2a6-e91f-4f27-9d29-69f73ace2a01"/><rs ref="#pmb51545" type="person">Max Babad</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb51545">
+  <persName>
+      <forename>Max</forename>
+      <surname>Babad</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51545/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51545</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49903</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb53090">
+  <persName>
+      <forename>?</forename>
+      <surname>[Polizeikommissär]</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="645">Polizeibeamter/Polizeibeamtin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53090/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53090</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb53089">Polizeikommissariat Prater Ausstellungsstraße</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb24444">
+  <persName>
+      <forename>Johannes</forename>
+      <surname>Schober</surname>
+  </persName>
+  <birth>
+    <date when-iso="1874-11-14">14.11.1874</date>
+      <settlement key="pmb45193">
+        <placeName type="pref">Perg</placeName>
+        <location><geo>48.25 14.63333</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1932-08-19">19.08.1932</date>
+      <settlement key="pmb662">
+        <placeName type="pref">Baden bei Wien</placeName>
+        <location><geo>48.00543 16.23264</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
+  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -250,67 +310,16 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb24444">
-  <persName>
-      <forename>Johannes</forename>
-      <surname>Schober</surname>
-  </persName>
-  <birth>
-    <date when-iso="1874-11-14">14.11.1874</date>
-      <settlement key="pmb45193">
-        <placeName type="pref">Perg</placeName>
-        <location><geo>48.25 14.63333</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1932-08-19">19.08.1932</date>
-      <settlement key="pmb662">
-        <placeName type="pref">Baden bei Wien</placeName>
-        <location><geo>48.00543 16.23264</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
-  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
+</person></listPerson><listOrg><org xml:id="pmb53089">
+  <orgName>Polizeikommissariat Prater Ausstellungsstraße</orgName>
+  <desc type="entity_type">Polizeibehörde</desc>
+  <desc type="entity_type_id">1240</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb51545">
-  <persName>
-      <forename>Max</forename>
-      <surname>Babad</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51545/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51545</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49903</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb53090">
-  <persName>
-      <forename>?</forename>
-      <surname>[Polizeikommissär]</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="645">Polizeibeamter/Polizeibeamtin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53090/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53090</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb53089">Polizeikommissariat Prater Ausstellungsstraße</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb53085">
+</org><org xml:id="pmb53085">
   <orgName>Polizeiwachstelle Böcklinstraße</orgName>
   <desc type="entity_type">Polizeibehörde</desc>
   <desc type="entity_type_id">1240</desc>
@@ -322,15 +331,6 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53085/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53085</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb53089">
-  <orgName>Polizeikommissariat Prater Ausstellungsstraße</orgName>
-  <desc type="entity_type">Polizeibehörde</desc>
-  <desc type="entity_type_id">1240</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-070-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-068-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000134-069-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000134-069-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-068-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000134-070-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,7 +115,19 @@
             <rs type="institution" ref="#pmb65379">Hartleben</rs> 1873<lb xml:id="uuid_7d5222fa-cd38-4033-91ff-5078a918ef28"/><hi rend="underlined">schliarf’n</hi> – sich kriechend in einen engen Raum begeben;<lb xml:id="uuid_647a5e93-751f-4b2c-947e-bf16a8b190c9"/>sich um die Gunst von Jemand
             bewerben. Z.B. Der N. möchd’<lb xml:id="uuid_df69a306-05da-4ba4-b57b-b586cf4571d8"/>unsern Herrn ordentli’ in Hintern schliarf’n (d.h. sich bei<lb xml:id="uuid_e32cd158-557e-42dc-8324-23cf46b9596d"/>ihm einschmeicheln).</p>
       </body>
-   <back><listPerson><person xml:id="pmb51846">
+   <back><listPerson><person xml:id="pmb65376">
+  <persName>
+      <forename>Franz Seraph</forename>
+      <surname>Hügel</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="213">Lexikograf/Lexikografin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65376/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb65376</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51846">
   <persName>
       <forename>Daniel</forename>
       <surname>Sanders</surname>
@@ -132,18 +144,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51846/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51846</idno>
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q11776563</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb65376">
-  <persName>
-      <forename>Franz Seraph</forename>
-      <surname>Hügel</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="213">Lexikograf/Lexikografin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65376/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb65376</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000034-015-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000034-013-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000034-014-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000034-014-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000034-013-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000034-015-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>34.14 Berufungsausführung von Anton Kuh</title>
-                <editor ref="#pmbIL">Isabel Langkabel</editor>
+                <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -311,7 +311,24 @@
             <p xml:id="uuid_7ff03082-3d06-4ae8-9fef-205d8bf1e282">
                 <lb xml:id="uuid_6e1f4052-cb66-4829-9727-d624e4d8e007"/><rs ref="#pmb8363" type="person">Anton Kuh</rs> – </p>
         </body>
-    <back><listPlace><place xml:id="pmb50">
+    <back><listPlace><place xml:id="pmb50695">
+  <placeName>Hotel Beatrix</placeName>
+  <desc type="entity_type">Hotel (K.HTL)</desc>
+  <desc type="entity_type_id">12</desc>
+<location type="located_in_place">
+  <placeName key="pmb50538">Beatrixgasse</placeName>
+  <geo>48.20302975123851 16.38497055511654</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50695/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50695</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>
@@ -384,24 +401,53 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
-</place><place xml:id="pmb50695">
-  <placeName>Hotel Beatrix</placeName>
-  <desc type="entity_type">Hotel (K.HTL)</desc>
-  <desc type="entity_type_id">12</desc>
-<location type="located_in_place">
-  <placeName key="pmb50538">Beatrixgasse</placeName>
-  <geo>48.20302975123851 16.38497055511654</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50695/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50695</idno>
+</place></listPlace><listPerson><person xml:id="pmb43658">
+  <persName>
+      <forename>Friedrich</forename>
+      <surname>Schnepp</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43658/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43658</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43658</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</person><person xml:id="pmb8363">
+  <persName>
+      <forename>Anton</forename>
+      <surname>Kuh</surname>
+  </persName>
+  <birth>
+    <date when-iso="1890-07-12">12.07.1890</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1941-01-18">18.01.1941</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17179</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119302616</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8363</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8363</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38353</idno>
+  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x002dda41</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88062</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -520,53 +566,17 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb8363">
-  <persName>
-      <forename>Anton</forename>
-      <surname>Kuh</surname>
-  </persName>
-  <birth>
-    <date when-iso="1890-07-12">12.07.1890</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1941-01-18">18.01.1941</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17179</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119302616</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8363</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb8363</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38353</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x002dda41</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88062</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb43658">
-  <persName>
-      <forename>Friedrich</forename>
-      <surname>Schnepp</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43658/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43658</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43658</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb52663">
+</person></listPerson><listBibl><bibl xml:id="pmb51907">
+  <title type="main">Der Affe Zarathustras</title>
+  <author key="person__8363" role="hat-geschaffen">Kuh, Anton</author>
+<date notBefore-iso="1925-01-01" when-iso="1925-07-02">1925</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51907/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51907</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Vortrag</note>
+</bibl><bibl xml:id="pmb52663">
   <title type="main">Der Affe Zarathustras (Karl Kraus). Eine Stegreifrede.</title>
   <title type="werk_bibliografische-angabe">Anton Kuh: Der Affe Zarathustras (Karl Kraus). Eine Stegreifrede. Gehalten am 25. Oktober 1925 im Wiener Konzerthaussaal (Stenographisches Protokoll), Wien 1925.</title>
   <author key="person__8363" role="hat-geschaffen">Kuh, Anton</author>
@@ -577,16 +587,6 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Text</note>
-</bibl><bibl xml:id="pmb51907">
-  <title type="main">Der Affe Zarathustras</title>
-  <author key="person__8363" role="hat-geschaffen">Kuh, Anton</author>
-<date notBefore-iso="1925-01-01" when-iso="1925-07-02">1925</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51907/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb51907</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Vortrag</note>
 </bibl></listBibl><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>

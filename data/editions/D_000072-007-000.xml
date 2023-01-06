@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-008-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-006-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-007-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-007-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-006-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-008-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -143,7 +143,23 @@
          </p><p xml:id="uuid_b553634a-0bfd-42ce-a2e2-2587b75fe268"><lb xml:id="uuid_bff74ab5-fe3e-4103-9569-ad1a192c3a58"/>Ich bestätige den Rückerhalt von
             2 Manuskripten<lb xml:id="uuid_8de14737-d0c4-482f-8421-17dc161ade2e"/>27/V 1926 <rs type="person" ref="#pmb51614">Hanslöwe</rs></p>
       </body>
-   <back><listPlace><place xml:id="pmb70">
+   <back><listPlace><place xml:id="pmb65565">
+  <placeName>Bäuerlegasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.2305591 16.3758819</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb70">XX., Brigittenau</placeName>
+  <geo>48.23451 16.37409</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65565/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65565</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb70">
   <placeName>XX., Brigittenau</placeName>
   <desc type="entity_type">Bezirk (A.BZK)</desc>
   <desc type="entity_type_id">25</desc>
@@ -200,22 +216,6 @@
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb65565">
-  <placeName>Bäuerlegasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.2305591 16.3758819</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb70">XX., Brigittenau</placeName>
-  <geo>48.23451 16.37409</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65565/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65565</idno>
-<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </place></listPlace><listPerson><person xml:id="pmb11988">
@@ -315,6 +315,30 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
+</person><person xml:id="pmb51614">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Loewe</surname>
+  </persName>
+  <birth>
+    <date when-iso="1897-02-23">23.02.1897</date>
+      <settlement key="pmb75">
+        <placeName type="pref">Hinterbrühl</placeName>
+        <location><geo>48.08611 16.24809</geo></location>
+      </settlement>
+  </birth>  
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb65574">Mesogeios</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </person><person xml:id="pmb20707">
   <persName>
       <forename>Richard</forename>
@@ -357,30 +381,6 @@
 </affiliation>
 <listBibl>
     <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51614">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Loewe</surname>
-  </persName>
-  <birth>
-    <date when-iso="1897-02-23">23.02.1897</date>
-      <settlement key="pmb75">
-        <placeName type="pref">Hinterbrühl</placeName>
-        <location><geo>48.08611 16.24809</geo></location>
-      </settlement>
-  </birth>  
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb65574">Mesogeios</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
-</affiliation>
-<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb43724">

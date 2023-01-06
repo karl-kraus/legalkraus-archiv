@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-005-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-003-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-004-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-003-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-005-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -181,22 +181,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb65493">
-  <placeName>Große Sperlgasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.2179731 16.3782812</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb52">II., Leopoldstadt</placeName>
-  <geo>48.21667 16.4</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65493/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65493</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </place><place xml:id="pmb52">
   <placeName>II., Leopoldstadt</placeName>
   <placeName type="alternative-name">Wien,Leopoldstadt</placeName>
@@ -229,6 +213,22 @@
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb65493">
+  <placeName>Große Sperlgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.2179731 16.3782812</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52">II., Leopoldstadt</placeName>
+  <geo>48.21667 16.4</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65493/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65493</idno>
+<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </place></listPlace><listPerson><person xml:id="pmb11988">

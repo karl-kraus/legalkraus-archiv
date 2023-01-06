@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000029-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000029-011-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000029-012-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000029-012-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000029-011-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000029-013-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>29.12 Brief RA Ludwig Stadler an Samek</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -138,29 +138,7 @@
                     Hochachtung<lb xml:id="uuid_d1c154b5-f85e-4436-ba67-25acd12fc715"/><rs ref="#pmb38714" type="person">Dr. Stadler</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb39211">
-  <persName>
-      <forename>Ludwig</forename>
-      <surname>Münz</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-01-06">06.01.1889</date>
-  </birth>  
-  <death>
-    <date when-iso="1957-03-07">07.03.1957</date>
-  </death>
-  <sex value="male"/>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130121258</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39211</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39211</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41474</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19766262</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38714">
+   <back><listPerson><person xml:id="pmb38714">
   <persName>
       <forename>Viktor</forename>
       <surname>Stadler</surname>
@@ -270,6 +248,28 @@
   <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41475</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39211">
+  <persName>
+      <forename>Ludwig</forename>
+      <surname>Münz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-01-06">06.01.1889</date>
+  </birth>  
+  <death>
+    <date when-iso="1957-03-07">07.03.1957</date>
+  </death>
+  <sex value="male"/>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130121258</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39211</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39211</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41474</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19766262</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>

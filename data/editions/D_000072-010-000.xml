@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-011-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-009-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-010-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-009-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-011-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -125,7 +125,7 @@
    <text>
       <body>
          <pb xml:id="D_000072-010-000_p001" facs="#D_000072-010-000-facs001-l001-p001" n="1"/>
-         <lb xml:id="uuid_b6cff5a6-4253-4dfc-a013-faede1a306de"/>Wien, den 31. Juli 1926.<lb xml:id="uuid_3a809c3f-04e0-45e2-b13f-015d59006199"/>Herrn<lb xml:id="uuid_07899360-7717-4ed1-87f2-dd1886c6c44e"/>Karl Kraus<lb xml:id="uuid_174170bb-40d5-4fc4-a368-85c532e82394"/>Wien<p xml:id="uuid_6c933b95-8135-405e-a531-ef2c9a39ee43"><lb xml:id="uuid_ea4d4e38-e98d-450a-bb69-6a0241082690"/>Sehr geehrter <rs type="person" ref="#pmb11988">Herr</rs>!</p><p xml:id="uuid_baabf934-e659-4e6e-bdef-48f76048d95d"><lb xml:id="uuid_dfa2552d-ad5b-4de2-af90-0363ed94a3ce"/>Kurz vor dem Erscheinen des <rs type="work" subtype="fackel" ref="https://fackel.oeaw.ac.at/f/640,0U1">Januarheftes
+         <lb xml:id="uuid_b6cff5a6-4253-4dfc-a013-faede1a306de"/>Wien, den 31. Juli 1926.<lb xml:id="uuid_3a809c3f-04e0-45e2-b13f-015d59006199"/>Herrn<lb xml:id="uuid_07899360-7717-4ed1-87f2-dd1886c6c44e"/>Karl Kraus<lb xml:id="uuid_174170bb-40d5-4fc4-a368-85c532e82394"/>Wien<p xml:id="uuid_6c933b95-8135-405e-a531-ef2c9a39ee43"><lb xml:id="uuid_ea4d4e38-e98d-450a-bb69-6a0241082690"/>Sehr geehrter <rs type="person" ref="#pmb11988">Herr</rs>!</p><p xml:id="uuid_baabf934-e659-4e6e-bdef-48f76048d95d"><lb xml:id="uuid_dfa2552d-ad5b-4de2-af90-0363ed94a3ce"/>Kurz vor dem Erscheinen des <rs type="work" subtype="fackel" ref="#lk_fackel__101" corresp="https://fackel.oeaw.ac.at/f/640,0u1">Januarheftes
                1924</rs><lb xml:id="uuid_00bd8ac5-e597-4445-9f75-667d09cfd4df"/>empfing ich auf
             meinen ersten an Sie gerichteten<lb xml:id="uuid_c28ef8c9-a6f2-4060-a213-56b61c4e3292"/>Hilferuf ein <rs type="work" subtype="legal-doc" ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-001-000.xml">Schreiben</rs> des
                <rs type="institution" ref="#pmb43724">Verlages „Die Fackel“</rs>, in<lb xml:id="uuid_3fd949c2-ddf8-4354-90b6-30840b171a31"/>welchem mit mitgeteilt wurde, daß
@@ -232,7 +232,11 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</place></listPlace><listBibl><bibl xml:id="lk_fackel__101" corresp="https://fackel.oeaw.ac.at/f/640,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1924-01-01">Januar 1924</date><num type="volume">Jg. 25</num><num type="issue">Nr. 640–648</num><ref target="https://fackel.oeaw.ac.at/f/640,0u1">196.83 Brief Samek an RA Felix Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/640,0u1">72.10 Brief Hans Loewe an
+                  Kraus|D_000072-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/640,0u1">196.84 Äußerung des Privatklägers zum Schriftsatz der Angeklagten vom 18. Februar
+                  1936|D_000196-084-000.xml</ref></bibl>
+            </listBibl><listPerson><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>

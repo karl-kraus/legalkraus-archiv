@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-001-001.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000121-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000121-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-001-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>121.2 Privatanklage von Karl Kraus gegen Arbeiter-Zeitung (verantw. Red. Otto Leichter) wegen §§ 23, 24 Pr.G.</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -153,7 +153,7 @@
                 mich betreffende Tatsachen unrichtig<lb xml:id="uuid_2d0825dc-7fd4-4229-8342-a3157a9959b5"/>mitgeteilt. </p>
          <p xml:id="uuid_767abb05-8580-4f27-aa6b-e93f48d3723a">
             <lb xml:id="uuid_bdd67857-3471-4f69-8f11-f0fb461216bc"/>1.) Dass ich in dem Vortrag
-                und Aufsatz „<rs ref="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbe<lb break="no" xml:id="uuid_18f46228-6338-450b-8bee-00aa8facfbc3"/>richt</rs>“ zum Ausdruck
+                und Aufsatz „<rs ref="#lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbe<lb break="no" xml:id="uuid_18f46228-6338-450b-8bee-00aa8facfbc3"/>richt</rs>“ zum Ausdruck
                 gebracht habe, es gehe nicht darum, <hi rend="spaced">was</hi>
             <lb xml:id="uuid_5616f303-5b7c-41ab-8af0-3f23e48dacad"/>gestrichen wurde. </p>
          <p xml:id="uuid_62e136b4-90d3-44af-9403-97cc540d5ddb">
@@ -181,7 +181,7 @@
                 einzuholen, eliminierte. Herr <rs ref="#pmb38984" type="person">Franz<lb xml:id="uuid_c81baf7e-3f30-4959-9640-a0cf0e1bec50"/>Leschnitzer</rs> hat deshalb vor dem <rs ref="#pmb36778" type="institution">Bezirksgericht für Handelssachen</rs>
                 <lb xml:id="uuid_2ecccd26-164d-4184-8220-66325b876888"/>die <rs ref="#pmb29644" type="institution">Arbeiter-Zeitung</rs> auf Veröffentlichung der eliminierten
                     Stelle<lb xml:id="uuid_c8330111-3785-4bb5-bada-1b4e2b0555b4"/>geklagt. Der <rs ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-001-001" type="work" subtype="legal-doc">Artikel der Arbeiter-Zeitung vom 11. März 1929</rs> be<lb break="no" xml:id="uuid_06013831-a3d9-426a-b9f4-a12f62730855"/>schäftigt sich
-                mit diesem Prozess, den ich bereits in dem Aufsatz<lb xml:id="uuid_122306cc-aae1-4dc1-ba64-05a1728b0928"/>„<rs ref="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>“ gleichfalls erwähnt und besprochen habe. </p>
+                mit diesem Prozess, den ich bereits in dem Aufsatz<lb xml:id="uuid_122306cc-aae1-4dc1-ba64-05a1728b0928"/>„<rs ref="#lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>“ gleichfalls erwähnt und besprochen habe. </p>
          <p xml:id="uuid_2654386e-1a0c-41a7-9874-260a7f8add53">
             <lb xml:id="uuid_adf07e94-76d1-4375-893e-5b8808cd9db8"/>Ich habe den <rs ref="#pmb38979" type="person">Beschuldigten</rs>
                 durch meinen Anwalt Dr.<lb xml:id="uuid_d4732c7d-0c71-4ada-a613-e6d7d277f9e2"/><rs ref="#pmb38909" type="person">Oskar Samek</rs>
@@ -206,7 +206,7 @@
             <p xml:id="uuid_1065b6ee-ac93-4b38-b458-d7067c5e36b7">
                     <lb xml:id="uuid_39722419-f291-440f-a599-4f753322fc89"/>Sie schreiben: ‚<quote source="#D_000121-001-001" xml:id="uuid_3213c3cd-4e6c-41ed-95e5-5d5166c6ba89">So hat es wenigstens <rs ref="#pmb11988" type="person">Karl
                             Kraus</rs> ge<lb break="no" xml:id="uuid_a3344567-c84f-4ddb-a822-e85213ec979c"/>sagt, der in dem
-                            ‚<rs ref="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>‘, mit dem wir uns ausein<lb break="no" xml:id="uuid_90c3202c-0e01-486b-88c2-5fb8a1200d15"/>andergesetzt haben, jene ‚<quote source="https://fackel.oeaw.ac.at/f/795,043" xml:id="uuid_79c1608b-f981-40e5-8f76-9789ec52559a">Kürzungen</quote>‘ in
+                            ‚<rs ref="#lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>‘, mit dem wir uns ausein<lb break="no" xml:id="uuid_90c3202c-0e01-486b-88c2-5fb8a1200d15"/>andergesetzt haben, jene ‚<quote source="https://fackel.oeaw.ac.at/f/795,043" xml:id="uuid_79c1608b-f981-40e5-8f76-9789ec52559a">Kürzungen</quote>‘ in
                         dem Aufsatz des <rs ref="#pmb38984" type="person">Herrn<lb xml:id="uuid_ac6747be-9e16-4539-b45e-25401aebc77d"/>Leschnitzer</rs>
                         auch als ‚<quote source="https://fackel.oeaw.ac.at/f/795,040" xml:id="uuid_218edb16-e708-4e85-81eb-d061ac3caa2c">Vergewaltigung eines
                             Mitarbeiters</quote>‘ be<lb break="no" xml:id="uuid_bef6489f-22f7-4624-bdbd-d1dda2294c7f"/>zeichnet hat,
@@ -225,7 +225,7 @@
                     gesagt hat, es sei Vergewaltigung<lb xml:id="uuid_45bd028d-c5d7-40a1-85d3-6ad1a7fdf676"/>und Lumperei, dass in
                     einem Manuskript des <rs ref="#pmb38984" type="person">Herrn Leschnitzer</rs>
                     <lb xml:id="uuid_02a86b89-ae41-4502-9f82-527d6810a5de"/>überhaupt gestrichen
-                    wurde. Wahr ist, dass <rs ref="#pmb11988" type="person">Karl Kraus</rs> in dem<lb xml:id="uuid_633ac2ee-fcdf-49bb-8711-db2f5238f188"/>‚<rs ref="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>‘ (S. 40) von der Vergewaltigung eines Mit<lb break="no" xml:id="uuid_f91f4be1-59fb-4977-996f-6be84cd61f49"/>arbeiters
+                    wurde. Wahr ist, dass <rs ref="#pmb11988" type="person">Karl Kraus</rs> in dem<lb xml:id="uuid_633ac2ee-fcdf-49bb-8711-db2f5238f188"/>‚<rs ref="#lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="work" subtype="fackel">Rechenschaftsbericht</rs>‘ (S. 40) von der Vergewaltigung eines Mit<lb break="no" xml:id="uuid_f91f4be1-59fb-4977-996f-6be84cd61f49"/>arbeiters
                     gesprochen hat, ‚<quote source="https://fackel.oeaw.ac.at/f/795,040" xml:id="uuid_fc4091e9-65f3-4462-8bfb-ce6dbf5375f6">an dessen Manuskript
                         hinterrücks die<lb xml:id="uuid_57cb602c-e187-4543-a9eb-8620d33cfb77"/>Tat
                         begangen wurde und zwar ausschliesslich aus dem Grund, weil<lb xml:id="uuid_a8cd0129-a3d9-407d-8cb4-e9fa2c699e5f"/>mein Name im Spiel
@@ -253,7 +253,7 @@
                     Manuskripten ‚<quote xml:id="uuid_4ee95ee4-5d22-41d7-b4e4-be1708005977" source="https://id.acdh.oeaw.ac.at/legalkraus/D_000121-001-001">Lichter<lb xml:id="uuid_75c65d31-4829-4965-a42a-ea43b9df375c"/>aufgesetzt zu
                         haben</quote>‘, was sicherlich viel einschneidendere Aende<lb break="no" xml:id="uuid_4725ba8d-726d-4fc8-b951-660bc07adc4e"/>rungen gewesen sind als
                     die, die wir dem <rs ref="#pmb38984" type="person">Leschnitzer</rs>-Manuskript<lb xml:id="uuid_0994c4e3-731f-49e0-af32-bcc915609314"/>widerfahren liessen; wir
-                    lesen just in der <rs ref="https://fackel.oeaw.ac.at/f/800,001" type="work" subtype="fackel">letzten ‚Fackel‘</rs> die<lb xml:id="uuid_fc098635-b9d7-4254-ae4e-89c0a8876e3f"/>Bemerkung: ‚<quote source="https://fackel.oeaw.ac.at/f/800,114" xml:id="uuid_c4e10996-4a9a-4555-8317-1f15df2692ff">Ganz wie der <hi rend="underlined">korrigierende Plan</hi> es vermöchte, <hi rend="underlined">den ich<lb xml:id="uuid_18680ba5-9c7f-4d2c-adc8-254b2806fe69"/>selbst so oft an
+                    lesen just in der <rs ref="#lk_fackel__165" corresp="https://fackel.oeaw.ac.at/f/800,001" type="work" subtype="fackel">letzten ‚Fackel‘</rs> die<lb xml:id="uuid_fc098635-b9d7-4254-ae4e-89c0a8876e3f"/>Bemerkung: ‚<quote source="https://fackel.oeaw.ac.at/f/800,114" xml:id="uuid_c4e10996-4a9a-4555-8317-1f15df2692ff">Ganz wie der <hi rend="underlined">korrigierende Plan</hi> es vermöchte, <hi rend="underlined">den ich<lb xml:id="uuid_18680ba5-9c7f-4d2c-adc8-254b2806fe69"/>selbst so oft an
                             fremde Manuskripte gewandt habe</hi></quote>‘ und auch die,<lb xml:id="uuid_4c465954-f449-4ebe-9267-eb28d613f2cf"/>‚<quote source="https://fackel.oeaw.ac.at/f/800,116" xml:id="uuid_dac8bb1c-8f51-48bb-9245-03384cdc2159">der schöpferische Anteil
                         des Striches kann grösser sein als der<lb xml:id="uuid_eb279fec-68b7-4893-9e59-b56217d8e67c"/>des Restes</quote>‘.
                     Die hier ausgesprochene und mit dem Zitat verknüpfte<lb xml:id="uuid_632363c2-9af2-4bb9-8cec-84261f78018b"/>Behauptung ist unwahr.
@@ -317,7 +317,70 @@
          <p xml:id="uuid_38616c5a-2bce-470c-bb2e-9cea3bc34a76">
             <lb xml:id="uuid_e90285a7-eb65-4e83-869a-7579ae4815de"/><rs ref="#pmb11988" type="person">Karl <hi rend="spaced">Kraus</hi></rs>. </p>
       </body>
-   <back><listOrg><org xml:id="pmb53508">
+   <back><listBibl><bibl xml:id="lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="fackel"><title level="a">Rechenschaftsbericht</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-12-01">Anfang Dezember 1928</date><num type="volume">Jg. 30</num><num type="issue">Nr. 795–799</num><biblScope from="1" to="51">1–51</biblScope><ref target="https://fackel.oeaw.ac.at/f/795,001">121.6
+                  Ausführung der Berufung|D_000121-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.2 Privatanklage von Karl Kraus
+                  gegen Arbeiter-Zeitung (verantw. Red. Otto Leichter) wegen §§ 23, 24
+                  Pr.G.|D_000121-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,021">196.84 Äußerung des Privatklägers zum
+                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.1 Brief Samek an Arbeiter-Zeitung
+                  (verantw. Red. Otto Leichter)|D_000121-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,030">101.22 Strafanzeige gegen unbekannte
+                  Täter|D_000101-022-002.xml</ref></bibl>
+            <bibl xml:id="pmb41202">
+  <title type="main">Arbeiter-Zeitung</title>
+  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
+  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
+<date>12.7.1881  – 31.10.1991</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__165" corresp="https://fackel.oeaw.ac.at/f/800,001" type="fackel"><title level="a">Im dreißigsten Kriegsjahr</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-02-01">Anfang Februar 1929</date><num type="volume">Jg. 30</num><num type="issue">Nr. 800–805</num><biblScope from="1" to="45">1–45</biblScope><ref target="https://fackel.oeaw.ac.at/f/800,034">122.2
+                  Brief Samek an Vossische Zeitung (verantw. Red. Carl
+                  Misch)|D_000122-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/800,034">122.1 Brief Samek an Vossische Zeitung (verantw. Red. Carl
+                  Misch)|D_000122-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/800,035">122.1 Brief Samek an Vossische Zeitung (verantw. Red. Carl
+                  Misch)|D_000122-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/800,001">121.2 Privatanklage von Karl Kraus gegen Arbeiter-Zeitung (verantw. Red. Otto
+                  Leichter) wegen §§ 23, 24 Pr.G.|D_000121-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/800,035">122.2 Brief Samek an Vossische
+                  Zeitung (verantw. Red. Carl Misch)|D_000122-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/800,001">121.1 Brief Samek an Arbeiter-Zeitung
+                  (verantw. Red. Otto Leichter)|D_000121-001-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb53506">
+  <title type="main">Arbeiter-Zeitung, 11.3.1929</title>
+  <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Nr. 70, 11.3.1929</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19290311&amp;zoom=33</title>
+<date>1929-03-11  – 1929-03-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53506/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53506</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl></listBibl><listOrg><org xml:id="pmb53508">
   <orgName>Verlag der Arbeiter-Zeitung Dr. Adler-Emmerling</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -349,6 +412,17 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36778</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36778</idno>
 <listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb38090">
+  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
+  <desc type="entity_type">Politische Vereinigung</desc>
+  <desc type="entity_type_id">1022</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </org><org xml:id="pmb29644">
@@ -428,17 +502,6 @@
 <note type="apis_dates">
 <date>1889-07-12  – 1991-10-31</date>
 </note>
-</org><org xml:id="pmb38090">
-  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
-  <desc type="entity_type">Politische Vereinigung</desc>
-  <desc type="entity_type_id">1022</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org><org xml:id="pmb50491">
   <orgName>Strafbezirksgericht I</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
@@ -472,87 +535,51 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listPerson><person xml:id="pmb2437">
-  <persName>
-      <forename>Stefan</forename>
-      <surname>George</surname>
-  </persName>
-  <birth>
-    <date when-iso="1868-07-17">17.07.1868</date>
-      <settlement key="pmb53808">
-        <placeName type="pref">Büdesheim</placeName>
-        <location><geo>49.94891 7.91346</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1933-12-04">04.12.1933</date>
-      <settlement key="pmb53810">
-        <placeName type="pref">Minusio</placeName>
-        <location><geo>46.17769 8.81473</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="116">Übersetzer/Übersetzerin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11853856X</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15394</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2437.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2437</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2437</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp53580</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=G#DWpers0076</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q57187</idno>
+</org></listOrg><listPlace><place xml:id="pmb46201">
+  <placeName>Rechte Wienzeile</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Ufergasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.193611 16.354444</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb62">XII., Meidling</placeName>
+  <geo>48.17192 16.32586</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb54">IV., Wieden</placeName>
+  <geo>48.19198 16.36714</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb55">V., Margareten</placeName>
+  <geo>48.18646 16.35491</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46201/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb46201</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q14524511</idno>
 <listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38979">
+</place></listPlace><listPerson><person xml:id="pmb38979">
   <persName>
       <forename>Otto</forename>
       <surname>Leichter</surname>
@@ -606,48 +633,50 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38984">
+</person><person xml:id="pmb38909">
   <persName>
-      <forename>Franz</forename>
-      <surname>Leschnitzer</surname>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
   </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
   <birth>
-    <date when-iso="1905-02-12">12.02.1905</date>
-      <settlement key="pmb44282">
-        <placeName type="pref">Poznan</placeName>
-        <location><geo>52.40692 16.92993</geo></location>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1967-05-16">16.05.1967</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <occupation key="385">Pazifist/Pazifistin</occupation>
-  <occupation key="1275">Lyriker/Lyrikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38984/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38984</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38984</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43532</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116948272</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19059904</idno>
-<affiliation when-iso="1925-01-01">
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
     <term key="1153">in Bezug zu</term>
-    <orgName key="pmb29348">Die Schaubühne / Die Weltbühne</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29348.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29348</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29348</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29348</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512687</idno>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">
   <persName>
@@ -746,94 +775,83 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb46201">
-  <placeName>Rechte Wienzeile</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Ufergasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.193611 16.354444</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb62">XII., Meidling</placeName>
-  <geo>48.17192 16.32586</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb54">IV., Wieden</placeName>
-  <geo>48.19198 16.36714</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb55">V., Margareten</placeName>
-  <geo>48.18646 16.35491</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46201/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb46201</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q14524511</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+</person><person xml:id="pmb38984">
+  <persName>
+      <forename>Franz</forename>
+      <surname>Leschnitzer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1905-02-12">12.02.1905</date>
+      <settlement key="pmb44282">
+        <placeName type="pref">Poznan</placeName>
+        <location><geo>52.40692 16.92993</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1967-05-16">16.05.1967</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="237">Publizist/Publizistin</occupation>
+  <occupation key="385">Pazifist/Pazifistin</occupation>
+  <occupation key="1275">Lyriker/Lyrikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38984/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38984</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38984</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43532</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116948272</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19059904</idno>
+<affiliation when-iso="1925-01-01">
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb29348">Die Schaubühne / Die Weltbühne</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29348.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29348</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29348</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29348</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q512687</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53506">
-  <title type="main">Arbeiter-Zeitung, 11.3.1929</title>
-  <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Nr. 70, 11.3.1929</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19290311&amp;zoom=33</title>
-<date>1929-03-11  – 1929-03-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53506/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53506</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41202">
-  <title type="main">Arbeiter-Zeitung</title>
-  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
-  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
-<date>12.7.1881  – 31.10.1991</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl></back></text>
+</person><person xml:id="pmb2437">
+  <persName>
+      <forename>Stefan</forename>
+      <surname>George</surname>
+  </persName>
+  <birth>
+    <date when-iso="1868-07-17">17.07.1868</date>
+      <settlement key="pmb53808">
+        <placeName type="pref">Büdesheim</placeName>
+        <location><geo>49.94891 7.91346</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1933-12-04">04.12.1933</date>
+      <settlement key="pmb53810">
+        <placeName type="pref">Minusio</placeName>
+        <location><geo>46.17769 8.81473</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11853856X</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15394</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2437.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2437</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb2437</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp53580</idno>
+  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=G#DWpers0076</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q57187</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson></back></text>
 </TEI>

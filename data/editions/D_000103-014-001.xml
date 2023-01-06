@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000103-015-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000103-014-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000103-014-001.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000103-014-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000103-014-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000103-015-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>103.14 Brief Justizrat Max Süssheim an RA Philipp Loewenfeld</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -147,7 +147,83 @@
             <lb xml:id="uuid_fdc34630-2d37-40ec-800e-e350cfb0a3c1"/>Hochachtungsvoll<lb xml:id="uuid_09557640-369d-4dba-ac9f-7db307f67987"/>erg. Kollege<lb xml:id="uuid_e4ffb32d-a180-4d37-be51-104378d2ce70"/>gez. <rs ref="#pmb38637" type="person">Dr. Süssheim</rs>
             <lb xml:id="uuid_59118a6c-3307-4186-bda5-6498560702ad"/>Justizrat. </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38637">
+  <persName>
+      <forename>Max</forename>
+      <surname>Süssheim</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Maximilian</persName>
+  <persName type="person_geburtsname_nachname">Süßheim</persName>
+  <birth>
+    <date when-iso="1876-07-20">20.07.1876</date>
+      <settlement key="pmb44172">
+        <placeName type="pref">Nürnberg</placeName>
+        <location><geo>49.45421 11.07752</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1933-03-01">01.03.1933</date>
+      <settlement key="pmb44172">
+        <placeName type="pref">Nürnberg</placeName>
+        <location><geo>49.45421 11.07752</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="440">Sammler/Sammlerin &gt;&gt; Kunstsammler/Kunstsammlerin</occupation>
+  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38637/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38637</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38637</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/134255542</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39003">
+  <persName>
+      <forename>Philipp</forename>
+      <surname>Loewenfeld</surname>
+  </persName>
+  <birth>
+    <date when-iso="1887-09-23">23.09.1887</date>
+      <settlement key="pmb45258">
+        <placeName type="pref">München</placeName>
+        <location><geo>48.13743 11.57549</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1963-11-03">03.11.1963</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39003/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39003</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39003</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117168904</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2086986</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43673">
+  <persName>
+      <forename>Oskar Franz</forename>
+      <surname>Schardt</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43673/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43673</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43673</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -244,52 +320,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38637">
-  <persName>
-      <forename>Max</forename>
-      <surname>Süssheim</surname>
-  </persName>
-  <persName type="person_geburtsname-vorname">Maximilian</persName>
-  <persName type="person_geburtsname_nachname">Süßheim</persName>
-  <birth>
-    <date when-iso="1876-07-20">20.07.1876</date>
-      <settlement key="pmb44172">
-        <placeName type="pref">Nürnberg</placeName>
-        <location><geo>49.45421 11.07752</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1933-03-01">01.03.1933</date>
-      <settlement key="pmb44172">
-        <placeName type="pref">Nürnberg</placeName>
-        <location><geo>49.45421 11.07752</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="440">Sammler/Sammlerin &gt;&gt; Kunstsammler/Kunstsammlerin</occupation>
-  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38637/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38637</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38637</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/134255542</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb43673">
-  <persName>
-      <forename>Oskar Franz</forename>
-      <surname>Schardt</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43673/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43673</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43673</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb53240">
   <persName>
       <surname>Rosenfelder</surname>
@@ -298,36 +328,6 @@
   <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53240/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53240</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39003">
-  <persName>
-      <forename>Philipp</forename>
-      <surname>Loewenfeld</surname>
-  </persName>
-  <birth>
-    <date when-iso="1887-09-23">23.09.1887</date>
-      <settlement key="pmb45258">
-        <placeName type="pref">München</placeName>
-        <location><geo>48.13743 11.57549</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1963-11-03">03.11.1963</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39003/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39003</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39003</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117168904</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2086986</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

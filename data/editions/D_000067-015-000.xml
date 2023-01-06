@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-016-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-014-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000067-015-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000067-015-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-014-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000067-016-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>67.15 Zeugenvernehmung Fritz Brügel</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -233,20 +233,20 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb52684">
-  <title type="main">Arbeit und Wirtschaft, 1.1.1927</title>
-<date>1927-01-01  – 1927-01-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52684/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52684</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb52676">
+</place></listPlace><listBibl><bibl xml:id="pmb52676">
   <title type="main">Arbeit und Wirtschaft</title>
   <author key="person__38346" role="hat-einen-beitrag-geschaffen-zu">Hannak, Jacques</author>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52676/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52676</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb52684">
+  <title type="main">Arbeit und Wirtschaft, 1.1.1927</title>
+<date>1927-01-01  – 1927-01-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52684/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52684</idno>
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
@@ -259,62 +259,7 @@
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-</bibl></listBibl><listPerson><person xml:id="pmb38005">
-  <persName>
-      <forename>Fritz</forename>
-      <surname>Brügel</surname>
-  </persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Fritz_Brügel</persName>
-  <birth>
-    <date when-iso="1897-02-13">13.02.1897</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1955-07-04">04.07.1955</date>
-      <settlement key="pmb224">
-        <placeName type="pref">London</placeName>
-        <location><geo>51.50853 -0.12574</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="247">Bibliothekar/Bibliothekarin</occupation>
-  <occupation key="267">Diplomat/Diplomatin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38005/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38005</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38005</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43909</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116742712</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1465855</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb43668">
-  <persName>
-      <forename>Ivan</forename>
-      <surname>Schima</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43668/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43668</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43668</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52766">
+</bibl></listBibl><listPerson><person xml:id="pmb52766">
   <persName>
       <forename>?</forename>
       <surname>Salaquarda</surname>
@@ -390,6 +335,61 @@
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb43668">
+  <persName>
+      <forename>Ivan</forename>
+      <surname>Schima</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43668/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43668</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43668</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36842">Landesgericht für Strafsachen</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36842/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36842</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36842</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38005">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Brügel</surname>
+  </persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Fritz_Brügel</persName>
+  <birth>
+    <date when-iso="1897-02-13">13.02.1897</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1955-07-04">04.07.1955</date>
+      <settlement key="pmb224">
+        <placeName type="pref">London</placeName>
+        <location><geo>51.50853 -0.12574</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="247">Bibliothekar/Bibliothekarin</occupation>
+  <occupation key="267">Diplomat/Diplomatin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38005/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38005</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38005</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43909</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116742712</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1465855</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36918">
   <orgName>Arbeiterkammer Wien</orgName>

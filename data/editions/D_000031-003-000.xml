@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000031-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000031-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000031-003-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000031-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000031-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000031-004-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>31.3 Brief Hans Liebstöckl an Kraus</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -149,7 +149,7 @@
             <lb xml:id="uuid_6e6d1118-73ef-4b4c-9dcc-23c18cf2a5f0"/><hi rend="underlined">Abschrift</hi>: </p>
          <p xml:id="uuid_08f140d4-ad3d-4512-87f3-9e0b5a2af8bb">
             <lb xml:id="uuid_13fb6123-f83a-44e3-ac59-46f0a01a1595"/><note type="intertext" source="https://fackel.oeaw.ac.at/f/706,072">Im Verlaufe eines Artikels, der den
-               Titel: „<rs ref="https://fackel.oeaw.ac.at/f/691,068" type="work" subtype="fackel">Ent<lb xml:id="uuid_b146cbbb-a2ed-4a26-8194-a4d9fe848fa5" break="no"/>larvt
+               Titel: „<rs ref="#lk_fackel__121" corresp="https://fackel.oeaw.ac.at/f/691,068" type="work" subtype="fackel">Ent<lb xml:id="uuid_b146cbbb-a2ed-4a26-8194-a4d9fe848fa5" break="no"/>larvt
                   durch Békessy</rs>“ trägt, geben Sie den Wortlaut eines Ausspruches<lb xml:id="uuid_85f4618c-3a8b-4a79-b560-e05af993bfbd"/>über die „<rs ref="#pmb50611" type="work" subtype="pmb">Stunde</rs>“ wieder, den ich angeblich vor irgend
                welchen Ohren<lb xml:id="uuid_c11afcea-83c7-40c4-b6f2-7a7526ce269e"/>getan haben
                soll.</note></p>
@@ -263,7 +263,66 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</place></listPlace><listPerson><person xml:id="pmb20424">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Liebstöckl</surname>
+  </persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Hans_Liebstöckl</persName>
+  <birth>
+    <date when-iso="1872-02-26">26.02.1872</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1934-04-24">24.04.1934</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17526</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20424</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb20424</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb29414">Neues Wiener Tagblatt</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29414.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29414</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29414</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29414</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb29720">Illustrirtes Wiener Extrablatt</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29720.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29720</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29720</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb37298">Die Bühne</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37298/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37298</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37298</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1211841</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -360,65 +419,6 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb20424">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Liebstöckl</surname>
-  </persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Hans_Liebstöckl</persName>
-  <birth>
-    <date when-iso="1872-02-26">26.02.1872</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1934-04-24">24.04.1934</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17526</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20424</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb20424</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb29414">Neues Wiener Tagblatt</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29414.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29414</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29414</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29414</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb29720">Illustrirtes Wiener Extrablatt</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29720.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29720</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29720</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37298">Die Bühne</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37298/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37298</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37298</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1211841</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </person><person xml:id="pmb37843">
   <persName>
       <forename>Imre</forename>
@@ -467,19 +467,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb50611">
-  <title type="main">Die Stunde</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
-  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
-<date>1923-02-02  – 1938-03-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
-</bibl></listBibl><listOrg><org xml:id="pmb37216">
+</person></listPerson><listOrg><org xml:id="pmb37216">
   <orgName>Kronos Verlag</orgName>
   <orgName type="person_namensvariante_nachname-komma-vorname">Kronos Verlags A.G.</orgName>
   <desc type="entity_type">Verlagskonzern</desc>
@@ -509,5 +497,28 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg></back></text>
+</org></listOrg><listBibl><bibl xml:id="pmb50611">
+  <title type="main">Die Stunde</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
+  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
+<date>1923-02-02  – 1938-03-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
+</bibl><bibl xml:id="lk_fackel__121" corresp="https://fackel.oeaw.ac.at/f/691,068" type="fackel"><title level="a">Entlarvt durch Bekessy</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1925-07-01">Juli 1925</date><num type="volume">Jg. 27</num><num type="issue">Nr. 691–696</num><biblScope from="68" to="128">68–128</biblScope><ref target="https://fackel.oeaw.ac.at/f/691,068">31.3 Brief
+                  Hans Liebstöckl an Kraus|D_000031-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,113">33.3 Ehrenbeleidigungsklage von
+                  Stefan Padajaunig und Rudolf Reuterer (Verteidiger) gegen Karl Kraus
+                  (Strafbezirksgericht I Wien, G.Z. U VI 1304/25)|D_000033-003-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.10 Strafantrag Karl Kraus gegen
+                  Hans Liebstöckl wegen Ehrenkränkung (Bezirkspolizeikommisariat
+                  Alsergrund)|D_000031-010-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.4 Berichtigungstext Hans
+                  Liebstöckls|D_000031-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,068">31.6 Brief RA Adalbert Trompeteur an
+                  Samek|D_000031-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,112">31.4 Berichtigungstext Hans Liebstöckls|D_000031-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/691,112">31.10 Strafantrag Karl Kraus gegen
+                  Hans Liebstöckl wegen Ehrenkränkung (Bezirkspolizeikommisariat
+                  Alsergrund)|D_000031-010-000.xml</ref></bibl>
+            </listBibl></back></text>
 </TEI>

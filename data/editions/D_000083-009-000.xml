@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000083-010-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000083-008-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000083-009-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000083-009-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000083-008-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000083-010-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>83.9 Brief Samek an Hamburger Fremdenblatt</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -145,9 +145,9 @@
             Pressgesetzes einsende: </p>
          <p xml:id="uuid_5553ad77-5f47-4786-a05c-ed78f67540c8">
             <lb xml:id="uuid_f1b2ab03-ae18-4215-b50f-dc05df4b1c81"/>„Die in den <rs ref="#pmb53862" type="work" subtype="pmb">Nummern 93</rs> und <rs ref="#pmb53866" type="work" subtype="pmb">94</rs>, Jahrgang 1927 erschienene<lb xml:id="uuid_33b17967-753f-4a3d-bf8f-039e60cc12cd"/>novellistische Arbeit von <rs ref="#pmb39233" type="person">Willy <hi rend="spaced">Reese</hi></rs> ‚<rs ref="#pmb53868" type="work" subtype="pmb">Opfer der Berühmtheit</rs>‘<lb xml:id="uuid_53345a09-9c7f-43ae-a8cf-cf2e046bc00f"/>hat sich nachträglich als eine
-            fast wörtliche Entlehnung der Satire<lb xml:id="uuid_c22ccd19-859c-46f1-9ede-e5e9b7dbd970"/>‚<rs ref="https://fackel.oeaw.ac.at/f/305,057" type="work" subtype="fackel">Der
+            fast wörtliche Entlehnung der Satire<lb xml:id="uuid_c22ccd19-859c-46f1-9ede-e5e9b7dbd970"/>‚<rs ref="#lk_fackel__14" corresp="https://fackel.oeaw.ac.at/f/305,057" type="work" subtype="fackel">Der
                Biberpelz</rs>‘ von <rs ref="#pmb11988" type="person">Karl Kraus</rs> (erschienen in der
-               ‚<rs ref="https://fackel.oeaw.ac.at/f/305,0u1" type="work" subtype="fackel">Fackel</rs>‘ und im<lb xml:id="uuid_bd71b158-a31e-40ec-aa68-5b75c718dd52"/>Buch ‚<rs ref="#pmb53915" type="work" subtype="pmb">Die chinesische Mauer</rs>‘) herausgestellt“. </p>
+               ‚<rs ref="#lk_fackel__13" corresp="https://fackel.oeaw.ac.at/f/305,0u1" type="work" subtype="fackel">Fackel</rs>‘ und im<lb xml:id="uuid_bd71b158-a31e-40ec-aa68-5b75c718dd52"/>Buch ‚<rs ref="#pmb53915" type="work" subtype="pmb">Die chinesische Mauer</rs>‘) herausgestellt“. </p>
          <p xml:id="uuid_f6f7148e-e909-4a7f-9608-284742ac7dce">
             <lb xml:id="uuid_3527fc24-90bc-4b51-9d12-7c60c0c8dd0c"/>Ich ersuche Sie ferner um
                 freundliche Zusen<lb break="no" xml:id="uuid_d49e3878-2a59-4c03-a85a-f7a1613f0c44"/>dung eines Belegexemplars der Nummer, in der diese Feststellung er<lb break="no" xml:id="uuid_ae6ab977-35ec-4c3e-95d5-a46df2553cfe"/>scheint. </p>
@@ -160,7 +160,105 @@
             <lb xml:id="uuid_b5932913-6ecf-4d51-8d14-53c0435bfcc0"/><note resp="law-firm" type="paratext">Betr. <rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb37344" type="institution">Hamburger-Fremdenblatt</rs>
                <lb xml:id="uuid_5cdd5949-937f-4114-97d4-e79a52714a12"/>exp. am 10.4.1928.</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listBibl><bibl xml:id="lk_fackel__14" corresp="https://fackel.oeaw.ac.at/f/305,057" type="fackel"><title level="a">Der Biberpelz</title><title level="s">Die Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1910-07-21">21. Juli 1910</date><num type="volume">Jg. 12</num><num type="issue">Nr. 305–306</num><biblScope from="57" to="63">57–63</biblScope><ref target="https://fackel.oeaw.ac.at/f/305,057">83.4 Konzept als Vorschlag für die
+                  Antwort an das Hamburger Fremdenblatt|D_000083-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,057">83.2 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,057">83.6 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,057">83.8 Honorarbeleg des Hamburger
+                  Fremdenblatt für Kraus|D_000083-008-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,057">83.5 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,057">83.9 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-009-000.xml</ref></bibl>
+            <bibl xml:id="pmb53868">
+  <title type="main">Opfer der Berühmtheit</title>
+  <author key="person__39233" role="hat-geschaffen">Reese, Wilhelm Friedrich Karl</author>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date>1927-04-04  – 1927-04-05</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53868/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53868</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb53915">
+  <title type="main">Die chinesische Mauer</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53915/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53915</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Buchausgabe</note>
+</bibl><bibl xml:id="pmb53866">
+  <title type="main">Hamburger Fremdenblatt, 5.4.1927</title>
+  <title type="werk_bibliografische-angabe">Hamburger Fremdenblatt, Nr. 94, 5.4.1927</title>
+<date>1927-04-05  – 1927-04-05</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53866/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53866</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb53862">
+  <title type="main">Hamburger Fremdenblatt, 4.4.1927</title>
+  <title type="werk_bibliografische-angabe">Hamburger Fremdenblatt, Nr. 93, 4.4.1927</title>
+<date>1927-04-04  – 1927-04-04</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53862/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53862</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__13" corresp="https://fackel.oeaw.ac.at/f/305,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1910-07-20">20. Juli 1910</date><num type="volume">Jg. 12</num><num type="issue">Nr. 305–306</num><ref target="https://fackel.oeaw.ac.at/f/305,0u1">83.2 Brief Samek an Hamburger Fremdenblatt|D_000083-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,0u1">83.9 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-009-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,0u1">83.5 Brief Samek an Hamburger
+                  Fremdenblatt|D_000083-005-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/305,0u1">83.4 Konzept als Vorschlag für die
+                  Antwort an das Hamburger Fremdenblatt|D_000083-004-000.xml</ref></bibl>
+            </listBibl><listPerson><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -281,93 +379,32 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
+</person></listPerson><listOrg><org xml:id="pmb37344">
+  <orgName>Hamburger Fremdenblatt</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
+<location type="located_in_place">
+  <placeName key="pmb506">Hamburg</placeName>
+  <geo>53.57532 10.01534</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb506.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/506</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4023118-5</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2911298/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37344/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37344</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37344</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1573010</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53868">
-  <title type="main">Opfer der Berühmtheit</title>
-  <author key="person__39233" role="hat-geschaffen">Reese, Wilhelm Friedrich Karl</author>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date>1927-04-04  – 1927-04-05</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53868/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53868</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb53866">
-  <title type="main">Hamburger Fremdenblatt, 5.4.1927</title>
-  <title type="werk_bibliografische-angabe">Hamburger Fremdenblatt, Nr. 94, 5.4.1927</title>
-<date>1927-04-05  – 1927-04-05</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53866/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53866</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb53862">
-  <title type="main">Hamburger Fremdenblatt, 4.4.1927</title>
-  <title type="werk_bibliografische-angabe">Hamburger Fremdenblatt, Nr. 93, 4.4.1927</title>
-<date>1927-04-04  – 1927-04-04</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53862/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53862</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb53915">
-  <title type="main">Die chinesische Mauer</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1914-01-01" when-iso="1914-07-02">1914</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53915/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53915</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Buchausgabe</note>
-</bibl></listBibl><listPlace><place xml:id="pmb506">
+</org></listOrg><listPlace><place xml:id="pmb506">
   <placeName>Hamburg</placeName>
   <placeName type="legacy-name-merge">Hamburg</placeName>
   <placeName type="alternative-name">Hamburg</placeName>
@@ -431,30 +468,5 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb37344">
-  <orgName>Hamburger Fremdenblatt</orgName>
-  <desc type="entity_type">Zeitungsredaktion</desc>
-  <desc type="entity_type_id">1039</desc>
-<location type="located_in_place">
-  <placeName key="pmb506">Hamburg</placeName>
-  <geo>53.57532 10.01534</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb506.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/506</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4023118-5</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2911298/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37344/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37344</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37344</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1573010</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</place></listPlace></back></text>
 </TEI>

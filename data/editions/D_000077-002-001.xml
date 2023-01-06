@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000077-002-001.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000077-002-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-003-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>77.2 Liste mit Erscheinungsdatum der Bilder</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -114,7 +114,56 @@
                (Ein<lb xml:id="uuid_ad61bbe5-9edd-4008-b403-7f8403d059c0"/>Wettbewerb der <rs ref="#pmb60418" type="institution">Fanamet Filmgesellschaft</rs>
             <lb xml:id="uuid_887d6bdd-5d4c-49f7-a453-e46b5362bebb"/>für die Leser der <rs ref="#pmb50611" type="work" subtype="pmb">Stunde</rs>. (Ein langer <rs type="work" subtype="pmb">Artikel</rs>) </p>
       </body>
-   <back><listBibl><bibl xml:id="pmb60417">
+   <back><listPerson><person xml:id="pmb60419">
+  <persName>
+      <forename>Lu</forename>
+      <surname>Moreau</surname>
+  </persName>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60419/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60419</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb60416">
+  <persName>
+      <forename>Mae</forename>
+      <surname>Murray</surname>
+  </persName>
+  <birth>
+    <date when-iso="1885-05-10">1885-05-10</date>
+  </birth>  
+  <death>
+    <date when-iso="1965-03-23">1965-03-23</date>
+  </death>
+  <sex value="female"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="190">Tänzer/Tänzerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60416/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60416</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q271523</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb60420">
+  <persName>
+      <forename>John</forename>
+      <surname>Gilbert</surname>
+  </persName>
+  <birth>
+    <date when-iso="1897-07-10">1897-07-10</date>
+  </birth>  
+  <death>
+    <date when-iso="1936-01-09">1936-01-09</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="396">Filmschauspieler/Filmschauspielerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60420/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60420</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="pmb60417">
   <title type="main">The Merry Widow</title>
   <title type="person_namensvariante_nachname-komma-vorname">Die lustige Witwe</title>
   <author key="person__10117" role="hat-geschaffen">Stroheim, Erich von</author>
@@ -150,54 +199,5 @@
 <note type="apis_dates">
 <date from-iso="1925-01-01" to-iso="1925-12-31">1925  – 1927</date>
 </note>
-</org></listOrg><listPerson><person xml:id="pmb60416">
-  <persName>
-      <forename>Mae</forename>
-      <surname>Murray</surname>
-  </persName>
-  <birth>
-    <date when-iso="1885-05-10">1885-05-10</date>
-  </birth>  
-  <death>
-    <date when-iso="1965-03-23">1965-03-23</date>
-  </death>
-  <sex value="female"/>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="190">Tänzer/Tänzerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60416/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60416</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q271523</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb60419">
-  <persName>
-      <forename>Lu</forename>
-      <surname>Moreau</surname>
-  </persName>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60419/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60419</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb60420">
-  <persName>
-      <forename>John</forename>
-      <surname>Gilbert</surname>
-  </persName>
-  <birth>
-    <date when-iso="1897-07-10">1897-07-10</date>
-  </birth>  
-  <death>
-    <date when-iso="1936-01-09">1936-01-09</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="396">Filmschauspieler/Filmschauspielerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60420/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60420</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson></back></text>
+</org></listOrg></back></text>
 </TEI>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000080-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000080-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000080-003-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000080-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000080-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000080-004-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>80.3 Brief Alfred Kraus an Karl Kraus</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -162,7 +162,63 @@
                Grusse<lb xml:id="uuid_164f617f-cf29-49b9-a5da-1ce09cd73dd0"/>Dein:<lb xml:id="uuid_5ce91f88-bbad-4c47-b45f-3aa175199073"/><rs ref="#pmb38624" type="person">Alfred</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listOrg><org xml:id="pmb37208">
+  <orgName>Jakob Kraus Vereinigte Papier- und Ultramarin Fabriken</orgName>
+  <desc type="entity_type">Papier- und Farbenunternehmen</desc>
+  <desc type="entity_type_id">1504</desc>
+<location type="located_in_place">
+  <placeName key="pmb37211">Politischer Bezirk Neunkirchen</placeName>
+  <geo>47.69424 15.93783</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2770710/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37211</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb37211</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37208/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37208</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37208</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1938-07-02" notAfter-iso="1938-12-31">1938</date>
+</note>
+</org></listOrg><listPerson><person xml:id="pmb38624">
+  <persName>
+      <forename>Alfred</forename>
+      <surname>Kraus</surname>
+  </persName>
+  <birth>
+    <date when-iso="1867-05-18">18.05.1867</date>
+      <settlement key="pmb41660">
+        <placeName type="pref">Jičín</placeName>
+        <location><geo>50.43723 15.35162</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1938-08-01">01.08.1938</date>
+      <settlement key="pmb662">
+        <placeName type="pref">Baden bei Wien</placeName>
+        <location><geo>48.00543 16.23264</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="152">Industrieller/Industrielle</occupation>
+  <occupation key="196">Chemiker/Chemikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38624/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38624</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38624</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38811</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37208">Jakob Kraus Vereinigte Papier- und Ultramarin Fabriken</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37208/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37208</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37208</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -287,63 +343,7 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38624">
-  <persName>
-      <forename>Alfred</forename>
-      <surname>Kraus</surname>
-  </persName>
-  <birth>
-    <date when-iso="1867-05-18">18.05.1867</date>
-      <settlement key="pmb41660">
-        <placeName type="pref">Jičín</placeName>
-        <location><geo>50.43723 15.35162</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1938-08-01">01.08.1938</date>
-      <settlement key="pmb662">
-        <placeName type="pref">Baden bei Wien</placeName>
-        <location><geo>48.00543 16.23264</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="152">Industrieller/Industrielle</occupation>
-  <occupation key="196">Chemiker/Chemikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38624/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38624</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38624</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38811</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37208">Jakob Kraus Vereinigte Papier- und Ultramarin Fabriken</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37208/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37208</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37208</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb37208">
-  <orgName>Jakob Kraus Vereinigte Papier- und Ultramarin Fabriken</orgName>
-  <desc type="entity_type">Papier- und Farbenunternehmen</desc>
-  <desc type="entity_type_id">1504</desc>
-<location type="located_in_place">
-  <placeName key="pmb37211">Politischer Bezirk Neunkirchen</placeName>
-  <geo>47.69424 15.93783</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2770710/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37211</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb37211</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37208/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37208</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37208</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date when-iso="1938-07-02" notAfter-iso="1938-12-31">1938</date>
-</note>
-</org></listOrg><listPlace><place xml:id="pmb51">
+</person></listPerson><listPlace><place xml:id="pmb51">
   <placeName>I., Innere Stadt</placeName>
   <placeName type="alternative-name">Inner city</placeName>
   <placeName type="alternative-name">Wien,Innere Stadt</placeName>

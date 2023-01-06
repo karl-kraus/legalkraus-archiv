@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000162-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000161-001-003.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000162-002-000.xml">
+<?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/odd/legalkraus_transcr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/acdh-oeaw/legalkraus-documentation/master/schematron/legalkraus_transcr.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000162-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000161-001-003.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000162-002-000.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>162.1 Strafanzeige gegen Herta Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der Staatsanwaltschaft beim Landesgericht für Strafsachen I Wien)</title>
-                <editor ref="#pmbIL">Isabel Langkabel</editor>
+                <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -200,39 +200,39 @@
                 angeblich angefertigten Uebertragung<lb xml:id="uuid_2386b3b6-4294-4783-812b-cfae0517c0d6"/>ihres Stenogrammes vor,
                 ferner eine <rs type="work">Abschrift</rs> einer solchen Ueber<lb xml:id="uuid_647efa8a-2f38-43c5-add0-93679eae369c" break="no"/>tragung des
                 Zeugen <rs type="person" ref="#pmb57711">Fritz <hi rend="spaced">Löw</hi>y</rs> und den
-                    <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Abdruck</rs> in der <rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>.<lb xml:id="uuid_bc4ff047-beb8-450d-9ffa-c3c77b564a0e"/>Ein einfacher Vergleich des
-                    <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Abdruckes</rs> in der <rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>
+                    <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Abdruck</rs> in der <rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>.<lb xml:id="uuid_bc4ff047-beb8-450d-9ffa-c3c77b564a0e"/>Ein einfacher Vergleich des
+                    <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Abdruckes</rs> in der <rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs>
                 mit der Er<lb xml:id="uuid_bc797b8f-d3b2-4bc3-9442-0519c800d9b1" break="no"/>klärung
                 des Zeugen <rs type="person" ref="#pmb57711">Fritz Löwy</rs> ergibt, dass die von
                 diesem Zeugen<lb xml:id="uuid_07505663-7cb6-4d3f-9a15-2814274f742b"/>mitgeschriebenen Stellen, bis auf zwei, wörtlich mit den in der<lb xml:id="uuid_555746e7-de08-4e34-9308-ecfdacd277a5"/><rs type="work" ref="#pmb41244" subtype="pmb">Fackel</rs> abgedruckten übereinstimmen und zwar entsprechen die
                     Stellen:<lb xml:id="uuid_2fb8581c-9b23-4144-bece-c9e97258e7d1"/>„<quote xml:id="uuid_bdcfaaf4-27ba-4129-a5c7-c198b1f8b0d6" source="https://fackel.oeaw.ac.at/f/811,076">… das gegen mich wirkende
                     Schlieferl- und Tinterltum …</quote>“ <pb xml:id="D_000162-001-000_p003" facs="#D_000162-001-000-facs001-l002-p003" n="3"/>
-                <lb xml:id="uuid_cd44441d-059b-42dc-a9bf-003505635547"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel
+                <lb xml:id="uuid_cd44441d-059b-42dc-a9bf-003505635547"/>der Stelle: <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel
                     August-Nummer</rs>
-                <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,076" subtype="fackel">Seite
+                <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,076" subtype="fackel">Seite
                     76</rs>, Zeile 9ff.;<lb xml:id="uuid_b9a2cd79-75f0-44a6-ac17-2b302ba6a41c"/>„<quote xml:id="uuid_3206dbed-1d75-4bd2-b3e7-a7f7d731e391" source="https://fackel.oeaw.ac.at/f/811,078">… der Musikkritiker des Organs, der
-                    Referent, der seit Jahren<lb xml:id="uuid_5620209d-16c2-4c47-9c32-1c4ae1b5cceb"/>den Kitsch der bürgerlichen Operette toleriert und bejaht …</quote>“<lb xml:id="uuid_2bbab295-1ba5-4e6f-858b-069920be5a21"/>der Stelle:<rs type="work" ref="https://fackel.oeaw.ac.at/f/811,078" subtype="fackel">Seite 78</rs>, Zeile
+                    Referent, der seit Jahren<lb xml:id="uuid_5620209d-16c2-4c47-9c32-1c4ae1b5cceb"/>den Kitsch der bürgerlichen Operette toleriert und bejaht …</quote>“<lb xml:id="uuid_2bbab295-1ba5-4e6f-858b-069920be5a21"/>der Stelle:<rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,078" subtype="fackel">Seite 78</rs>, Zeile
                     22ff.;<lb xml:id="uuid_8f5659af-24fc-49b8-9c47-d298f41d380b"/>„<quote xml:id="uuid_b979500b-16e3-4465-b218-bd78dc9b78bb" source="https://fackel.oeaw.ac.at/f/811,078">… unter dem Vorwand einer
                     Fachkritik …</quote>“<lb xml:id="uuid_abe80f2f-eae4-441c-8649-f38a121c72e0"/>der
-                Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,078" subtype="fackel">Seite 78</rs>, Zeile 29;<lb xml:id="uuid_a49a9e1a-b278-4041-802b-26d95e6d95ad"/>„<quote xml:id="uuid_2db7ae76-3769-490d-b48f-2f38597ffcd6" source="https://fackel.oeaw.ac.at/f/811,079">… die leichtfertige journalistische
-                    Mache wird abgelöst von<lb xml:id="uuid_e02b64fe-eb16-4c29-84c2-93d89fafa6eb"/>der planvollen …</quote>“<lb xml:id="uuid_66471eaa-2908-490b-88ef-25264d52bc4b"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,079" subtype="fackel">Seite 79</rs>, Zeile
+                Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,078" subtype="fackel">Seite 78</rs>, Zeile 29;<lb xml:id="uuid_a49a9e1a-b278-4041-802b-26d95e6d95ad"/>„<quote xml:id="uuid_2db7ae76-3769-490d-b48f-2f38597ffcd6" source="https://fackel.oeaw.ac.at/f/811,079">… die leichtfertige journalistische
+                    Mache wird abgelöst von<lb xml:id="uuid_e02b64fe-eb16-4c29-84c2-93d89fafa6eb"/>der planvollen …</quote>“<lb xml:id="uuid_66471eaa-2908-490b-88ef-25264d52bc4b"/>der Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,079" subtype="fackel">Seite 79</rs>, Zeile
                     1ff.;<lb xml:id="uuid_c534203a-8b0f-4d8c-90b5-910448e17003"/>„<quote xml:id="uuid_0161266b-a9a8-4d3f-9388-ce5b5909a7ef" source="https://fackel.oeaw.ac.at/f/811,079">… kümmerliches Fachwissen
                     …</quote>“<lb xml:id="uuid_8486e79d-e882-4e4a-ae06-19995ea92355"/>„<quote xml:id="uuid_5bca44d3-ca3f-4e4f-931c-8a7830fd6661" source="https://fackel.oeaw.ac.at/f/811,079">… bessere Schönbergschüler haben
-                    anders gesprochen …</quote>“<lb xml:id="uuid_b7da38ba-9d17-4461-a3e7-50c059d156cb"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,079" subtype="fackel">Seite 79</rs>, Zeile
+                    anders gesprochen …</quote>“<lb xml:id="uuid_b7da38ba-9d17-4461-a3e7-50c059d156cb"/>der Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,079" subtype="fackel">Seite 79</rs>, Zeile
                     14ff.;<lb xml:id="uuid_e80f5327-8004-4b29-a9f9-ed7dafc20de6"/>„<quote xml:id="uuid_c351bb05-5810-4aa2-bf78-05c42126cdab" source="https://fackel.oeaw.ac.at/f/811,080">… unter fachlichem Vorwand eine
-                    üble Gesinnung auszudrücken …</quote>“<lb xml:id="uuid_a5bc3f94-b52d-4e0f-9f7c-c92636515163"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite 80</rs>, Zeile
+                    üble Gesinnung auszudrücken …</quote>“<lb xml:id="uuid_a5bc3f94-b52d-4e0f-9f7c-c92636515163"/>der Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite 80</rs>, Zeile
                 1 und 2;<lb xml:id="uuid_b5e04559-beab-48cc-a8bf-0c2ff89af6d4"/>„<quote xml:id="uuid_848c4f7e-0567-41a3-ab3d-8a925f48796b" source="https://fackel.oeaw.ac.at/f/811,080">… dass ich in solcher Fachkritik
-                    eine Petite erkenne … Cor<lb xml:id="uuid_b50d61e0-a5ef-4eef-ab33-aec760ee9d90" break="no"/>repetite …</quote>“<lb xml:id="uuid_87902825-804a-4851-bed9-db71b01a3f92"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite 80</rs>, Zeile
+                    eine Petite erkenne … Cor<lb xml:id="uuid_b50d61e0-a5ef-4eef-ab33-aec760ee9d90" break="no"/>repetite …</quote>“<lb xml:id="uuid_87902825-804a-4851-bed9-db71b01a3f92"/>der Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite 80</rs>, Zeile
                 6 und 7;<lb xml:id="uuid_dfe4f432-a1bc-4887-98cd-9e4d806c4c58"/>„<quote xml:id="uuid_f9ca9297-2fa9-439b-8fcf-20cd91acf322" source="https://fackel.oeaw.ac.at/f/811,080">… der unappetitliche Plan, meine
                     Hingabe an seine Kunst herab<lb xml:id="uuid_a3dce7e4-1ec0-4f9a-a574-ae09baee3442" break="no"/>zuwürdigen
                     …</quote>“<lb xml:id="uuid_8692e2eb-7245-484f-bae1-8cfafd26072a"/>der Stelle:
-                    <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite
+                    <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,080" subtype="fackel">Seite
                     80</rs>, Zeile 20 und 21;<lb xml:id="uuid_d24b60d9-8e4b-424d-965e-c8ce55795d56"/>„<quote xml:id="uuid_3b3efc6e-8153-42e5-8de4-ef5cfa7b058e" source="https://fackel.oeaw.ac.at/f/811,080">… diese armen Teufel nennen sich
                     Fachmänner …</quote>“<lb xml:id="uuid_a652d9ee-a804-4e0a-9fa3-471a85946214"/>der
-                Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,081" subtype="fackel">Seite 81</rs>, Zeile 12 und 13;<lb xml:id="uuid_e50e7568-8f97-4391-b4d0-2794926d089f"/>„<quote xml:id="uuid_5f218973-466b-49ad-a616-4d9303a661b6" source="https://fackel.oeaw.ac.at/f/811,081">… jede Parole gegen mich nach
+                Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,081" subtype="fackel">Seite 81</rs>, Zeile 12 und 13;<lb xml:id="uuid_e50e7568-8f97-4391-b4d0-2794926d089f"/>„<quote xml:id="uuid_5f218973-466b-49ad-a616-4d9303a661b6" source="https://fackel.oeaw.ac.at/f/811,081">… jede Parole gegen mich nach
                     Partei- und Redaktionsbeschluss<lb xml:id="uuid_4eca241d-e2cd-4af4-8e03-f432fdb3d19e"/>gebrauchsfertig zu
                     machen …</quote>“<lb xml:id="uuid_ffdd3196-81e9-4259-8785-55115dc9f64b"/>der
-                Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,081" subtype="fackel">Seite 81</rs>, Zeile 5ff. v.u.;<lb xml:id="uuid_d4579b57-de7b-4375-93a5-010b0cdcd92d"/>„<quote xml:id="uuid_9634fe91-0db9-4a46-90dd-16de81a6c49a" source="https://fackel.oeaw.ac.at/f/811,081">… Schlieferlpraktiken …</quote>“<lb xml:id="uuid_c78cc944-f084-4bbc-aabb-2a7853f1a138"/>der Stelle: <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,084" subtype="fackel">Seite 84</rs>, Zeile
+                Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,081" subtype="fackel">Seite 81</rs>, Zeile 5ff. v.u.;<lb xml:id="uuid_d4579b57-de7b-4375-93a5-010b0cdcd92d"/>„<quote xml:id="uuid_9634fe91-0db9-4a46-90dd-16de81a6c49a" source="https://fackel.oeaw.ac.at/f/811,081">… Schlieferlpraktiken …</quote>“<lb xml:id="uuid_c78cc944-f084-4bbc-aabb-2a7853f1a138"/>der Stelle: <rs type="work" ref="#lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,084" subtype="fackel">Seite 84</rs>, Zeile
                 11 und 12; <pb xml:id="D_000162-001-000_p004" facs="#D_000162-001-000-facs001-l002-p004" n="4"/>
                 <lb xml:id="uuid_e5c76319-0583-4159-88a8-5a3e068d390b"/>Von den in der Erklärung des
                 Herrn <rs type="person" ref="#pmb57711">Fritz Löwy</rs>
@@ -250,7 +250,7 @@
                 <hi rend="underlined">und dem Stenogramm</hi><lb xml:id="uuid_f46df79b-2262-43ae-bd0f-6399c2a8ffa9"/><hi rend="underlined">des
                     Zeugen <rs type="person" ref="#pmb57711">Fritz Löwy</rs></hi> abweichen, das sich
                 in eben diesen Punkten<lb xml:id="uuid_8c3c93b5-0cbd-4308-971f-cae3d68ff41e"/>mit
-                dem Druck der <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs>
+                dem Druck der <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs>
                 <hi rend="underlined">vollständig deckt</hi>. </p>
             <p xml:id="uuid_4c37a4fa-8ed1-4922-a09e-14c82084ec8f">
                 <lb xml:id="uuid_6d3b7b4a-7391-4a23-b850-2b897c0a8fa7"/>Ich erstatte daher gegen
@@ -260,19 +260,19 @@
                 falscher Zeugenaussage. </p>
             <p xml:id="uuid_1d05e14e-d63c-496e-82a9-a0067e8ecc25">
                 <lb xml:id="uuid_0d85db96-4402-40ea-a465-bfd2780c1e79"/>Was den Zeugen <rs type="person" ref="#pmb57711">Fritz Löwy</rs> anlangt, so wäre<lb xml:id="uuid_418a6d87-81f7-429f-85e2-f7f1aa22ec51"/>wegen der beiden Punkte, in
-                welchen das Stenogramm dieses Zeugen<lb xml:id="uuid_9a6d4b11-f2aa-4e1f-bce2-d94f46a3ed15"/>vom Druck der <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs> abweicht, die Aussage gleichfalls zu überprü<lb xml:id="uuid_9edea853-6a00-4a20-a63e-673bb412929e" break="no"/>fen und zwar in
+                welchen das Stenogramm dieses Zeugen<lb xml:id="uuid_9a6d4b11-f2aa-4e1f-bce2-d94f46a3ed15"/>vom Druck der <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs> abweicht, die Aussage gleichfalls zu überprü<lb xml:id="uuid_9edea853-6a00-4a20-a63e-673bb412929e" break="no"/>fen und zwar in
                 der Richtung, ob es sich dabei um einen Hörfehler<lb xml:id="uuid_632e9968-581a-48a5-a192-6e086c7bc066"/>oder um eine absichtliche
                 Entstellung des Stenogramms handelt.<lb xml:id="uuid_ad3436b4-6c3a-48dd-a296-4a3752b8df00"/>Der Zeuge <rs type="person" ref="#pmb57711">Löwy</rs> wäre zu verhalten, dieses Stenogramm vorzulegen.<lb xml:id="uuid_8e12c768-397c-4b17-8960-7f6bed9783fa"/>Bei der Tatsache, dass der
                 Zeuge <rs type="person" ref="#pmb57711">Löwy</rs> angegeben hat, ich hätte<lb xml:id="uuid_922a3d8d-e356-43c0-8860-a938c729018b"/>von dem <rs type="person" ref="#pmb39325">Privatankläger</rs> als einem
                     „<quote xml:id="uuid_6d04e6fe-bf5c-45a1-8821-41e3dc81eb59" source="">kümmerlichen <rs type="person" ref="#pmb12743">Schönberg</rs>schüler</quote>“<lb xml:id="uuid_8a9f5cd3-054a-4378-b989-62998c100ebd"/>gesprochen, obwohl in seinem
-                Stenogramm in Übereinstimmung mit<lb xml:id="uuid_00edabfc-1374-4ae2-b1c4-493c83b1292f"/>dem Druck der <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs> die Worte „<quote xml:id="uuid_3fe6bcec-33f1-46c7-b967-f4b06e2d3076" source="https://fackel.oeaw.ac.at/f/811,079">kümmerliches Fachwissen</quote>“
+                Stenogramm in Übereinstimmung mit<lb xml:id="uuid_00edabfc-1374-4ae2-b1c4-493c83b1292f"/>dem Druck der <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Fackel</rs> die Worte „<quote xml:id="uuid_3fe6bcec-33f1-46c7-b967-f4b06e2d3076" source="https://fackel.oeaw.ac.at/f/811,079">kümmerliches Fachwissen</quote>“
                     und<lb xml:id="uuid_14f6fde6-9bfc-40e1-8d70-636b52f4c882"/>„<quote xml:id="uuid_f39c5aa7-52c4-4031-a271-47048c465ea4" source="https://fackel.oeaw.ac.at/f/811,079">bessere <rs type="person" ref="#pmb12743">Schönberg</rs>schüler haben anders gesprochen</quote>“
                     aufgenommen<lb xml:id="uuid_9f8b97ac-7e4a-4fb9-a51f-d3fd509d9916"/>waren, wäre
                 zu untersuchen, ob es sich dabei um eine Verwirrung<lb xml:id="uuid_c4abf356-b817-426d-bd67-68496eb7b5da"/>des <rs type="person" ref="#pmb57711">Zeugen</rs> durch die Fragestellung gehandelt hat oder ob ihm die
                     <pb xml:id="D_000162-001-000_p005" facs="#D_000162-001-000-facs001-l003-p005" n="5"/>
                 <lb xml:id="uuid_9fb4945b-bc92-42a8-9032-30db8894d7c7"/>Unrichtigkeit seiner Aussage
                 bewusst war. Zum Beweis für die buch<lb xml:id="uuid_e9dd4221-5c8c-45c6-a02f-9e93cf7336de" break="no"/>stäbliche
-                Uebereinstimmung des <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Druckes</rs> mit dem Manuskripte, sämtli<lb xml:id="uuid_dddde36d-148f-43cc-95d4-2c061b095887" break="no"/>chen Korrekturen
+                Uebereinstimmung des <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Druckes</rs> mit dem Manuskripte, sämtli<lb xml:id="uuid_dddde36d-148f-43cc-95d4-2c061b095887" break="no"/>chen Korrekturen
                 und dem gehaltenen Vortrage erbiete ich mich und<lb xml:id="uuid_2da7d78d-7eed-41f8-bbdf-d25c1e8c087c"/>führe meinen Anwalt Dr. <rs type="person" ref="#pmb38909">Oskar <hi rend="spaced">Same</hi>k</rs> als Zeugen, der Hörer der<lb xml:id="uuid_08343011-66ec-440d-b1f6-a28ae78386e0"/>Vorlesungen war, das
                 Manuskript gesehen hat und auch die Korrektur<lb xml:id="uuid_e08e3340-9659-45e1-a069-11ce59f2ddb5" break="no"/>bögen, welche
                 nicht die geringste sachliche Aenderung des gesproche<lb xml:id="uuid_275287d6-2b7b-4423-ae22-d14bce1534db" break="no"/>nen Textes
@@ -290,7 +290,7 @@
                 falsche Zeugenaussage ein Delikt vorstellt, das (in<lb xml:id="uuid_e88e2e68-e6fc-4545-9d9a-7e4057a1abb6"/>höherem Grade) das Interesse
                 der Justiz gerechtfertigt hätte. Tat<lb xml:id="uuid_6029835e-d70b-418a-a0c6-b0fa817c6556" break="no"/>sache ist aber,
                 dass ich, selbst wenn ich wegen des von mir gespro<lb xml:id="uuid_3d60d939-ec07-4a2c-bbc1-cb4355bdc1ab" break="no"/>chenen und durch
-                den <rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Druck</rs> und in der Verhandlung zugegebenen Textes<lb xml:id="uuid_99dfea55-b26f-4a00-9d6d-c469af35f38d"/>verurteilt worden wäre, die
+                den <rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">Druck</rs> und in der Verhandlung zugegebenen Textes<lb xml:id="uuid_99dfea55-b26f-4a00-9d6d-c469af35f38d"/>verurteilt worden wäre, die
                 Verurteilung auch erfolgt ist wegen et<lb xml:id="uuid_41bd2ecc-6858-4fd0-92dd-79241568b199" break="no"/>licher Stellen,
                 die erweislich niemals gesprochen wurden z.B. „<quote xml:id="uuid_186c5a0f-6ecc-4584-8e1a-c3e5d83e4b88" source="">küm<lb xml:id="uuid_8ebb6227-52b6-4cad-bd92-3f4ec7ce33c5" break="no"/>merlicher <rs type="person" ref="#pmb12743">Schönberg</rs>schüler</quote>“, eine Bezeichnung,
                 die kombiniert wurde<lb xml:id="uuid_836e6c13-6537-47c6-b8c1-753f2fdd8b13"/>aus den
@@ -313,22 +313,20 @@
                 <lb xml:id="uuid_13eea2e7-8b46-414b-95e4-ae10474c7e3a"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – Dr. <rs type="person" ref="#pmb39325">Pisk</rs></note>
             </p>
         </body>
-    <back><listPerson><person xml:id="pmb39325">
+    <back><listPerson><person xml:id="pmb12743">
   <persName>
-      <forename>Paul Amadeus</forename>
-      <surname>Pisk</surname>
+      <forename>Arnold</forename>
+      <surname>Schönberg</surname>
   </persName>
-  <persName type="alternative-name">Pisk, Paul A.</persName>
-  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Paul_Amadeus_Pisk</persName>
   <birth>
-    <date when-iso="1893-05-16">16.05.1893</date>
+    <date when-iso="1874-09-13">13.09.1874</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1990-01-12">12.01.1990</date>
+    <date when-iso="1951-07-14">14.07.1951</date>
       <settlement key="pmb37116">
         <placeName type="pref">Los Angeles</placeName>
         <location><geo>34.05223 -118.24368</geo></location>
@@ -336,13 +334,15 @@
   </death>
   <sex value="male"/>
   <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119068389</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39325</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39325</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51173</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85274</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19840</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118610023</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12743.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12743</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12743</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12743</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38451</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q154770</idno>
 <listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
@@ -416,38 +416,17 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb12743">
+</person><person xml:id="pmb57711">
   <persName>
-      <forename>Arnold</forename>
-      <surname>Schönberg</surname>
+      <forename>Fritz</forename>
+      <surname>Löwy</surname>
   </persName>
-  <birth>
-    <date when-iso="1874-09-13">13.09.1874</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1951-07-14">14.07.1951</date>
-      <settlement key="pmb37116">
-        <placeName type="pref">Los Angeles</placeName>
-        <location><geo>34.05223 -118.24368</geo></location>
-      </settlement>
-  </death>
   <sex value="male"/>
-  <occupation key="129">Komponist/Komponistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19840</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118610023</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12743.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12743</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12743</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb12743</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38451</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q154770</idno>
+  <occupation key="1472">Beamter/Beamte</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57711/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57711</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">
   <persName>
@@ -546,19 +525,168 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb57711">
+</person><person xml:id="pmb39325">
   <persName>
-      <forename>Fritz</forename>
-      <surname>Löwy</surname>
+      <forename>Paul Amadeus</forename>
+      <surname>Pisk</surname>
   </persName>
+  <persName type="alternative-name">Pisk, Paul A.</persName>
+  <persName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Paul_Amadeus_Pisk</persName>
+  <birth>
+    <date when-iso="1893-05-16">16.05.1893</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1990-01-12">12.01.1990</date>
+      <settlement key="pmb37116">
+        <placeName type="pref">Los Angeles</placeName>
+        <location><geo>34.05223 -118.24368</geo></location>
+      </settlement>
+  </death>
   <sex value="male"/>
-  <occupation key="1472">Beamter/Beamte</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57711/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb57711</idno>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119068389</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39325</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39325</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51173</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85274</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">162.4 Zeugenvernehmung Karl
+                  Kraus|D_000162-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">138.2 Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius
+                  Papp)|D_000138-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.39 Protokoll der öffentlichen Hauptverhandlung (Strafbezirksgericht I in
+                  Wien, G.Z. 4 U 114/30, Landesgerichtsrat Leopold
+                  Wenger)|D_000134-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.50 Protokoll der Berufungsverhandlung (Landesgericht für Strafsachen I Wien,
+                  G.Z. 15a Bl 132/31, Adolf Neuwirth)|D_000134-050-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">157.2 Brief Samek an Wiener
+                  Allgemeine Zeitung (verantw. Red. Karl Mautner)|D_000157-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.24 Prozessbericht Karl Kraus vor
+                  Gericht|D_000134-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">137.2 Brief Samek an Neues Wiener
+                  Journal (verantw. Red. Desiderius Papp)|D_000137-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.32 Ergänzende
+                  Sachverhaltsdarstellung des Privatanklägers mit Stellung von Anträgen
+                  (Strafbezirksgericht I Wien)|D_000134-032-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.23 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">190.2 Privatanklage Karl Kraus gegen
+                  Richard Smetana wegen Übertretung gegen die Sicherheit der
+                  Ehre|D_000190-002-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__173" corresp="https://fackel.oeaw.ac.at/f/811,075" type="fackel"><title level="a">Verklungen und vertan</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><biblScope from="75" to="93">75–93</biblScope><ref target="https://fackel.oeaw.ac.at/f/811,075">134.32
+                  Ergänzende Sachverhaltsdarstellung des Privatanklägers mit Stellung von Anträgen
+                  (Strafbezirksgericht I Wien)|D_000134-032-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,076">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.50 Protokoll der
+                  Berufungsverhandlung (Landesgericht für Strafsachen I Wien, G.Z. 15a Bl 132/31,
+                  Adolf Neuwirth)|D_000134-050-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,078">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,083">134.24 Prozessbericht Karl Kraus vor
+                  Gericht|D_000134-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,079">134.23 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,080">162.4 Zeugenvernehmung Karl
+                  Kraus|D_000162-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.4 Zeugenaussage von Fritz Löwy|D_000134-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,083">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,079">134.39 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,076">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,079">162.4 Zeugenvernehmung Karl Kraus|D_000162-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,084">134.22 Schriftsatz zur Vorbereitung
+                  der Hauptverhandlung (Samek an das Strafbezirksgericht I Wien, G.Z. 4 U
+                  1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">157.2 Brief Samek an Wiener
+                  Allgemeine Zeitung (verantw. Red. Karl Mautner)|D_000157-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,083">134.22 Schriftsatz zur Vorbereitung
+                  der Hauptverhandlung (Samek an das Strafbezirksgericht I Wien, G.Z. 4 U
+                  1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.51 Urteil des Landesgerichts in
+                  Strafsachen I. Wien (G.Z. 15a Bl 132/31, Vorsitz: Adolf
+                  Neuwirth)|D_000134-051-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,078">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,079">134.47 Ausführung der Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,080">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.23 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,084">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,080">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,081">162.1 Strafanzeige gegen Herta Gropper wegen falscher Zeugenaussage (eingebracht
+                  von Karl Kraus bei der Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.47 Ausführung der Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,083">134.23 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,079">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,075">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,084">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,081">134.47 Ausführung der Berufung|D_000134-047-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPlace><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb29644">
+</place><place xml:id="pmb312">
+  <placeName>Währingerstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.222471880213 16.345264113127</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb59">IX., Alsergrund</placeName>
+  <geo>48.22387 16.35641</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb68">XVIII., Währing</placeName>
+  <geo>48.23333 16.31667</geo>
+</location>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb312.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/312</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb312</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb312.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place></listPlace><listOrg><org xml:id="pmb29644">
   <orgName>Arbeiter-Zeitung</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Brünn)</orgName>
@@ -635,6 +763,39 @@
 <note type="apis_dates">
 <date>1889-07-12  – 1991-10-31</date>
 </note>
+</org><org xml:id="pmb50491">
+  <orgName>Strafbezirksgericht I</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
+  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50664">Schiffamtsgasse</placeName>
+  <geo>48.218669 16.373101</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </org><org xml:id="pmb36840">
   <orgName>Landesgericht für Strafsachen (Staatsanwaltschaft)</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
@@ -677,99 +838,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="pmb50491">
-  <orgName>Strafbezirksgericht I</orgName>
-  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
-  <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50664">Schiffamtsgasse</placeName>
-  <geo>48.218669 16.373101</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50664/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50664</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listPlace><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb312">
-  <placeName>Währingerstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.222471880213 16.345264113127</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb59">IX., Alsergrund</placeName>
-  <geo>48.22387 16.35641</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb68">XVIII., Währing</placeName>
-  <geo>48.23333 16.31667</geo>
-</location>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb312.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/312</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb312</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb312.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</org></listOrg></back></text>
 </TEI>

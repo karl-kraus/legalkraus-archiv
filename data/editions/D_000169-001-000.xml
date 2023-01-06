@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000169-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-018-001.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000169-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000169-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000168-018-001.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000169-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>169.1 Brief RA Phöbus Schärf an Verlag Die Fackel</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -144,7 +144,34 @@
             <lb xml:id="uuid_05bc3af8-77dc-4246-9700-e49d7177c25a"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs><lb xml:id="uuid_b737c456-2a20-4ec6-8b29-dcc4a3403b04"/>Legat <rs ref="#pmb43672" type="person">Schärf</rs></note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38900">
+  <persName>
+      <forename>Phöbus</forename>
+      <surname>Schärf</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-11-05">05.11.1889</date>
+      <settlement key="pmb38903">
+        <placeName type="pref">Bukowina Tatrzańska</placeName>
+        <location><geo>49.34302 20.10807</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1949-09-03">03.09.1949</date>
+      <settlement key="pmb60102">
+        <placeName type="pref">Sydney</placeName>
+        <location><geo>-33.86785 151.20732</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38900/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38900</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38900</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -240,33 +267,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38900">
-  <persName>
-      <forename>Phöbus</forename>
-      <surname>Schärf</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-11-05">05.11.1889</date>
-      <settlement key="pmb38903">
-        <placeName type="pref">Bukowina Tatrzańska</placeName>
-        <location><geo>49.34302 20.10807</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1949-09-03">03.09.1949</date>
-      <settlement key="pmb60102">
-        <placeName type="pref">Sydney</placeName>
-        <location><geo>-33.86785 151.20732</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38900/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38900</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38900</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb43672">
   <persName>

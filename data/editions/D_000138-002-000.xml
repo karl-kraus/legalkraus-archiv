@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000138-002-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000138-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000138-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000138-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000138-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000138-002-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>138.2 Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius Papp)</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -146,9 +146,9 @@
                   Knien liegen und ihn als Ret<lb xml:id="uuid_d6a827e7-1b53-4ffe-9b07-e65b5905e03c" break="no"/>ter des Vaterlandes preisen.</quote>“</p>
             <p xml:id="uuid_228d8ecf-521b-4695-9f9a-7b6bc85539d7">
                <lb xml:id="uuid_49a1dd85-8d79-4b3c-bfd9-32e48b047837"/>Es ist unwahr, daß <rs type="person" ref="#pmb11988">Karl Kraus</rs> nun vor <rs type="person" ref="#pmb24444">Schober</rs> auf den Knien liegt<lb xml:id="uuid_40427cb1-213c-4530-9270-8b7debf45c90"/>und ihn als Retter des
-               Vaterlandes preist. Wahr ist, daß er seit dem<lb xml:id="uuid_0467c4ea-3ad7-4018-b6ef-b040916248ef"/><rs type="work" ref="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">August-Heft der
-                  Fackel</rs> mit den Artikeln „<rs type="work" ref="https://fackel.oeaw.ac.at/f/811,001" subtype="fackel">Vom Zörgiebel</rs>“,
-                  „<rs type="work" ref="https://fackel.oeaw.ac.at/f/811,021" subtype="fackel">Pflicht</rs>“ und<lb xml:id="uuid_7f2eda84-dafa-4855-b22a-7f095766fabd"/>„<rs type="work" ref="https://fackel.oeaw.ac.at/f/811,143" subtype="fackel">Die
+               Vaterlandes preist. Wahr ist, daß er seit dem<lb xml:id="uuid_0467c4ea-3ad7-4018-b6ef-b040916248ef"/><rs type="work" ref="#lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" subtype="fackel">August-Heft der
+                  Fackel</rs> mit den Artikeln „<rs type="work" ref="#lk_fackel__171" corresp="https://fackel.oeaw.ac.at/f/811,001" subtype="fackel">Vom Zörgiebel</rs>“,
+                  „<rs type="work" ref="#lk_fackel__172" corresp="https://fackel.oeaw.ac.at/f/811,021" subtype="fackel">Pflicht</rs>“ und<lb xml:id="uuid_7f2eda84-dafa-4855-b22a-7f095766fabd"/>„<rs type="work" ref="#lk_fackel__174" corresp="https://fackel.oeaw.ac.at/f/811,143" subtype="fackel">Die
                   Unüberwindlichen</rs>“ mit keiner Äußerung über <rs type="person" ref="#pmb24444">Schober</rs> hervorgetreten<lb xml:id="uuid_b5b43bbd-8aaa-4f79-a0d1-84d6f8d78205"/>ist.</p>
          </note>
          <pb xml:id="D_000138-002-000_p002" facs="#D_000138-002-000-facs001-l002-p002" n="2"/>
@@ -156,48 +156,82 @@
             <lb xml:id="uuid_9ab0ad06-9e4a-47dd-936a-8d4ba05e365f"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="institution" ref="#pmb29320">Wr Journal</rs><lb xml:id="uuid_96267759-8d7c-437e-96db-082543730a74"/>20/9.29</note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb37781">
-  <persName>
-      <forename>Friedrich</forename>
-      <surname>Austerlitz</surname>
-  </persName>
-  <birth>
-    <date when-iso="1862-04-25">25.04.1862</date>
-      <settlement key="pmb37784">
-        <placeName type="pref">Vysoká Libeň</placeName>
-        <location><geo>50.3458 14.66767</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1931-07-05">05.07.1931</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37781/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37781</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37781</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29644">Arbeiter-Zeitung</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37261/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37262/</idno>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29644.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37261</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37262</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29644</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29644</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29644</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb36371">
+   <back><listBibl><bibl xml:id="lk_fackel__170" corresp="https://fackel.oeaw.ac.at/f/811,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">162.4 Zeugenvernehmung Karl
+                  Kraus|D_000162-004-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">138.2 Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius
+                  Papp)|D_000138-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.39 Protokoll der öffentlichen Hauptverhandlung (Strafbezirksgericht I in
+                  Wien, G.Z. 4 U 114/30, Landesgerichtsrat Leopold
+                  Wenger)|D_000134-039-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">162.1 Strafanzeige gegen Herta
+                  Gropper wegen falscher Zeugenaussage (eingebracht von Karl Kraus bei der
+                  Staatsanwaltschaft beim Landesgericht für Strafsachen I
+                  Wien)|D_000162-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.50 Protokoll der Berufungsverhandlung (Landesgericht für Strafsachen I Wien,
+                  G.Z. 15a Bl 132/31, Adolf Neuwirth)|D_000134-050-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">157.2 Brief Samek an Wiener
+                  Allgemeine Zeitung (verantw. Red. Karl Mautner)|D_000157-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.24 Prozessbericht Karl Kraus vor
+                  Gericht|D_000134-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">137.2 Brief Samek an Neues Wiener
+                  Journal (verantw. Red. Desiderius Papp)|D_000137-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.47 Ausführung der
+                  Berufung|D_000134-047-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.32 Ergänzende
+                  Sachverhaltsdarstellung des Privatanklägers mit Stellung von Anträgen
+                  (Strafbezirksgericht I Wien)|D_000134-032-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">134.23 Protokoll der öffentlichen
+                  Hauptverhandlung (Strafbezirksgericht I in Wien, G.Z. 4 U 114/30,
+                  Landesgerichtsrat Leopold Wenger)|D_000134-023-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,0u1">190.2 Privatanklage Karl Kraus gegen
+                  Richard Smetana wegen Übertretung gegen die Sicherheit der
+                  Ehre|D_000190-002-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__171" corresp="https://fackel.oeaw.ac.at/f/811,001" type="fackel"><title level="a">Vom Zörgiebel. Ein Kapitel vom guten
+                  Geschmack</title><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><biblScope from="1" to="20">1–20</biblScope><ref target="https://fackel.oeaw.ac.at/f/811,001">138.2 Brief Samek an Neues Wiener
+                  Journal (verantw. Red. Desiderius Papp)|D_000138-002-000.xml</ref></bibl>
+            <bibl xml:id="pmb53669">
+  <title type="main">Genossen unter sich! Erst „Arbeitermörder“ – jetzt „Retter der Sozialdemokratie“</title>
+  <title type="werk_bibliografische-angabe">Genossen unter sich! Erst »Arbeitermörder« – jetzt »Retter der Sozialdemokratie«, in: Neues Wiener Journal, Nr. 12861, 11.9.1929, S. 2</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19290911&amp;seite=2&amp;zoom=33</title>
+<date>1929-09-11  – 1929-09-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53669/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53669</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb53665">
+  <title type="main">Neues Wiener Journal, 11.9.1929</title>
+  <title type="werk_bibliografische-angabe">Neues Wiener Journal, Nr. 12861, 11.9.1929</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19290911&amp;zoom=33</title>
+<date>1929-09-11  – 1929-09-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53665/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53665</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="lk_fackel__172" corresp="https://fackel.oeaw.ac.at/f/811,021" type="fackel"><title level="a">Pflicht</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><biblScope from="21" to="29">21–29</biblScope><ref target="https://fackel.oeaw.ac.at/f/811,021">137.2
+                  Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius
+                  Papp)|D_000137-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,021">138.2 Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius
+                  Papp)|D_000138-002-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__174" corresp="https://fackel.oeaw.ac.at/f/811,143" type="fackel"><title level="a">Die Unüberwindlichen</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1929-08-01">Anfang August 1929</date><num type="volume">Jg. 31</num><num type="issue">Nr. 811–819</num><biblScope from="143" to="157">143–157</biblScope><ref target="https://fackel.oeaw.ac.at/f/811,143">125.164 Übertragung des Kurzschriftprotokolls vom 28. Dezember
+                  1933|D_000125-164-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/811,143">138.2 Brief Samek an Neues Wiener Journal (verantw. Red. Desiderius
+                  Papp)|D_000138-002-000.xml</ref></bibl>
+            <bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPerson><person xml:id="pmb36371">
   <persName>
       <forename>Desiderius</forename>
       <surname>Papp</surname>
@@ -235,6 +269,35 @@
 </affiliation>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb24444">
+  <persName>
+      <forename>Johannes</forename>
+      <surname>Schober</surname>
+  </persName>
+  <birth>
+    <date when-iso="1874-11-14">14.11.1874</date>
+      <settlement key="pmb45193">
+        <placeName type="pref">Perg</placeName>
+        <location><geo>48.25 14.63333</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1932-08-19">19.08.1932</date>
+      <settlement key="pmb662">
+        <placeName type="pref">Baden bei Wien</placeName>
+        <location><geo>48.00543 16.23264</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
+  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
+<listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb38909">
@@ -281,6 +344,65 @@
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb37942">
+  <persName>
+      <forename>Julius</forename>
+      <surname>Braunthal</surname>
+  </persName>
+  <birth>
+    <date when-iso="1891-06-05">05.06.1891</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1972-04-28">28.04.1972</date>
+      <settlement key="pmb50151">
+        <placeName type="pref">Teddington</placeName>
+        <location><geo>51.42233 -0.33053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="1271">Sozialdemokrat/Sozialdemokratin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37942/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37942</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37942</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47242</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118673629</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1470341</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29644">Arbeiter-Zeitung</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37261/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37262/</idno>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29644.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37261</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37262</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29644</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29644</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29644</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37384">Das kleine Blatt</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37384/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37384</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37384</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1169331</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb59968">Republikanischer Schutzbund</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59968/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb59968</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q683519</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">
   <persName>
@@ -379,63 +501,32 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb24444">
+</person><person xml:id="pmb37781">
   <persName>
-      <forename>Johannes</forename>
-      <surname>Schober</surname>
+      <forename>Friedrich</forename>
+      <surname>Austerlitz</surname>
   </persName>
   <birth>
-    <date when-iso="1874-11-14">14.11.1874</date>
-      <settlement key="pmb45193">
-        <placeName type="pref">Perg</placeName>
-        <location><geo>48.25 14.63333</geo></location>
+    <date when-iso="1862-04-25">25.04.1862</date>
+      <settlement key="pmb37784">
+        <placeName type="pref">Vysoká Libeň</placeName>
+        <location><geo>50.3458 14.66767</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1932-08-19">19.08.1932</date>
-      <settlement key="pmb662">
-        <placeName type="pref">Baden bei Wien</placeName>
-        <location><geo>48.00543 16.23264</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="1300">Politiker/Politikerin &gt;&gt; Bundeskanzler/Bundeskanzlerin</occupation>
-  <occupation key="1303">Polizeibeamter/Polizeibeamtin &gt;&gt; Polizeipräsident/Polizeipräsidentin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19835</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb24444</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb37942">
-  <persName>
-      <forename>Julius</forename>
-      <surname>Braunthal</surname>
-  </persName>
-  <birth>
-    <date when-iso="1891-06-05">05.06.1891</date>
+    <date when-iso="1931-07-05">05.07.1931</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1972-04-28">28.04.1972</date>
-      <settlement key="pmb50151">
-        <placeName type="pref">Teddington</placeName>
-        <location><geo>51.42233 -0.33053</geo></location>
-      </settlement>
   </death>
   <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
   <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="1271">Sozialdemokrat/Sozialdemokratin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37942/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37942</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37942</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47242</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118673629</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1470341</idno>
+  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37781/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37781</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37781</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb29644">Arbeiter-Zeitung</orgName>
@@ -448,67 +539,44 @@
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29644</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29644</idno>
 </affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37384">Das kleine Blatt</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37384/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37384</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37384</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1169331</idno>
-</affiliation>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb59968">Republikanischer Schutzbund</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59968/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb59968</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q683519</idno>
-</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53669">
-  <title type="main">Genossen unter sich! Erst „Arbeitermörder“ – jetzt „Retter der Sozialdemokratie“</title>
-  <title type="werk_bibliografische-angabe">Genossen unter sich! Erst »Arbeitermörder« – jetzt »Retter der Sozialdemokratie«, in: Neues Wiener Journal, Nr. 12861, 11.9.1929, S. 2</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19290911&amp;seite=2&amp;zoom=33</title>
-<date>1929-09-11  – 1929-09-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53669/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53669</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb53665">
-  <title type="main">Neues Wiener Journal, 11.9.1929</title>
-  <title type="werk_bibliografische-angabe">Neues Wiener Journal, Nr. 12861, 11.9.1929</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19290911&amp;zoom=33</title>
-<date>1929-09-11  – 1929-09-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53665/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53665</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listOrg><org xml:id="pmb29320">
+</person></listPerson><listPlace><place xml:id="pmb51">
+  <placeName>I., Innere Stadt</placeName>
+  <placeName type="alternative-name">Inner city</placeName>
+  <placeName type="alternative-name">Wien,Innere Stadt</placeName>
+  <placeName type="alternative-name">1. Wiener Gemeindebezirk</placeName>
+  <placeName type="legacy-name-merge">Wien-Innere Stadt</placeName>
+  <placeName type="legacy-name-merge">Inner city</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.20769 16.37049</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listOrg><org xml:id="pmb29320">
   <orgName>Neues Wiener Journal</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nwj_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -556,39 +624,5 @@
 <note type="apis_dates">
 <date from-iso="1893-01-01" to-iso="1893-12-31">1893  – 1939</date>
 </note>
-</org></listOrg><listPlace><place xml:id="pmb51">
-  <placeName>I., Innere Stadt</placeName>
-  <placeName type="alternative-name">Inner city</placeName>
-  <placeName type="alternative-name">Wien,Innere Stadt</placeName>
-  <placeName type="alternative-name">1. Wiener Gemeindebezirk</placeName>
-  <placeName type="legacy-name-merge">Wien-Innere Stadt</placeName>
-  <placeName type="legacy-name-merge">Inner city</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.20769 16.37049</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb41240">Österreich</placeName>
-  <geo>47.33333 13.33333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775259/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2775259/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</org></listOrg></back></text>
 </TEI>

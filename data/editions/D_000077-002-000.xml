@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-002-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-001-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000077-002-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000077-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-001-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-002-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>77.2 Brief E.F. Eisenprobst an Samek</title>
-            <editor ref="#pmbJK">Johannes Knüchel</editor>
+            <editor ref="https://orcid.org/0000-0002-7516-0821">Johannes Knüchel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -169,7 +169,83 @@
             <lb xml:id="uuid_db282ac7-7800-4c2d-8ee5-688b4c4b08d3"/><note hand="#D_000077-002-000-hand01">NB. Auf Wunsch steht Ihnen auch gerne die <rs ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000077-003-000.xml" type="work" subtype="legal-doc">Antwort<lb xml:id="uuid_9465ec11-2040-4336-a3bc-1ab210545acd"/>der <rs ref="#pmb52866" type="institution">Linzer Handelskammer</rs></rs> im Original zur<lb xml:id="uuid_9ffb8347-f5ed-4386-9db2-aa5b3ec62b30"/>Verfügung. </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb11988">
+   <back><listPerson><person xml:id="pmb38082">
+  <persName>
+      <forename>Egon Ferdinand</forename>
+      <surname>Eisenprobst</surname>
+  </persName>
+  <persName type="alternative-name">Schneider, Josef</persName>
+  <birth>
+    <date when-iso="1895-01-01">01.01.1895</date>
+  </birth>  
+  <death>
+    <date when-iso="1972-01-08">8.01.1972</date>
+      <settlement key="pmb521">
+        <placeName type="pref">Bad Gastein</placeName>
+        <location><geo>47.11547 13.13467</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1037078667</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38082</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38082</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q94922069</idno>
+<affiliation when-iso="1938-01-01">
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29686">Salzburger Volksblatt</orgName>
+    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29686.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29686</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Samek</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
+  <birth>
+    <date when-iso="1889-01-02">02.01.1889</date>
+      <settlement key="pmb65">
+        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
+        <location><geo>48.19625 16.32749</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1959-01-28">28.01.1959</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -266,95 +342,7 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb38082">
-  <persName>
-      <forename>Egon Ferdinand</forename>
-      <surname>Eisenprobst</surname>
-  </persName>
-  <persName type="alternative-name">Schneider, Josef</persName>
-  <birth>
-    <date when-iso="1895-01-01">01.01.1895</date>
-  </birth>  
-  <death>
-    <date when-iso="1972-01-08">8.01.1972</date>
-      <settlement key="pmb521">
-        <placeName type="pref">Bad Gastein</placeName>
-        <location><geo>47.11547 13.13467</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1037078667</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38082</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38082</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q94922069</idno>
-<affiliation when-iso="1938-01-01">
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29686">Salzburger Volksblatt</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29686.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29686</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Samek</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samek, Oskar Jitzak</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sameck</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Samesch</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Szamek</persName>
-  <birth>
-    <date when-iso="1889-01-02">02.01.1889</date>
-      <settlement key="pmb65">
-        <placeName type="pref">XV., Rudolfsheim-Fünfhaus</placeName>
-        <location><geo>48.19625 16.32749</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1959-01-28">28.01.1959</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38909/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38909</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41596</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1026890527</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52930">Kanzlei Oskar Samek</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb55576">Kuhner &amp; Co</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb50611">
-  <title type="main">Die Stunde</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
-  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
-<date>1923-02-02  – 1938-03-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
-</bibl></listBibl><listOrg><org xml:id="pmb52866">
+</person></listPerson><listOrg><org xml:id="pmb52866">
   <orgName>Handelskammer Linz</orgName>
 <location type="located_in_place">
   <placeName key="pmb332">Linz</placeName>
@@ -462,5 +450,17 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listBibl><bibl xml:id="pmb50611">
+  <title type="main">Die Stunde</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
+  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
+<date>1923-02-02  – 1938-03-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
+</bibl></listBibl></back></text>
 </TEI>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-014-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-012-003.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-013-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000072-013-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-012-003.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000072-014-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -127,31 +127,23 @@
       <body>
          <pb xml:id="D_000072-013-000_p001" facs="#D_000072-013-000-facs001-l001-p001" n="1"/>
          <lb xml:id="uuid_14b22878-6d29-45ca-bbf7-67647cc33834"/>Wien, den 15. Februar 1930.<lb xml:id="uuid_9b6fc678-8ce4-4483-be10-4d575b5e54e4"/>Herrn<lb xml:id="uuid_c4a4f1b5-ed7c-404e-bf6c-a6b7a288d58b"/>Dr. Oskar Samek<lb xml:id="uuid_cc597f7c-75c9-4f99-ab58-563761a1e852"/>Rechtsanwalt<lb xml:id="uuid_b4180bd7-d6d8-4b3d-9eb3-fa4fb71c80c2"/>Wien I.<lb xml:id="uuid_42f9a477-f6da-4d24-9ee4-d82f5de64345"/><rs ref="#pmb50493" type="place">Schottenring 14</rs>
-         <p xml:id="uuid_11eca60e-fe6d-41fb-9afd-db7824edcd12"><lb xml:id="uuid_f1cf1406-1760-4151-941d-b953c1de6ae8"/>Sehr geehrter <rs type="person" ref="#pmb38909">Herr</rs>!</p><p xml:id="uuid_5d40fd65-7625-4fa1-9cf1-811b6402b38f"><lb xml:id="uuid_873637e7-25e7-4962-a5e7-6c727fa84734"/>Im Sinne der in der <rs type="work" subtype="fackel" ref="https://fackel.oeaw.ac.at/f/827,0U1">Fackel Nr.
-               827–833</rs> auf Seite 77 unter „22. November:“<lb xml:id="uuid_28ff4e1d-d34f-4514-924c-7993e4251f0e"/>erschienenen <rs type="work" subtype="fackel" ref="https://fackel.oeaw.ac.at/f/827,0U1">Notiz</rs> gestatte ich
+         <p xml:id="uuid_11eca60e-fe6d-41fb-9afd-db7824edcd12"><lb xml:id="uuid_f1cf1406-1760-4151-941d-b953c1de6ae8"/>Sehr geehrter <rs type="person" ref="#pmb38909">Herr</rs>!</p><p xml:id="uuid_5d40fd65-7625-4fa1-9cf1-811b6402b38f"><lb xml:id="uuid_873637e7-25e7-4962-a5e7-6c727fa84734"/>Im Sinne der in der <rs type="work" subtype="fackel" ref="#lk_fackel__177" corresp="https://fackel.oeaw.ac.at/f/827,0u1">Fackel Nr.
+               827–833</rs> auf Seite 77 unter „22. November:“<lb xml:id="uuid_28ff4e1d-d34f-4514-924c-7993e4251f0e"/>erschienenen <rs type="work" subtype="fackel" ref="#lk_fackel__177" corresp="https://fackel.oeaw.ac.at/f/827,0u1">Notiz</rs> gestatte ich
             mir, den aus den anliegenden Schriftstücken<lb xml:id="uuid_48b087a6-5703-4d64-bc69-2be66d0030c2"/>ersichtlichen Plan
             bekanntzugeben.</p><p xml:id="uuid_9868b299-105e-48e8-b8d6-b5fa9b62c6d8"><lb xml:id="uuid_e13fed6b-a009-4f08-afcb-e63987776c29"/>Mit vorzüglicher Hochachtung<lb xml:id="uuid_c750ef54-133f-4f21-b625-6a6275ecd96a"/><rs ref="#pmb51614" type="person">Hans Loewe</rs></p>
       </body>
-   <back><listPlace><place xml:id="pmb50493">
-  <placeName>Schottenring</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.215136 16.365095</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb51">I., Innere Stadt</placeName>
-  <geo>48.20769 16.37049</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50493/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50493</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50493.html</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
-</listBibl>
-</place><place xml:id="pmb52">
+   <back><listBibl><bibl xml:id="lk_fackel__177" corresp="https://fackel.oeaw.ac.at/f/827,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1930-02-01">Anfang Februar 1930</date><num type="volume">Jg.
+                  31</num><num type="issue">Nr. 827–833</num><ref target="https://fackel.oeaw.ac.at/f/827,0u1">72.12 Brief Hans Loewe an Redaktion
+                  Der österreichische Volkswirt|D_000072-012-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/827,0u1">136.24 Urteil des Landgerichts I
+                  Berlin (G.Z. 38.0.549/29, Vorsitz: Landgerichtsdirektor […]
+                  Weigert)|D_000136-024-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/827,0u1">72.13 Brief Hans Loewe an
+                  Samek|D_000072-013-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/827,0u1">136.17 Schriftsatz in Sachen Die Fackel ./. Die Volksbühne (RA Botho Laserstein
+                  an das Landgericht I. Berlin, G.Z. 38.0.549/29)|D_000136-017-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/827,0u1">125.164 Übertragung des
+                  Kurzschriftprotokolls vom 28. Dezember 1933|D_000125-164-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/827,0u1">190.2 Privatanklage Karl Kraus gegen
+                  Richard Smetana wegen Übertretung gegen die Sicherheit der
+                  Ehre|D_000190-002-000.xml</ref></bibl>
+            </listBibl><listPlace><place xml:id="pmb52">
   <placeName>II., Leopoldstadt</placeName>
   <placeName type="alternative-name">Wien,Leopoldstadt</placeName>
   <placeName type="alternative-name">Leopoldstadt</placeName>
@@ -184,6 +176,25 @@
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50493">
+  <placeName>Schottenring</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.215136 16.365095</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb51">I., Innere Stadt</placeName>
+  <geo>48.20769 16.37049</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50493/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50493</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50493.html</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
 </place><place xml:id="pmb51">
   <placeName>I., Innere Stadt</placeName>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000196-004-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000196-002-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000196-003-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000196-003-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000196-002-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000196-004-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -183,18 +183,32 @@
          <p xml:id="uuid_f2df7fd3-0fd8-4e00-99bc-f62ac24ec710">
             <lb xml:id="uuid_8b6258f3-b24d-4f50-9bd0-6f0e88611626"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb29644" type="institution">Arbeiter Zeitung</rs><lb xml:id="uuid_f0293b81-7fa7-42df-9485-6491cdfce1ce"/>25. OKT. 1934</note></p>
       </body>
-   <back><listBibl><bibl xml:id="pmb58916">
-  <title type="main">Zeitgeister</title>
-  <title type="werk_bibliografische-angabe">Zeitgeister, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 7</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=7&amp;zoom=33</title>
-  <author key="person__25105" role="hat-geschaffen">Sonnenschein, Hugo</author>
+   <back><listBibl><bibl xml:id="pmb58907">
+  <title type="main">Der Racheakt der Polizei gegen Braunthal</title>
+  <title type="werk_bibliografische-angabe">Der Racheakt der Polizei gegen Braunthal, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 6</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=6&amp;zoom=33</title>
 <date>1934-09-15  – 1934-09-15</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58916/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58916</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58907/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58907</idno>
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-  <note type="work_kind">Gedicht</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb41202">
+  <title type="main">Arbeiter-Zeitung</title>
+  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
+  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
+<date>12.7.1881  – 31.10.1991</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
 </bibl><bibl xml:id="pmb57488">
   <title type="main">Der Kampf</title>
   <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno-plus?aid=dks&amp;size=45</title>
@@ -224,33 +238,72 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb58907">
-  <title type="main">Der Racheakt der Polizei gegen Braunthal</title>
-  <title type="werk_bibliografische-angabe">Der Racheakt der Polizei gegen Braunthal, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 6</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=6&amp;zoom=33</title>
+</bibl><bibl xml:id="pmb58916">
+  <title type="main">Zeitgeister</title>
+  <title type="werk_bibliografische-angabe">Zeitgeister, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 7</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=7&amp;zoom=33</title>
+  <author key="person__25105" role="hat-geschaffen">Sonnenschein, Hugo</author>
 <date>1934-09-15  – 1934-09-15</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58907/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58907</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58916/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58916</idno>
 <note type="collections">
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb41202">
-  <title type="main">Arbeiter-Zeitung</title>
-  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
-  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
-<date>12.7.1881  – 31.10.1991</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
+  <note type="work_kind">Gedicht</note>
+</bibl></listBibl><listPlace><place xml:id="pmb58921">
+  <placeName>Anhaltelager Wöllersdorf</placeName>
+  <placeName type="alternative-name">Konzentrationslager Wöllersdorf</placeName>
+<location type="coords">
+  <geo>47.865307 16.171931</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58921/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58921</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q545102</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1933-01-01" to-iso="1933-12-31">1933  – 1938</date>
 </note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl></listBibl><listPlace><place xml:id="pmb652">
+</place><place xml:id="pmb65">
+  <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.19625 16.32749</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2779138/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb65</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb65.html</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb51759">
+  <placeName>Masarykstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Massarykstrasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>49.19274476872463 16.610326627117555</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb833">Brünn</placeName>
+  <geo>49.19522 16.60796</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51759/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51759</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb652">
   <placeName>Prag</placeName>
   <placeName type="alternative-name">Hauptstadt Prag</placeName>
   <placeName type="legacy-name-merge">Prag</placeName>
@@ -291,68 +344,23 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb65">
-  <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.19625 16.32749</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2779138/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb65</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb65</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb65.html</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb51759">
-  <placeName>Masarykstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Massarykstrasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>49.19274476872463 16.610326627117555</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb833">Brünn</placeName>
-  <geo>49.19522 16.60796</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51759/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51759</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb58921">
-  <placeName>Anhaltelager Wöllersdorf</placeName>
-  <placeName type="alternative-name">Konzentrationslager Wöllersdorf</placeName>
-<location type="coords">
-  <geo>47.865307 16.171931</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58921/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58921</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q545102</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date from-iso="1933-01-01" to-iso="1933-12-31">1933  – 1938</date>
-</note>
-</place></listPlace><listPerson><person xml:id="pmb51582">
+</place></listPlace><listPerson><person xml:id="pmb43593">
   <persName>
-      <forename>Robert</forename>
-      <surname>Herrmann</surname>
+      <forename>Johann</forename>
+      <surname>Turnovsky</surname>
   </persName>
   <sex value="male"/>
   <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51582/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51582</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43593/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43593</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43593</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41908</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb88268">Kanzlei Johann Turnovsky</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88268/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb88268</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -498,27 +506,30 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb43593">
+</person><person xml:id="pmb51582">
   <persName>
-      <forename>Johann</forename>
-      <surname>Turnovsky</surname>
+      <forename>Robert</forename>
+      <surname>Herrmann</surname>
   </persName>
   <sex value="male"/>
   <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43593/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43593</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43593</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41908</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb88268">Kanzlei Johann Turnovsky</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88268/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb88268</idno>
-</affiliation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51582/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51582</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb29644">
+</person></listPerson><listOrg><org xml:id="pmb38090">
+  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
+  <desc type="entity_type">Politische Vereinigung</desc>
+  <desc type="entity_type_id">1022</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb29644">
   <orgName>Arbeiter-Zeitung</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Brünn)</orgName>
@@ -595,16 +606,5 @@
 <note type="apis_dates">
 <date>1889-07-12  – 1991-10-31</date>
 </note>
-</org><org xml:id="pmb38090">
-  <orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</orgName>
-  <desc type="entity_type">Politische Vereinigung</desc>
-  <desc type="entity_type_id">1022</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38090/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38090</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb38090</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
 </org></listOrg></back></text>
 </TEI>

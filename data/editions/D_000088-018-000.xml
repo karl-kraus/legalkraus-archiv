@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000088-018-001.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000088-017-000.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000088-018-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000088-018-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000088-017-000.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000088-018-001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -220,28 +220,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb53974">
-  <persName>
-      <forename>Martin</forename>
-      <surname>Jahoda</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
-  <occupation key="1506">Drucker/Druckerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53974/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53974</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49800</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
+</place></listPlace><listPerson><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -286,6 +265,27 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</person><person xml:id="pmb53974">
+  <persName>
+      <forename>Martin</forename>
+      <surname>Jahoda</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="161">Druckereibesitzer/Druckereibesitzerin</occupation>
+  <occupation key="1506">Drucker/Druckerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53974/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53974</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49800</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </person><person xml:id="pmb51585">
   <persName>
       <forename>Bruno</forename>
@@ -314,7 +314,17 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb56114">
+</person></listPerson><listBibl><bibl xml:id="pmb56128">
+  <title type="main">Arbeiter-Zeitung, 26.6.1927</title>
+<date>1927-06-26  – 1927-06-1927</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56128/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56128</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb56114">
   <title type="main">Arbeiter-Zeitung, 19.6.1927</title>
   <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Nr. 167, 15.10.1927</title>
   <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19270619&amp;seite=9&amp;zoom=33&amp;query=%22arbeiter%22%2B%22zeitung%22%2B%2219.%22%2B%22juni%22%2B%221927%22&amp;ref=anno-search</title>
@@ -325,15 +335,5 @@
   <bibl type="collections" n="3">Manuell angelegt</bibl>
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
-</bibl><bibl xml:id="pmb56128">
-  <title type="main">Arbeiter-Zeitung, 26.6.1927</title>
-<date>1927-06-26  – 1927-06-1927</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56128/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56128</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
 </bibl></listBibl></back></text>
 </TEI>

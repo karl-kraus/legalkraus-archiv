@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-002-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000075-009-002.xml" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000076-001-000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/legalkraus" xml:id="D_000076-001-000.xml" prev="https://id.acdh.oeaw.ac.at/legalkraus/D_000075-009-002.xml" next="https://id.acdh.oeaw.ac.at/legalkraus/D_000076-002-000.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>76.1 Brief Richard Flatter an Kraus</title>
-            <editor ref="#pmbIL">Isabel Langkabel</editor>
+            <editor ref="https://orcid.org/0000-0002-5049-0779">Isabel Langkabel</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -158,14 +158,14 @@
             schändlich misshandelt worden. Trotzdem hät<lb break="no" xml:id="uuid_33d9104a-21a5-42d7-ae62-8d98e7643cca"/>te ich es niemals unternommen, da
             ich noch dazu nicht vom Bau bin und kaum<lb xml:id="uuid_18d864ce-0cb7-47a7-9e6e-d671ee751f69"/>über die primitivsten Kenntnisse
             der englischen Sprache verfüge, mich an eine<lb xml:id="uuid_f2308ef9-1cd6-45f3-b450-ffd430ff95f8"/>Uebertragung des „<rs ref="#pmb33366" type="work" subtype="pmb">Macbeth</rs>“ heranzumachen, wenn ich nicht
-            durch das <rs ref="https://fackel.oeaw.ac.at/f/724,0u1" type="work" subtype="fackel">April<lb break="no" xml:id="uuid_8e502a6b-2cdc-4688-897d-a91b25ab1de9"/>heft der
+            durch das <rs ref="#lk_fackel__132" corresp="https://fackel.oeaw.ac.at/f/724,0u1" type="work" subtype="fackel">April<lb break="no" xml:id="uuid_8e502a6b-2cdc-4688-897d-a91b25ab1de9"/>heft der
                „Fackel“</rs> dazu gedrängt worden wäre. Wenn also meine Arbeit, ihre<lb xml:id="uuid_f402f4b9-1126-440e-84ad-1dc736eeeac5"/>Beendigung vorausgesetzt, eines
             Dankes wert ist, so gebührt er Ihnen als<lb xml:id="uuid_4f7e45c5-06ad-4784-a6bb-76a0fb286e20"/>dem, der sie veranlasst hat; und
             so erscheint es mir auch wie selbstverständ<lb break="no" xml:id="uuid_466250b3-2bdd-4404-8e10-52cbf259e8b3"/>lich, dass Sie der erste sind,
             dem ich sie, abgesehen von einem kleinen<lb xml:id="uuid_435f03d7-5ef8-4852-8f8f-92d4bf9be921"/>Freundeskreis, vorlege. </p>
          <p xml:id="uuid_080bf19f-d58d-4117-8c2d-ac8bfad390f8">
             <lb xml:id="uuid_8f63bc91-8a03-4921-be8b-14b6819aa8d7"/>Dass ich, gleich zu Beginn
-            meiner Arbeit, genötigt war, die beiden<lb xml:id="uuid_2c3cbaf1-a231-4da1-a37e-4e4d2c4ad0c4"/>von Ihnen nachgedichteten <rs ref="https://fackel.oeaw.ac.at/f/724,001" type="work" subtype="fackel">ersten
+            meiner Arbeit, genötigt war, die beiden<lb xml:id="uuid_2c3cbaf1-a231-4da1-a37e-4e4d2c4ad0c4"/>von Ihnen nachgedichteten <rs ref="#lk_fackel__133" corresp="https://fackel.oeaw.ac.at/f/724,001" type="work" subtype="fackel">ersten
                Hexenszenen</rs> neu zu bearbeiten, und wie ich<lb xml:id="uuid_118f5405-9d56-42a8-b2fc-31866e09196f"/>mich dieser unsäglich schwierigen
             Aufgabe entledigt habe, würde einer sepa<lb break="no" xml:id="uuid_68901ab6-08aa-4123-9cc6-1c53e633652d"/>raten Auseinandersetzung
             bedürfen, die ich mir vorbehalte, nämlich für den <pb xml:id="D_000076-001-000_p002" facs="#D_000076-001-000-facs001-l002-p001" n="2"/>
@@ -183,87 +183,71 @@
                     ergebener<lb xml:id="uuid_b9a5d13e-dc31-41eb-955a-63a4dc74ee00"/>Dr. <rs ref="#pmb16309" type="person">Flatter</rs>
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb50">
-  <placeName>Wien</placeName>
-  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Bécs</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Land Wien</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Vídeň</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Wenia</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Beč</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="alternative-name">Vindobona (Wien)</placeName>
-  <placeName type="legacy-name-merge">Wien</placeName>
-  <placeName type="legacy-name-merge">Vindobona</placeName>
-  <placeName type="alternative-name">Vienna</placeName>
-  <placeName type="legacy-name-merge">Wien?</placeName>
-  <placeName type="alternative-name">Vienna</placeName>
-  <placeName type="legacy-name-merge">Vienna</placeName>
-  <placeName type="legacy-name-merge">Vienna</placeName>
-  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
-  <desc type="entity_type_id">14</desc>
-<location type="coords">
-  <geo>48.2066 16.37341</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb41240">Österreich</placeName>
-  <geo>47.33333 13.33333</geo>
-</location>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1741</idno>
+   <back><listPerson><person xml:id="pmb53277">
+  <persName>
+      <forename>Dorothea</forename>
+      <surname>Tieck</surname>
+  </persName>
+  <birth>
+    <date>1799-03-??</date>
+  </birth>  
+  <death>
+    <date when-iso="1841-02-21">1841-02-21</date>
+  </death>
+  <sex value="female"/>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53277</idno>
 <listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="7">Default import collection</bibl>
-</listBibl>
-</place><place xml:id="pmb58">
-  <placeName>VIII., Josefstadt</placeName>
-  <placeName type="alternative-name">Josefstadt (Wien-Josefstadt)</placeName>
-  <placeName type="legacy-name-merge">VIII., Josefstadt</placeName>
-  <placeName type="legacy-name-merge">Josefstadt</placeName>
-  <desc type="entity_type">Bezirk (A.BZK)</desc>
-  <desc type="entity_type_id">25</desc>
-<location type="coords">
-  <geo>48.21126 16.34706</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775027/</idno>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4108158-4</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q256778</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb11988">
+</person><person xml:id="pmb16309">
+  <persName>
+      <forename>Richard</forename>
+      <surname>Flatter</surname>
+  </persName>
+  <birth>
+    <date when-iso="1899-04-14">14.04.1899</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1969-12-05">05.12.1969</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <occupation key="608">Anglist/Anglistin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15024</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16309</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16309</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb53280">
+  <persName>
+      <forename>Wilhelm</forename>
+      <surname>Jordan</surname>
+  </persName>
+  <birth>
+    <date when-iso="1819-02-08">1819-02-08</date>
+  </birth>  
+  <death>
+    <date when-iso="1904-06-25">1904-06-25</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53280/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53280</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -360,71 +344,87 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb53280">
-  <persName>
-      <forename>Wilhelm</forename>
-      <surname>Jordan</surname>
-  </persName>
-  <birth>
-    <date when-iso="1819-02-08">1819-02-08</date>
-  </birth>  
-  <death>
-    <date when-iso="1904-06-25">1904-06-25</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53280/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53280</idno>
+</person></listPerson><listPlace><place xml:id="pmb50">
+  <placeName>Wien</placeName>
+  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Bécs</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Land Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vídeň</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Wenia</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Beč</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="alternative-name">Vindobona (Wien)</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-name-merge">Vindobona</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Wien?</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>48.2066 16.37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb41240">Österreich</placeName>
+  <geo>47.33333 13.33333</geo>
+</location>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1741</idno>
 <listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+</place><place xml:id="pmb58">
+  <placeName>VIII., Josefstadt</placeName>
+  <placeName type="alternative-name">Josefstadt (Wien-Josefstadt)</placeName>
+  <placeName type="legacy-name-merge">VIII., Josefstadt</placeName>
+  <placeName type="legacy-name-merge">Josefstadt</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48.21126 16.34706</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775027/</idno>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4108158-4</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q256778</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb53277">
-  <persName>
-      <forename>Dorothea</forename>
-      <surname>Tieck</surname>
-  </persName>
-  <birth>
-    <date>1799-03-??</date>
-  </birth>  
-  <death>
-    <date when-iso="1841-02-21">1841-02-21</date>
-  </death>
-  <sex value="female"/>
-  <occupation key="116">Übersetzer/Übersetzerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53277</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb16309">
-  <persName>
-      <forename>Richard</forename>
-      <surname>Flatter</surname>
-  </persName>
-  <birth>
-    <date when-iso="1899-04-14">14.04.1899</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1969-12-05">05.12.1969</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="116">Übersetzer/Übersetzerin</occupation>
-  <occupation key="608">Anglist/Anglistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15024</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16309</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16309</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb33366">
+</place></listPlace><listBibl><bibl xml:id="pmb33366">
   <title type="main">Macbeth</title>
   <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
 <date notBefore-iso="1606-01-01" when-iso="1606-07-02">1606</date>
@@ -437,5 +437,12 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl></listBibl></back></text>
+</bibl><bibl xml:id="lk_fackel__132" corresp="https://fackel.oeaw.ac.at/f/724,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-04-30">Ende April 1926</date><num type="volume">Jg. 28</num><num type="issue">Nr. 724–725</num><ref target="https://fackel.oeaw.ac.at/f/724,0u1">76.1 Brief Richard Flatter an Kraus|D_000076-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/724,0u1">76.6 Brief Richard Flatter an
+                  Kraus|D_000076-006-000.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__133" corresp="https://fackel.oeaw.ac.at/f/724,001" type="fackel"><title level="a">Hexenszenen und anderes Grauen</title><title level="s">Die Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1926-04-30">Ende April
+                  1926</date><num type="volume">Jg. 28</num><num type="issue">Nr.
+                  724–725</num><biblScope from="1" to="44">1–44</biblScope><ref target="https://fackel.oeaw.ac.at/f/724,001">76.1 Brief Richard Flatter an
+                  Kraus|D_000076-001-000.xml</ref></bibl>
+            </listBibl></back></text>
 </TEI>
