@@ -148,7 +148,35 @@
                <lb xml:id="uuid_6306d6a5-45ba-4330-97ec-06b13b0d1ee1"/>exp. 11.2.1932. </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb38962">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Landsberg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-12-04">04.12.1869</date>
+      <settlement key="pmb38964">
+        <placeName type="pref">Rybnik</placeName>
+        <location><geo>50.09713 18.54179</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1957-12-09">09.12.1957</date>
+      <settlement key="pmb21447">
+        <placeName type="pref">Baarn</placeName>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38962/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38962</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38962</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116681616</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q213969</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -289,34 +317,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38962">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Landsberg</surname>
-  </persName>
-  <birth>
-    <date when-iso="1869-12-04">04.12.1869</date>
-      <settlement key="pmb38964">
-        <placeName type="pref">Rybnik</placeName>
-        <location><geo>50.09713 18.54179</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1957-12-09">09.12.1957</date>
-      <settlement key="pmb21447">
-        <placeName type="pref">Baarn</placeName>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38962/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38962</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38962</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116681616</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q213969</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb19200">
   <persName>

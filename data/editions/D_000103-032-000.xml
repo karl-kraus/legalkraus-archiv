@@ -136,26 +136,46 @@
          <p xml:id="uuid_61ef5039-883f-46df-bf51-58291a174117">
             <lb xml:id="uuid_b27aa2db-f4a7-4532-ac7c-e878306e2856"/>Für die Abschrift<lb xml:id="uuid_38092618-ba0c-4080-a995-2d5c4c34038d"/>Rechtsanwalt </p>
       </body>
-   <back><listPerson><person xml:id="pmb53269">
-  <persName>
-      <forename>?</forename>
-      <surname>Hasinger</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53269/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53269</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36836">Landgericht I München</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36836/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36836</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36836</idno>
-</affiliation>
+   <back><listPlace><place xml:id="pmb45258">
+  <placeName>München</placeName>
+  <placeName type="alternative-name">München</placeName>
+  <placeName type="legacy-name-merge">München?</placeName>
+  <placeName type="legacy-name-merge">München</placeName>
+  <placeName type="legacy-name-merge">Munich</placeName>
+  <placeName type="alternative-name">Monacho</placeName>
+  <placeName type="legacy-name-merge">München</placeName>
+  <placeName type="legacy-name-merge">München</placeName>
+  <placeName type="alternative-name">Monacho</placeName>
+  <placeName type="legacy-name-merge">München</placeName>
+  <placeName type="alternative-name">Munich</placeName>
+  <placeName type="alternative-name">München</placeName>
+  <placeName type="legacy-name">München</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA</desc>
+  <desc type="entity_type_id">1415</desc>
+<location type="coords">
+  <geo>48.13743 11.57549</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb314">Bayern</placeName>
+  <geo>49.0 11.5</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb151">Deutschland</placeName>
+  <geo>51.5 10.5</geo>
+</location>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4127793-4</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2867714/</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1726</idno>
 <listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb53270">
+</place></listPlace><listPerson><person xml:id="pmb53270">
   <persName>
       <forename>?</forename>
       <surname>Kolb</surname>
@@ -220,15 +240,15 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb53275">
+</person><person xml:id="pmb53269">
   <persName>
       <forename>?</forename>
-      <surname>Schmid</surname>
+      <surname>Hasinger</surname>
   </persName>
-  <sex value="not-set"/>
-  <occupation key="367">Sekretär/Sekretärin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53275/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53275</idno>
+  <sex value="male"/>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53269/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53269</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb36836">Landgericht I München</orgName>
@@ -336,6 +356,25 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
+</person><person xml:id="pmb53275">
+  <persName>
+      <forename>?</forename>
+      <surname>Schmid</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="367">Sekretär/Sekretärin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53275/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53275</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36836">Landgericht I München</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36836/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36836</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36836</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </person><person xml:id="pmb53271">
   <persName>
       <forename>?</forename>
@@ -378,44 +417,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listPlace><place xml:id="pmb45258">
-  <placeName>München</placeName>
-  <placeName type="alternative-name">München</placeName>
-  <placeName type="legacy-name-merge">München?</placeName>
-  <placeName type="legacy-name-merge">München</placeName>
-  <placeName type="legacy-name-merge">Munich</placeName>
-  <placeName type="alternative-name">Monacho</placeName>
-  <placeName type="legacy-name-merge">München</placeName>
-  <placeName type="legacy-name-merge">München</placeName>
-  <placeName type="alternative-name">Monacho</placeName>
-  <placeName type="legacy-name-merge">München</placeName>
-  <placeName type="alternative-name">Munich</placeName>
-  <placeName type="alternative-name">München</placeName>
-  <placeName type="legacy-name">München</placeName>
-  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA</desc>
-  <desc type="entity_type_id">1415</desc>
-<location type="coords">
-  <geo>48.13743 11.57549</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb314">Bayern</placeName>
-  <geo>49.0 11.5</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb151">Deutschland</placeName>
-  <geo>51.5 10.5</geo>
-</location>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4127793-4</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2867714/</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1726</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</org></listOrg></back></text>
 </TEI>

@@ -158,7 +158,19 @@
          <p xml:id="uuid_4d4ff4fd-5d0d-4621-a780-03948268d4c5">
             <lb xml:id="uuid_26a49d7a-9129-4e2c-a7b3-509e41db58c9"/>Rekommandiert mit <rs type="work" subtype="legal-doc" ref="https://id.acdh.oeaw.ac.at/legalkraus/D_000109-014-001">Rückschein</rs>. </p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb51584">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Hirth</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51584/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51584</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -200,18 +212,6 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51584">
-  <persName>
-      <forename>Oskar</forename>
-      <surname>Hirth</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51584/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51584</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -312,16 +312,7 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53405">
-  <title type="main">Skandalszenen bei einer Kraus-Vorlesung [29.9.1928]</title>
-<date>1928-09-29  – 1928-09-29</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53405/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53405</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb53403">
+</person></listPerson><listBibl><bibl xml:id="pmb53403">
   <title type="main">Neues Wiener Tagblatt, 29.9.1928</title>
 <date>1928-09-29  – 1928-09-29</date>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53403/</idno>
@@ -330,6 +321,15 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb53405">
+  <title type="main">Skandalszenen bei einer Kraus-Vorlesung [29.9.1928]</title>
+<date>1928-09-29  – 1928-09-29</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53405/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53405</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
 </bibl><bibl xml:id="pmb41321">
   <title type="main">Neues Wiener Tagblatt</title>
   <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</title>

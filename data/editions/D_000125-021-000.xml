@@ -237,37 +237,7 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listPerson><person xml:id="pmb56892">
-  <persName>
-      <forename>?</forename>
-      <surname>Burger</surname>
-  </persName>
-  <sex value="not-set"/>
-  <occupation key="142">Theatersekretär/Theatersekretärin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56892/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56892</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb34987">Frankfurter Städtisches Schauspielhaus</orgName>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/509073-8</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34987</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34987</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb34987</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb53397">
-  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
-</bibl></listBibl><listPlace><place xml:id="pmb146">
+</org></listOrg><listPlace><place xml:id="pmb146">
   <placeName>Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt/M.?</placeName>
@@ -362,5 +332,35 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listBibl><bibl xml:id="pmb53397">
+  <title type="main">Die Unüberwindlichen. Nachkriegsdrama in vier Akten</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53397/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53397</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+</bibl></listBibl><listPerson><person xml:id="pmb56892">
+  <persName>
+      <forename>?</forename>
+      <surname>Burger</surname>
+  </persName>
+  <sex value="not-set"/>
+  <occupation key="142">Theatersekretär/Theatersekretärin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56892/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb56892</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb34987">Frankfurter Städtisches Schauspielhaus</orgName>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/509073-8</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34987</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34987</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb34987</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson></back></text>
 </TEI>

@@ -154,6 +154,33 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</place><place xml:id="pmb49970">
+  <placeName>Essen</placeName>
+  <placeName type="alternative-name">Stadt Essen</placeName>
+  <placeName type="alternative-name">Essen</placeName>
+  <placeName type="alternative-name">Essen</placeName>
+  <placeName type="legacy-name-merge">Essen</placeName>
+  <placeName type="legacy-name-merge">Essen</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA3</desc>
+  <desc type="entity_type_id">1410</desc>
+<location type="coords">
+  <geo>51.45657 7.01228</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb151">Deutschland</placeName>
+  <geo>51.5 10.5</geo>
+</location>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7809/</idno>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/6553024/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7809</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40267</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49970/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2928810/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49970</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </place><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
@@ -205,34 +232,34 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb49970">
-  <placeName>Essen</placeName>
-  <placeName type="alternative-name">Stadt Essen</placeName>
-  <placeName type="alternative-name">Essen</placeName>
-  <placeName type="alternative-name">Essen</placeName>
-  <placeName type="legacy-name-merge">Essen</placeName>
-  <placeName type="legacy-name-merge">Essen</placeName>
-  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA3</desc>
-  <desc type="entity_type_id">1410</desc>
-<location type="coords">
-  <geo>51.45657 7.01228</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb151">Deutschland</placeName>
-  <geo>51.5 10.5</geo>
-</location>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7809/</idno>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/6553024/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7809</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40267</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49970/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2928810/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49970</idno>
+</place></listPlace><listPerson><person xml:id="pmb38103">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Elias</surname>
+  </persName>
+  <birth>
+    <date when-iso="1876-03-12">12.3.1876</date>
+      <settlement key="pmb915">
+        <placeName type="pref">Dortmund</placeName>
+        <location><geo>51.52444 7.47389</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1933-04-13">13.4.1933</date>
+      <settlement key="pmb915">
+        <placeName type="pref">Dortmund</placeName>
+        <location><geo>51.52444 7.47389</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38103/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38103</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38103</idno>
 <listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb38909">
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -302,33 +329,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38784</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38784</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117256668</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38103">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Elias</surname>
-  </persName>
-  <birth>
-    <date when-iso="1876-03-12">12.3.1876</date>
-      <settlement key="pmb915">
-        <placeName type="pref">Dortmund</placeName>
-        <location><geo>51.52444 7.47389</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1933-04-13">13.4.1933</date>
-      <settlement key="pmb915">
-        <placeName type="pref">Dortmund</placeName>
-        <location><geo>51.52444 7.47389</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38103/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38103</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38103</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

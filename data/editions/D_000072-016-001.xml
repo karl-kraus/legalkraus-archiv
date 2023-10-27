@@ -101,7 +101,31 @@
          </p>
          <p xml:id="uuid_499d7be0-febc-4b29-a411-fc72fc74b9bf"><lb xml:id="uuid_dc0efdc2-f773-495c-a3a5-e54498c6541f"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs><lb xml:id="uuid_3b6d58ad-2b34-4fe6-b750-806d307345be"/><rs type="person" ref="#pmb51614">Löwy</rs></note></p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb51614">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Loewe</surname>
+  </persName>
+  <birth>
+    <date when-iso="1897-02-23">23.02.1897</date>
+      <settlement key="pmb75">
+        <placeName type="pref">Hinterbrühl</placeName>
+        <location><geo>48.08611 16.24809</geo></location>
+      </settlement>
+  </birth>  
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb65574">Mesogeios</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -242,30 +266,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb51614">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Loewe</surname>
-  </persName>
-  <birth>
-    <date when-iso="1897-02-23">23.02.1897</date>
-      <settlement key="pmb75">
-        <placeName type="pref">Hinterbrühl</placeName>
-        <location><geo>48.08611 16.24809</geo></location>
-      </settlement>
-  </birth>  
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb65574">Mesogeios</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb50493">
   <placeName>Schottenring</placeName>

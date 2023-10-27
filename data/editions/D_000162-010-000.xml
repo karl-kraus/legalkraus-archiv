@@ -135,32 +135,7 @@
                <lb xml:id="uuid_e248817c-6d3d-43f9-ade7-f23ed451becd"/>13. OKT. 1932 </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb51578">
-  <persName>
-      <forename>Herta</forename>
-      <surname>Gropper</surname>
-  </persName>
-  <birth>
-    <date when-iso="1901-06-14">14.06.1901</date>
-      <settlement key="pmb38031">
-        <placeName type="pref">Rousse</placeName>
-        <location><geo>43.84872 25.9534</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1962-07-02" notAfter-iso="1962-12-31">1962</date>
-      <settlement key="pmb38166">
-        <placeName type="pref">Kalifornien</placeName>
-        <location><geo>37.25022 -119.75126</geo></location>
-      </settlement>
-  </death>
-  <sex value="female"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51578/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51578</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -334,6 +309,31 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb51578">
+  <persName>
+      <forename>Herta</forename>
+      <surname>Gropper</surname>
+  </persName>
+  <birth>
+    <date when-iso="1901-06-14">14.06.1901</date>
+      <settlement key="pmb38031">
+        <placeName type="pref">Rousse</placeName>
+        <location><geo>43.84872 25.9534</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1962-07-02" notAfter-iso="1962-12-31">1962</date>
+      <settlement key="pmb38166">
+        <placeName type="pref">Kalifornien</placeName>
+        <location><geo>37.25022 -119.75126</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51578/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51578</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb36869">
   <orgName>Staatsanwaltschaft</orgName>

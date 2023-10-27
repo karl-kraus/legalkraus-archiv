@@ -147,7 +147,46 @@
             <lb xml:id="uuid_a42fa7e9-dad6-48aa-b400-2ee212a5044c"/><rs type="person" ref="#pmb38370">Heinsheimer</rs>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb6113">
+   <back><listBibl><bibl xml:id="pmb55390">
+  <title type="main">Madame l’archiduc</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl></listBibl><listPerson><person xml:id="pmb18193">
+  <persName>
+      <forename>Emil</forename>
+      <surname>Hertzka</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-08-03">03.08.1869</date>
+      <settlement key="pmb43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47.49835 19.04045</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1932-05-09">09.05.1932</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
+  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16136</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18193</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb18193</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb6113">
   <persName>
       <forename>Maria</forename>
       <surname>Bard</surname>
@@ -220,73 +259,6 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38370">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Heinsheimer</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Heinzheimer</persName>
-  <birth>
-    <date when-iso="1900-09-25">25.09.1900</date>
-      <settlement key="pmb871">
-        <placeName type="pref">Karlsruhe</placeName>
-        <location><geo>49.00937 8.40444</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1993-10-12">12.10.1993</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38370/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38370</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38370</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/120852551</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88888</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36971">Universal Edition</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb18193">
-  <persName>
-      <forename>Emil</forename>
-      <surname>Hertzka</surname>
-  </persName>
-  <birth>
-    <date when-iso="1869-08-03">03.08.1869</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1932-05-09">09.05.1932</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="not-set"/>
-  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
-  <occupation key="313">Verlagsleiter/Verlagsleiterin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16136</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18193</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb18193</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -387,18 +359,46 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb55390">
-  <title type="main">Madame l’archiduc</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl></listBibl><listOrg><org xml:id="pmb43724">
+</person><person xml:id="pmb38370">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Heinsheimer</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Heinzheimer</persName>
+  <birth>
+    <date when-iso="1900-09-25">25.09.1900</date>
+      <settlement key="pmb871">
+        <placeName type="pref">Karlsruhe</placeName>
+        <location><geo>49.00937 8.40444</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1993-10-12">12.10.1993</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="224">Musikverleger/Musikverlegerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38370/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38370</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38370</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/120852551</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q88888</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36971">Universal Edition</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36971/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36971</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36971</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q569779</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb43724">
   <orgName>Verlag Die Fackel (Wien)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>

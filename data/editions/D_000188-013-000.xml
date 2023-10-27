@@ -171,15 +171,7 @@
             Diensten zeichne ich</p>
          <p xml:id="uuid_f499b2c0-54d9-4531-aa8e-172c26743099"><lb xml:id="uuid_6755663b-92a4-4728-85f4-4edfac8981a9"/>hochachtungsvoll<lb xml:id="uuid_391c44f5-3f5d-44cb-8ad4-4e292fa96a98"/><rs ref="#pmb56415" type="person">Ed.Hölzel</rs> m.p. </p>
       </body>
-   <back><listBibl><bibl xml:id="pmb56404">
-  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
-<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-</bibl></listBibl><listPlace><place xml:id="pmb54">
+   <back><listPlace><place xml:id="pmb54">
   <placeName>IV., Wieden</placeName>
   <desc type="entity_type">Bezirk (A.BZK)</desc>
   <desc type="entity_type_id">25</desc>
@@ -239,30 +231,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb37151">
-  <orgName>Eduard Hölzel (Geographisches Institut)</orgName>
-<location type="located_in_place">
-  <placeName key="pmb54">IV., Wieden</placeName>
-  <geo>48.19198 16.36714</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2761393/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb54.html</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb56371">Mommsengasse</placeName>
-  <geo>48.190095788638 16.377866072775</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56371/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56371</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37151/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37151</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37151</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb36905">
+</place></listPlace><listOrg><org xml:id="pmb36905">
   <orgName>Altesse AG</orgName>
   <desc type="entity_type">Aktiengesellschaft</desc>
   <desc type="entity_type_id">1642</desc>
@@ -296,6 +265,29 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</org><org xml:id="pmb37151">
+  <orgName>Eduard Hölzel (Geographisches Institut)</orgName>
+<location type="located_in_place">
+  <placeName key="pmb54">IV., Wieden</placeName>
+  <geo>48.19198 16.36714</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2761393/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb54</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb54.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb56371">Mommsengasse</placeName>
+  <geo>48.190095788638 16.377866072775</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56371/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56371</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37151/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37151</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37151</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </org></listOrg><listPerson><person xml:id="pmb56415">
   <persName>
       <forename>Eduard</forename>
@@ -326,5 +318,13 @@
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson></back></text>
+</person></listPerson><listBibl><bibl xml:id="pmb56404">
+  <title type="main">Olleschauer Lesezeichen, Biographien bedeutender Schriftsteller</title>
+<date notBefore-iso="1933-01-01" when-iso="1933-07-02">1933</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56404/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56404</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+</bibl></listBibl></back></text>
 </TEI>

@@ -221,23 +221,38 @@
                nehmen.</note></p>
          <p xml:id="uuid_84daa8b8-b12f-4aee-82cc-8c56a1704538"><lb xml:id="uuid_11c20e7a-2b80-402f-b0f2-a41b16a742bc"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs><lb xml:id="uuid_e4be59ee-5753-4492-aa7c-c125d08ad1a0"/>Dr. <rs type="person" ref="#pmb39325">Pisk</rs></note></p>
       </body>
-   <back><listPerson><person xml:id="pmb51854">
+   <back><listPerson><person xml:id="pmb4653">
   <persName>
-      <forename>August</forename>
-      <surname>Finger</surname>
+      <forename>Julius Anton</forename>
+      <surname>Glaser</surname>
   </persName>
   <birth>
-    <date when-iso="1858-04-02">1858-04-02</date>
+    <date when-iso="1831-03-19">1831-03-19</date>
+      <settlement key="pmb44284">
+        <placeName type="pref">Postoloprty</placeName>
+        <location><geo>50.35979 13.70291</geo></location>
+      </settlement>
   </birth>  
   <death>
-    <date when-iso="1935-09-02">1935-09-02</date>
+    <date when-iso="1885-12-26">1885-12-26</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51854/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51854</idno>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="1639">Jurist/Juristin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119360667</idno>
+  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb4653.html</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4653</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb4653</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56148</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q94672</idno>
 <listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
 </person><person xml:id="pmb54783">
   <persName>
@@ -271,39 +286,6 @@
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb54783</idno>
   <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47163</idno>
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q94653</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb4653">
-  <persName>
-      <forename>Julius Anton</forename>
-      <surname>Glaser</surname>
-  </persName>
-  <birth>
-    <date when-iso="1831-03-19">1831-03-19</date>
-      <settlement key="pmb44284">
-        <placeName type="pref">Postoloprty</placeName>
-        <location><geo>50.35979 13.70291</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1885-12-26">1885-12-26</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="1639">Jurist/Juristin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119360667</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb4653.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4653</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb4653</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp56148</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q94672</idno>
 <listBibl>
     <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -438,6 +420,24 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb51854">
+  <persName>
+      <forename>August</forename>
+      <surname>Finger</surname>
+  </persName>
+  <birth>
+    <date when-iso="1858-04-02">1858-04-02</date>
+  </birth>  
+  <death>
+    <date when-iso="1935-09-02">1935-09-02</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51854/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51854</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson></back></text>
 </TEI>

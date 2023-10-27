@@ -158,7 +158,30 @@
             <lb xml:id="uuid_0792e3db-f4c6-4750-80b5-a1df734b6387"/><note resp="law-firm" type="paratext"><rs ref="#pmb11988" type="person">Kraus</rs> – <rs ref="#pmb29331" type="institution">Vossische Zeitung</rs>
                <lb xml:id="uuid_1a70b414-02e4-42ee-be98-f379dd57b764"/>exp. 18.4.29</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb39181">
+  <persName>
+      <forename>Albrecht von</forename>
+      <surname>Montgelas</surname>
+  </persName>
+  <persName type="alternative-name">Montgelas, Albrecht Leo Eduard Anton Maximilian Karl</persName>
+  <birth>
+    <date when-iso="1887-09-03">03.09.1887</date>
+  </birth>  
+  <death>
+    <date when-iso="1958-07-04">04.07.1958</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="173">Redakteur/Redakteurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117133981</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39181</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39181</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q55845042</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -201,29 +224,6 @@
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
 <listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb39181">
-  <persName>
-      <forename>Albrecht von</forename>
-      <surname>Montgelas</surname>
-  </persName>
-  <persName type="alternative-name">Montgelas, Albrecht Leo Eduard Anton Maximilian Karl</persName>
-  <birth>
-    <date when-iso="1887-09-03">03.09.1887</date>
-  </birth>  
-  <death>
-    <date when-iso="1958-07-04">04.07.1958</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117133981</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39181</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39181</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q55845042</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb11988">

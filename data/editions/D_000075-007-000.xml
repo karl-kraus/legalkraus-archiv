@@ -162,35 +162,7 @@
                <rs ref="#pmb12081" type="person">Lindner</rs><lb xml:id="uuid_0384f7b8-5e0c-429a-b820-2ed290df3eaf"/>3.VIII.26.</note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb38141">
-  <persName>
-      <forename>Viktor</forename>
-      <surname>Fraenkl</surname>
-  </persName>
-  <birth>
-    <date when-iso="1869-01-01">1869</date>
-      <settlement key="pmb45590">
-        <placeName type="pref">Gliwice</placeName>
-        <location><geo>50.29761 18.67658</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1951-01-01">1951</date>
-      <settlement key="pmb49781">
-        <placeName type="pref">Locarno</placeName>
-        <location><geo>46.17086 8.79953</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38141/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38141</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38141</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1033463884</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb12081">
+   <back><listPerson><person xml:id="pmb12081">
   <persName>
       <forename>Anton</forename>
       <surname>Lindner</surname>
@@ -225,6 +197,34 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38141">
+  <persName>
+      <forename>Viktor</forename>
+      <surname>Fraenkl</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-01-01">1869</date>
+      <settlement key="pmb45590">
+        <placeName type="pref">Gliwice</placeName>
+        <location><geo>50.29761 18.67658</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1951-01-01">1951</date>
+      <settlement key="pmb49781">
+        <placeName type="pref">Locarno</placeName>
+        <location><geo>46.17086 8.79953</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38141/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38141</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38141</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1033463884</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person><person xml:id="pmb38909">
   <persName>
@@ -268,17 +268,6 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52835">
-  <persName>
-      <forename>Alexander</forename>
-      <surname>Bessmertny</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52835/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52835</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -378,6 +367,17 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb52835">
+  <persName>
+      <forename>Alexander</forename>
+      <surname>Bessmertny</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52835/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52835</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>

@@ -100,7 +100,31 @@
          <p xml:id="uuid_e8f8f9ca-42d2-480e-b8ba-58e4bad4ff0e"><lb xml:id="uuid_2da7ca09-623a-44b7-ae18-e07e2d2e398c"/>Abs.: <rs ref="#pmb51614" type="person">Hans Löwe</rs>
             <lb xml:id="uuid_4ae3d02d-2020-4143-b581-cab72c1414fb"/><rs type="place" subtype="address" ref="#pmb630">II. Untere Augartenstr. 23/30</rs></p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb51614">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Loewe</surname>
+  </persName>
+  <birth>
+    <date when-iso="1897-02-23">23.02.1897</date>
+      <settlement key="pmb75">
+        <placeName type="pref">Hinterbrühl</placeName>
+        <location><geo>48.08611 16.24809</geo></location>
+      </settlement>
+  </birth>  
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb65574">Mesogeios</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -141,30 +165,6 @@
     <orgName key="pmb55576">Kuhner &amp; Co</orgName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb51614">
-  <persName>
-      <forename>Hans</forename>
-      <surname>Loewe</surname>
-  </persName>
-  <birth>
-    <date when-iso="1897-02-23">23.02.1897</date>
-      <settlement key="pmb75">
-        <placeName type="pref">Hinterbrühl</placeName>
-        <location><geo>48.08611 16.24809</geo></location>
-      </settlement>
-  </birth>  
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51614/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51614</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb65574">Mesogeios</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65574/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb65574</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>

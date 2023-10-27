@@ -275,21 +275,46 @@
             <p xml:id="uuid_927c713a-8fd2-4f2f-b65b-1a932dc1eb60">
                 <lb xml:id="uuid_fc2f3ade-acb0-49d6-b561-d86d24775adf"/><rs type="place" ref="#pmb50">Wien</rs>, am 23./II. 1927<lb xml:id="uuid_12ded01c-5091-4fd9-b2a4-6c3f5121d084"/>[<rs type="person">Unterschrift</rs>] </p>
         </body>
-    <back><listPerson><person xml:id="pmb51864">
+    <back><listPerson><person xml:id="pmb38745">
   <persName>
-      <forename>Wilhelm</forename>
-      <surname>Liebknecht</surname>
+      <forename>Mark</forename>
+      <surname>Siegelberg</surname>
   </persName>
   <birth>
-    <date when-iso="1826-03-29">1826-03-29</date>
+    <date when-iso="1895-06-11">11.06.1895</date>
+      <settlement key="pmb45594">
+        <placeName type="pref">Kiew</placeName>
+        <location><geo>50.45466 30.5238</geo></location>
+      </settlement>
+      <settlement key="pmb51250">
+        <placeName type="pref">Luzk</placeName>
+        <location><geo>50.75932 25.34244</geo></location>
+      </settlement>
   </birth>  
   <death>
-    <date when-iso="1900-08-07">1900-08-07</date>
+    <date when-iso="1986-12-04">04.12.1986</date>
+      <settlement key="pmb50019">
+        <placeName type="pref">Katzelsdorf</placeName>
+        <location><geo>47.78055 16.26985</geo></location>
+      </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51864</idno>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38745/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38745</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38745</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11736066X</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15834039</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb29470">Die Stunde</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -310,6 +335,24 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
 </affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51864">
+  <persName>
+      <forename>Wilhelm</forename>
+      <surname>Liebknecht</surname>
+  </persName>
+  <birth>
+    <date when-iso="1826-03-29">1826-03-29</date>
+  </birth>  
+  <death>
+    <date when-iso="1900-08-07">1900-08-07</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51864</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -384,45 +427,22 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38745">
+</person><person xml:id="pmb52420">
   <persName>
-      <forename>Mark</forename>
-      <surname>Siegelberg</surname>
+      <forename>?</forename>
+      <surname>Reichl</surname>
   </persName>
-  <birth>
-    <date when-iso="1895-06-11">11.06.1895</date>
-      <settlement key="pmb45594">
-        <placeName type="pref">Kiew</placeName>
-        <location><geo>50.45466 30.5238</geo></location>
-      </settlement>
-      <settlement key="pmb51250">
-        <placeName type="pref">Luzk</placeName>
-        <location><geo>50.75932 25.34244</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1986-12-04">04.12.1986</date>
-      <settlement key="pmb50019">
-        <placeName type="pref">Katzelsdorf</placeName>
-        <location><geo>47.78055 16.26985</geo></location>
-      </settlement>
-  </death>
   <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="105">Schauspieler/Schauspielerin</occupation>
-  <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38745/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38745</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38745</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11736066X</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15834039</idno>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52420/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52420</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
-    <orgName key="pmb29470">Die Stunde</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29470</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29470</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216543</idno>
+    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
 </affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
@@ -524,76 +544,7 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb52420">
-  <persName>
-      <forename>?</forename>
-      <surname>Reichl</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52420/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52420</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb50491">Strafbezirksgericht I</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36877/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36877</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50491/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50491</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb50611">
-  <title type="main">Die Stunde</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
-  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
-<date>1923-02-02  – 1938-03-11</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
-</bibl><bibl xml:id="pmb52375">
-  <title type="main">Die Stunde, 10.12.1925</title>
-  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 827, 10.12.1925</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19251210&amp;zoom=33</title>
-<date>1925-12-10  – 1925-12-10</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52375/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52375</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb41202">
-  <title type="main">Arbeiter-Zeitung</title>
-  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
-  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
-<date>12.7.1881  – 31.10.1991</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
-</bibl><bibl xml:id="pmb52378">
-  <title type="main">Dem Kiebitz ist nichts zu teuer oder Karl Kraus denunziert schon wieder die Sozialdemokraten</title>
-  <title type="werk_bibliografische-angabe">Dem Kiebitz ist nichts zu teuer oder Karl Kraus denunziert schon wieder die Sozialdemokraten, in: Die Stunde, Nr. 827, 10.12.1925, S. 5–6</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19251210&amp;seite=5&amp;zoom=33</title>
-<date>1925-12-10  – 1925-12-10</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52378/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52378</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl><listOrg><org xml:id="pmb29470">
+</person></listPerson><listOrg><org xml:id="pmb29470">
   <orgName>Die Stunde</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -696,7 +647,56 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg><listPlace><place xml:id="pmb50">
+</org></listOrg><listBibl><bibl xml:id="pmb52378">
+  <title type="main">Dem Kiebitz ist nichts zu teuer oder Karl Kraus denunziert schon wieder die Sozialdemokraten</title>
+  <title type="werk_bibliografische-angabe">Dem Kiebitz ist nichts zu teuer oder Karl Kraus denunziert schon wieder die Sozialdemokraten, in: Die Stunde, Nr. 827, 10.12.1925, S. 5–6</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19251210&amp;seite=5&amp;zoom=33</title>
+<date>1925-12-10  – 1925-12-10</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52378/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52378</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl><bibl xml:id="pmb52375">
+  <title type="main">Die Stunde, 10.12.1925</title>
+  <title type="werk_bibliografische-angabe">Die Stunde, Nr. 827, 10.12.1925</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19251210&amp;zoom=33</title>
+<date>1925-12-10  – 1925-12-10</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52375/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52375</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb41202">
+  <title type="main">Arbeiter-Zeitung</title>
+  <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=aze</title>
+  <author key="person__59249" role="hat-herausgegeben">Kovanda, Václav</author>
+<date>12.7.1881  – 31.10.1991</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41202/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41202</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41202</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41202</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q627083</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+</bibl><bibl xml:id="pmb50611">
+  <title type="main">Die Stunde</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=std</title>
+  <author key="person__37843" role="hat-herausgegeben">Békessy, Imre</author>
+<date>1923-02-02  – 1938-03-11</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50611/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb50611</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Tageszeitung</note>
+  <note type="references">https://de.wikipedia.org/wiki/Die_Stunde</note>
+</bibl></listBibl><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>
   <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
   <placeName type="legacy-name-merge">Wien</placeName>

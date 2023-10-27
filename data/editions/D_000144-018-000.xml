@@ -365,17 +365,7 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb60281">
-  <title type="main">Peter Altenberg. Auswahl aus seinen Büchern von Karl Kraus</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-<date notBefore-iso="1932-01-01" when-iso="1932-07-01">1932</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60281/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb60281</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Textsammlung</note>
-</bibl></listBibl><listOrg><org xml:id="pmb29639">
+</place></listPlace><listOrg><org xml:id="pmb29639">
   <orgName>S. Fischer Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -437,5 +427,15 @@
 <note type="apis_dates">
 <date notBefore-iso="1886-01-01" when-iso="1886-07-02">1886</date>
 </note>
-</org></listOrg></back></text>
+</org></listOrg><listBibl><bibl xml:id="pmb60281">
+  <title type="main">Peter Altenberg. Auswahl aus seinen Büchern von Karl Kraus</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+<date notBefore-iso="1932-01-01" when-iso="1932-07-01">1932</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60281/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb60281</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Textsammlung</note>
+</bibl></listBibl></back></text>
 </TEI>

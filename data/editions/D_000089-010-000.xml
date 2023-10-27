@@ -135,55 +135,7 @@
             <lb xml:id="uuid_7c7ed529-0ef3-4474-aff6-51acbaf030a2"/>unlU. <rs ref="#pmb21979" type="person">Otto
                     Nierenstein</rs> m.p. </p>
       </body>
-   <back><listPerson><person xml:id="pmb21979">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Nirenstein</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
-  <birth>
-    <date when-iso="1894-04-01">01.04.1894</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1978-11-30">30.11.1978</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="144">Verleger/Verlegerin</occupation>
-  <occupation key="250">Galerist/Galeristin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb52915">Neue Galerie</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52926">
-  <persName>
-      <forename>Edith</forename>
-      <surname>Ribbentrop</surname>
-  </persName>
-  <sex value="female"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52926/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52926</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52954">
+   <back><listPerson><person xml:id="pmb52954">
   <persName>
       <forename>?</forename>
       <surname>Ratz</surname>
@@ -191,6 +143,35 @@
   <sex value="female"/>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52954/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52954</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb39346">
+  <persName>
+      <forename>Erwin</forename>
+      <surname>Ratz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1898-12-22">22.12.1898</date>
+      <settlement key="pmb860">
+        <placeName type="pref">Graz</placeName>
+        <location><geo>47.06667 15.43333</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1973-12-12">12.12.1973</date>
+      <settlement key="pmb50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48.2066 16.37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="158">Wissenschaftler/Wissenschaftlerin &gt;&gt; Musikwissenschaftler/Musikwissenschaftlerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39346/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39346</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39346</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119388936</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85241</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -314,32 +295,51 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb39346">
+</person><person xml:id="pmb52926">
   <persName>
-      <forename>Erwin</forename>
-      <surname>Ratz</surname>
+      <forename>Edith</forename>
+      <surname>Ribbentrop</surname>
   </persName>
+  <sex value="female"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52926/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52926</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb21979">
+  <persName>
+      <forename>Otto</forename>
+      <surname>Nirenstein</surname>
+  </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Kallir</persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Nierenstein</persName>
   <birth>
-    <date when-iso="1898-12-22">22.12.1898</date>
-      <settlement key="pmb860">
-        <placeName type="pref">Graz</placeName>
-        <location><geo>47.06667 15.43333</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1973-12-12">12.12.1973</date>
+    <date when-iso="1894-04-01">01.04.1894</date>
       <settlement key="pmb50">
         <placeName type="pref">Wien</placeName>
         <location><geo>48.2066 16.37341</geo></location>
       </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1978-11-30">30.11.1978</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
   </death>
   <sex value="male"/>
-  <occupation key="158">Wissenschaftler/Wissenschaftlerin &gt;&gt; Musikwissenschaftler/Musikwissenschaftlerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39346/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39346</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb39346</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119388936</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q85241</idno>
+  <occupation key="144">Verleger/Verlegerin</occupation>
+  <occupation key="250">Galerist/Galeristin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18460</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21979</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21979</idno>
+<affiliation>
+    <term key="1409">besitzt</term>
+    <orgName key="pmb52915">Neue Galerie</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
+</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>

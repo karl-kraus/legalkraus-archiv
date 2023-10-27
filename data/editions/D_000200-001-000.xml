@@ -144,15 +144,39 @@
          <p xml:id="uuid_fd6bf459-5d24-497f-90fa-c12bf15135d3">
             <lb xml:id="uuid_c8eec7da-9cec-4731-8991-a3597b8bf00d"/>Dr. <rs ref="#pmb61874" type="person">Ortner</rs> m.p.</p>
       </body>
-   <back><listPerson><person xml:id="pmb61872">
+   <back><listOrg><org xml:id="pmb36781">
+  <orgName>Bezirksgericht Linz</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb332">Linz</placeName>
+  <geo>48.3 14.28333</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q41329</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2772395/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074255-6</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb332.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/332</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38080</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb332</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb332</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPerson><person xml:id="pmb61874">
   <persName>
       <forename>?</forename>
-      <surname>Buchinger</surname>
+      <surname>Ortner</surname>
   </persName>
   <sex value="male"/>
-  <occupation key="160">Richter/Richterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61872/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61872</idno>
+  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61874/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61874</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50858</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb36781">Bezirksgericht Linz</orgName>
@@ -177,6 +201,26 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</person><person xml:id="pmb61872">
+  <persName>
+      <forename>?</forename>
+      <surname>Buchinger</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="160">Richter/Richterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61872/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61872</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb36781">Bezirksgericht Linz</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
 </person><person xml:id="pmb51689">
   <persName>
       <forename>Franz</forename>
@@ -187,27 +231,6 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51689/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51689</idno>
   <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43554</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb61874">
-  <persName>
-      <forename>?</forename>
-      <surname>Ortner</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1591">Schriftführer/Schriftführerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61874/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb61874</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50858</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb36781">Bezirksgericht Linz</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
-</affiliation>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -278,28 +301,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb36781">
-  <orgName>Bezirksgericht Linz</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb332">Linz</placeName>
-  <geo>48.3 14.28333</geo>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q41329</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2772395/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074255-6</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb332.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/332</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38080</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb332</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb332</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36781/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36781</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36781</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q42439133</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg></back></text>
+</place></listPlace></back></text>
 </TEI>

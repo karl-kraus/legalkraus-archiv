@@ -141,19 +141,7 @@
          <p xml:id="uuid_ece405d7-4d80-4e6d-bde7-030075a10406">
             <lb xml:id="uuid_c942b3e3-2ce5-42ec-848d-55796a7afbc0"/><rs type="place" ref="#pmb50">Wien</rs>, am 5/I 1926<lb xml:id="uuid_df7555b8-1b37-4a11-8dbb-97430c1a139f"/>[<rs type="person">Unterschrift</rs>] </p>
       </body>
-   <back><listPerson><person xml:id="pmb52529">
-  <persName>
-      <forename>Johann</forename>
-      <surname>Mang</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="866">Bäcker/Bäckerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52529/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52529</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52527">
+   <back><listPerson><person xml:id="pmb52527">
   <persName>
       <forename>Leopoldine</forename>
       <surname>Stransky</surname>
@@ -161,44 +149,6 @@
   <sex value="female"/>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52527/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52527</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb37952">
-  <persName>
-      <forename>Richard</forename>
-      <surname>Weininger</surname>
-  </persName>
-  <birth>
-    <date when-iso="1887-07-27">27.07.1887</date>
-      <settlement key="pmb662">
-        <placeName type="pref">Baden bei Wien</placeName>
-        <location><geo>48.00543 16.23264</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1979-10-15">1979-10-15</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="175">Kaufmann/Kauffrau</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37952/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37952</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37952</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb52524">
-  <persName>
-      <forename>Franz</forename>
-      <surname>Stransky</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52524/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52524</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -298,6 +248,56 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb52524">
+  <persName>
+      <forename>Franz</forename>
+      <surname>Stransky</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52524/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52524</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb52529">
+  <persName>
+      <forename>Johann</forename>
+      <surname>Mang</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="866">Bäcker/Bäckerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52529/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb52529</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb37952">
+  <persName>
+      <forename>Richard</forename>
+      <surname>Weininger</surname>
+  </persName>
+  <birth>
+    <date when-iso="1887-07-27">27.07.1887</date>
+      <settlement key="pmb662">
+        <placeName type="pref">Baden bei Wien</placeName>
+        <location><geo>48.00543 16.23264</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1979-10-15">1979-10-15</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="175">Kaufmann/Kauffrau</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37952/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37952</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb37952</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb50">
   <placeName>Wien</placeName>

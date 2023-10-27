@@ -142,38 +142,96 @@
             <lb xml:id="uuid_1e437c6a-98c5-49c2-b490-2c28fb285ff5"/><note type="paratext" resp="law-firm"><rs type="work" subtype="pmb" ref="#pmb53123">Sonderausgabe</rs><lb xml:id="uuid_14c4528a-70ae-44ef-938a-cb72e569931b"/>exp. am 22.2.1929. </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb51545">
-  <persName>
-      <forename>Max</forename>
-      <surname>Babad</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51545/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51545</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49903</idno>
+   <back><listPlace><place xml:id="pmb1262">
+  <placeName>Linke Wienzeile</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Ufergasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.19885 16.36285</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb56">VI., Mariahilf</placeName>
+  <geo>48.19522 16.35032</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb65">XV., Rudolfsheim-Fünfhaus</placeName>
+  <geo>48.19625 16.32749</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1262</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1262</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb1262</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1355359</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb53090">
-  <persName>
-      <forename>?</forename>
-      <surname>[Polizeikommissär]</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="645">Polizeibeamter/Polizeibeamtin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53090/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53090</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb53089">Polizeikommissariat Prater Ausstellungsstraße</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
-</affiliation>
+</place><place xml:id="pmb53082">
+  <placeName>Blumauergasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.21868024667942 16.383962584715484</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb52">II., Leopoldstadt</placeName>
+  <geo>48.21667 16.4</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53082/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53082</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb51562">
+</place></listPlace><listBibl><bibl xml:id="lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="fackel"><title level="a">Rechenschaftsbericht</title><title level="s">Die
+                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-12-01">Anfang Dezember 1928</date><num type="volume">Jg. 30</num><num type="issue">Nr. 795–799</num><biblScope from="1" to="51">1–51</biblScope><ref target="https://fackel.oeaw.ac.at/f/795,001">121.6
+                  Ausführung der Berufung|D_000121-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.2 Privatanklage von Karl Kraus
+                  gegen Arbeiter-Zeitung (verantw. Red. Otto Leichter) wegen §§ 23, 24
+                  Pr.G.|D_000121-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,021">196.84 Äußerung des Privatklägers zum
+                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.1 Brief Samek an Arbeiter-Zeitung
+                  (verantw. Red. Otto Leichter)|D_000121-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,030">101.22 Strafanzeige gegen unbekannte
+                  Täter|D_000101-022-002.xml</ref></bibl>
+            <bibl xml:id="lk_fackel__161" corresp="https://fackel.oeaw.ac.at/f/795,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-12-01">Anfang Dezember 1928</date><num type="volume">Jg.
+                  30</num><num type="issue">Nr. 795–799</num><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.58 Brief RA Willy Katz an Verlag
+                  Die Fackel|D_000112-058-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">196.83 Brief Samek an RA Felix
+                  Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">101.22 Strafanzeige gegen unbekannte Täter|D_000101-022-002.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">196.84 Äußerung des Privatklägers zum
+                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.19 Schriftsatz in Sachen Kraus
+                  ./. Wolff (RA Otto Landsberg an das Amtsgericht Berlin-Mitte, G.Z. 149 B
+                  709/28)|D_000112-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.59 Brief Samek an RA Willy
+                  Katz|D_000112-059-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
+                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.81 Urteil des Landgerichts I
+                  Berlin (G.Z. 10. P. 299./29., Vorsitz: […]
+               Paulus)|D_000112-081-000.xml</ref></bibl>
+            <bibl xml:id="pmb53123">
+  <title type="main">Sonderausgabe der Fackel, Nr. 1 (= Schoberlied)</title>
+  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
+<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53123/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53123</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listPerson><person xml:id="pmb51562">
   <persName>
       <forename>Max</forename>
       <surname>Blatt</surname>
@@ -283,7 +341,78 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb36840">
+</person><person xml:id="pmb53090">
+  <persName>
+      <forename>?</forename>
+      <surname>[Polizeikommissär]</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="645">Polizeibeamter/Polizeibeamtin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53090/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53090</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb53089">Polizeikommissariat Prater Ausstellungsstraße</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51545">
+  <persName>
+      <forename>Max</forename>
+      <surname>Babad</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51545/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51545</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp49903</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb37531">
+  <orgName>Die Rote Hilfe (Wien)</orgName>
+  <desc type="entity_type">Hilfsorganisation</desc>
+  <desc type="entity_type_id">1417</desc>
+<location type="located_in_place">
+  <placeName key="pmb58">VIII., Josefstadt</placeName>
+  <geo>48.21126 16.34706</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53130">Lerchengasse</placeName>
+  <geo>48.208909751033225 16.345719540574123</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53130/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53130</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37531/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37531</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37531</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q18627382</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb53089">
+  <orgName>Polizeikommissariat Prater Ausstellungsstraße</orgName>
+  <desc type="entity_type">Polizeibehörde</desc>
+  <desc type="entity_type_id">1240</desc>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org><org xml:id="pmb36840">
   <orgName>Landesgericht für Strafsachen (Staatsanwaltschaft)</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
@@ -325,134 +454,5 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="pmb53089">
-  <orgName>Polizeikommissariat Prater Ausstellungsstraße</orgName>
-  <desc type="entity_type">Polizeibehörde</desc>
-  <desc type="entity_type_id">1240</desc>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53089/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53089</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org><org xml:id="pmb37531">
-  <orgName>Die Rote Hilfe (Wien)</orgName>
-  <desc type="entity_type">Hilfsorganisation</desc>
-  <desc type="entity_type_id">1417</desc>
-<location type="located_in_place">
-  <placeName key="pmb58">VIII., Josefstadt</placeName>
-  <geo>48.21126 16.34706</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775027/</note>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15566/</note>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108158-4</note>
-  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15566</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb58</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q256778</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53130">Lerchengasse</placeName>
-  <geo>48.208909751033225 16.345719540574123</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53130/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53130</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37531/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37531</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37531</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q18627382</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listBibl><bibl xml:id="lk_fackel__162" corresp="https://fackel.oeaw.ac.at/f/795,001" type="fackel"><title level="a">Rechenschaftsbericht</title><title level="s">Die
-                  Fackel</title><author key="pmb11988">Karl Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-12-01">Anfang Dezember 1928</date><num type="volume">Jg. 30</num><num type="issue">Nr. 795–799</num><biblScope from="1" to="51">1–51</biblScope><ref target="https://fackel.oeaw.ac.at/f/795,001">121.6
-                  Ausführung der Berufung|D_000121-006-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.2 Privatanklage von Karl Kraus
-                  gegen Arbeiter-Zeitung (verantw. Red. Otto Leichter) wegen §§ 23, 24
-                  Pr.G.|D_000121-002-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
-                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,021">196.84 Äußerung des Privatklägers zum
-                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,001">121.1 Brief Samek an Arbeiter-Zeitung
-                  (verantw. Red. Otto Leichter)|D_000121-001-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,030">101.22 Strafanzeige gegen unbekannte
-                  Täter|D_000101-022-002.xml</ref></bibl>
-            <bibl xml:id="lk_fackel__161" corresp="https://fackel.oeaw.ac.at/f/795,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
-                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1928-12-01">Anfang Dezember 1928</date><num type="volume">Jg.
-                  30</num><num type="issue">Nr. 795–799</num><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.58 Brief RA Willy Katz an Verlag
-                  Die Fackel|D_000112-058-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">196.83 Brief Samek an RA Felix
-                  Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">101.22 Strafanzeige gegen unbekannte Täter|D_000101-022-002.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">196.84 Äußerung des Privatklägers zum
-                  Schriftsatz der Angeklagten vom 18. Februar 1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.19 Schriftsatz in Sachen Kraus
-                  ./. Wolff (RA Otto Landsberg an das Amtsgericht Berlin-Mitte, G.Z. 149 B
-                  709/28)|D_000112-019-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.59 Brief Samek an RA Willy
-                  Katz|D_000112-059-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">134.22 Schriftsatz zur Vorbereitung der Hauptverhandlung (Samek an das
-                  Strafbezirksgericht I Wien, G.Z. 4 U 1095/29)|D_000134-022-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/795,0u1">112.81 Urteil des Landgerichts I
-                  Berlin (G.Z. 10. P. 299./29., Vorsitz: […]
-               Paulus)|D_000112-081-000.xml</ref></bibl>
-            <bibl xml:id="pmb53123">
-  <title type="main">Sonderausgabe der Fackel, Nr. 1 (= Schoberlied)</title>
-  <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
-<date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53123/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb53123</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listPlace><place xml:id="pmb53082">
-  <placeName>Blumauergasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.21868024667942 16.383962584715484</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb52">II., Leopoldstadt</placeName>
-  <geo>48.21667 16.4</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53082/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53082</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb1262">
-  <placeName>Linke Wienzeile</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Ufergasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.19885 16.36285</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb56">VI., Mariahilf</placeName>
-  <geo>48.19522 16.35032</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb65">XV., Rudolfsheim-Fünfhaus</placeName>
-  <geo>48.19625 16.32749</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1262</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1262</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb1262</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1355359</idno>
-<listBibl>
-    <bibl type="collections" n="1">ASBW</bibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place></listPlace></back></text>
+</org></listOrg></back></text>
 </TEI>

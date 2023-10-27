@@ -196,33 +196,33 @@
             <lb xml:id="uuid_c1576a6a-64ca-4ab2-b2e1-ee7ab6087557"/>Hochachtungsvoll<lb xml:id="uuid_94ef6715-da67-4556-91df-780f9de60960"/>gez. <rs ref="#pmb43675" type="person">Otto Schabbel</rs>.
             </p>
       </body>
-   <back><listPerson><person xml:id="pmb38360">
+   <back><listPerson><person xml:id="pmb43675">
   <persName>
-      <forename>Hermann</forename>
-      <surname>Hartmeyer</surname>
+      <forename>Otto</forename>
+      <surname>Schabbel</surname>
   </persName>
-  <persName type="person_geburtsname-vorname">Hermann Alfred Viktor</persName>
   <birth>
-    <date when-iso="1875-08-26">26.08.1875</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
+    <date when-iso="1888-04-06">06.04.1888</date>
+      <settlement key="pmb56120">
+        <placeName type="pref">Rostock</placeName>
+        <location><geo>54.0887 12.14049</geo></location>
       </settlement>
   </birth>  
-  <death>
-    <date when-iso="1965-06-23">23.06.1965</date>
-      <settlement key="pmb506">
-        <placeName type="pref">Hamburg</placeName>
-        <location><geo>53.57532 10.01534</geo></location>
-      </settlement>
-  </death>
   <sex value="male"/>
-  <occupation key="600">Zeitungsverleger/Zeitungsverlegerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38360/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38360</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38360</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1047031434</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q47004914</idno>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43675/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43675</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43675</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
+</affiliation>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb37346">Hamburger Nachrichten</orgName>
@@ -230,6 +230,55 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
     <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36828">Landgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb55848">
+  <persName>
+      <forename>Egon Erich</forename>
+      <surname>Albrecht</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1316">Autor/Autorin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55848/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55848</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb37346">Hamburger Nachrichten</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb51612">
+  <persName>
+      <forename>E.</forename>
+      <surname>Lion</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51612/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51612</idno>
+<affiliation>
+    <term key="1153">in Bezug zu</term>
+    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
 </affiliation>
 <affiliation>
     <term key="1153">in Bezug zu</term>
@@ -339,82 +388,33 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb51612">
+</person><person xml:id="pmb38360">
   <persName>
-      <forename>E.</forename>
-      <surname>Lion</surname>
+      <forename>Hermann</forename>
+      <surname>Hartmeyer</surname>
   </persName>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51612/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51612</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36828">Landgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb55848">
-  <persName>
-      <forename>Egon Erich</forename>
-      <surname>Albrecht</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1316">Autor/Autorin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55848/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb55848</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb37346">Hamburger Nachrichten</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37346/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37346</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37346</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15819118</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb43675">
-  <persName>
-      <forename>Otto</forename>
-      <surname>Schabbel</surname>
-  </persName>
+  <persName type="person_geburtsname-vorname">Hermann Alfred Viktor</persName>
   <birth>
-    <date when-iso="1888-04-06">06.04.1888</date>
-      <settlement key="pmb56120">
-        <placeName type="pref">Rostock</placeName>
-        <location><geo>54.0887 12.14049</geo></location>
+    <date when-iso="1875-08-26">26.08.1875</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
       </settlement>
   </birth>  
+  <death>
+    <date when-iso="1965-06-23">23.06.1965</date>
+      <settlement key="pmb506">
+        <placeName type="pref">Hamburg</placeName>
+        <location><geo>53.57532 10.01534</geo></location>
+      </settlement>
+  </death>
   <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="100">Kritiker/Kritikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43675/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43675</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb43675</idno>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
-</affiliation>
+  <occupation key="600">Zeitungsverleger/Zeitungsverlegerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38360/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38360</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38360</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1047031434</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q47004914</idno>
 <affiliation>
     <term key="1182">arbeitet für</term>
     <orgName key="pmb37346">Hamburger Nachrichten</orgName>
@@ -434,7 +434,18 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listPlace><place xml:id="pmb506">
+</person></listPerson><listBibl><bibl xml:id="pmb55886">
+  <title type="main">Karl Kraus: „Die Unüberwindlichen“</title>
+  <title type="werk_bibliografische-angabe">Karl Kraus: „Die Unüberwindlichen“, in: Hamburger Nachrichten, 8.5.1929</title>
+  <author key="person__55848" role="hat-geschaffen">Albrecht, Egon Erich</author>
+<date>1929-05-08  – 1929-05-08</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55886/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55886</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Zeitungsbericht</note>
+</bibl></listBibl><listPlace><place xml:id="pmb506">
   <placeName>Hamburg</placeName>
   <placeName type="legacy-name-merge">Hamburg</placeName>
   <placeName type="alternative-name">Hamburg</placeName>
@@ -464,18 +475,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb55886">
-  <title type="main">Karl Kraus: „Die Unüberwindlichen“</title>
-  <title type="werk_bibliografische-angabe">Karl Kraus: „Die Unüberwindlichen“, in: Hamburger Nachrichten, 8.5.1929</title>
-  <author key="person__55848" role="hat-geschaffen">Albrecht, Egon Erich</author>
-<date>1929-05-08  – 1929-05-08</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55886/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55886</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Zeitungsbericht</note>
-</bibl></listBibl><listOrg><org xml:id="pmb63923">
+</place></listPlace><listOrg><org xml:id="pmb63923">
   <orgName>Verlag der Hamburger Nachrichten</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>

@@ -144,34 +144,18 @@
                     hochachtung<lb xml:id="uuid_0a5fa4f7-38ca-470d-9828-6db3a2974eee"/><rs ref="#pmb38784" type="person">Schulz-Dornburg</rs>
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb49970">
-  <placeName>Essen</placeName>
-  <placeName type="alternative-name">Stadt Essen</placeName>
-  <placeName type="alternative-name">Essen</placeName>
-  <placeName type="alternative-name">Essen</placeName>
-  <placeName type="legacy-name-merge">Essen</placeName>
-  <placeName type="legacy-name-merge">Essen</placeName>
-  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA3</desc>
-  <desc type="entity_type_id">1410</desc>
-<location type="coords">
-  <geo>51.45657 7.01228</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb151">Deutschland</placeName>
-  <geo>51.5 10.5</geo>
-</location>
-  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7809/</idno>
-  <idno type="URL" subtype="geonames">http://sws.geonames.org/6553024/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7809</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40267</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49970/</idno>
-  <idno type="URL" subtype="geonames">https://sws.geonames.org/2928810/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49970</idno>
-<listBibl>
-    <bibl type="collections" n="2">Erster Import</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb51">
+   <back><listBibl><bibl xml:id="pmb55390">
+  <title type="main">Madame l’archiduc</title>
+  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
+<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
+</bibl></listBibl><listPlace><place xml:id="pmb51">
   <placeName>I., Innere Stadt</placeName>
   <placeName type="alternative-name">Inner city</placeName>
   <placeName type="alternative-name">Wien,Innere Stadt</placeName>
@@ -205,18 +189,34 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb55390">
-  <title type="main">Madame l’archiduc</title>
-  <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
-  <author key="person__11988" role="hat-ubersetzt">Kraus, Karl</author>
-<date notBefore-iso="1874-01-01" when-iso="1874-07-02">1874</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55390/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb55390</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Musikstück &gt;&gt; Operette</note>
-</bibl></listBibl><listPerson><person xml:id="pmb38784">
+</place><place xml:id="pmb49970">
+  <placeName>Essen</placeName>
+  <placeName type="alternative-name">Stadt Essen</placeName>
+  <placeName type="alternative-name">Essen</placeName>
+  <placeName type="alternative-name">Essen</placeName>
+  <placeName type="legacy-name-merge">Essen</placeName>
+  <placeName type="legacy-name-merge">Essen</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA3</desc>
+  <desc type="entity_type_id">1410</desc>
+<location type="coords">
+  <geo>51.45657 7.01228</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb151">Deutschland</placeName>
+  <geo>51.5 10.5</geo>
+</location>
+  <idno type="URL" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7809/</idno>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/6553024/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7809</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40267</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/49970/</idno>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2928810/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb49970</idno>
+<listBibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb38784">
   <persName>
       <forename>Rudolf</forename>
       <surname>Schulz-Dornburg</surname>

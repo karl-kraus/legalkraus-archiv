@@ -218,7 +218,24 @@
             <lb xml:id="uuid_9cfde629-29dd-4344-a23a-f1f235d25e7a"/><note type="paratext" resp="law-firm"><rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="institution" ref="#pmb29644">Arb.Ztg.</rs>
                <lb xml:id="uuid_1103930e-a04b-4d5d-bd05-9840f4e8fc31"/>12. JUNI 1936</note></p>
       </body>
-   <back><listPlace><place xml:id="pmb833">
+   <back><listPlace><place xml:id="pmb60487">
+  <placeName>Solnoúřední</placeName>
+  <placeName type="ort_fruherer_name">Salzamtsgasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>49.1964063 16.6044621</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb833">Brünn</placeName>
+  <geo>49.19522 16.60796</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60487/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb60487</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb833">
   <placeName>Brünn</placeName>
   <placeName type="alternative-name">Brunna</placeName>
   <placeName type="legacy-name-merge">Brünn</placeName>
@@ -258,24 +275,19 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb60487">
-  <placeName>Solnoúřední</placeName>
-  <placeName type="ort_fruherer_name">Salzamtsgasse</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>49.1964063 16.6044621</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb833">Brünn</placeName>
-  <geo>49.19522 16.60796</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60487/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb60487</idno>
+</place></listPlace><listPerson><person xml:id="pmb59206">
+  <persName>
+      <forename>Bohuslav</forename>
+      <surname>Ečer</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59206/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb59206</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb43653">
+</person><person xml:id="pmb43653">
   <persName>
       <forename>Josef</forename>
       <surname>Schramek</surname>
@@ -326,34 +338,6 @@
   <occupation key="1639">Jurist/Juristin</occupation>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60485/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb60485</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb25105">
-  <persName>
-      <forename>Hugo</forename>
-      <surname>Sonnenschein</surname>
-  </persName>
-  <persName type="person_namensvariante_nachname-komma-vorname">Sonka</persName>
-  <birth>
-    <date when-iso="1889-05-25">25.05.1889</date>
-      <settlement key="pmb60154">
-        <placeName type="pref">Kyjov</placeName>
-        <location><geo>49.01018 17.12253</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1953-07-20">20.07.1953</date>
-      <settlement key="pmb37757">
-        <placeName type="pref">Mírov</placeName>
-        <location><geo>49.7981 16.84748</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20202</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25105</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb25105</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -454,70 +438,35 @@
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person><person xml:id="pmb59206">
+</person><person xml:id="pmb25105">
   <persName>
-      <forename>Bohuslav</forename>
-      <surname>Ečer</surname>
+      <forename>Hugo</forename>
+      <surname>Sonnenschein</surname>
   </persName>
+  <persName type="person_namensvariante_nachname-komma-vorname">Sonka</persName>
+  <birth>
+    <date when-iso="1889-05-25">25.05.1889</date>
+      <settlement key="pmb60154">
+        <placeName type="pref">Kyjov</placeName>
+        <location><geo>49.01018 17.12253</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1953-07-20">20.07.1953</date>
+      <settlement key="pmb37757">
+        <placeName type="pref">Mírov</placeName>
+        <location><geo>49.7981 16.84748</geo></location>
+      </settlement>
+  </death>
   <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59206/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb59206</idno>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20202</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25105</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb25105</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson><listBibl><bibl xml:id="pmb58916">
-  <title type="main">Zeitgeister</title>
-  <title type="werk_bibliografische-angabe">Zeitgeister, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 7</title>
-  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=7&amp;zoom=33</title>
-  <author key="person__25105" role="hat-geschaffen">Sonnenschein, Hugo</author>
-<date>1934-09-15  – 1934-09-15</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58916/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58916</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Gedicht</note>
-</bibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="lk_fackel__198" corresp="https://fackel.oeaw.ac.at/f/912,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
-                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1935-08-31">Ende August 1935</date><num type="volume">Jg. 37</num><num type="issue">Nr. 912–915</num><ref target="https://fackel.oeaw.ac.at/f/912,0u1">193.80 Brief Samek an RA Johann Turnovsky|D_000193-080-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.147 Brief RA Felix Gallia an
-                  Samek|D_000196-147-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.146 Brief Samek an RA Felix Gallia|D_000196-146-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.58 Brief RA Felix Gallia an
-                  Samek|D_000196-058-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.145 Berufung [Übersetzung] von Hugo
-                  Sonnenschein|D_000196-145-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.124 Brief Samek an RA Felix
-                  Gallia|D_000196-124-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.108 Übersetzung. Die Beklagten treten den Wahrheitsbeweis resp. den Beweis
-                  des entschuldbaren Irrtums an (G.Z. T IV 1135/36)|D_000196-108-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.75 Brief RA Felix Gallia an
-                  Samek|D_000196-075-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.148 Urteil [Übersetzung] des Strafkreisgerichts Brünn (G.Z. T IV 1135/36 bzw.
-                  To 24/37-21, Richter: Jaroslav Racek)|D_000196-148-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">195.45 Übersetzung des am 1936 bei
-                  Gericht eingelangten Beweisantrages des Friedrich Bill in der Strafsache Tk
-                  9179/34|D_000195-045-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.138 Brief RA Felix Gallia an
-                  Samek|D_000196-138-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.84 Äußerung des Privatklägers zum Schriftsatz der Angeklagten vom 18. Februar
-                  1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.94 Brief Samek an RA Felix Gallia|D_000196-094-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">193.82 Brief Samek an RA Johann
-                  Turnovsky|D_000193-082-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.83 Brief Samek an RA Felix
-                  Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.99 Brief Samek an Heinrich Fischer|D_000196-099-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.90 Protokoll der
-                  Zeugeneinvernahme von Karl Kraus|D_000196-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.61 Übersetzung der Durchführung
-                  des Wahrheitsbeweises resp. des entschuldbaren Irrtums von Josef Schramek und Hugo
-                  Sonnenschein|D_000196-061-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.142 Urteil [Übersetzung] des
-                  Strafbezirksgerichts Brünn (G.Z. T IV 1135/36, Richter: Wilhelm
-                  Prokop)|D_000196-142-000.xml</ref></bibl>
-            </listBibl><listOrg><org xml:id="pmb29644">
+</person></listPerson><listOrg><org xml:id="pmb29644">
   <orgName>Arbeiter-Zeitung</orgName>
   <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Brünn)</orgName>
@@ -649,5 +598,56 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org></listOrg></back></text>
+</org></listOrg><listBibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb58916">
+  <title type="main">Zeitgeister</title>
+  <title type="werk_bibliografische-angabe">Zeitgeister, in: Arbeiter-Zeitung, Nr. 30, 15.9.1934, S. 7</title>
+  <title type="werk_link-anno">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19340915&amp;seite=7&amp;zoom=33</title>
+  <author key="person__25105" role="hat-geschaffen">Sonnenschein, Hugo</author>
+<date>1934-09-15  – 1934-09-15</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58916/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb58916</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Gedicht</note>
+</bibl><bibl xml:id="lk_fackel__198" corresp="https://fackel.oeaw.ac.at/f/912,0u1" type="fackel"><title level="s">Die Fackel</title><author key="pmb11988">Karl
+                  Kraus</author><editor key="pmb11988">Karl Kraus</editor><date when-iso="1935-08-31">Ende August 1935</date><num type="volume">Jg. 37</num><num type="issue">Nr. 912–915</num><ref target="https://fackel.oeaw.ac.at/f/912,0u1">193.80 Brief Samek an RA Johann Turnovsky|D_000193-080-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.147 Brief RA Felix Gallia an
+                  Samek|D_000196-147-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.146 Brief Samek an RA Felix Gallia|D_000196-146-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.58 Brief RA Felix Gallia an
+                  Samek|D_000196-058-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.145 Berufung [Übersetzung] von Hugo
+                  Sonnenschein|D_000196-145-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.124 Brief Samek an RA Felix
+                  Gallia|D_000196-124-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.108 Übersetzung. Die Beklagten treten den Wahrheitsbeweis resp. den Beweis
+                  des entschuldbaren Irrtums an (G.Z. T IV 1135/36)|D_000196-108-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.75 Brief RA Felix Gallia an
+                  Samek|D_000196-075-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.148 Urteil [Übersetzung] des Strafkreisgerichts Brünn (G.Z. T IV 1135/36 bzw.
+                  To 24/37-21, Richter: Jaroslav Racek)|D_000196-148-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">195.45 Übersetzung des am 1936 bei
+                  Gericht eingelangten Beweisantrages des Friedrich Bill in der Strafsache Tk
+                  9179/34|D_000195-045-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.138 Brief RA Felix Gallia an
+                  Samek|D_000196-138-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.84 Äußerung des Privatklägers zum Schriftsatz der Angeklagten vom 18. Februar
+                  1936|D_000196-084-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.94 Brief Samek an RA Felix Gallia|D_000196-094-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">193.82 Brief Samek an RA Johann
+                  Turnovsky|D_000193-082-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.83 Brief Samek an RA Felix
+                  Gallia|D_000196-083-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.99 Brief Samek an Heinrich Fischer|D_000196-099-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.90 Protokoll der
+                  Zeugeneinvernahme von Karl Kraus|D_000196-090-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.61 Übersetzung der Durchführung
+                  des Wahrheitsbeweises resp. des entschuldbaren Irrtums von Josef Schramek und Hugo
+                  Sonnenschein|D_000196-061-000.xml</ref><ref target="https://fackel.oeaw.ac.at/f/912,0u1">196.142 Urteil [Übersetzung] des
+                  Strafbezirksgerichts Brünn (G.Z. T IV 1135/36, Richter: Wilhelm
+                  Prokop)|D_000196-142-000.xml</ref></bibl>
+            </listBibl></back></text>
 </TEI>

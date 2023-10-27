@@ -150,51 +150,37 @@
             <lb xml:id="uuid_d3ae03ee-b22b-449b-8595-c1034a837529"/>Mit vorzüglicher
                     Hochachtung,<lb xml:id="uuid_c983a62a-67dc-48e5-80f8-942f96314922"/>ergebenst<lb xml:id="uuid_58fd2819-a1a3-4a76-b568-fda80199956d"/><rs type="person" ref="#pmb62881">Dr. Schönberg</rs> m.p.<lb xml:id="uuid_aec43e41-c02c-4bce-aec7-227d11dcdcb7"/>Rechtsanwalt. </p>
       </body>
-   <back><listPerson><person xml:id="pmb62881">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Schönberg</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="94">Notar/Notarin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62881/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb62881</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41345</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38973">
-  <persName>
-      <forename>Else</forename>
-      <surname>Lasker-Schüler</surname>
-  </persName>
-  <birth>
-    <date when-iso="1869-02-11">11.02.1869</date>
-      <settlement key="pmb903">
-        <placeName type="pref">Elberfeld</placeName>
-        <location><geo>51.25083 7.14816</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1945-01-22">22.01.1945</date>
-      <settlement key="pmb5297">
-        <placeName type="pref">Jerusalem</placeName>
-        <location><geo>31.76904 35.21633</geo></location>
-      </settlement>
-  </death>
-  <sex value="female"/>
-  <occupation key="370">Dichter/Dichterin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38973/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38973</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38973</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42561</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118569880</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58033</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listOrg><org xml:id="pmb55522">
+   <back><listBibl><bibl xml:id="pmb63515">
+  <title type="main">Die Wupper</title>
+  <author key="person__38973" role="hat-geschaffen">Lasker-Schüler, Else</author>
+<date notBefore-iso="1909-01-01" when-iso="1909-07-02">1909</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63515/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63515</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1217638</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Drama</note>
+</bibl><bibl xml:id="pmb41244">
+  <title type="main">Die Fackel</title>
+  <title type="werk_link">https://fackel.oeaw.ac.at</title>
+  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
+  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
+  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
+  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
+  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
+<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
+<note type="collections">
+  <bibl type="collections" n="3">Manuell angelegt</bibl>
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl></listBibl><listOrg><org xml:id="pmb55522">
   <orgName>Schauspielhaus Berlin</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -296,37 +282,7 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listBibl><bibl xml:id="pmb41244">
-  <title type="main">Die Fackel</title>
-  <title type="werk_link">https://fackel.oeaw.ac.at</title>
-  <author key="person__11988" role="hat-herausgegeben">Kraus, Karl</author>
-  <author key="person__10364" role="hat-einen-beitrag-geschaffen-zu">Viertel, Berthold</author>
-  <author key="person__11230" role="hat-einen-beitrag-geschaffen-zu">Ehrenstein, Albert</author>
-  <author key="person__12438" role="hat-einen-beitrag-geschaffen-zu">Adam, Robert</author>
-  <author key="person__10574" role="hat-einen-beitrag-geschaffen-zu">Wittels, Fritz</author>
-<date from-iso="1899-01-01" to-iso="1899-12-31">1899  – 1936</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41244/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41244</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41244</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41244.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb41244</idno>
-<note type="collections">
-  <bibl type="collections" n="3">Manuell angelegt</bibl>
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl><bibl xml:id="pmb63515">
-  <title type="main">Die Wupper</title>
-  <author key="person__38973" role="hat-geschaffen">Lasker-Schüler, Else</author>
-<date notBefore-iso="1909-01-01" when-iso="1909-07-02">1909</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63515/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb63515</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1217638</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Drama</note>
-</bibl></listBibl><listPlace><place xml:id="pmb168">
+</org></listOrg><listPlace><place xml:id="pmb168">
   <placeName>Berlin</placeName>
   <placeName type="alternative-name">Berlin</placeName>
   <placeName type="legacy-name-merge">Berlin</placeName>
@@ -401,5 +357,49 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace></back></text>
+</place></listPlace><listPerson><person xml:id="pmb62881">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Schönberg</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="94">Notar/Notarin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62881/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb62881</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41345</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38973">
+  <persName>
+      <forename>Else</forename>
+      <surname>Lasker-Schüler</surname>
+  </persName>
+  <birth>
+    <date when-iso="1869-02-11">11.02.1869</date>
+      <settlement key="pmb903">
+        <placeName type="pref">Elberfeld</placeName>
+        <location><geo>51.25083 7.14816</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-01-22">22.01.1945</date>
+      <settlement key="pmb5297">
+        <placeName type="pref">Jerusalem</placeName>
+        <location><geo>31.76904 35.21633</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="370">Dichter/Dichterin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38973/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38973</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38973</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp42561</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118569880</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58033</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson></back></text>
 </TEI>

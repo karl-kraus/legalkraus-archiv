@@ -138,7 +138,24 @@
          <p xml:id="uuid_a1eaebce-f30b-484a-862c-2068d945ed46"><lb xml:id="uuid_17b8b612-5715-4a74-bcd0-8cd421df3b75"/><rs ref="#pmb39640" type="place">Kassel</rs>, den 10. November 1929 <rs ref="#pmb43645" type="person">Hanna Schwarz</rs> m.p.
          </p>
       </body>
-   <back><listPlace><place xml:id="pmb564">
+   <back><listOrg><org xml:id="pmb57911">
+  <orgName>Staatliches Theater (Kassel)</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="pmb39640">Kassel</placeName>
+  <geo>51.31667 9.5</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2892518/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39640</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb39640</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb39640.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57911/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57911</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg><listPlace><place xml:id="pmb564">
   <placeName>Eschenbachgasse</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
@@ -432,24 +449,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
 </listBibl>
-</person></listPerson><listOrg><org xml:id="pmb57911">
-  <orgName>Staatliches Theater (Kassel)</orgName>
-  <desc type="entity_type">Theater</desc>
-  <desc type="entity_type_id">1012</desc>
-<location type="located_in_place">
-  <placeName key="pmb39640">Kassel</placeName>
-  <geo>51.31667 9.5</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2892518/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39640</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb39640</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb39640.html</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57911/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb57911</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listBibl><bibl xml:id="pmb54326">
+</person></listPerson><listBibl><bibl xml:id="pmb54326">
   <title type="main">Blaubart</title>
   <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
 <date when-iso="1866-02-05">1866-02-05</date>

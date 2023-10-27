@@ -150,7 +150,40 @@
          <p xml:id="uuid_6e744b66-6719-4eba-be61-5e4a3710fa17">
             <lb xml:id="uuid_89d837f7-d679-4e70-88fe-3b888cdfffdc"/>rek. </p>
       </body>
-   <back><listOrg><org xml:id="pmb34987">
+   <back><listPerson><person xml:id="pmb38915">
+  <persName>
+      <forename>Arthur</forename>
+      <surname>Sakheim</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-10-27">27.10.1889</date>
+      <settlement key="pmb53834">
+        <placeName type="pref">Liepāja</placeName>
+        <location><geo>56.50474 21.01085</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1931-08-23">23.08.1931</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38915/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38915</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38915</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38499</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116762578</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q711316</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb34987">
   <orgName>Frankfurter Städtisches Schauspielhaus</orgName>
   <orgName type="alternative-name">Schauspielhaus (Frankfurt, Main, Frankfurter Schauspielhaus)</orgName>
   <desc type="entity_type">Theater</desc>
@@ -242,40 +275,7 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listPerson><person xml:id="pmb38915">
-  <persName>
-      <forename>Arthur</forename>
-      <surname>Sakheim</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-10-27">27.10.1889</date>
-      <settlement key="pmb53834">
-        <placeName type="pref">Liepāja</placeName>
-        <location><geo>56.50474 21.01085</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1931-08-23">23.08.1931</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38915/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38915</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38915</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38499</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116762578</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q711316</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb146">
+</org></listOrg><listPlace><place xml:id="pmb146">
   <placeName>Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt am Main</placeName>
   <placeName type="legacy-name-merge">Frankfurt/M.?</placeName>

@@ -143,7 +143,35 @@
             <lb xml:id="uuid_21b7f5af-8583-482f-9acd-9ff16947796a"/><note type="paratext" resp="law-firm">Betr. <rs type="person" ref="#pmb11988">Kraus</rs> – <rs type="work" ref="#pmb60281" subtype="pmb">Altenberg-Auswahl</rs>
                <lb xml:id="uuid_56bde990-8760-4321-936f-e087c5166f58"/>exp. 28.7.1931.</note></p>
       </body>
-   <back><listPerson><person xml:id="pmb38909">
+   <back><listPerson><person xml:id="pmb16488">
+  <persName>
+      <forename>Richard Otto</forename>
+      <surname>Frankfurter</surname>
+  </persName>
+  <birth>
+    <date when-iso="1873-12-12">12.12.1873</date>
+      <settlement key="pmb37704">
+        <placeName type="pref">Bělice</placeName>
+        <location><geo>49.76619 14.47176</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1953-02-02">02.02.1953</date>
+      <settlement key="pmb48542">
+        <placeName type="pref">Montevideo</placeName>
+        <location><geo>-34.90328 -56.18816</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15139</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16488</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16488</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38909">
   <persName>
       <forename>Oskar</forename>
       <surname>Samek</surname>
@@ -284,34 +312,6 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb16488">
-  <persName>
-      <forename>Richard Otto</forename>
-      <surname>Frankfurter</surname>
-  </persName>
-  <birth>
-    <date when-iso="1873-12-12">12.12.1873</date>
-      <settlement key="pmb37704">
-        <placeName type="pref">Bělice</placeName>
-        <location><geo>49.76619 14.47176</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1953-02-02">02.02.1953</date>
-      <settlement key="pmb48542">
-        <placeName type="pref">Montevideo</placeName>
-        <location><geo>-34.90328 -56.18816</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15139</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16488</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb16488</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb168">
   <placeName>Berlin</placeName>

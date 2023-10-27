@@ -155,7 +155,41 @@
                1927.</p>
          </note>
       </body>
-   <back><listPerson><person xml:id="pmb38141">
+   <back><listOrg><org xml:id="pmb36362">
+  <orgName>Amtsgericht Berlin-Charlottenburg</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb9925">Charlottenburg</placeName>
+  <geo>52.516667 13.3</geo>
+  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/9925/</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9925</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb9925</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57625">Amtsgerichtsplatz</placeName>
+  <geo>52.50626754760742 13.295185089111328</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57625/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57625</note>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb62140">Kantstraße</placeName>
+  <geo>52.505293 13.3319567</geo>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62140/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb62140</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36362/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36362</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36362</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480608</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1877-01-01">1877</date>
+</note>
+</org></listOrg><listPerson><person xml:id="pmb38141">
   <persName>
       <forename>Viktor</forename>
       <surname>Fraenkl</surname>
@@ -387,39 +421,5 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listOrg><org xml:id="pmb36362">
-  <orgName>Amtsgericht Berlin-Charlottenburg</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb9925">Charlottenburg</placeName>
-  <geo>52.516667 13.3</geo>
-  <note type="IDNO" subtype="pmb">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/9925/</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9925</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb9925</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb57625">Amtsgerichtsplatz</placeName>
-  <geo>52.50626754760742 13.295185089111328</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57625/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57625</note>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb62140">Kantstraße</placeName>
-  <geo>52.505293 13.3319567</geo>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62140/</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb62140</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36362/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36362</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36362</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480608</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date when-iso="1877-01-01">1877</date>
-</note>
-</org></listOrg></back></text>
+</place></listPlace></back></text>
 </TEI>

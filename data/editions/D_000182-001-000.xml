@@ -166,79 +166,7 @@
          <p xml:id="uuid_402f06b8-cb72-4284-a2c6-50ba2e8fa77c">
             <lb xml:id="uuid_ef6264a2-61a7-4ab4-ab3d-2d46914fe043"/>III. Der <rs ref="#pmb37958" type="person">Antragsgegner</rs> hat die Kosten des Verfahrens zu tragen. </p>
       </body>
-   <back><listOrg><org xml:id="pmb36761">
-  <orgName>Amtsgericht München</orgName>
-  <desc type="entity_type">Gericht</desc>
-  <desc type="entity_type_id">1037</desc>
-<location type="located_in_place">
-  <placeName key="pmb45258">München</placeName>
-  <geo>48.13743 11.57549</geo>
-  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
-  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
-  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
-  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
-  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
-  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
-  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36761/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36761</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36761</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480899</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</org></listOrg><listPlace><place xml:id="pmb88217">
-  <placeName>Bayerstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.139426529373075 11.557733898004901</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb45258">München</placeName>
-  <geo>48.13743 11.57549</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88217/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb88217</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb61378">
-  <placeName>Pettenkoferstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.1350696 11.5544387</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb45258">München</placeName>
-  <geo>48.13743 11.57549</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61378/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb61378</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb50496">
-  <placeName>Hintere Zollamtsstraße</placeName>
-  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.211869 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</place><place xml:id="pmb45258">
+   <back><listPlace><place xml:id="pmb45258">
   <placeName>München</placeName>
   <placeName type="alternative-name">München</placeName>
   <placeName type="legacy-name-merge">München?</placeName>
@@ -277,34 +205,56 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place></listPlace><listPerson><person xml:id="pmb38575">
-  <persName>
-      <forename>Willy</forename>
-      <surname>Kahn</surname>
-  </persName>
-  <birth>
-    <date when-iso="1902-03-01">01.03.1902</date>
-      <settlement key="pmb38577">
-        <placeName type="pref">Speyer</placeName>
-        <location><geo>49.32083 8.43111</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1986-06-03">03.06.1986</date>
-      <settlement key="pmb38582">
-        <placeName type="pref">Hartford</placeName>
-        <location><geo>41.76371 -72.68509</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38575/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38575</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38575</idno>
+</place><place xml:id="pmb50496">
+  <placeName>Hintere Zollamtsstraße</placeName>
+  <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.211869 16.387333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person><person xml:id="pmb38568">
+</place><place xml:id="pmb88217">
+  <placeName>Bayerstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.139426529373075 11.557733898004901</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb45258">München</placeName>
+  <geo>48.13743 11.57549</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88217/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb88217</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place><place xml:id="pmb61378">
+  <placeName>Pettenkoferstraße</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.1350696 11.5544387</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb45258">München</placeName>
+  <geo>48.13743 11.57549</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61378/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb61378</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place></listPlace><listPerson><person xml:id="pmb38568">
   <persName>
       <forename>Wilhelm Jakob</forename>
       <surname>Kahn</surname>
@@ -328,6 +278,33 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38568/</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38568</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38568</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person><person xml:id="pmb38575">
+  <persName>
+      <forename>Willy</forename>
+      <surname>Kahn</surname>
+  </persName>
+  <birth>
+    <date when-iso="1902-03-01">01.03.1902</date>
+      <settlement key="pmb38577">
+        <placeName type="pref">Speyer</placeName>
+        <location><geo>49.32083 8.43111</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1986-06-03">03.06.1986</date>
+      <settlement key="pmb38582">
+        <placeName type="pref">Hartford</placeName>
+        <location><geo>41.76371 -72.68509</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38575/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38575</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38575</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -460,5 +437,28 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</person></listPerson></back></text>
+</person></listPerson><listOrg><org xml:id="pmb36761">
+  <orgName>Amtsgericht München</orgName>
+  <desc type="entity_type">Gericht</desc>
+  <desc type="entity_type_id">1037</desc>
+<location type="located_in_place">
+  <placeName key="pmb45258">München</placeName>
+  <geo>48.13743 11.57549</geo>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4127793-4</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2867714/</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45258</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q1726</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36761/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36761</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36761</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480899</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org></listOrg></back></text>
 </TEI>

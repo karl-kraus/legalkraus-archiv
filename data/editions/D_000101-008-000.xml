@@ -155,43 +155,40 @@
          <p xml:id="uuid_f92831ae-1966-46a5-af4e-109a2d4aaf79">
             <lb xml:id="uuid_0931dd77-0b98-46d6-bbd2-56bed6310e15"/><rs ref="#pmb53130" subtype="address" type="place">Lercheng /3</rs>. </p>
       </body>
-   <back><listPerson><person xml:id="pmb51593">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Kaiser</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51593/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51593</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47556</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb53084">
-  <persName>
-      <forename>?</forename>
-      <surname>Steidt</surname>
-  </persName>
-  <sex value="male"/>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53084/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53084</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb53132">
-  <placeName>Ameisgasse</placeName>
+   <back><listPlace><place xml:id="pmb40772">
+  <placeName>Gürtel</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
 <location type="coords">
-  <geo>48.19414928322275 16.29958615767568</geo>
+  <geo>48.199167 16.338694</geo>
 </location>
 <location type="located_in_place">
-  <placeName key="pmb64">XIV., Penzing</placeName>
-  <geo>48.2 16.3</geo>
+  <placeName key="pmb50">Wien</placeName>
+  <geo>48.2066 16.37341</geo>
 </location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53132/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53132</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40772/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40772</idno>
+  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40772</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb40772</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40772.html</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
+</listBibl>
+</place><place xml:id="pmb53134">
+  <placeName>Burggasse</placeName>
+  <desc type="entity_type">Straße (K.STR)</desc>
+  <desc type="entity_type_id">26</desc>
+<location type="coords">
+  <geo>48.20445726562435 16.347500727082693</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="pmb57">VII., Neubau</placeName>
+  <geo>48.2 16.35</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53134/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53134</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -246,19 +243,19 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
-</place><place xml:id="pmb53134">
-  <placeName>Burggasse</placeName>
+</place><place xml:id="pmb53132">
+  <placeName>Ameisgasse</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
   <desc type="entity_type_id">26</desc>
 <location type="coords">
-  <geo>48.20445726562435 16.347500727082693</geo>
+  <geo>48.19414928322275 16.29958615767568</geo>
 </location>
 <location type="located_in_place">
-  <placeName key="pmb57">VII., Neubau</placeName>
-  <geo>48.2 16.35</geo>
+  <placeName key="pmb64">XIV., Penzing</placeName>
+  <geo>48.2 16.3</geo>
 </location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53134/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53134</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53132/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53132</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -278,28 +275,31 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</place><place xml:id="pmb40772">
-  <placeName>Gürtel</placeName>
-  <desc type="entity_type">Straße (K.STR)</desc>
-  <desc type="entity_type_id">26</desc>
-<location type="coords">
-  <geo>48.199167 16.338694</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb50">Wien</placeName>
-  <geo>48.2066 16.37341</geo>
-</location>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40772/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40772</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40772</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb40772</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40772.html</idno>
+</place></listPlace><listPerson><person xml:id="pmb51593">
+  <persName>
+      <forename>Karl</forename>
+      <surname>Kaiser</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="1430">Kolporteur/Kolporteurin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51593/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb51593</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47556</idno>
 <listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="9">schnitzlerplace-no-goenames</bibl>
 </listBibl>
-</place></listPlace><listBibl><bibl xml:id="pmb53123">
+</person><person xml:id="pmb53084">
+  <persName>
+      <forename>?</forename>
+      <surname>Steidt</surname>
+  </persName>
+  <sex value="male"/>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53084/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb53084</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listBibl><bibl xml:id="pmb53123">
   <title type="main">Sonderausgabe der Fackel, Nr. 1 (= Schoberlied)</title>
   <author key="person__11988" role="hat-geschaffen">Kraus, Karl</author>
 <date notBefore-iso="1928-01-01" when-iso="1928-07-01">1928</date>

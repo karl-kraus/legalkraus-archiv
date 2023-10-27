@@ -146,35 +146,32 @@
                     31.8.1928. </note>
          </p>
       </body>
-   <back><listPerson><person xml:id="pmb38637">
+   <back><listPerson><person xml:id="pmb38381">
   <persName>
       <forename>Max</forename>
-      <surname>Süssheim</surname>
+      <surname>Hirschberg</surname>
   </persName>
-  <persName type="person_geburtsname-vorname">Maximilian</persName>
-  <persName type="person_geburtsname_nachname">Süßheim</persName>
   <birth>
-    <date when-iso="1876-07-20">20.07.1876</date>
-      <settlement key="pmb44172">
-        <placeName type="pref">Nürnberg</placeName>
-        <location><geo>49.45421 11.07752</geo></location>
+    <date when-iso="1883-11-13">13.11.1883</date>
+      <settlement key="pmb45258">
+        <placeName type="pref">München</placeName>
+        <location><geo>48.13743 11.57549</geo></location>
       </settlement>
   </birth>  
   <death>
-    <date when-iso="1933-03-01">01.03.1933</date>
-      <settlement key="pmb44172">
-        <placeName type="pref">Nürnberg</placeName>
-        <location><geo>49.45421 11.07752</geo></location>
+    <date when-iso="1964-06-21">21.06.1964</date>
+      <settlement key="pmb44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40.71427 -74.00597</geo></location>
       </settlement>
   </death>
   <sex value="male"/>
   <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <occupation key="440">Sammler/Sammlerin &gt;&gt; Kunstsammler/Kunstsammlerin</occupation>
-  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38637/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38637</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38637</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/134255542</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38381/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38381</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38381</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11690657X</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q74757</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -234,35 +231,6 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55576/</idno>
     <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55576</idno>
 </affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb38381">
-  <persName>
-      <forename>Max</forename>
-      <surname>Hirschberg</surname>
-  </persName>
-  <birth>
-    <date when-iso="1883-11-13">13.11.1883</date>
-      <settlement key="pmb45258">
-        <placeName type="pref">München</placeName>
-        <location><geo>48.13743 11.57549</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1964-06-21">21.06.1964</date>
-      <settlement key="pmb44053">
-        <placeName type="pref">New York City</placeName>
-        <location><geo>40.71427 -74.00597</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38381/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38381</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38381</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11690657X</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q74757</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
@@ -362,6 +330,38 @@
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38637">
+  <persName>
+      <forename>Max</forename>
+      <surname>Süssheim</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Maximilian</persName>
+  <persName type="person_geburtsname_nachname">Süßheim</persName>
+  <birth>
+    <date when-iso="1876-07-20">20.07.1876</date>
+      <settlement key="pmb44172">
+        <placeName type="pref">Nürnberg</placeName>
+        <location><geo>49.45421 11.07752</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1933-03-01">01.03.1933</date>
+      <settlement key="pmb44172">
+        <placeName type="pref">Nürnberg</placeName>
+        <location><geo>49.45421 11.07752</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <occupation key="440">Sammler/Sammlerin &gt;&gt; Kunstsammler/Kunstsammlerin</occupation>
+  <occupation key="1299">Politiker/Politikerin &gt;&gt; Landtagsabgeordneter/Landtagsabgeordnete</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38637/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38637</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38637</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/134255542</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listPlace><place xml:id="pmb44172">
   <placeName>Nürnberg</placeName>

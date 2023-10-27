@@ -180,7 +180,17 @@
                zurück.</add>
          </p>
       </body>
-   <back><listBibl><bibl xml:id="pmb56412">
+   <back><listBibl><bibl xml:id="pmb56410">
+  <title type="main">Der Aufruf, 1.9.1934</title>
+  <title type="werk_bibliografische-angabe">Der Aufruf, Nr. 22–23, 1.9.1934</title>
+<date>1934-09-01  – 1934-09-01</date>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56410/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56410</idno>
+<note type="collections">
+  <bibl type="collections" n="5">legalkraus</bibl>
+</note>
+  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+</bibl><bibl xml:id="pmb56412">
   <title type="main">Die Fackel schwelt</title>
   <title type="werk_bibliografische-angabe">Die Fackel schwelt, in: Der Aufruf, Nr. 22–23, 1.9.1934, S. 559–567</title>
   <author key="person__43586" role="hat-geschaffen">Butschowitz, Egon</author>
@@ -191,44 +201,7 @@
   <bibl type="collections" n="5">legalkraus</bibl>
 </note>
   <note type="work_kind">Zeitungsbericht</note>
-</bibl><bibl xml:id="pmb56410">
-  <title type="main">Der Aufruf, 1.9.1934</title>
-  <title type="werk_bibliografische-angabe">Der Aufruf, Nr. 22–23, 1.9.1934</title>
-<date>1934-09-01  – 1934-09-01</date>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56410/</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb56410</idno>
-<note type="collections">
-  <bibl type="collections" n="5">legalkraus</bibl>
-</note>
-  <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
-</bibl></listBibl><listPerson><person xml:id="pmb38707">
-  <persName>
-      <forename>Ernst Rüdiger</forename>
-      <surname>Starhemberg</surname>
-  </persName>
-  <birth>
-    <date when-iso="1899-05-10">10.05.1899</date>
-      <settlement key="pmb49172">
-        <placeName type="pref">Eferding</placeName>
-        <location><geo>48.30957 14.02207</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1956-03-15">15.03.1956</date>
-      <settlement key="pmb38711">
-        <placeName type="pref">Schruns</placeName>
-        <location><geo>47.06667 9.91667</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="95">Politiker/Politikerin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38707/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38707</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38707</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person><person xml:id="pmb11988">
+</bibl></listBibl><listPerson><person xml:id="pmb11988">
   <persName>
       <forename>Karl</forename>
       <surname>Kraus</surname>
@@ -372,6 +345,33 @@
     <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
     <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
     <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38707">
+  <persName>
+      <forename>Ernst Rüdiger</forename>
+      <surname>Starhemberg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1899-05-10">10.05.1899</date>
+      <settlement key="pmb49172">
+        <placeName type="pref">Eferding</placeName>
+        <location><geo>48.30957 14.02207</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1956-03-15">15.03.1956</date>
+      <settlement key="pmb38711">
+        <placeName type="pref">Schruns</placeName>
+        <location><geo>47.06667 9.91667</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38707/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38707</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38707</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </person></listPerson><listOrg><org xml:id="pmb53005">
   <orgName>Café Imperial</orgName>

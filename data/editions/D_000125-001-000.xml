@@ -161,7 +161,76 @@
             <lb xml:id="uuid_acdc270b-3b5a-43c1-8edd-0bb749b96a9e"/><note hand="#D_000125-001-000-hand01">6. Mai<lb xml:id="uuid_d3bea28c-593b-4b2b-b418-ce51f5f1bf5b"/>nachmittag </note>
          </p>
       </body>
-   <back><listOrg><org xml:id="pmb34987">
+   <back><listPerson><person xml:id="pmb38915">
+  <persName>
+      <forename>Arthur</forename>
+      <surname>Sakheim</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-10-27">27.10.1889</date>
+      <settlement key="pmb53834">
+        <placeName type="pref">Liepāja</placeName>
+        <location><geo>56.50474 21.01085</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1931-08-23">23.08.1931</date>
+      <settlement key="pmb168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52.52437 13.41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38915/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38915</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38915</idno>
+  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38499</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116762578</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q711316</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="12">Fackel</bibl>
+</listBibl>
+</person><person xml:id="pmb38954">
+  <persName>
+      <forename>Alwin</forename>
+      <surname>Kronacher</surname>
+  </persName>
+  <persName type="person_geburtsname-vorname">Albin</persName>
+  <birth>
+    <date when-iso="1880-11-18">18.11.1880</date>
+      <settlement key="pmb49187">
+        <placeName type="pref">Bamberg</placeName>
+        <location><geo>49.89873 10.90067</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1951-01-02">02.01.1951</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38954/</idno>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38954</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38954</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116553731</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26838044</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="pmb34987">Frankfurter Städtisches Schauspielhaus</orgName>
+    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/509073-8</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34987</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34987</idno>
+    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb34987</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person></listPerson><listOrg><org xml:id="pmb34987">
   <orgName>Frankfurter Städtisches Schauspielhaus</orgName>
   <orgName type="alternative-name">Schauspielhaus (Frankfurt, Main, Frankfurter Schauspielhaus)</orgName>
   <desc type="entity_type">Theater</desc>
@@ -253,76 +322,7 @@
 <note type="apis_dates">
 <date>-  – -</date>
 </note>
-</org></listOrg><listPerson><person xml:id="pmb38915">
-  <persName>
-      <forename>Arthur</forename>
-      <surname>Sakheim</surname>
-  </persName>
-  <birth>
-    <date when-iso="1889-10-27">27.10.1889</date>
-      <settlement key="pmb53834">
-        <placeName type="pref">Liepāja</placeName>
-        <location><geo>56.50474 21.01085</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1931-08-23">23.08.1931</date>
-      <settlement key="pmb168">
-        <placeName type="pref">Berlin</placeName>
-        <location><geo>52.52437 13.41053</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38915/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38915</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38915</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38499</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116762578</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q711316</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-</person><person xml:id="pmb38954">
-  <persName>
-      <forename>Alwin</forename>
-      <surname>Kronacher</surname>
-  </persName>
-  <persName type="person_geburtsname-vorname">Albin</persName>
-  <birth>
-    <date when-iso="1880-11-18">18.11.1880</date>
-      <settlement key="pmb49187">
-        <placeName type="pref">Bamberg</placeName>
-        <location><geo>49.89873 10.90067</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1951-01-02">02.01.1951</date>
-  </death>
-  <sex value="male"/>
-  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
-  <occupation key="104">Regisseur/Regisseurin</occupation>
-  <occupation key="115">Dramaturg/Dramaturgin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38954/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38954</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb38954</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116553731</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26838044</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb34987">Frankfurter Städtisches Schauspielhaus</orgName>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/509073-8</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34987</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34987</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb34987</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-</person></listPerson><listPlace><place xml:id="pmb50496">
+</org></listOrg><listPlace><place xml:id="pmb50496">
   <placeName>Hintere Zollamtsstraße</placeName>
   <placeName type="person_namensvariante_nachname-komma-vorname">Hintere Zollamtstraße</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
